@@ -1,0 +1,797 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+  <meta charset="UTF-8">
+<meta name="viewport" content="width=device-width">
+<meta name="theme-color" content="#222">
+<meta name="generator" content="Hexo 5.4.0">
+
+
+  <link rel="apple-touch-icon" sizes="180x180" href="/images/apple-touch-icon-next.png">
+  <link rel="icon" type="image/png" sizes="32x32" href="/images/favicon-32x32.png">
+  <link rel="icon" type="image/png" sizes="16x16" href="/images/favicon-16x16.png">
+  <link rel="mask-icon" href="/images/logo.svg" color="#222">
+
+<link rel="stylesheet" href="/css/main.css">
+
+<link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Noto+Serif+SC:300,300italic,400,400italic,700,700italic%7CZCOOL+XiaoWei:300,300italic,400,400italic,700,700italic&display=swap&subset=latin,latin-ext">
+
+<link rel="stylesheet" href="/fontawesome/all.min.css">
+  <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/animate.css@3.1.1/animate.min.css" integrity="sha256-PR7ttpcvz8qrF57fur/yAx1qXMFJeJFiA6pSzWi0OIE=" crossorigin="anonymous">
+  <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@fancyapps/fancybox@3.5.7/dist/jquery.fancybox.min.css" integrity="sha256-Vzbj7sDDS/woiFS3uNKo8eIuni59rjyNGtXfstRzStA=" crossorigin="anonymous">
+  <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/pace-js@1.2.4/themes/blue/pace-theme-minimal.css">
+  <script src="https://cdn.jsdelivr.net/npm/pace-js@1.2.4/pace.min.js" integrity="sha256-gqd7YTjg/BtfqWSwsJOvndl0Bxc8gFImLEkXQT8+qj0=" crossorigin="anonymous"></script>
+
+<script class="next-config" data-name="main" type="application/json">{"hostname":"qianling.pw","root":"/","images":"/images","scheme":"Muse","darkmode":false,"version":"8.8.1","exturl":false,"sidebar":{"position":"right","display":"hide","padding":18,"offset":12},"copycode":true,"bookmark":{"enable":false,"color":"#222","save":"auto"},"mediumzoom":false,"lazyload":true,"pangu":false,"comments":{"style":"tabs","active":"valine","storage":true,"lazyload":true,"nav":null,"activeClass":"valine"},"stickytabs":false,"motion":{"enable":true,"async":false,"transition":{"post_block":"fadeIn","post_header":"fadeInDown","post_body":"none","coll_header":"fadeInLeft","sidebar":"fadeInUp"}},"prism":false,"i18n":{"placeholder":"搜索...","empty":"没有找到任何搜索结果：${query}","hits_time":"找到 ${hits} 个搜索结果（用时 ${time} 毫秒）","hits":"找到 ${hits} 个搜索结果"},"path":"/search.xml","localsearch":{"enable":true,"trigger":"auto","top_n_per_article":1,"unescape":false,"preload":true}}</script><script src="/js/config.js"></script>
+<meta property="og:type" content="article">
+<meta property="og:title" content="iOS 旧版 APP 推荐与降级方法（持续更新）">
+<meta property="og:url" content="https://qianling.pw/ios-app/index.html">
+<meta property="og:site_name" content="千灵">
+<meta property="og:locale" content="zh_CN">
+<meta property="og:image" content="https://qianling.pw/images/covers/226.jpg">
+<meta property="article:published_time" content="2021-02-18T02:59:00.000Z">
+<meta property="article:modified_time" content="2021-12-20T05:51:26.000Z">
+<meta property="article:author" content="千灵夙赋">
+<meta property="article:tag" content="iPhone">
+<meta property="article:tag" content="iOS">
+<meta name="twitter:card" content="summary">
+<meta name="twitter:image" content="https://qianling.pw/images/covers/226.jpg">
+
+
+<link rel="canonical" href="https://qianling.pw/ios-app/">
+
+
+
+<script class="next-config" data-name="page" type="application/json">{"sidebar":"","isHome":false,"isPost":true,"lang":"zh-CN","comments":true,"permalink":"https://qianling.pw/ios-app/","path":"ios-app/","title":"iOS 旧版 APP 推荐与降级方法（持续更新）"}</script>
+
+<script class="next-config" data-name="calendar" type="application/json">""</script>
+<title>iOS 旧版 APP 推荐与降级方法（持续更新） | 千灵</title>
+  
+    <script async src="https://www.googletagmanager.com/gtag/js?id=UA-141264217-1"></script>
+  <script class="next-config" data-name="google_analytics" type="application/json">{"tracking_id":"UA-141264217-1","only_pageview":false}</script>
+  <script src="/js/third-party/analytics/google-analytics.js"></script>
+
+  <script src="/js/third-party/analytics/baidu-analytics.js"></script>
+  <script async src="https://hm.baidu.com/hm.js?b95f636e57f871a4ea1faeae2b4f30e5"></script>
+
+
+
+  <noscript>
+    <link rel="stylesheet" href="/css/noscript.css">
+  </noscript>
+<link rel="alternate" href="/atom.xml" title="千灵" type="application/atom+xml">
+</head>
+
+<body itemscope itemtype="http://schema.org/WebPage" class="use-motion">
+  <div class="headband"></div>
+
+  <main class="main">
+    <header class="header" itemscope itemtype="http://schema.org/WPHeader">
+      <div class="header-inner"><div class="site-brand-container">
+  <div class="site-nav-toggle">
+    <div class="toggle" aria-label="切换导航栏" role="button">
+        <span class="toggle-line"></span>
+        <span class="toggle-line"></span>
+        <span class="toggle-line"></span>
+    </div>
+  </div>
+
+  <div class="site-meta">
+
+    <a href="/" class="brand" rel="start">
+      <i class="logo-line"></i>
+      <h1 class="site-title">千灵</h1>
+      <i class="logo-line"></i>
+    </a>
+  </div>
+
+  <div class="site-nav-right">
+    <div class="toggle popup-trigger">
+        <i class="fa fa-search fa-fw fa-lg"></i>
+    </div>
+  </div>
+</div>
+
+
+
+<nav class="site-nav">
+  <ul class="main-menu menu">
+        <li class="menu-item menu-item-home"><a href="/" rel="section"><i class="fas fa-flower fa-fw"></i>首页</a></li>
+        <li class="menu-item menu-item-categories"><a href="/categories/" rel="section"><i class="fa fa-cookie fa-fw"></i>分类</a></li>
+        <li class="menu-item menu-item-archives"><a href="/archives/" rel="section"><i class="fas fa-acorn fa-fw"></i>归档</a></li>
+        <li class="menu-item menu-item-play"><a href="/play/" rel="section"><i class="fa fa-fish fa-fw"></i>游戏</a></li>
+        <li class="menu-item menu-item-message"><a href="/message/" rel="section"><i class="fa fa-dog fa-fw"></i>留言</a></li>
+        <li class="menu-item menu-item-about"><a href="/about/" rel="section"><i class="fa fa-carrot fa-fw"></i>关于</a></li>
+      <li class="menu-item menu-item-search">
+        <a role="button" class="popup-trigger"><i class="fa fa-search fa-fw"></i>搜索
+        </a>
+      </li>
+  </ul>
+</nav>
+
+
+
+  <div class="search-pop-overlay">
+    <div class="popup search-popup"><div class="search-header">
+  <span class="search-icon">
+    <i class="fa fa-search"></i>
+  </span>
+  <div class="search-input-container">
+    <input autocomplete="off" autocapitalize="off" maxlength="80"
+           placeholder="搜索..." spellcheck="false"
+           type="search" class="search-input">
+  </div>
+  <span class="popup-btn-close" role="button">
+    <i class="fa fa-times-circle"></i>
+  </span>
+</div>
+<div class="search-result-container no-result">
+  <div class="search-result-icon">
+    <i class="fa fa-spinner fa-pulse fa-5x"></i>
+  </div>
+</div>
+
+    </div>
+  </div>
+<script src="//cdn.jsdelivr.net/npm/jquery@3/dist/jquery.min.js"></script>
+
+<div class="top-scroll-bar"></div>
+
+<!-- 点击特效 -->
+<canvas class="fireworks" id="canvas" style="position: fixed;left: 0;top: 0;z-index: 1; pointer-events: none;" ></canvas>
+<script>
+if( !/Android|webOS|iPhone|iPod|iPad|BlackBerry/i.test(navigator.userAgent)){
+  document.write('<script type="text/javascript" src="//cdn.jsdelivr.net/npm/animejs@3.1.0/lib/anime.min.js"><\/script> <script type="text/javascript" src="/js/custom/fireworks.js"><\/script>');
+}
+</script>
+
+<!-- 动态背景 -->
+<script>
+if( !/Android|webOS|iPhone|iPod|iPad|BlackBerry/i.test(navigator.userAgent)){
+  document.write('<script type="text/javascript" src="/js/custom/jquery.backstretch.min.js"><\/script>');
+}
+</script>
+<script type="text/javascript">
+  $("body").backstretch([
+    "/images/background/background (1).webp",
+    "/images/background/background (2).webp",
+    "/images/background/background (3).webp",
+    "/images/background/background (4).webp",
+    "/images/background/background (5).webp",
+    "/images/background/background (6).webp",
+    "/images/background/background (7).webp",
+    "/images/background/background (8).webp",
+  ], {duration: 60000, fade: 1000, animateFirst: true});
+</script>
+
+<!-- live2d -->
+<div id="waifu">
+  <div class="waifu-tips" style="opacity: 0;"></div>
+  <canvas id="live2d" width="280" height="250" class="live2d"></canvas>
+</div>
+<script>
+if( !/Android|webOS|iPhone|iPod|iPad|BlackBerry/i.test(navigator.userAgent)){
+  document.write('<script type="text/javascript" src="/live2d/live2d.js"><\/script> <script type="text/javascript" src="/live2d/waifu-tips.js"><\/script>');
+}
+</script>
+
+<!-- 打字礼花及震动特效 -->
+<script>
+if( !/Android|webOS|iPhone|iPod|iPad|BlackBerry/i.test(navigator.userAgent)){
+  document.write('<script type="text/javascript" src="/js/custom/activate-power-mode.js"><\/script>');
+}
+</script>
+<script>
+    POWERMODE.colorful = true; // ture 为启用礼花特效
+    POWERMODE.shake = false; // false 为禁用震动特效
+    document.body.addEventListener('input', POWERMODE);
+</script>
+
+</div>
+        
+  
+  <div class="toggle sidebar-toggle" role="button">
+    <span class="toggle-line"></span>
+    <span class="toggle-line"></span>
+    <span class="toggle-line"></span>
+  </div>
+
+  <aside class="sidebar">
+
+    <div class="sidebar-inner sidebar-nav-active sidebar-toc-active">
+      <ul class="sidebar-nav">
+        <li class="sidebar-nav-toc">
+          文章目录
+        </li>
+        <li class="sidebar-nav-overview">
+          站点概览
+        </li>
+      </ul>
+
+      <div class="sidebar-panel-container">
+        <!--noindex-->
+        <div class="post-toc-wrap sidebar-panel">
+            <div class="post-toc animated"><ol class="nav"><li class="nav-item nav-level-2"><a class="nav-link" href="#%E5%89%8D%E8%A8%80"><span class="nav-text">前言</span></a></li><li class="nav-item nav-level-2"><a class="nav-link" href="#%E7%89%88%E6%9C%AC"><span class="nav-text">版本</span></a></li><li class="nav-item nav-level-2"><a class="nav-link" href="#%E9%99%8D%E7%BA%A7"><span class="nav-text">降级</span></a><ol class="nav-child"><li class="nav-item nav-level-3"><a class="nav-link" href="#%E6%89%8B%E6%9C%BA%E7%AB%AF"><span class="nav-text">手机端</span></a><ol class="nav-child"><li class="nav-item nav-level-4"><a class="nav-link" href="#%E6%9C%AA%E8%B6%8A%E7%8B%B1"><span class="nav-text">未越狱</span></a></li><li class="nav-item nav-level-4"><a class="nav-link" href="#%E5%B7%B2%E8%B6%8A%E7%8B%B1"><span class="nav-text">已越狱</span></a></li></ol></li><li class="nav-item nav-level-3"><a class="nav-link" href="#%E7%94%B5%E8%84%91%E7%AB%AF"><span class="nav-text">电脑端</span></a></li></ol></li><li class="nav-item nav-level-2"><a class="nav-link" href="#%E5%B1%8F%E8%94%BD%E5%BA%94%E7%94%A8%E5%86%85%E6%9B%B4%E6%96%B0%E6%8F%90%E7%A4%BA"><span class="nav-text">屏蔽应用内更新提示</span></a></li><li class="nav-item nav-level-2"><a class="nav-link" href="#%E9%97%AE%E9%A2%98"><span class="nav-text">问题</span></a><ol class="nav-child"><li class="nav-item nav-level-3"><a class="nav-link" href="#%E6%98%AF%E5%90%A6%E5%BA%94%E8%AF%A5%E6%A0%B9%E6%8D%AE%E5%AE%89%E8%A3%85%E5%8C%85%E5%A4%A7%E5%B0%8F%E9%80%89%E6%8B%A9%E7%89%88%E6%9C%AC"><span class="nav-text">是否应该根据安装包大小选择版本</span></a></li><li class="nav-item nav-level-3"><a class="nav-link" href="#%E5%8F%8D%E5%A4%8D%E5%8D%B8%E8%BD%BD%E5%AE%89%E8%A3%85%E8%BD%AF%E4%BB%B6%E5%90%8E%E5%AD%98%E5%82%A8%E7%A9%BA%E9%97%B4%E5%A4%A7%E5%B9%85%E5%87%8F%E5%B0%91"><span class="nav-text">反复卸载安装软件后存储空间大幅减少</span></a></li><li class="nav-item nav-level-3"><a class="nav-link" href="#%E7%89%88%E6%9C%AC%E8%BF%87%E4%BD%8E%E6%97%A0%E6%B3%95%E7%99%BB%E5%BD%95"><span class="nav-text">版本过低无法登录</span></a></li><li class="nav-item nav-level-3"><a class="nav-link" href="#iTunes-%E7%BD%91%E7%BB%9C%E5%87%BA%E9%94%99"><span class="nav-text">iTunes 网络出错</span></a></li><li class="nav-item nav-level-3"><a class="nav-link" href="#%E5%8E%BB%E9%99%A4%E3%80%8CApp-Store-%E6%9B%B4%E6%96%B0%E6%8F%90%E7%A4%BA%E3%80%8D"><span class="nav-text">去除「App Store 更新提示」</span></a></li><li class="nav-item nav-level-3"><a class="nav-link" href="#%E5%85%B3%E9%97%AD%E8%87%AA%E5%8A%A8%E6%9B%B4%E6%96%B0"><span class="nav-text">关闭自动更新</span></a></li><li class="nav-item nav-level-3"><a class="nav-link" href="#%E5%BA%94%E7%94%A8%E4%BD%93%E7%A7%AF%E6%AF%94-App-Store-%E5%AE%89%E8%A3%85%E7%9A%84%E5%A4%A7"><span class="nav-text">应用体积比 App Store 安装的大</span></a></li><li class="nav-item nav-level-3"><a class="nav-link" href="#TIM-%E9%99%8D%E7%BA%A7%E8%87%B3%E9%A6%96%E7%89%88%EF%BC%881-0-4%EF%BC%89%E6%96%B9%E6%B3%95"><span class="nav-text">TIM 降级至首版（1.0.4）方法</span></a></li><li class="nav-item nav-level-3"><a class="nav-link" href="#%E8%B4%A1%E7%8C%AE%E7%94%A8%E6%88%B7"><span class="nav-text">贡献用户</span></a></li></ol></li></ol></div>
+        </div>
+        <!--/noindex-->
+
+        <div class="site-overview-wrap sidebar-panel">
+          <div class="site-author site-overview-item animated" itemprop="author" itemscope itemtype="http://schema.org/Person">
+    <img class="site-author-image" itemprop="image" alt="千灵夙赋"
+      src="/images/avatar.png">
+  <p class="site-author-name" itemprop="name">千灵夙赋</p>
+  <div class="site-description" itemprop="description"></div>
+</div>
+<div class="site-state-wrap site-overview-item animated">
+  <nav class="site-state">
+      <div class="site-state-item site-state-posts">
+        <a href="/archives/">
+          <span class="site-state-item-count">185</span>
+          <span class="site-state-item-name">日志</span>
+        </a>
+      </div>
+      <div class="site-state-item site-state-categories">
+          <a href="/categories/">
+        <span class="site-state-item-count">39</span>
+        <span class="site-state-item-name">分类</span></a>
+      </div>
+      <div class="site-state-item site-state-tags">
+          <a href="/tags/">
+        <span class="site-state-item-count">55</span>
+        <span class="site-state-item-name">标签</span></a>
+      </div>
+  </nav>
+</div>
+
+
+  <div class="links-of-blogroll site-overview-item animated">
+    <div class="links-of-blogroll-title"><i class="fa fa-link fa-fw"></i>
+      Friends
+    </div>
+    <ul class="links-of-blogroll-list">
+        <li class="links-of-blogroll-item">
+          <a href="https://meow3.family.blog/" title="https:&#x2F;&#x2F;meow3.family.blog&#x2F;" rel="noopener" target="_blank">恶魔菌の记事簿</a>
+        </li>
+        <li class="links-of-blogroll-item">
+          <a href="https://tding.top/" title="https:&#x2F;&#x2F;tding.top&#x2F;" rel="noopener" target="_blank">小丁的个人博客</a>
+        </li>
+        <li class="links-of-blogroll-item">
+          <a href="https://www.julydate.com/" title="https:&#x2F;&#x2F;www.julydate.com&#x2F;" rel="noopener" target="_blank">七夏浅笑</a>
+        </li>
+        <li class="links-of-blogroll-item">
+          <a href="https://raspii.tech/" title="https:&#x2F;&#x2F;raspii.tech&#x2F;" rel="noopener" target="_blank">无用挂件</a>
+        </li>
+    </ul>
+  </div>
+<div id="aplayer" class="aplayer"></div>
+<script>
+if( !/Android|webOS|iPhone|iPod|iPad|BlackBerry/i.test(navigator.userAgent)){
+  document.write('<script type="text/javascript" src="/js/custom/APlayer.min.js"><\/script>');
+}
+</script>
+<script type="text/javascript">
+var ap = new APlayer({
+    element: document.getElementById('aplayer'),                       // Optional, player element
+    narrow: false,                                                     // Optional, narrow style
+    autoplay: false,                                                    // Optional, autoplay song(s), not supported by mobile browsers
+    showlrc: 0,                                                        // Optional, show lrc, can be 0, 1, 2, see: ###With lrc
+    mutex: true,                                                       // Optional, pause other players when this player playing
+    theme: '#e6d0b2',                                                  // Optional, theme color, default: #b7daff
+    mode: 'random',                                                    // Optional, play mode, can be `random` `single` `circulation`(loop) `order`(no loop), default: `circulation`
+    preload: 'metadata',                                               // Optional, the way to load music, can be 'none' 'metadata' 'auto', default: 'auto'
+    listmaxheight: '513px',                                             // Optional, max height of play list
+    music: [{
+      title: '世末歌者',
+      author: '双笙 囧菌',
+      url: '/music/%E5%8F%8C%E7%AC%99%20%E5%9B%A7%E8%8F%8C%20-%20%E4%B8%96%E6%9C%AB%E6%AD%8C%E8%80%85.mp3',
+      pic: '/images/aplayer/双笙　囧菌 - 世末歌者.webp',
+    }, {
+      title: '幹物女(WeiWei)',
+      author: '封茗囧菌',
+      url: '/music/%E5%B0%81%E8%8C%97%E5%9B%A7%E8%8F%8C%20-%20%E5%B9%B9%E7%89%A9%E5%A5%B3(WeiWei).mp3',
+      pic: '/images/aplayer/封茗囧菌 - 幹物女(WeiWei).webp',
+    }, {
+      title: '东京不太热',
+      author: '封茗囧菌',
+      url: '/music/%E5%B0%81%E8%8C%97%E5%9B%A7%E8%8F%8C%20-%20%E4%B8%9C%E4%BA%AC%E4%B8%8D%E5%A4%AA%E7%83%AD.mp3',
+      pic: '/images/aplayer/封茗囧菌 - 东京不太热.webp',
+    }, {
+      title: '有故事的小仙女（Cover 初音ミク）',
+      author: '井宿',
+      url: '/music/%E4%BA%95%E5%AE%BF%20-%20%E6%9C%89%E6%95%85%E4%BA%8B%E7%9A%84%E5%B0%8F%E4%BB%99%E5%A5%B3%EF%BC%88Cover%20%E5%88%9D%E9%9F%B3%E3%83%9F%E3%82%AF%EF%BC%89.mp3',
+      pic: '/images/aplayer/井宿 - 有故事的小仙女（Cover 初音ミク）.webp',
+    }, {
+      title: '拼凑的断音（Cover 洛天依）',
+      author: '泡泡Hansy',
+      url: '/music/%E6%B3%A1%E6%B3%A1Hansy%20-%20%E6%8B%BC%E5%87%91%E7%9A%84%E6%96%AD%E9%9F%B3%EF%BC%88Cover%20%E6%B4%9B%E5%A4%A9%E4%BE%9D%EF%BC%89.mp3',
+      pic: '/images/aplayer/泡泡Hansy - 拼凑的断音（Cover 洛天依）.webp',
+    }]
+  });
+</script>
+
+        </div>
+      </div>
+    </div>
+  </aside>
+  <div class="sidebar-dimmer"></div>
+
+
+    </header>
+
+    
+  <div class="back-to-top" role="button" aria-label="返回顶部">
+    <i class="fa fa-chevron-up"></i>
+    <span>0%</span>
+  </div>
+
+<noscript>
+  <div class="noscript-warning">Theme NexT works best with JavaScript enabled</div>
+</noscript>
+
+
+    <div class="main-inner post posts-expand">
+
+
+  
+
+
+<div class="post-block">
+  
+  
+
+  <article itemscope itemtype="http://schema.org/Article" class="post-content" lang="zh-CN">
+    <link itemprop="mainEntityOfPage" href="https://qianling.pw/ios-app/">
+
+    <span hidden itemprop="author" itemscope itemtype="http://schema.org/Person">
+      <meta itemprop="image" content="/images/avatar.png">
+      <meta itemprop="name" content="千灵夙赋">
+      <meta itemprop="description" content="">
+    </span>
+
+    <span hidden itemprop="publisher" itemscope itemtype="http://schema.org/Organization">
+      <meta itemprop="name" content="千灵">
+    </span>
+      <header class="post-header">
+        <h1 class="post-title" itemprop="name headline">
+          iOS 旧版 APP 推荐与降级方法（持续更新）
+        </h1>
+
+        <div class="post-meta-container">
+          <div class="post-meta">
+    <span class="post-meta-item">
+      <span class="post-meta-item-icon">
+        <i class="far fa-calendar"></i>
+      </span>
+      <span class="post-meta-item-text">发表于</span>
+
+      <time title="创建时间：2021-02-18 10:59:00" itemprop="dateCreated datePublished" datetime="2021-02-18T10:59:00+08:00">2021-02-18</time>
+    </span>
+      <span class="post-meta-item">
+        <span class="post-meta-item-icon">
+          <i class="far fa-calendar-check"></i>
+        </span>
+        <span class="post-meta-item-text">更新于</span>
+        <time title="修改时间：2021-12-20 13:51:26" itemprop="dateModified" datetime="2021-12-20T13:51:26+08:00">2021-12-20</time>
+      </span>
+    <span class="post-meta-item">
+      <span class="post-meta-item-icon">
+        <i class="far fa-folder"></i>
+      </span>
+      <span class="post-meta-item-text">分类于</span>
+        <span itemprop="about" itemscope itemtype="http://schema.org/Thing">
+          <a href="/categories/iPhone/" itemprop="url" rel="index"><span itemprop="name">iPhone</span></a>
+        </span>
+    </span>
+
+  
+    <span id="/ios-app/" class="post-meta-item leancloud_visitors" data-flag-title="iOS 旧版 APP 推荐与降级方法（持续更新）" title="阅读次数">
+      <span class="post-meta-item-icon">
+        <i class="far fa-eye"></i>
+      </span>
+      <span class="post-meta-item-text">阅读次数</span>
+      <span class="leancloud-visitors-count"></span>
+    </span>
+  
+  <span class="post-meta-item">
+    <a title="valine" href="/ios-app/#valine-comments" itemprop="discussionUrl">
+    
+    <span class="post-meta-item-icon">
+      <i class="far fa-comment"></i>
+    </span>
+    <span class="post-meta-item-text">评论数</span>
+  
+      <span class="post-comments-count valine-comment-count" data-xid="/ios-app/" itemprop="commentCount"></span>
+    </a>
+  </span>
+  
+  
+</div>
+
+        </div>
+      </header>
+
+    
+    
+    
+    <div class="post-body" itemprop="articleBody">
+        <p><img data-src="/images/covers/226.jpg"></p>
+<span id="more"></span>
+
+<hr>
+<h2 id="前言"><a href="#前言" class="headerlink" title="前言"></a>前言</h2><p>　　如果你正在用 2G、3G 运存的 iPhone，一定在为频繁杀后台苦恼叭，不妨改用老版本试试~<br>　　一般旧版软件的资源占用会更少，因而更流畅、更省电，而且广告也会更少（哭）~<br>　　甚至某些 App 在旧版本的时候还没开始收费喔！如彩云天气Pro、白描！！<br>　　所以还不快马住！！<br>　　交流群：431718023</p>
+<h2 id="版本"><a href="#版本" class="headerlink" title="版本"></a>版本</h2><ul>
+<li>iPhone X 于 2017.11.03 上市，此日期后的版本方支持全面屏；</li>
+<li>iOS 13.0 Beta 1 于 2019.06.04 上线，此日期后的版本方支持深色模式；</li>
+<li>iOS 14.5 Beta 1 于 2021.02.02 上线，此日期后的版本一定支持 iOS 14.5 及以后版本；</li>
+<li>带 ◆ 为自用版本，在 iPhone SE 2020, iOS 14.3 下运行良好；</li>
+<li>谨慎更新系统版本，iOS 14.5 大部分旧版应用无法安装，提示安装包不完整；</li>
+<li>各版本更新内容可在<a href="https://www.qimai.cn/">七麦数据</a>查询；</li>
+<li>如版本失效请留言反馈。</li>
+</ul>
+<p><strong>社交</strong></p>
+<ul>
+<li>QQ 6.2.2(启动极快、很少杀后台，气泡显示异常) 6.5.9 6.6.5(云同步正常的最低版本) 6.7.1(无斜眼笑等表情，此版及以前版本需覆盖安装) 7.1.0(可登录最低版) 7.2.5 7.2.8(全面屏) 7.3.2(Apple Watch) 7.3.5 7.5.5 7.7.8 8.0.6 8.1.0(简洁模式) ◆8.1.5◆(深色模式) 8.1.8 8.2.6(iOS14.5) 8.4.1 8.4.9(iOS14照片权限，体积减小) 8.4.10(牛转乾坤表情) 8.7.5(菜汪表情)</li>
+<li>TIM ◆1.1.5◆ 2.3.0(支持结构化消息) 2.5.1 2.5.5 3.1.1(此版前需覆盖安装)</li>
+<li>微信 6.5.19 6.6.1 6.7.4(iOS14.5) 7.0.5(浮窗首版，朋友圈视频自动播放) 7.0.9 7.0.12(深色模式首版) 7.0.13(拍一拍、视频号最低版) ◆7.0.14◆(小程序浮窗最后一版) 7.0.15(微信支付有优惠最低版本) 7.0.18(iOS15) 7.0.20(iOS14照片权限，小程序皆支持) 8.0.3(Apple Watch) 8.0.8(换提示音)</li>
+<li>微博 6.5.1(无广告) 7.3.1(首页直播图标前最后一版、评论页无广告) 8.8.3 8.12.3(iOS14.7) 10.11.0</li>
+<li>微博国际版 ◆3.5.2◆(覆盖安装) 4.1.5(深色模式)</li>
+<li>钉钉 4.3.5(callkit最后一版) ◆5.1.10◆(日志) 6.0.26(iOS14.7)</li>
+<li>QQ空间 5.1.1(无广告)</li>
+<li>百度贴吧 6.8.5 6.9.6(吧内搜索) 7.1.0(无启动广告) 7.3.0(会员可去广告) 8.9.0(全面屏) 9.2.0(清爽、广告少) 9.3.0 9.3.1(iOS14.5) ◆9.6.0◆(可Safari唤起，搭配Flex去广告) 9.7.1 9.7.11 9.7.5 9.8.4(iOS14.7) 9.9.9(图片不能编辑) 10.3.11(深色模式) 11.0.0(搭配Flex去广告) 11.3.2</li>
+<li>知乎 4.34.1(搜索功能可用最低版本,iOS15) ◆6.0.0◆(无启动广告) 6.5.0 6.19.0(深色模式) 6.62.0(iOS14小组件) 6.67.0</li>
+<li>豆瓣 ◆6.22.0◆(深色模式) 6.38.0(此版以前书影音无法加载) 6.41.0 6.44.0(iOS14小组件) 6.44.1 6.46.0(热门书影音组件) 7.15.0(iOS13)</li>
+<li>虎扑 ◆7.3.2◆</li>
+<li>酷安 ◆3.1◆(无启动广告最后一版)</li>
+<li>威锋 5.0.1 5.4.1 5.5.1(无广告最后一版，但网络异常) ◆6.4◆(840909450，搭配Flex去广告)</li>
+<li>NGA玩家社区 5.3.0(无启动广告、浏览页广告、切换广告) 6.0.8(iOS14.5) 6.3.2</li>
+<li>皮皮虾 1.3.9(无广告)</li>
+<li>Twitter 7.37.2(可翻译) 7.60(深色模式) 8.44(无Fleets) 8.47.1(iOS14照片权限)</li>
+<li>Instagram 124.0(深色模式) 165.0(iOS14照片权限)</li>
+</ul>
+<p><strong>购物</strong></p>
+<ul>
+<li>手机淘宝 7.12.20(正常使用最低版，14.7) 7.2.1 8.0.0(14.3闪退) 8.1.0 8.3.0 8.4.0(省钱卡) 8.8.0(iOS14.3) 9.1.1(14.3闪退) 9.2.0 9.17.0(iOS14小组件) ◆9.20.0(搜同款最低版本)◆</li>
+<li>淘宝Lite 4.16.4(外区)</li>
+<li>点淘 ◆1.7.6◆</li>
+<li>阿里巴巴 7.20.0(iOS14.7) ◆9.4.6◆</li>
+<li>京东 ◆8.3.0◆(覆盖安装) 8.5.8(深色模式，iOS14.5) 9.5</li>
+<li>拼多多 4.56.0 4.76.0(iOS14.5) 5.2.0 5.12.0 ◆5.30.0◆(多多钱包) 5.31.1(iOS14小组件)</li>
+<li>多多团长 ◆1.7.2◆(可跳转拼多多自购的最后一版)</li>
+<li>微店 5.4.7</li>
+<li>什么值得买 9.8.16</li>
+<li>苏宁 7.7.3.8</li>
+<li>识货 6.54.0(iOS14.7)</li>
+<li>闲鱼 6.2.5(正常可用最低版本) 6.2.9(iOS14.7) 6.3.7 6.4.80 6.6.60　◆6.9.80◆</li>
+<li>转转 5.6.1</li>
+<li>小红书 ◆6.22◆(正常可用最低版本，爱思极速版下载，iOS14.7) 6.38.1 6.63(搭配Flex去广告)</li>
+<li>美团 7.3.1 10.10(iOS14.5) 11.4.401(无法进入美团优选) 11.6.406</li>
+<li>菜鸟裹裹 4.8.7 5.5.0 6.6.0(iOS14小组件) 6.9.0 6.11.0(小组件更新)</li>
+<li>饿了么 7.21(可叠加红包)</li>
+<li>淘票票 10.4.1(iOS14小组件)</li>
+<li>携程旅行 8.19(iOS14.5)</li>
+</ul>
+<p><strong>财务</strong></p>
+<ul>
+<li>支付宝 10.1.72(账单可用最低版本，iOS14.5) 10.1.75(此版及以前版本蚂蚁森林保护地巡护无法加载) 10.1.87 10.1.95(支持清凉节活动，搭配Flex精简) 10.1.98(搭配Flex精简) 10.2.8(银行卡列表可用最低版本) 10.2.10(iOS14小组件，小程序正常) ◆10.2.15◆(消费券最低版本)</li>
+<li>云闪付 ◆8.0.7◆(转账正常最低版本)</li>
+<li>鲨鱼记账Pro ◆2.0◆(无社区等冗余功能)</li>
+</ul>
+<p><strong>娱乐</strong></p>
+<ul>
+<li>哔哩哔哩 5.24.1 ◆5.45◆ 5.46.1 5.49 5.51(深色模式首版) 5.58 5.9(以上各版均已停止供货，爱思极速版可下载) 6.12.0(iOS14.5) 6.13.0 6.18.0 6.20.0(iOS14小组件) 6.25.0(长按倍速) 6.42.1(iOS13)</li>
+<li>哔哩哔哩HD 2.3(可关启动动画最后一版)</li>
+<li>哔哩哔哩概念 2.13.2 2.15.4 2.4</li>
+<li>bilibili-弹幕新番高清原創影片 ◆2.11.1◆(建议替代官版使用，台湾区下载，体积极小，无游戏中心、会员购、直播等功能，无启动广告) 3.0.3(深色模式热切换、有直播、后台占用增加)</li>
+<li>抖音 1.7.0(无广告，825619012) 9.7.1(可登录，834568851) 9.9.0 11.0.0 ◆15.0.0◆</li>
+<li>Tik Tok 1.2.2(未屏蔽地区最后一版，无法注册登录)</li>
+<li>快手 5.2.0 6.6.0</li>
+<li>爱奇艺 5.7.1(无片头广告) 7.0.1(无需短信验证登录账号) 8.12.5(可同时下3个视频) 9.7.0(影吧) 9.8.0(最后可非主设备网页扫码登录版本)</li>
+<li>腾讯视频 7.8.0(iOS14.7)</li>
+<li>优酷视频 6.12.0(无广告) 7.5.5(iOS14.7)</li>
+<li>斗鱼直播 4.920</li>
+<li>虎牙直播 6.0.0 6.5.1</li>
+<li>秒拍 6.7.68(视频质量好)</li>
+<li>网易云音乐 2.7.1 3.1.1(无无损音质) ◆3.7.5◆(无广告) 4.0.1(iOS14.5) 4.1.2(无视频最后一版) 4.2.2(全面屏) 4.3.1(哔哩哔哩卡免流最低版本) 4.3.2 4.3.5(换UI前最后一版) 5.6.0(经典播放界面最后一版) 5.6.3(iOS14.5) 5.8.1 6.4.7(深色模式首版) 6.5.2 7.0.0(iOS15) 7.2.10(歌词注音) 7.3.20(iOS14小组件) 8.0.10(底栏自定义、视频画中画)</li>
+<li>QQ音乐 8.8.5 8.9.9(卸载QQ后可网页登录QQ账号) 9.2.8 9.3(iOS14.7)</li>
+<li>波点音乐 ◆1.2.6◆(完全免费，可导入外部歌单)</li>
+<li>酷狗音乐 3.9.4 4.0.7 7.0.6 8.8.6</li>
+<li>酷我音乐 4.9.2</li>
+<li>虾米音乐 6.1.8</li>
+<li>全民K歌 3.7.6</li>
+<li>唱吧 8.2</li>
+<li>喜马拉雅 5.4.9 6.3.36(全面屏、iWatch首版)</li>
+<li>蜻蜓FM 6.2.6(无音频广告)</li>
+<li>腾讯动漫 4.4.5(会员无限制观看)</li>
+<li>网易漫画 4.2.0(可使用Flex3会员补丁)</li>
+</ul>
+<p><strong>阅读</strong></p>
+<ul>
+<li>今日头条 3.1.1 6.0.3(无广告、iOS11) 6.2.9(首个带聊天表情版本) 6.6.0(可越狱去广告) 7.0.5 7.0.9 7.9.2(深色模式) 7.9.6(长按倍速)</li>
+<li>腾讯新闻 5.1.6</li>
+<li>澎湃新闻 8.1.7(小组件、无热榜)</li>
+<li>微信读书 4.3.0(深色模式) 5.0.4(小组件) 5.4.0(Apple Pencil)</li>
+<li>起点读书 4.7.0(可横屏首版) 5.0.1</li>
+<li>追书神器 2.23.1(无追书币、追更模式) 2.25.1(可换源) 2.24.24(可换源)</li>
+<li>爱阅书香 6.3.0</li>
+<li>书旗小说 3.9.10(无横版广告)</li>
+<li>笔趣阁 5.5(无广告、弹窗)</li>
+<li>香色闺阁 2.33.1</li>
+</ul>
+<p><strong>教育</strong></p>
+<ul>
+<li>Notability ◆10.6◆(改订阅制前最后一版)</li>
+<li>学习通 ◆4.5.6◆</li>
+<li>百度汉语 ◆2.0◆(可正常使用的最低版本，相当简洁，iOS14.5以下可用) 2.1.0(iOS14.5以下可用)</li>
+<li>腾讯翻译 3.1(仅基础功能)</li>
+<li>50音起源 ◆1.3.5◆(收费前最后一版)</li>
+<li>运动世界校园 ◆3.1.2◆(可拒绝更新最低版本)</li>
+<li>驾考宝典 7.6.4(iOS14.5)</li>
+</ul>
+<p><strong>工具</strong></p>
+<ul>
+<li>高德地图 7.5.8(无启动广告) 7.6.0(iOS11) 7.8.2 8.50.0 8.55.0(不弹提醒) 8.70.0(carplay首版) 8.70.3 8.75.0.2813 8.90 10.80.0(侧滑返回)</li>
+<li>百度地图 8.6.5(无广告) 10.24.5(全面屏)</li>
+<li>哈啰出行 5.74(无越狱检测唯一版本，iOS14.5)</li>
+<li>网易大神 2.5.0 2.8.0(无启动广告，可扫码登录)</li>
+<li>百度网盘 ◆6.6.0◆(无VIP上传视频) 6.7.3(可更改扩展名、打开分享未知文件) 6.9.4 7.0.0 8.13.1(无启动广告) 10.1.70(消息正常)</li>
+<li>天翼云盘 4.5.0(可免费传视频的最后一版，日签可增加空间)</li>
+<li>微盘 3.3.2 3.4.3</li>
+<li>有道云笔记 5.7.1(广告少) 5.9.8(云笔记、云协作并存)</li>
+<li>WPS Office 9.0.0</li>
+<li>美颜相机 5.7.5(效果自然) 6.2.6(主题乐园) 7.1.1(萌拍)</li>
+<li>美图秀秀 6.0.5 7.0.1</li>
+<li>搜狗输入法 2.2.1 4.0.0 4.4.0 5.0.1 7.2.6(iOS14.7) 10.22</li>
+<li>百度输入法 6.0.2(超级皮肤、无剪切板) 7.1.1(无语音功能)</li>
+<li>讯飞输入法 6.0 8.0.2000</li>
+<li>UC浏览器 10.5.5(无头条、可缓存视频) 10.7.11(可缓存视频) 11.3.1(可缓存视频、下载文件)</li>
+<li>QQ浏览器 6.1.1(可缓存视频) 6.3(可关头条) 8.2.1(免流首版)</li>
+<li>夸克浏览器 2.2.9</li>
+<li>Speedtest 4.2.10</li>
+<li>Pin 3.2.2(完整实验室最后一版)</li>
+<li>Alook 8.2 9.6 11.5</li>
+<li>Keep 7.5.3</li>
+<li>Strava 23.0.0</li>
+<li>Widgy 1.7(iOS14.5)</li>
+<li>汽车之家 9.10.6</li>
+<li>滴滴出行 5.1(单车首版) 5.2.20(iOS14.5)</li>
+<li>彩云天气 6.0.4(深色模式) 6.0.5(iOS14小组件) 6.0.7 6.1.1</li>
+<li>彩云天气Pro 5.0.10(收费前最后一版)</li>
+<li>白描 2.1.6(无会员限制)</li>
+<li>文件全能王 5.4(音视频嗅探、m3u8下载)</li>
+<li>电视助手 5.5.0(音视频下载、导出文件)</li>
+<li>WiFi万能钥匙 ◆4.0.2◆(可连共享WiFi)</li>
+<li>WiFi管家 2.0.1(可看WiFi密码)</li>
+<li>电信营业厅 7.0(最低可用版本，打开时勿联网，会闪退) 7.5.2</li>
+<li>镜子豪华 5.3(点击恢复购买可直接去广告)</li>
+</ul>
+<h2 id="降级"><a href="#降级" class="headerlink" title="降级"></a>降级</h2><h3 id="手机端"><a href="#手机端" class="headerlink" title="手机端"></a>手机端</h3><h4 id="未越狱"><a href="#未越狱" class="headerlink" title="未越狱"></a>未越狱</h4><p>　　使用「爱思极速版」即可安装 App 的主要历史版本，但该应用未在 App Store 上架，安装方法如下：<br>　　电脑端安装「<a href="https://www.i4.cn/">爱思助手</a>」，USB 连接手机后将自动安装移动客户端「爱思极速版」。<br>　　Apple Watch 用户勿使用「爱思助手」或「爱思极速版」安装 App，在 Apple Watch 上无法启动，只能 iTunes 抓包或使用 AppStore++ 安装旧版应用（反馈用户：⑨RealZJMM怪我丑（Plex），测试设备：Apple Watch Series1，系统：watchOS 6）。</p>
+<h4 id="已越狱"><a href="#已越狱" class="headerlink" title="已越狱"></a>已越狱</h4><p>　　安装 AppStore++「应用降级」插件，在 AppStore 中长按「获取」按钮即可降级。</p>
+<h3 id="电脑端"><a href="#电脑端" class="headerlink" title="电脑端"></a>电脑端</h3><p>　　「爱思极速版」中未收录意向版本时，需使用电脑端抓包。<br>　　iTunes 下载（v12.6.5.3）：<a href="https://support.apple.com/zh-cn/HT208079">Apple 支持</a><br>　　抓包软件下载（发布页：<a href="https://www.52pojie.cn/thread-1284776-1-1.html">吾爱破解</a>）：<a href="https://wwx.lanzoui.com/iBE4Emzgbkj">蓝奏云</a></p>
+<p>　　使用方法：</p>
+<ol>
+<li>下载并安装旧版 iTunes（v12.6.5.3 内置 App Store）；</li>
+<li>打开 iTunes，在 iTunes 内登录 Apple ID；</li>
+<li>点击由上至下第三行的「♫ 音乐」矩形框，点击「编辑菜单」，勾选「A 应用」，点击「完成」，再次点击「A 应用」完成界面切换；</li>
+<li>下载抓包软件，在程序目录下新建一文件夹，用来存放压缩包内的<code>.exe</code>文件，如：<code>D:\Program Files\iOS旧版应用下载</code>（程序初始化后将在同级目录下生成数据文件，因此特地建立文件夹存放）；</li>
+<li>打开抓包软件，输入 App 名称，按下回车键搜索；</li>
+<li>双击选择要下载的版本；</li>
+<li>点击「开始拦截」按钮；</li>
+<li>打开 iTunes，在右上方「🔍」标识处键入应用名称；</li>
+<li>点击「商店」按钮，选择「在 iTunes Store中搜索“××”」；</li>
+<li>根据设备类型选择「iPhone App」或「iPad App」栏目下的程序，点击「获取」或「下载」按钮开始下载；</li>
+<li>下载完成后，点击由上至下第三行的「资料库」；</li>
+<li>右键应用图标，选择「在 Windows 资源管理器中显示(H)」，即可查看 <code>.ipa</code> 文件；</li>
+<li>将安装包备份到你想存放的位置，以备日后使用；</li>
+<li>下载并安装「爱思助手」；</li>
+<li>打开「爱思助手」，点击左侧列表中的「应用游戏-导入安装」即可安装 <code>.ipa</code> 到设备。</li>
+</ol>
+<p>注：<br>　　软件安装包均与 Apple ID 绑定，如需共享给他人，对方需在 App Store 内登录下载时绑定的 Apple ID，再用电脑导入安装。<br>　　添加到 iTunes 下载列表后即可停止拦截，抓取下一软件了。</p>
+<h2 id="屏蔽应用内更新提示"><a href="#屏蔽应用内更新提示" class="headerlink" title="屏蔽应用内更新提示"></a>屏蔽应用内更新提示</h2><ol>
+<li>越狱；</li>
+<li>安装 <a href="https://apt.cydiabc.top/">AppSync Unified</a>、<a href="https://yttxcs.com/">Filza File Manager</a>；</li>
+<li>打开 Filza File Manager；</li>
+<li>依地址打开 <code>×××</code> 软件安装目录：<code>/private/var/containers/Bundle/Application/×××/×××.app</code>；</li>
+<li>以文本编辑器方式打开 <code>info.plist</code>；</li>
+<li>将当前版本号一律改为最新版本号，若版本号为 <code>3.1.9</code>，字符串为 <code>3.1.9.1</code>，则改动版本号对应前三位，最后一位不动。</li>
+</ol>
+<h2 id="问题"><a href="#问题" class="headerlink" title="问题"></a>问题</h2><h3 id="是否应该根据安装包大小选择版本"><a href="#是否应该根据安装包大小选择版本" class="headerlink" title="是否应该根据安装包大小选择版本"></a>是否应该根据安装包大小选择版本</h3><p>　　不应该。</p>
+<h3 id="反复卸载安装软件后存储空间大幅减少"><a href="#反复卸载安装软件后存储空间大幅减少" class="headerlink" title="反复卸载安装软件后存储空间大幅减少"></a>反复卸载安装软件后存储空间大幅减少</h3><p>　　安装「小鸭清理」，反复清理几次「手机空间」即可。</p>
+<h3 id="版本过低无法登录"><a href="#版本过低无法登录" class="headerlink" title="版本过低无法登录"></a>版本过低无法登录</h3><p>　　安装新版并登录后，选择以下一种方法：<br>　　(1)手机端：进入「设置-通用-iPhone 存储空间」，点击「卸载 App」后，使用「爱思极速版」安装；<br>　　(2)电脑端：使用「爱思助手」覆盖安装旧版本。</p>
+<p>　　例：QQ v6.2.2 版因版本过低无法登录，则先使用「爱思极速版」安装可登录的 v7.3.5 版，登录后不卸载，使用「爱思助手」覆盖安装 v6.2.2 版；</p>
+<p>　　注：<br>　　尽量在「爱思极速版」中选择版本相近的可登录版本，避免因跨版本数据结构变动过大以致覆盖安装后应用闪退。</p>
+<h3 id="iTunes-网络出错"><a href="#iTunes-网络出错" class="headerlink" title="iTunes 网络出错"></a>iTunes 网络出错</h3><p>　　下载 0kb：添加下载任务到列表后，停止抓包软件拦截并在 iTunes 内点击「暂停下载」，再点击「继续下载」即可恢复。<br>　　无法登录：关闭代理软件、抓包软件。<br>　　若 iTunes 出现其它网络问题，请退出代理软件。</p>
+<h3 id="去除「App-Store-更新提示」"><a href="#去除「App-Store-更新提示」" class="headerlink" title="去除「App Store 更新提示」"></a>去除「App Store 更新提示」</h3><p>　　打开 <code>.ipa</code> 文件，删除 iTunesMetadata.plist。</p>
+<h3 id="关闭自动更新"><a href="#关闭自动更新" class="headerlink" title="关闭自动更新"></a>关闭自动更新</h3><p>　　进入「设置-App Store」，关闭「自动下载：App 更新」。</p>
+<h3 id="应用体积比-App-Store-安装的大"><a href="#应用体积比-App-Store-安装的大" class="headerlink" title="应用体积比 App Store 安装的大"></a>应用体积比 App Store 安装的大</h3><p>　　电脑端「爱思助手」安装的应用可进入「设置-通用-iPhone 存储空间」，点击「卸载 App」再点击「重新安装」以缩小体积；「爱思极速版」安装的应用及删除了<code>iTunesMetadata.plist</code>的应用无法缩小体积。</p>
+<h3 id="TIM-降级至首版（1-0-4）方法"><a href="#TIM-降级至首版（1-0-4）方法" class="headerlink" title="TIM 降级至首版（1.0.4）方法"></a>TIM 降级至首版（1.0.4）方法</h3><ol>
+<li>旧版 iTunes 抓包如下四个版本：3.1.1、2.5.1、1.1.6、1.0.4；</li>
+<li>使用爱思助手，依次覆盖安装降级：3.1.1→2.5.1→1.1.6→1.0.4；</li>
+<li>每次覆盖后，都需要运行程序一次；</li>
+<li>如遇某版本闪退，重复打开几次就能解决；</li>
+<li>降级至 1.0.4 版本后，进入「设置-通用-iPhone 存储空间」，点击「卸载 App」再点击「重新安装」以缩小应用体积。</li>
+</ol>
+<h3 id="贡献用户"><a href="#贡献用户" class="headerlink" title="贡献用户"></a>贡献用户</h3><ul>
+<li>⑨RealZJMM怪我丑（Plex）</li>
+<li>某年某月某日</li>
+<li>Sunshine</li>
+</ul>
+
+    </div>
+
+    
+    
+    
+      
+  <div class="popular-posts-header">相关文章</div>
+  <ul class="popular-posts">
+    <li class="popular-posts-item">
+      <div class="popular-posts-title"><a href="\battery\" rel="bookmark">怎么使用电池最健康？不伤电池的充电法！最大化电池寿命！</a></div>
+    </li>
+    <li class="popular-posts-item">
+      <div class="popular-posts-title"><a href="\jailbreak\" rel="bookmark">iOS 14 越狱问题解决</a></div>
+    </li>
+    <li class="popular-posts-item">
+      <div class="popular-posts-title"><a href="\ios-night\" rel="bookmark">iPhone 夜间护眼小窍门</a></div>
+    </li>
+    <li class="popular-posts-item">
+      <div class="popular-posts-title"><a href="\locked-iphone\" rel="bookmark">iOS 改版本号黑解教程</a></div>
+    </li>
+  </ul>
+
+
+    <footer class="post-footer">
+          
+
+<div class="post-copyright">
+<ul>
+  <li class="post-copyright-author">
+      <strong>本文作者： </strong>千灵夙赋
+  </li>
+  <li class="post-copyright-link">
+      <strong>本文链接：</strong>
+      <a href="https://qianling.pw/ios-app/" title="iOS 旧版 APP 推荐与降级方法（持续更新）">https://qianling.pw/ios-app/</a>
+  </li>
+  <li class="post-copyright-license">
+    <strong>版权声明： </strong>本博客所有文章除特别声明外，均采用 <a href="https://creativecommons.org/licenses/by-nc-sa/4.0/" rel="noopener" target="_blank"><i class="fab fa-fw fa-creative-commons"></i>BY-NC-SA</a> 许可协议。转载请注明出处！
+  </li>
+</ul>
+</div>
+
+          <div class="followme">
+  <span>　</span>
+
+  <div class="social-list">
+
+      <div class="social-item">
+        <a target="_blank" class="social-link" href="/atom.xml">
+          <span class="icon">
+            <i class="fa fa-rss"></i>
+          </span>
+
+          <span class="label">RSS</span>
+        </a>
+      </div>
+  </div>
+</div>
+
+          <div class="post-tags">
+              <a href="/tags/iPhone/" rel="tag"># iPhone</a>
+              <a href="/tags/iOS/" rel="tag"># iOS</a>
+          </div>
+
+        
+  <div class="post-widgets">
+    <div class="wpac-rating-container">
+      <div id="wpac-rating"></div>
+    </div>
+  </div>
+
+          <div class="post-nav">
+            <div class="post-nav-item">
+                <a href="/a-brief-history-of-love/" rel="prev" title="《爱情简史》书摘">
+                  <i class="fa fa-chevron-left"></i> 《爱情简史》书摘
+                </a>
+            </div>
+            <div class="post-nav-item">
+                <a href="/battery/" rel="next" title="怎么使用电池最健康？不伤电池的充电法！最大化电池寿命！">
+                  怎么使用电池最健康？不伤电池的充电法！最大化电池寿命！ <i class="fa fa-chevron-right"></i>
+                </a>
+            </div>
+          </div>
+    </footer>
+  </article>
+</div>
+
+
+
+
+
+
+    <div class="comments" id="valine-comments"></div>
+</div>
+  </main>
+
+  <footer class="footer">
+    <div class="footer-inner">
+
+
+<div class="copyright">
+  &copy; 
+  <span itemprop="copyrightYear">2021</span>
+  <span class="with-love">
+    <i class="fab fa-github-alt"></i>
+  </span>
+  <span class="author" itemprop="copyrightHolder">千灵夙赋</span>
+</div>
+<div class="busuanzi-count">
+    <span class="post-meta-item" id="busuanzi_container_site_uv">
+      <span class="post-meta-item-icon">
+        <i class=""></i>
+      </span>你是第
+      <span class="site-uv" title="总访客量">
+        <span id="busuanzi_value_site_uv"></span>位到访的小伙伴喔
+      </span>
+    </span>
+    <span class="post-meta-item" id="busuanzi_container_site_pv">
+      <span class="post-meta-item-icon">
+        <i class=""></i>
+      </span>本站已被访问
+      <span class="site-pv" title="总访问量">
+        <span id="busuanzi_value_site_pv"></span>次啦
+      </span>
+    </span>
+</div>
+
+    </div>
+  </footer>
+
+  
+  <script src="https://cdn.jsdelivr.net/npm/animejs@3.2.1/lib/anime.min.js" integrity="sha256-XL2inqUJaslATFnHdJOi9GfQ60on8Wx1C2H8DYiN1xY=" crossorigin="anonymous"></script>
+  <script src="https://cdn.jsdelivr.net/npm/@next-theme/pjax@0.5.0/pjax.min.js" integrity="sha256-3NkoLDrmHLTYj7csHIZSr0MHAFTXth7Ua/DDt4MRUAg=" crossorigin="anonymous"></script>
+  <script src="https://cdn.jsdelivr.net/npm/jquery@3.6.0/dist/jquery.min.js" integrity="sha256-/xUj+3OJU5yExlq6GSYGSHk7tPXikynS7ogEvDej/m4=" crossorigin="anonymous"></script>
+  <script src="https://cdn.jsdelivr.net/npm/@fancyapps/fancybox@3.5.7/dist/jquery.fancybox.min.js" integrity="sha256-yt2kYMy0w8AbtF89WXb2P1rfjcP/HTHLT7097U8Y5b8=" crossorigin="anonymous"></script>
+  <script src="https://cdn.jsdelivr.net/npm/lozad@1.16.0/dist/lozad.min.js" integrity="sha256-mOFREFhqmHeQbXpK2lp4nA3qooVgACfh88fpJftLBbc=" crossorigin="anonymous"></script>
+<script src="/js/comments.js"></script><script src="/js/utils.js"></script><script src="/js/motion.js"></script><script src="/js/schemes/muse.js"></script><script src="/js/next-boot.js"></script><script src="/js/pjax.js"></script>
+
+  
+  <script src="https://embed.widgetpack.com/widget.js" async></script>
+  <script class="next-config" data-name="rating" type="application/json">{"enable":true,"id":8657,"color":"5bc0de"}</script>
+  <script src="/js/third-party/rating.js"></script>
+<script src="https://cdn.jsdelivr.net/npm/hexo-generator-searchdb@1.4.0/dist/search.js" integrity="sha256-vXZMYLEqsROAXkEw93GGIvaB2ab+QW6w3+1ahD9nXXA=" crossorigin="anonymous"></script>
+<script src="/js/third-party/search/local-search.js"></script>
+
+
+
+  <script src="/js/third-party/fancybox.js"></script>
+
+  <script src="/js/third-party/pace.js"></script>
+
+  
+  <script data-pjax async src="https://busuanzi.ibruce.info/busuanzi/2.3/busuanzi.pure.mini.js"></script>
+
+
+  <script class="next-config" data-name="leancloud_visitors" type="application/json">{"enable":true,"app_id":"zulMeib4pyC6zB1a65OmVtHz-gzGzoHsz","app_key":"TEjUlOUBz3KwSUmDQ35ROxpw","server_url":null,"security":false}</script>
+  <script src="/js/third-party/statistics/lean-analytics.js"></script>
+
+
+  <script src="https://cdn.jsdelivr.net/npm/quicklink@2.2.0/dist/quicklink.umd.js" integrity="sha256-4kQf9z5ntdQrzsBC3YSHnEz02Z9C1UeW/E9OgnvlzSY=" crossorigin="anonymous"></script>
+  <script class="next-config" data-name="quicklink" type="application/json">{"enable":true,"home":false,"archive":false,"delay":true,"timeout":3000,"priority":true,"url":"https://qianling.pw/ios-app/"}</script>
+  <script src="/js/third-party/quicklink.js"></script>
+
+
+<script class="next-config" data-name="valine" type="application/json">{"enable":true,"appId":"zulMeib4pyC6zB1a65OmVtHz-gzGzoHsz","appKey":"TEjUlOUBz3KwSUmDQ35ROxpw","serverURLs":"https://zulmeib4.lc-cn-n1-shared.com","placeholder":"说点什么好呢~","avatar":"wavatar","meta":["nick","mail","link"],"pageSize":10,"lang":null,"visitor":false,"comment_count":true,"recordIP":false,"enableQQ":true,"requiredFields":[],"el":"#valine-comments","path":"/ios-app/"}</script>
+<script>
+document.addEventListener('page:loaded', () => {
+  NexT.utils.loadComments(CONFIG.valine.el)
+    .then(() => NexT.utils.getScript(
+      '/js/custom/Valine.min.js',
+      { condition: window.Valine }
+    ))
+    .then(() => {
+      new Valine(CONFIG.valine);
+    });
+});
+</script>
+
+</body>
+</html>

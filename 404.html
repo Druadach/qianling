@@ -1,0 +1,69 @@
+<html>
+<head>
+<link rel="shortcut icon" href="/images/favicon-16x16.png" />
+<title>欢迎来到未知之地</title>
+<canvas id="Snow"></canvas>
+<style type="text/css">
+@media screen and (max-width: 600px) {
+  #canvas {
+    display: none;
+  }
+}
+body {
+    font-family: "MicroSoft Yahei";
+    text-align: center;
+    cursor: url(/images/cursor.cur), auto;
+    font-size: 16px;
+}
+a {
+    color: #dd4a68;
+    cursor: url(/images/cursor_link.cur), auto;
+}
+.content {
+    border: #e1e1e1 1px solid;
+    margin-top: 10px;
+    border-radius: 10px;
+    height: 94%;
+}
+#Snow {
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    z-index: 99;
+    background: rgba(125, 137, 95, 0.1);
+    pointer-events: none;
+}
+.text {
+    font-size: 1.5em;
+    line-height: 20px;
+    color:#199475;
+}
+.footer {
+    margin-top: 8px;
+    font-size: 1.125em;
+    color:#199475;
+}
+</style>
+</head>
+
+<body>
+<div class="content">
+  <img width="520" height="320" data-src="/images/404.gif" data-src="/images/404.gif" />
+  <div id="container"></div>
+  <script src="/js/custom/runner.js"></script>
+  <script>initRunner('#container');</script>
+  <p class="text">,,Ծ‸Ծ,,　少年，你迷路了</p>
+  <p class="text">您可以回到 <a href="https://qianling.pw/">网站首页</a>，还可以玩小恐龙游戏哟（单击或空格）</p>
+</div>
+<div class="footer">
+    ©2021&ensp;qianling.pw
+</div>
+
+<canvas class="fireworks" id="canvas" style="position: fixed;left: 0;top: 0;z-index: 1; pointer-events: none;"></canvas>
+<script src="/js/custom/snow.js"></script>
+<script type="text/javascript" src="//cdn.jsdelivr.net/npm/animejs@3.1.0/lib/anime.min.js"></script>
+<script type="text/javascript" src="/js/custom/fireworks.js"></script>
+</body>
+</html>

@@ -1,0 +1,128 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="utf-8">
+  <title>2048</title>
+  <link rel="stylesheet" href="https://qianling-1254036047.cos.ap-chengdu.myqcloud.com/2048/2.jpg">
+  <link rel="stylesheet" href="https://qianling-1254036047.cos.ap-chengdu.myqcloud.com/2048/4.jpg">
+  <link rel="stylesheet" href="https://qianling-1254036047.cos.ap-chengdu.myqcloud.com/2048/8.jpg">
+  <link rel="stylesheet" href="https://qianling-1254036047.cos.ap-chengdu.myqcloud.com/2048/16.jpg">
+  <link rel="stylesheet" href="https://qianling-1254036047.cos.ap-chengdu.myqcloud.com/2048/32.jpg">
+  <link rel="stylesheet" href="https://qianling-1254036047.cos.ap-chengdu.myqcloud.com/2048/64.jpg">
+  <link rel="stylesheet" href="https://qianling-1254036047.cos.ap-chengdu.myqcloud.com/2048/128.jpg">
+  <link rel="stylesheet" href="https://qianling-1254036047.cos.ap-chengdu.myqcloud.com/2048/256.jpg">
+  <link rel="stylesheet" href="https://qianling-1254036047.cos.ap-chengdu.myqcloud.com/2048/512.jpg">
+  <link rel="stylesheet" href="https://qianling-1254036047.cos.ap-chengdu.myqcloud.com/2048/1024.jpg">
+  <link rel="stylesheet" href="https://qianling-1254036047.cos.ap-chengdu.myqcloud.com/2048/2048.jpg">
+  <style type="text/css">
+        a{
+          font-family:"PingFang SC", "Hiragino Sans GB", "Heiti SC","Microsoft Yahei Mono","Microsoft YaHei", "WenQuanYi Micro Hei";
+          font-size:20px;
+        }
+
+        .zyt{
+    		display: inline-block;
+    		background: #8f7a66;
+    		border-radius: 3px;
+    		padding: 0 20px;
+    		text-decoration: none;
+    		color: #f9f6f2;
+    		height: 40px;
+    		line-height: 42px;
+    		display: block;
+    		text-align: center;
+    		float: left;
+}
+        .zyt a{
+            color: #fff;
+            text-decoration: none;
+        }
+    </style>
+
+  <link href="https://qianling-1254036047.cos.ap-chengdu.myqcloud.com/2048/main.css" rel="stylesheet" type="text/css">
+  <link rel="shortcut icon" href="https://i.loli.net/2017/07/21/59715712b5eee.png">
+  <link rel="apple-touch-icon" href="https://qianling-1254036047.cos.ap-chengdu.myqcloud.com/2048/apple-touch-icon.png">
+  <link rel="apple-touch-startup-image" href="https://qianling-1254036047.cos.ap-chengdu.myqcloud.com/2048/apple-touch-startup-image-640x1096.png" media="(device-width: 320px) and (device-height: 568px) and (-webkit-device-pixel-ratio: 2)"> <!-- iPhone 5+ -->
+  <link rel="apple-touch-startup-image" href="https://qianling-1254036047.cos.ap-chengdu.myqcloud.com/2048/apple-touch-startup-image-640x920.png"  media="(device-width: 320px) and (device-height: 480px) and (-webkit-device-pixel-ratio: 2)"> <!-- iPhone, retina -->
+  <meta name="apple-mobile-web-app-capable" content="yes">
+  <meta name="apple-mobile-web-app-status-bar-style" content="black">
+
+  <meta name="HandheldFriendly" content="True">
+  <meta name="MobileOptimized" content="320">
+  <meta name="viewport" content="width=device-width, target-densitydpi=160dpi, initial-scale=1.0, maximum-scale=1, user-scalable=no, minimal-ui">
+</head>
+<body>
+
+
+  <div class="container">
+    <div class="heading">
+      <h1 class="title">2048</h1>
+      <div class="scores-container">
+        <div class="score-container">0</div>
+        <div class="best-container">0</div>
+      </div>
+    </div>
+
+    <div class="above-game">
+        <span class="zyt">
+            <a href="/">返回博客</a>
+        </span>
+      <a class="restart-button">重新开始</a>
+    </div>
+
+    <div class="game-container">
+      <div class="game-message">
+        <p></p>
+        <div class="lower">
+          <a class="keep-playing-button">我还要玩</a>
+          <a class="retry-button">重新开始</a>
+        </div>
+      </div>
+
+      <div class="grid-container">
+        <div class="grid-row">
+          <div class="grid-cell"></div>
+          <div class="grid-cell"></div>
+          <div class="grid-cell"></div>
+          <div class="grid-cell"></div>
+        </div>
+        <div class="grid-row">
+          <div class="grid-cell"></div>
+          <div class="grid-cell"></div>
+          <div class="grid-cell"></div>
+          <div class="grid-cell"></div>
+        </div>
+        <div class="grid-row">
+          <div class="grid-cell"></div>
+          <div class="grid-cell"></div>
+          <div class="grid-cell"></div>
+          <div class="grid-cell"></div>
+        </div>
+        <div class="grid-row">
+          <div class="grid-cell"></div>
+          <div class="grid-cell"></div>
+          <div class="grid-cell"></div>
+          <div class="grid-cell"></div>
+        </div>
+      </div>
+
+      <div class="tile-container">
+
+      </div>
+    </div>
+
+  </div>
+
+  <script src="https://qianling-1254036047.cos.ap-chengdu.myqcloud.com/2048/bind_polyfill.js"></script>
+  <script src="https://qianling-1254036047.cos.ap-chengdu.myqcloud.com/2048/classlist_polyfill.js"></script>
+  <script src="https://qianling-1254036047.cos.ap-chengdu.myqcloud.com/2048/animframe_polyfill.js"></script>
+  <script src="https://qianling-1254036047.cos.ap-chengdu.myqcloud.com/2048/keyboard_input_manager.js"></script>
+  <script src="https://qianling-1254036047.cos.ap-chengdu.myqcloud.com/2048/html_actuator.js"></script>
+  <script src="https://qianling-1254036047.cos.ap-chengdu.myqcloud.com/2048/grid.js"></script>
+  <script src="https://qianling-1254036047.cos.ap-chengdu.myqcloud.com/2048/tile.js"></script>
+  <script src="https://qianling-1254036047.cos.ap-chengdu.myqcloud.com/2048/local_storage_manager.js"></script>
+  <script src="https://qianling-1254036047.cos.ap-chengdu.myqcloud.com/2048/game_manager.js"></script>
+  <script src="https://qianling-1254036047.cos.ap-chengdu.myqcloud.com/2048/application.js"></script>
+
+</body>
+</html>
