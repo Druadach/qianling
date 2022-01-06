@@ -6,7 +6,7 @@
   <link href="https://qianling.pw/atom.xml" rel="self"/>
   
   <link href="https://qianling.pw/"/>
-  <updated>2022-01-06T12:52:00.517Z</updated>
+  <updated>2021-12-10T11:08:02.000Z</updated>
   <id>https://qianling.pw/</id>
   
   <author>
@@ -15,23 +15,6 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
-  
-  <entry>
-    <title>Thu Jan 06 2022 08:00:00 GMT+0800 (中国标准时间)</title>
-    <link href="https://qianling.pw/2022-01-06/"/>
-    <id>https://qianling.pw/2022-01-06/</id>
-    <published>2022-01-06T12:51:25.000Z</published>
-    <updated>2022-01-06T12:52:00.517Z</updated>
-    
-    <content type="html"><![CDATA[<p><img data-src="/images/covers/.jpg"></p><span id="more"></span><hr>]]></content>
-    
-    
-    <summary type="html">&lt;p&gt;&lt;img src=&quot;/images/covers/.jpg&quot;&gt;&lt;/p&gt;</summary>
-    
-    
-    
-    
-  </entry>
   
   <entry>
     <title>Kindle 不能修改字体、显示封面？看这一篇就够了!</title>
@@ -437,6 +420,27 @@
     <category term="iPhone" scheme="https://qianling.pw/tags/iPhone/"/>
     
     <category term="越狱" scheme="https://qianling.pw/tags/%E8%B6%8A%E7%8B%B1/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>iPhone 夜间护眼小窍门</title>
+    <link href="https://qianling.pw/ios-night/"/>
+    <id>https://qianling.pw/ios-night/</id>
+    <published>2021-04-08T12:59:22.000Z</published>
+    <updated>2021-04-08T14:26:29.000Z</updated>
+    
+    <content type="html"><![CDATA[<p><img data-src="/images/covers/233.jpg"></p><span id="more"></span><hr><h1 id="深色模式"><a href="#深色模式" class="headerlink" title="深色模式"></a>深色模式</h1><ol><li>打开「设置」</li><li>选择「显示与亮度」</li><li>打开「自动」</li><li>选择自动开启深色模式的时段</li></ol><h1 id="白点模式"><a href="#白点模式" class="headerlink" title="白点模式"></a>白点模式</h1><h2 id="作息不规律者"><a href="#作息不规律者" class="headerlink" title="作息不规律者"></a>作息不规律者</h2><ol><li>打开「设置」</li><li>选择「控制中心」</li><li>添加「睡眠模式」</li><li>打开「快捷指令」</li><li>点击「自动化」</li><li>点击右上角「＋」</li><li>点击「创建个人自动化」</li><li>选择「睡眠」</li><li>选择「就寝开始」</li><li>点击「下一步」</li><li>在搜索框中输入「设定白点」</li><li>点击「下一步」</li><li>关闭「运行前询问」</li><li>点击「完成」</li><li>点击右上角「＋」</li><li>点击「创建个人自动化」</li><li>选择「特定时间」</li><li>将时间设为起床前某一时刻</li><li>点击「下一步」</li><li>在搜索框中输入「设定白点」</li><li>点击蓝字「打开」</li><li>点击「下一步」</li><li>关闭「运行前询问」</li><li>点击「完成」</li></ol><p>在黑暗中使用手机时，由屏幕底部上划调出控制中心，打开「就寝模式」，即可在最低显示亮度的基础上再次降低屏幕亮度。</p><h2 id="作息规律者"><a href="#作息规律者" class="headerlink" title="作息规律者"></a>作息规律者</h2><ol><li>打开「设置」</li><li>选择「勿扰模式」</li><li>打开「设定时间」</li><li>设定时间为作息时间</li><li>打开「快捷指令」</li><li>点击「自动化」</li><li>点击右上角「＋」</li><li>点击「创建个人自动化」</li><li>选择「勿扰模式」</li><li>选择「打开」</li><li>点击「下一步」</li><li>在搜索框中输入「设定白点」</li><li>点击「展开」</li><li>选择「切换」</li><li>点击「下一步」</li><li>关闭「运行前询问」</li><li>点击「完成」</li></ol><p>在就寝前固定时间段内使用手机时，即自动在最低显示亮度的基础上再次降低屏幕亮度了。</p>]]></content>
+    
+    
+    <summary type="html">&lt;p&gt;&lt;img src=&quot;/images/covers/233.jpg&quot;&gt;&lt;/p&gt;</summary>
+    
+    
+    
+    <category term="iPhone" scheme="https://qianling.pw/categories/iPhone/"/>
+    
+    
+    <category term="iPhone" scheme="https://qianling.pw/tags/iPhone/"/>
     
   </entry>
   
