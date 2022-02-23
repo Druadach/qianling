@@ -3267,7 +3267,7 @@ mark.search-keyword {
   vertical-align: middle;
 }
 .links-of-author a::before {
-  background: #ff69f7;
+  background: #ff9a30;
   display: inline-block;
   margin-right: 3px;
   transform: translateY(-2px);
@@ -3365,7 +3365,7 @@ body {
   text-shadow: 0 0 1px rgba(0,0,0,0.2);
   letter-spacing: 0.6px;
   color: #000;
-  cursor: url("/images/cursor.cur"), auto;
+  cursor: url("https://qianling-1254036047.cos.ap-chengdu.myqcloud.com/img/cursor.cur"), auto;
 }
 body a,
 body .posts-expand .post-body img,
@@ -3377,7 +3377,7 @@ body .menuItem,
 body .sidebar-nav > li,
 body .sidebar-toggle,
 body .hider_title {
-  cursor: url("/images/cursor_link.cur"), pointer;
+  cursor: url("https://qianling-1254036047.cos.ap-chengdu.myqcloud.com/img/cursor_link.cur"), pointer;
 }
 a {
   color: #111;
