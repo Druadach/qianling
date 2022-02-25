@@ -6,7 +6,7 @@
   <link href="https://qianling.pw/atom.xml" rel="self"/>
   
   <link href="https://qianling.pw/"/>
-  <updated>2022-02-06T14:47:19.000Z</updated>
+  <updated>2022-02-25T15:20:22.000Z</updated>
   <id>https://qianling.pw/</id>
   
   <author>
@@ -15,6 +15,27 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>iOS 修改多开应用跳转目标</title>
+    <link href="https://qianling.pw/2022-02-25/"/>
+    <id>https://qianling.pw/2022-02-25/</id>
+    <published>2022-02-25T14:17:35.000Z</published>
+    <updated>2022-02-25T15:20:22.000Z</updated>
+    
+    <content type="html"><![CDATA[<p><img data-src="/images/covers/255.jpg"></p><span id="more"></span><hr><h1 id="场景"><a href="#场景" class="headerlink" title="场景"></a>场景</h1><ol><li>实现在合作登录、分享链接、分享文件时精准跳转至指定多开应用；</li><li>实现 TIM 在安装 QQ 后应用程序无法调用 TIM 登录的问题；</li><li>……</li></ol><h1 id="原理"><a href="#原理" class="headerlink" title="原理"></a>原理</h1><p>URL Schemes 是应用程序被其他应用程序启动的方法，在 <code>info.plist</code> 中定义（不分大小写）。安装应用程序后，应用程序会解析 <code>info.plist</code>，如检测到 <code>CFBundleURLTypes</code>，则将对应 <code>Schemes</code> 注册至系统。如有应用程序通过 <code>[[UIApplication sharedApplication] openURL:url]</code> 打开了 URL，系统会对照已经注册的 <code>Schemes</code> 启动相应应用程序。</p><h1 id="修改"><a href="#修改" class="headerlink" title="修改"></a>修改</h1><p><strong>需越狱</strong></p><ol><li>打开 <a href="http://tigisoftware.com/cydia/">Filza File Manager</a>；</li><li>依地址打开应用程序安装目录：<code>/private/var/containers/Bundle/Application/××/××.app</code>；</li><li>搜索 <code>info.plist</code>，打开大小最大项；</li><li>展开 <code>Root</code>，展开 <code>CFBundleURLTypes</code>，展开 <code>Item ×</code>，找到 <code>CFBundleURLSchemes</code>；</li><li>根据语意修改各 <code>Item</code>，无语意项可不改；</li><li>修改完毕后储存文件，打开 <a href="https://yttxcs.com/">iCleaner Pro</a> 清理应用程序缓存或打开 <a href="http://tigisoftware.com/cydia/">Apps Manager</a> 清除应用数据即可生效。</li></ol><h1 id="测试"><a href="#测试" class="headerlink" title="测试"></a>测试</h1><p>在备忘录中输入 <code>schemes:</code> 或在 Safari 中输入 <code>schemes://</code>。<br>如：<code>weixin:</code>、<code>mqqapi://</code>。</p><h1 id="常见-Schemes"><a href="#常见-Schemes" class="headerlink" title="常见 Schemes"></a>常见 Schemes</h1><p>微信：<code>wexin:</code>、<code>wechat:</code><br>微博：<code>weibo:</code><br>QQ：<code>mqqflyticket:</code>、<code>mqqapi:</code>、<code>mqq:</code>、<code>mqqopensdkapi:</code>、<code>mqqOpensdkSSoLogin:</code>、<code>mqqapiwallet:</code>、<code>mqqopensdkapiV2:</code></p><br/><p>参考资料：<br><a href="https://iphoneba.cn/archives/777.html">解决IOS微信多开后跳转问题（指定跳转到某个微信）</a><br><a href="https://www.cnblogs.com/zdong/p/4655304.html">iOS URL Schemes 的定义和使用</a></p>]]></content>
+    
+    
+    <summary type="html">&lt;p&gt;&lt;img src=&quot;/images/covers/255.jpg&quot;&gt;&lt;/p&gt;</summary>
+    
+    
+    
+    <category term="iPhone" scheme="https://qianling.pw/categories/iPhone/"/>
+    
+    
+    <category term="iPhone" scheme="https://qianling.pw/tags/iPhone/"/>
+    
+  </entry>
   
   <entry>
     <title>微信空白地区、性别、昵称教程</title>
@@ -285,9 +306,9 @@
     <category term="游戏" scheme="https://qianling.pw/categories/%E6%B8%B8%E6%88%8F/"/>
     
     
-    <category term="游戏" scheme="https://qianling.pw/tags/%E6%B8%B8%E6%88%8F/"/>
-    
     <category term="iPhone" scheme="https://qianling.pw/tags/iPhone/"/>
+    
+    <category term="游戏" scheme="https://qianling.pw/tags/%E6%B8%B8%E6%88%8F/"/>
     
     <category term="越狱" scheme="https://qianling.pw/tags/%E8%B6%8A%E7%8B%B1/"/>
     
@@ -418,29 +439,6 @@
     
     
     <category term="Windows" scheme="https://qianling.pw/tags/Windows/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>iOS 14 越狱问题解决及推荐插件</title>
-    <link href="https://qianling.pw/jailbreak/"/>
-    <id>https://qianling.pw/jailbreak/</id>
-    <published>2021-05-02T08:36:19.000Z</published>
-    <updated>2022-02-19T15:56:29.000Z</updated>
-    
-    <content type="html"><![CDATA[<p><img data-src="/images/covers/234.jpg"></p><span id="more"></span><hr><h1 id="Windows-签名-App"><a href="#Windows-签名-App" class="headerlink" title="Windows 签名 App"></a>Windows 签名 App</h1><p>连接电脑使用「<a href="https://pangu8.com/sideloadly/">Sideloadly!</a>」软件。</p><h1 id="unc0ver-推荐版本"><a href="#unc0ver-推荐版本" class="headerlink" title="unc0ver 推荐版本"></a>unc0ver 推荐版本</h1><p>6.1.0、6.1.1<br>6.1.2 开机时间久后有诸多疑难杂症。</p><h1 id="unc0ver-越狱网络异常、相册异常"><a href="#unc0ver-越狱网络异常、相册异常" class="headerlink" title="unc0ver 越狱网络异常、相册异常"></a>unc0ver 越狱网络异常、相册异常</h1><p>Safari、知乎、百度等应用均卡在加载页，只有 QQ、微信正常／拍照后照片无法保存至相册、App 无法读取相册。<br>使用「连个锤子」、「乐网」、「VPN」、「还原网络设置」等方法均无效。</p><p>解决办法：</p><ol><li>添加壹筒天下源：<a href="https://yttxcs.com/">https://yttxcs.com/</a></li><li>安装“软重启补丁「系统」”，每次重新越狱后均需再次安装此插件以软重启</li></ol><h1 id="Flex-3-闪退"><a href="#Flex-3-闪退" class="headerlink" title="Flex 3 闪退"></a>Flex 3 闪退</h1><p>关闭「粗体文本」即可。</p><h1 id="装错插件无法再次越狱"><a href="#装错插件无法再次越狱" class="headerlink" title="装错插件无法再次越狱"></a>装错插件无法再次越狱</h1><ol><li>打开「unc0ver」，关闭「Settings-Load Tweaks」，点击 Done 回到首页，点击「Jailbreak」越狱</li><li>越狱成功后，打开「Cydia」删除不兼容插件，重启手机恢复未越狱状态</li><li>重新打开「unc0ver」，开启「Settings-Load Tweaks」，点击 Done 回到首页，再次越狱即可</li></ol><h1 id="Cydia-闪退"><a href="#Cydia-闪退" class="headerlink" title="Cydia 闪退"></a>Cydia 闪退</h1><p>重启恢复未越狱状态，打开「unc0ver」，开启「Settings-Reinstall Cydia」，点击 Done 回到首页，再次越狱即可</p><h1 id="「System-files-missing-」弹窗"><a href="#「System-files-missing-」弹窗" class="headerlink" title="「System files missing!」弹窗"></a>「System files missing!」弹窗</h1><ol><li>添加软件源「yilai.yttxcs.com」</li><li>更新「RocketBootstrap」至 1.0.10~beta1 版本</li></ol><h1 id="unc0ver-自签"><a href="#unc0ver-自签" class="headerlink" title="unc0ver 自签"></a>unc0ver 自签</h1><p>安装 <a href="https://apt.cydiabc.top/">ReProvision新版续签</a><br>打开「ReProvision」，点击「Settings-Advanced」，将「Check Expiry Times」改为「Every 24 Hours」，可减少耗电。</p><p>终端命令：<br>取消后台常驻自动签名：<code>launchctl unload -w /Library/LaunchDaemons/jp.soh.reprovisiond.plist</code><br>恢复自动签名：<code>launchctl load -w /Library/LaunchDaemons/jp.soh.reprovisiond.plist</code></p><h1 id="虚拟内存"><a href="#虚拟内存" class="headerlink" title="虚拟内存"></a>虚拟内存</h1><p>「重启用户空间（UserSpace Reboot）」不会使虚拟内存失效。</p><h1 id="Selio-无法卸载、安装插件"><a href="#Selio-无法卸载、安装插件" class="headerlink" title="Selio 无法卸载、安装插件"></a>Selio 无法卸载、安装插件</h1><p>Filza 搜索出错的插件名，删除全部文件即可。</p><h1 id="Selio-降级-libhooker-基板"><a href="#Selio-降级-libhooker-基板" class="headerlink" title="Selio 降级 libhooker 基板"></a>Selio 降级 libhooker 基板</h1><p>Filza 安装下载好的 <code>.deb</code> 文件后软重启即可。</p><h1 id="插件和补丁推荐"><a href="#插件和补丁推荐" class="headerlink" title="插件和补丁推荐"></a>插件和补丁推荐</h1><p><strong>Cydia、Selio</strong></p><ul><li>AppSync Unified <a href="http://cydia.angelxwind.net/">http://cydia.angelxwind.net</a></li><li>AppStore++(0.9.14-4) <a href="https://cokepokes.github.io/">https://cokepokes.github.io</a></li><li>AppStore+++简体中文包 <a href="https://apt.cydiabc.top/">https://apt.cydiabc.top/</a></li><li>Filza File Manager <a href="http://tigisoftware.com/cydia/">http://tigisoftware.com/cydia/</a></li><li>ReProvision Reborn <a href="https://repo.incendo.ws/">https://repo.incendo.ws/</a></li><li>iCleaner Pro「系统清理破解版」 <a href="https://yttxcs.com/">https://yttxcs.com/</a></li><li>Flex 3 Beta <a href="http://getdelta.co/">http://getdelta.co/</a></li><li>OneHandWizard2「单手操作」 <a href="https://yttxcs.com/">https://yttxcs.com/</a></li><li>定个位-专业的位置修改软件 <a href="http://apt.thebigboss.org/repofiles/cydia/">http://apt.thebigboss.org/repofiles/cydia/</a></li><li>AXJ <a href="https://yttxcs.com/">https://yttxcs.com/</a></li><li>newsysctl <a href="https://w2599.github.io/cydia/">https://w2599.github.io/cydia/</a></li><li>MilkyWay分屏(ios13-14) <a href="https://xrepo.icu/">https://xrepo.icu/</a></li><li>PowerApp <a href="http://apt.thebigboss.org/repofiles/cydia/">http://apt.thebigboss.org/repofiles/cydia/</a></li><li>RealCC <a href="http://apt.thebigboss.org/repofiles/cydia/">http://apt.thebigboss.org/repofiles/cydia/</a></li><li>CC++「控制中心增强」 <a href="https://yttxcs.com/">https://yttxcs.com/</a></li><li>开启虚拟内存ios12-14 <a href="https://xrepo.icu/">https://xrepo.icu/</a></li><li>FlyJB「屏蔽越狱检测」 <a href="https://yttxcs.com/">https://yttxcs.com/</a></li><li>AutoUnlockX <a href="https://sparkdev.me/">https://sparkdev.me/</a></li><li>PowerSelector <a href="https://cydia.ichitaso.com/">https://cydia.ichitaso.com/</a></li><li>SwitcherPower　<a href="http://apt.thebigboss.org/repofiles/cydia/">http://apt.thebigboss.org/repofiles/cydia/</a></li><li>Apps Manager 应用备份 <a href="http://tigisoftware.com/cydia/">http://tigisoftware.com/cydia/</a></li><li>ldid for Apps Manager <a href="http://tigisoftware.com/cydia/">http://tigisoftware.com/cydia/</a></li><li>DumpDecrypter「砸壳工具」 <a href="https://yttxcs.com/">https://yttxcs.com/</a></li><li>GoodWiFi <a href="https://julioverne.github.io/">https://julioverne.github.io/</a></li><li>ProGesture「仿X手势」 <a href="https://yttxcs.com/">https://yttxcs.com/</a></li><li>injectipa「一键注入插件」 <a href="https://yttxcs.com/">https://yttxcs.com/</a></li><li>EQE「全局音效」 <a href="https://yttxcs.com/">https://yttxcs.com/</a></li><li>SmartBattery 2「智能电池」 <a href="https://yttxcs.com/">https://yttxcs.com/</a></li><li>CocoaTop「查看进程」 <a href="https://yttxcs.com/">https://yttxcs.com/</a></li><li>SilentRecorder <a href="http://apt.thebigboss.org/repofiles/cydia/">http://apt.thebigboss.org/repofiles/cydia/</a></li><li>NewTerm 2命令终端 <a href="https://apt.cydiabc.top/">https://apt.cydiabc.top/</a></li><li>微信净化 <a href="http://apt.thebigboss.org/repofiles/cydia/">http://apt.thebigboss.org/repofiles/cydia/</a></li><li>微信助手 <a href="https://apt.25mao.com/">https://apt.25mao.com/</a></li><li>WechatiPad「微信iPad登录」 <a href="https://yttxcs.com/">https://yttxcs.com/</a></li></ul><p><strong>Flex</strong></p><ul><li>⚡ Home Gesture 快捷手势（iOS13/14）</li><li>⚡ 禁用主屏幕 App 资源库(iOS14)</li></ul>]]></content>
-    
-    
-    <summary type="html">&lt;p&gt;&lt;img src=&quot;/images/covers/234.jpg&quot;&gt;&lt;/p&gt;</summary>
-    
-    
-    
-    <category term="iPhone" scheme="https://qianling.pw/categories/iPhone/"/>
-    
-    
-    <category term="iPhone" scheme="https://qianling.pw/tags/iPhone/"/>
-    
-    <category term="越狱" scheme="https://qianling.pw/tags/%E8%B6%8A%E7%8B%B1/"/>
     
   </entry>
   
