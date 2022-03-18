@@ -413,7 +413,7 @@ var ap = new APlayer({
 <hr>
 <h1 id="场景"><a href="#场景" class="headerlink" title="场景"></a>场景</h1><ol>
 <li>实现在合作登录、分享链接、分享文件时精准跳转至指定多开应用；</li>
-<li>实现 TIM 在安装 QQ 后应用程序无法调用 TIM 登录的问题；</li>
+<li>实现在安装 QQ 后应用程序无法调用 TIM 登录的问题；</li>
 <li>……</li>
 </ol>
 <h1 id="原理"><a href="#原理" class="headerlink" title="原理"></a>原理</h1><p>URL Schemes 是应用程序被其他应用程序启动的方法，在 <code>info.plist</code> 中定义（不分大小写）。安装应用程序后，应用程序会解析 <code>info.plist</code>，如检测到 <code>CFBundleURLTypes</code>，则将对应 <code>Schemes</code> 注册至系统。如有应用程序通过 <code>[[UIApplication sharedApplication] openURL:url]</code> 打开了 URL，系统会对照已经注册的 <code>Schemes</code> 启动相应应用程序。</p>
@@ -444,10 +444,10 @@ var ap = new APlayer({
       <div class="popular-posts-title"><a href="\battery\" rel="bookmark">怎么使用电池最健康？不伤电池的充电法！最大化电池寿命！</a></div>
     </li>
     <li class="popular-posts-item">
-      <div class="popular-posts-title"><a href="\ios-night\" rel="bookmark">iPhone 夜间护眼小窍门</a></div>
+      <div class="popular-posts-title"><a href="\ios-app\" rel="bookmark">iOS 旧版 APP 推荐与降级方法（持续更新）</a></div>
     </li>
     <li class="popular-posts-item">
-      <div class="popular-posts-title"><a href="\ios-app\" rel="bookmark">iOS 旧版 APP 推荐与降级方法（持续更新）</a></div>
+      <div class="popular-posts-title"><a href="\ios-night\" rel="bookmark">iPhone 夜间护眼小窍门</a></div>
     </li>
     <li class="popular-posts-item">
       <div class="popular-posts-title"><a href="\jailbreak\" rel="bookmark">iOS 14 越狱问题解决及推荐插件</a></div>
