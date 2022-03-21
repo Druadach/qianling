@@ -6,7 +6,7 @@
   <link href="https://qianling.pw/atom.xml" rel="self"/>
   
   <link href="https://qianling.pw/"/>
-  <updated>2022-02-25T15:20:22.000Z</updated>
+  <updated>2022-03-21T14:23:47.000Z</updated>
   <id>https://qianling.pw/</id>
   
   <author>
@@ -15,6 +15,27 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>iOS 微信不推送解决方法</title>
+    <link href="https://qianling.pw/wechat-push/"/>
+    <id>https://qianling.pw/wechat-push/</id>
+    <published>2022-03-21T14:16:42.000Z</published>
+    <updated>2022-03-21T14:23:47.000Z</updated>
+    
+    <content type="html"><![CDATA[<p><img data-src="/images/covers/256.jpg"></p><span id="more"></span><hr><p>原帖：<a href="http://xhslink.com/UbYQmg">iPhone微信不推送（亲测） 绝终极解决办法</a></p><ol><li>打开微信</li><li>在搜索框内输入「微信修复工具」并打开它</li><li>选择「重新载入数据」</li><li>重启微信</li><li>在搜索框内输入「微信修复工具」并打开它</li><li>选择「故障修复」</li><li>选择「聊天记录」</li><li>重启微信后生效</li></ol>]]></content>
+    
+    
+    <summary type="html">&lt;p&gt;&lt;img src=&quot;/images/covers/256.jpg&quot;&gt;&lt;/p&gt;</summary>
+    
+    
+    
+    <category term="iPhone" scheme="https://qianling.pw/categories/iPhone/"/>
+    
+    
+    <category term="iPhone" scheme="https://qianling.pw/tags/iPhone/"/>
+    
+  </entry>
   
   <entry>
     <title>iOS 修改多开应用跳转目标</title>
@@ -418,27 +439,6 @@
     
     
     <category term="电子商务" scheme="https://qianling.pw/tags/%E7%94%B5%E5%AD%90%E5%95%86%E5%8A%A1/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>Windows 装机必备</title>
-    <link href="https://qianling.pw/installed-necessary/"/>
-    <id>https://qianling.pw/installed-necessary/</id>
-    <published>2021-06-06T01:45:08.000Z</published>
-    <updated>2021-12-20T13:34:52.000Z</updated>
-    
-    <content type="html"><![CDATA[<p><img data-src="/images/covers/235.jpg"></p><span id="more"></span><hr><h1 id="装机必备"><a href="#装机必备" class="headerlink" title="装机必备"></a>装机必备</h1><ol><li><a href="http://www.centbrowser.cn/">Cent Browser</a></li><li><a href="https://www.7-zip.org/">7z</a></li><li><a href="https://www.microsoft.com/zh-cn/p/flux/9n9kdphv91jt">f.lux（UWP）</a></li><li><a href="https://www.chuyu.me/zh-Hans/">Dism++</a></li><li><a href="https://ditto-cp.sourceforge.io/">Ditto Clipboard（Portable）</a></li><li><a href="https://www.listary.com/">Listary</a></li><li><a href="https://getquicker.net/">Quicker</a></li><li><a href="https://www.snipaste.com/">Snipaste（Portable）</a></li><li> <a href="https://jm.wmzhe.com/">PureCodec</a></li><li><a href="https://github.com/zhongyang219/TrafficMonitor">TrafficMonitor（Portable）</a></li><li><a href="https://code.visualstudio.com/">Visual Studio Code</a></li><li><a href="https://www.internetdownloadmanager.com/">Internet Download Manager</a></li><li><a href="https://github.com/Fndroid/clash_for_windows_pkg">Clash for Windows</a></li><li><a href="https://github.com/Yuphiz/Yuphiz_AutoTheme">Yuphiz_AutoTheme</a></li></ol><h1 id="办公"><a href="#办公" class="headerlink" title="办公"></a>办公</h1><ol><li><a href="https://office.qq.com/">TIM</a></li><li><a href="https://weixin.qq.com/">WeChat</a></li><li><a href="https://www.dingtalk.com/">DingTalk</a></li></ol><h1 id="分类软件"><a href="#分类软件" class="headerlink" title="分类软件"></a>分类软件</h1><ul><li>使用时间统计：<a href="https://www.manictime.com/">ManicTime</a></li><li>硬盘占用查看：<a href="http://www.uderzo.it/main_products/space_sniffer/">SpaceSniffer</a></li><li>电子书：<a href="https://calibre-ebook.com/">Calibre</a></li><li>Kindle 笔记管理：<a href="https://knotesapp.cn/">糯词笔记</a></li><li>漫画：<a href="https://bbs.popgo.org/bbs/simple/?t381958.html">MangaMeeyaCE</a></li><li>OCR：<a href="https://www.52pojie.cn/thread-1549008-1-1.html">天若OCR本地版</a></li><li>卸载：<a href="https://geekuninstaller.com/">Geek Uninstaller</a></li><li>Gif：<a href="https://www.screentogif.com/">ScreenToGif</a></li><li>文件时间修改：<a href="https://www.softwareok.com/?seite=Microsoft/NewFileTime">NewFileTime</a></li><li>字体子集化：<a href="http://ecomfe.github.io/fontmin/">FontMin</a></li><li>RSS：<a href="http://irreader.fatecore.com/">irreader</a></li><li><a href="https://www.solveigmm.com/en/products/video-splitter/">SolveigMM Video Splitter</a></li><li><a href="https://github.com/staxrip/staxrip/">StaxRip</a></li><li>音频下载：<a href="http://www.ddooo.com/softdown/166771.htm">酷我音乐解析</a></li><li>网易云音乐歌词制作：<a href="https://www.cnblogs.com/BensonLaur/p/9695769.html#title2">BesLyric</a></li><li>解除占用：<a href="https://www.iobit.com/en/iobit-unlocker.php">IObit Unlocker</a></li><li>bilibili 视频下载：<a href="http://client.jijidown.com/">唧唧Down</a> / <a href="https://github.com/leiurayer/downkyi">DownKyi</a></li><li>图片压缩：<a href="https://css-ig.net/pingo">pingo</a></li><li>文件预览：<a href="https://github.com/QL-Win/QuickLook">QuickLook</a></li><li>QQ聊天记录转html：<a href="http://wizbrother.com/tools/mht2html.html">mht2html</a></li><li>DNS：<a href="https://www.52pojie.cn/thread-976081-1-1.html">DNS优选</a></li><li>音乐：<a href="https://www.microsoft.com/zh-cn/p/%e7%bd%91%e6%98%93%e4%ba%91%e9%9f%b3%e4%b9%90uwp/9nblggh6g0jf">网易云音乐</a>（UWP）</li></ul><h1 id="媒体处理"><a href="#媒体处理" class="headerlink" title="媒体处理"></a>媒体处理</h1><ul><li>Adobe Audition</li><li>Adobe Illustrator</li><li>Adobe Photoshop</li><li>Adobe Premiere Pro</li><li>iZotope RX8 Audio Editor</li><li><a href="http://aegi.vmoe.info/">Aegisub</a></li><li><a href="https://www.ffmpeg.org/">FFmpeg</a></li><li><a href="https://obsproject.com/">Open Broadcaster Software</a></li><li><a href="https://www.louyue.com/recorder.htm">楼月免费MP3录音软件</a>（3.1）</li><li><a href="https://maruko.appinn.me/">MarukoToolbox</a></li><li><a href="http://avidemux.sourceforge.net/">Avidemux</a></li><li><a href="https://lv.ulikecam.com/">剪映专业版</a></li><li><a href="https://guihet.com/">JianYingSRT</a></li><li><a href="https://arctime.org/">ArcTime</a></li></ul><h1 id="开发环境"><a href="#开发环境" class="headerlink" title="开发环境"></a>开发环境</h1><ul><li><a href="https://nodejs.org/zh-cn/">Node.js</a></li><li><a href="https://git-scm.com/">Git</a></li></ul><h1 id="油猴插件"><a href="#油猴插件" class="headerlink" title="油猴插件"></a>油猴插件</h1><ul><li>HTML5视频播放器增强脚本</li><li>百度网盘简易下载助手（直链下载复活版）</li></ul><h1 id="VSCode-插件"><a href="#VSCode-插件" class="headerlink" title="VSCode 插件"></a>VSCode 插件</h1><ul><li>luqimin.tiny-light</li><li>yzhang.markdown-all-in-one</li><li>ms-ceintl.vscode-language-pack-zh-hans</li></ul><h1 id="联想"><a href="#联想" class="headerlink" title="联想"></a>联想</h1><ul><li>联想电脑管理：<a href="https://www.microsoft.com/zh-cn/p/lenovo-vantage/9wzdncrfj4mv">Lenovo Vantage</a>（UWP）</li><li>联想键盘OSD：<a href="https://www.microsoft.com/zh-cn/p/lenovo-hotkeys/9pcmmnb260tx">Lenovo Hotkeys</a>（UWP）</li></ul>]]></content>
-    
-    
-    <summary type="html">&lt;p&gt;&lt;img src=&quot;/images/covers/235.jpg&quot;&gt;&lt;/p&gt;</summary>
-    
-    
-    
-    <category term="Windows" scheme="https://qianling.pw/categories/Windows/"/>
-    
-    
-    <category term="Windows" scheme="https://qianling.pw/tags/Windows/"/>
     
   </entry>
   
