@@ -30,7 +30,7 @@
 <meta property="og:locale" content="zh_CN">
 <meta property="og:image" content="https://qianling.pw/images/covers/257.jpg">
 <meta property="article:published_time" content="2022-03-24T04:25:16.000Z">
-<meta property="article:modified_time" content="2022-03-24T04:32:06.000Z">
+<meta property="article:modified_time" content="2022-03-25T13:40:49.000Z">
 <meta property="article:author" content="千灵夙赋">
 <meta property="article:tag" content="iPhone">
 <meta name="twitter:card" content="summary">
@@ -224,7 +224,7 @@ if( !/Android|webOS|iPhone|iPod|iPad|BlackBerry/i.test(navigator.userAgent)){
   <nav class="site-state">
       <div class="site-state-item site-state-posts">
         <a href="/archives/">
-          <span class="site-state-item-count">189</span>
+          <span class="site-state-item-count">190</span>
           <span class="site-state-item-name">日志</span>
         </a>
       </div>
@@ -361,10 +361,16 @@ var ap = new APlayer({
         <i class="far fa-calendar"></i>
       </span>
       <span class="post-meta-item-text">发表于</span>
-      
 
-      <time title="创建时间：2022-03-24 12:25:16 / 修改时间：12:32:06" itemprop="dateCreated datePublished" datetime="2022-03-24T12:25:16+08:00">2022-03-24</time>
+      <time title="创建时间：2022-03-24 12:25:16" itemprop="dateCreated datePublished" datetime="2022-03-24T12:25:16+08:00">2022-03-24</time>
     </span>
+      <span class="post-meta-item">
+        <span class="post-meta-item-icon">
+          <i class="far fa-calendar-check"></i>
+        </span>
+        <span class="post-meta-item-text">更新于</span>
+        <time title="修改时间：2022-03-25 21:40:49" itemprop="dateModified" datetime="2022-03-25T21:40:49+08:00">2022-03-25</time>
+      </span>
     <span class="post-meta-item">
       <span class="post-meta-item-icon">
         <i class="far fa-folder"></i>
@@ -411,10 +417,11 @@ var ap = new APlayer({
 
 <hr>
 <p>原帖：<a href="https://www.reddit.com/r/jailbreak/comments/1v1sv4/howto_change_your_user_agent_for_safari_because/">[HOW-TO] Change Your User Agent for Safari (because User Agent Faker doesn’t work anymore) - Reddit</a></p>
+<p>Safari 原生的「请求桌面网站」功能被很多网站取消支持，因而很不好用，以本文所介绍方法修改 UA 即可强行访问桌面网站了。</p>
 <p><strong>需越狱</strong></p>
 <ol>
 <li>打开 <a href="http://tigisoftware.com/cydia/">Filza File Manager</a>；</li>
-<li>依地址打开 Safari 数据目录：<code>/private/var/mobile/Containers/Data/Application/9653C611-B267-4A75-8F38-0B1D0AC91FDE/Library/Preferences</code>；</li>
+<li>打开 Safari 数据目录：<code>/private/var/mobile/Containers/Data/Application/9653C611-B267-4A75-8F38-0B1D0AC91FDE/Library/Preferences</code>；</li>
 <li>打开 <code>com.apple.mobilesafari.plist</code>；</li>
 <li>展开 <code>Root</code>，找到 <code>UserAgent</code>；</li>
 <li>打开 <a href="https://useragent.buyaocha.com/">UserAgent查看/UA检测 - 在线工具</a>，复制想要的 User-Agent String 粘贴至输入框内；</li>
@@ -430,19 +437,19 @@ var ap = new APlayer({
   <div class="popular-posts-header">相关文章</div>
   <ul class="popular-posts">
     <li class="popular-posts-item">
+      <div class="popular-posts-title"><a href="\alipay\" rel="bookmark">支付宝「设备不支持刷脸」解决办法</a></div>
+    </li>
+    <li class="popular-posts-item">
       <div class="popular-posts-title"><a href="\battery\" rel="bookmark">怎么使用电池最健康？不伤电池的充电法！最大化电池寿命！</a></div>
     </li>
     <li class="popular-posts-item">
       <div class="popular-posts-title"><a href="\ios-app\" rel="bookmark">iOS 旧版 APP 推荐与降级方法（持续更新）</a></div>
     </li>
     <li class="popular-posts-item">
-      <div class="popular-posts-title"><a href="\ios-night\" rel="bookmark">iPhone 夜间护眼小窍门</a></div>
-    </li>
-    <li class="popular-posts-item">
       <div class="popular-posts-title"><a href="\jailbreak\" rel="bookmark">iOS 14 越狱问题解决及推荐插件</a></div>
     </li>
     <li class="popular-posts-item">
-      <div class="popular-posts-title"><a href="\locked-iphone\" rel="bookmark">iOS 改版本号黑解教程</a></div>
+      <div class="popular-posts-title"><a href="\ios-night\" rel="bookmark">iPhone 夜间护眼小窍门</a></div>
     </li>
   </ul>
 
@@ -500,6 +507,9 @@ var ap = new APlayer({
                 </a>
             </div>
             <div class="post-nav-item">
+                <a href="/alipay/" rel="next" title="支付宝「设备不支持刷脸」解决办法">
+                  支付宝「设备不支持刷脸」解决办法 <i class="fa fa-chevron-right"></i>
+                </a>
             </div>
           </div>
     </footer>
