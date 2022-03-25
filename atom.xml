@@ -23,7 +23,7 @@
     <published>2022-03-25T13:26:27.000Z</published>
     <updated>2022-03-25T13:40:53.000Z</updated>
     
-    <content type="html"><![CDATA[<p><img data-src="/images/covers/258.jpg"></p><span id="more"></span><hr><p>越狱后，第三方应用将无法调用支付宝的「人脸验证」功能，提示「当前设备不支持刷脸，请您更换手机后再试」，导致实名验证失败，无法完善账户信息，可参考本文解决。</p><ol><li>安装 <a href="https://yttxcs.com/">Liberty Lite「屏蔽越狱检测」</a>；</li><li>在插件设置中屏蔽支付宝；</li><li>重装支付宝或使用 <a href="http://tigisoftware.com/cydia/">Apps Manager</a> 清除支付宝数据即可生效。</li></ol>]]></content>
+    <content type="html"><![CDATA[<p><img data-src="/images/covers/258.jpg"></p><span id="more"></span><hr><p>越狱后，第三方应用将无法调用支付宝「人脸验证」功能，提示「当前设备不支持刷脸，请您更换手机后再试」，导致实名验证失败，无法完善账户信息，可参考本文解决。</p><ol><li>安装 <a href="https://yttxcs.com/">Liberty Lite「屏蔽越狱检测」</a>；</li><li>在插件设置中屏蔽支付宝；</li><li>重装支付宝或使用 <a href="http://tigisoftware.com/cydia/">Apps Manager</a> 清除支付宝数据即可生效。</li></ol>]]></content>
     
     
     <summary type="html">&lt;p&gt;&lt;img src=&quot;/images/covers/258.jpg&quot;&gt;&lt;/p&gt;</summary>
