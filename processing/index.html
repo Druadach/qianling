@@ -30,7 +30,7 @@
 <meta property="og:locale" content="zh_CN">
 <meta property="og:image" content="https://qianling.pw/images/covers/180.jpg">
 <meta property="article:published_time" content="2020-03-16T15:04:44.000Z">
-<meta property="article:modified_time" content="2022-01-12T06:00:01.187Z">
+<meta property="article:modified_time" content="2022-03-28T13:22:14.330Z">
 <meta property="article:author" content="千灵夙赋">
 <meta property="article:tag" content="视频制作">
 <meta property="article:tag" content="后期">
@@ -371,7 +371,7 @@ var ap = new APlayer({
           <i class="far fa-calendar-check"></i>
         </span>
         <span class="post-meta-item-text">更新于</span>
-        <time title="修改时间：2022-01-12 14:00:01" itemprop="dateModified" datetime="2022-01-12T14:00:01+08:00">2022-01-12</time>
+        <time title="修改时间：2022-03-28 21:22:14" itemprop="dateModified" datetime="2022-03-28T21:22:14+08:00">2022-03-28</time>
       </span>
     <span class="post-meta-item">
       <span class="post-meta-item-icon">
@@ -464,7 +464,7 @@ var ap = new APlayer({
 <h2 id="修音"><a href="#修音" class="headerlink" title="修音"></a>修音</h2><p>齿音：用矩形框选工具将 4k 以上频谱音量减小<br>降噪：不用 Au 自带降噪；VST 3→还原→Waves→X-Noise Mono，选中噪音区间→学习→阀值调整到白线位于最上面→试探衰减量到噪音刚好消除/NS1 Mono 智能处理<br>污点修复画笔：8px<br>音量平衡：效果→振幅与压限→电子管建模压限器：阈值为整体正常音量的最大范围；比例需计算最高音量与平均音量之差，如果差值为 9，比例为 3:1，则音量下降 3dB<br>强制限幅：设为 -1 避免爆音<br>动态处理：各分贝区间音量调整，可用来设噪音门限<br>多普勒效应：立体声空间效果</p>
 <p>7700Hz -13.5dB 8.5Q<br>6500Hz -10dB 5Q</p>
 <h1 id="视频处理"><a href="#视频处理" class="headerlink" title="视频处理"></a>视频处理</h1><h2 id="小丸工具箱压制"><a href="#小丸工具箱压制" class="headerlink" title="小丸工具箱压制"></a>小丸工具箱压制</h2><p>CRF：18 视觉无损，加 6，输出码率减少一半；减 6，输出码率翻倍</p>
-<h2 id="FFmpeg"><a href="#FFmpeg" class="headerlink" title="FFmpeg"></a>FFmpeg</h2><p>格式转换<br>ffmpeg -i input.mkv -codec copy output.mp4<br>多声道转单声道<br>ffmpeg -i 1.aac -ac 1 -ab 320k 2.aac<br>合并音视频<br>ffmpeg -i 1.mp4 -i 2.aac -c copy output.mp4<br>截取片段<br>ffmpeg -ss 00:00:00 -t 00:11:00 -i 1.ts -vcodec copy -acodec copy 2.ts<br>响度标准化<br>ffmpeg -hide_banner -y -i “1.mp3” -c:v copy -af “loudnorm=i=-24.0:lra=7.0:tp=-2.0:” -ab 320k “2.mp3”</p>
+<h2 id="FFmpeg"><a href="#FFmpeg" class="headerlink" title="FFmpeg"></a>FFmpeg</h2><p>格式转换<br>ffmpeg -i input.mkv -codec copy output.mp4<br>ffmpeg -i “input.thd” -aq 12 “output.wav”<br>多声道转单声道<br>ffmpeg -i 1.aac -ac 1 -ab 320k 2.aac<br>合并音视频<br>ffmpeg -i 1.mp4 -i 2.aac -c copy output.mp4<br>截取片段<br>ffmpeg -ss 00:00:00 -t 00:11:00 -i 1.ts -vcodec copy -acodec copy 2.ts<br>响度标准化<br>ffmpeg -hide_banner -y -i “1.mp3” -c:v copy -af “loudnorm=i=-24.0:lra=7.0:tp=-2.0:” -ab 320k “2.mp3”</p>
 <h1 id="Pr"><a href="#Pr" class="headerlink" title="Pr"></a>Pr</h1><h2 id="快捷键-1"><a href="#快捷键-1" class="headerlink" title="快捷键"></a>快捷键</h2><p>波纹剪辑：Q、W<br>工作区：I、O，；删除、‘’抽取<br>换位：Ctrl+Alt+拖动<br>素材库插入素材：，<br>全选右侧素材：A/Shift+A<br>批量调色：调整图层<br>缩放全部：<br>隐藏窗口栏：Ctrl+<br>快速选择输出范围：/<br>对齐：删除空白区域<br>寻找原素材出入点区域：F<br>钢笔：Ctrl<br>替换：源窗口-Alt+鼠标左键<br>微调：Ctrl<br>大调：Shift<br>鼠标吸附：Shift+拖动游标<br>下一标记：Shift+M<br>制作子剪辑<br>倒放：J<br>快进：L<br>停止：K<br>序列-渲染工作区域内的效果</p>
 <h2 id="效果"><a href="#效果" class="headerlink" title="效果"></a>效果</h2><p>转场：叠化、拉近、推远<br>噪点：锐化 50，VR 降噪，杂色级别：0.05<br>多余元素：中间值<br>NG 片段变速<br>字幕：方正粗圆+阴影（效果-投影）<br>节目名 80% 透明度<br>字幕：字体背景颜色不透明度改成 0</p>
 <p>VBR 及 VBR 2 次在色彩变化丰富时容易花屏，可改为 CBR。<br>码率过高常有花屏、跳帧，最大比特率设为 3 倍即可。<br>压缩率低于 5Mb/s 时，不宜使用 2-Pass，使用 VBR 1-pass 反而适合，因在流量不足的情况下，2-pass 为在有限空间内压缩更精准、保留更多细节，反而会让颗粒过度明显。使用 2-Pass，压缩率最好至少有 10Mbps 以上。</p>
