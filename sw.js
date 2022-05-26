@@ -1,3 +1,5 @@
+importScripts("/js/custom/sw-toolbox.js");
+
 var cacheVersion = "-17104";
 var staticImageCacheName = "image" + cacheVersion;
 var staticAssetsCacheName = "assets" + cacheVersion;

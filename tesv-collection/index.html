@@ -210,16 +210,12 @@
 
 <div class="top-scroll-bar"></div>
 
-
-<script>
-  document.write('<script type="text/javascript" src="/js/custom/custom.js"><\/script> <script type="text/javascript" src="/js/custom/sw-toolbox.js"><\/script>');
-</script>
-
 <canvas class="fireworks" id="canvas" style="position: fixed;left: 0;top: 0;z-index: 1; pointer-events: none;" ></canvas>
 
 <script>
+  document.write('<script type="text/javascript" src="/js/custom/custom.js"><\/script>');
 if( !/Android|webOS|iPhone|iPod|iPad|BlackBerry/i.test(navigator.userAgent)){
-  document.write('<script type="text/javascript" src="//cdn.jsdelivr.net/npm/animejs@3.1.0/lib/anime.min.js"><\/script> <script type="text/javascript" src="/js/custom/fireworks.js"><\/script>');
+  document.write('<script type="text/javascript" src="//cdn.bootcss.com/animejs/2.2.0/anime.min.js"><\/script> <script type="text/javascript" src="/js/custom/fireworks.js"><\/script>');
 }
 </script>
 
@@ -360,8 +356,8 @@ var ap = new APlayer({
     music: [{
       title: '世末歌者',
       author: '双笙 囧菌',
-      url: '/music/%E5%8F%8C%E7%AC%99%20%E5%9B%A7%E8%8F%8C%20-%20%E4%B8%96%E6%9C%AB%E6%AD%8C%E8%80%85.mp3',
-      pic: '/images/aplayer/双笙　囧菌 - 世末歌者.webp',
+      url: '/music/双笙 囧菌 - 世末歌者（Cover 乐正绫）.mp3',
+      pic: '/images/aplayer/双笙 囧菌 - 世末歌者.webp',
     }, {
       title: '幹物女(WeiWei)',
       author: '封茗囧菌',
