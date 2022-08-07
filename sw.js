@@ -73,7 +73,15 @@ self.toolbox.router.get("/(.*)", self.toolbox.cacheFirst, {
         maxEntries: maxEntries
     }
 });
-self.toolbox.router.get("/(.*)", self.toolbox.cacheFirst, {origin: /(busuanzi\.ibruce\.info)/,
+self.toolbox.router.get("/(.*)", self.toolbox.cacheFirst, {
+    origin: /(busuanzi\.ibruce\.info)/,
+    cache: {
+        name: vendorCacheName,
+        maxEntries: maxEntries
+    }
+});
+self.toolbox.router.get("/(.*)", self.toolbox.cacheFirst, {
+    origin: /(i0\.hdslb\.com)/,
     cache: {
         name: vendorCacheName,
         maxEntries: maxEntries
