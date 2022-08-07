@@ -3278,7 +3278,7 @@ mark.search-keyword {
   vertical-align: middle;
 }
 .links-of-author a::before {
-  background: #4acba8;
+  background: #e26fff;
   display: inline-block;
   margin-right: 3px;
   transform: translateY(-2px);
@@ -3455,7 +3455,6 @@ a {
   right: -736px;
   bottom: 15px;
   pointer-events: none;
-  -ms-transform: rotate(0deg);
   transform: rotate(0deg);
 }
 @media (max-width: 767px) {
@@ -3510,7 +3509,6 @@ a {
 }
 .posts-expand .post-body img:hover {
   -webkit-transform: scale(1.03);
-  -ms-transform: scale(1.03);
   transform: scale(1.03);
 }
 .posts-expand .post-body {
@@ -3802,6 +3800,20 @@ div#valine-comments {
   margin: 0;
   padding: 0;
 }
+.v[data-class="v"] .vemoji,
+.v[data-class="v"] .emoji {
+  width: 39px !important;
+  height: 39px !important;
+  margin: 5px 1px;
+}
+.v[data-class="v"] .vwrap .vemojis i {
+  width: 60px !important;
+  font-size: 24px;
+}
+.vemoji:hover {
+  -webkit-transform: scale(2);
+  transform: scale(2);
+}
 .v[data-class=v] .vcards .vcard .vcontent {
   font-size: 1rem !important;
 }
@@ -3810,9 +3822,6 @@ div#valine-comments {
 }
 .v p {
   margin-right: 20px;
-}
-.v img {
-  margin-left: 10px !important;
 }
 .v .vlist .vcard .vhead .vsys {
   background: rgba(241,240,242,0.8) !important;
