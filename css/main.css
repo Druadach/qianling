@@ -3278,7 +3278,7 @@ mark.search-keyword {
   vertical-align: middle;
 }
 .links-of-author a::before {
-  background: #2b6c63;
+  background: #ff0bff;
   display: inline-block;
   margin-right: 3px;
   transform: translateY(-2px);
@@ -3807,8 +3807,13 @@ div#valine-comments {
   margin: 5px 1px;
 }
 .v[data-class="v"] .vwrap .vemojis i {
-  width: 60px !important;
+  width: 70px !important;
   font-size: 24px;
+}
+@media (max-width: 767px) {
+  .v[data-class="v"] .vwrap .vemojis i {
+    width: 69px !important;
+  }
 }
 .vemoji {
   transition: all 0.3s ease;
