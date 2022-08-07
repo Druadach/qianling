@@ -3278,7 +3278,7 @@ mark.search-keyword {
   vertical-align: middle;
 }
 .links-of-author a::before {
-  background: #e26fff;
+  background: #2b6c63;
   display: inline-block;
   margin-right: 3px;
   transform: translateY(-2px);
@@ -3810,9 +3810,17 @@ div#valine-comments {
   width: 60px !important;
   font-size: 24px;
 }
+.vemoji {
+  transition: all 0.3s ease;
+}
 .vemoji:hover {
   -webkit-transform: scale(2);
   transform: scale(2);
+}
+@media (max-width: 767px) {
+  .vemoji:hover {
+    transform: scale(1);
+  }
 }
 .v[data-class=v] .vcards .vcard .vcontent {
   font-size: 1rem !important;
