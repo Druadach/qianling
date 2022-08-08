@@ -3278,7 +3278,7 @@ mark.search-keyword {
   vertical-align: middle;
 }
 .links-of-author a::before {
-  background: #378e25;
+  background: #e503ff;
   display: inline-block;
   margin-right: 3px;
   transform: translateY(-2px);
@@ -3310,8 +3310,14 @@ mark.search-keyword {
 .content {
   padding-top: 20px;
 }
+ul {
+  margin-left: -20px;
+}
 @media (max-width: 900px) {
   #waifu {
+    display: none;
+  }
+  .back-to-top {
     display: none;
   }
   .posts-expand .post {
@@ -3349,6 +3355,9 @@ mark.search-keyword {
 }
 @media (max-width: 900px) {
   #waifu {
+    display: none;
+  }
+  .back-to-top {
     display: none;
   }
   .posts-expand .post {
@@ -3643,15 +3652,6 @@ i.fa.fa-chevron-up {
   opacity: 0.9;
   bottom: -200px;
   z-index: 1;
-}
-@media (max-width: 767px) {
-  .back-to-top {
-    left: -15px;
-    -webkit-transform: scale(0.4);
-    -moz-transform: scale(0.4);
-    -o-transform: scale(0.4);
-    opacity: 0.8;
-  }
 }
 @media (max-width: 767px) {
   .back-to-top.back-to-top-on {
