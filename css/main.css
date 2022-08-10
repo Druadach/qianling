@@ -3278,7 +3278,7 @@ mark.search-keyword {
   vertical-align: middle;
 }
 .links-of-author a::before {
-  background: #5effdb;
+  background: #474e46;
   display: inline-block;
   margin-right: 3px;
   transform: translateY(-2px);
@@ -3359,6 +3359,11 @@ ul {
   }
   .back-to-top {
     display: none;
+  }
+  .sidebar-toggle {
+    -webkit-transform: scale(2) !important;
+    -moz-transform: scale(2) !important;
+    -o-transform: scale(2) !important;
   }
   .posts-expand .post {
     background-color: rgba(235,235,235,0.2) !important;
