@@ -3278,7 +3278,7 @@ mark.search-keyword {
   vertical-align: middle;
 }
 .links-of-author a::before {
-  background: #474e46;
+  background: #b4ff91;
   display: inline-block;
   margin-right: 3px;
   transform: translateY(-2px);
@@ -3315,6 +3315,9 @@ ul {
 }
 @media (max-width: 900px) {
   #waifu {
+    display: none;
+  }
+  .pace.pace-active {
     display: none;
   }
   .back-to-top {
@@ -3358,6 +3361,9 @@ ul {
     display: none;
   }
   .back-to-top {
+    display: none;
+  }
+  .pace.pace-active {
     display: none;
   }
   .sidebar-toggle {
