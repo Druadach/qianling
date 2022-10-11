@@ -1,0 +1,733 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+  <meta charset="UTF-8">
+<meta name="viewport" content="width=device-width">
+<meta name="theme-color" content="#222"><meta name="generator" content="Hexo 5.4.0">
+
+
+  <link rel="apple-touch-icon" sizes="180x180" href="/images/apple-touch-icon-next.png">
+  <link rel="icon" type="image/png" sizes="32x32" href="/images/favicon-32x32.png">
+  <link rel="icon" type="image/png" sizes="16x16" href="/images/favicon-16x16.png">
+  <link rel="mask-icon" href="/images/logo.svg" color="#222">
+
+<link rel="stylesheet" href="/css/main.css">
+
+<link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Noto+Serif+SC:300,300italic,400,400italic,700,700italic%7CZCOOL+XiaoWei:300,300italic,400,400italic,700,700italic&display=swap&subset=latin,latin-ext">
+
+<link rel="stylesheet" href="/fontawesome/all.min.css">
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/animate.css/3.1.1/animate.min.css" integrity="sha256-PR7ttpcvz8qrF57fur/yAx1qXMFJeJFiA6pSzWi0OIE=" crossorigin="anonymous">
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/fancybox/3.5.7/jquery.fancybox.min.css" integrity="sha256-Vzbj7sDDS/woiFS3uNKo8eIuni59rjyNGtXfstRzStA=" crossorigin="anonymous">
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/pace/1.2.4/themes/blue/pace-theme-minimal.css">
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/pace/1.2.4/pace.min.js" integrity="sha256-gqd7YTjg/BtfqWSwsJOvndl0Bxc8gFImLEkXQT8+qj0=" crossorigin="anonymous"></script>
+
+<script class="next-config" data-name="main" type="application/json">{"hostname":"qianling.pw","root":"/","images":"/images","scheme":"Muse","darkmode":false,"version":"8.11.1","exturl":false,"sidebar":{"position":"right","display":"hide","padding":18,"offset":12},"copycode":true,"bookmark":{"enable":false,"color":"#222","save":"auto"},"mediumzoom":false,"lazyload":true,"pangu":false,"comments":{"style":"tabs","active":"valine","storage":true,"lazyload":true,"nav":null,"activeClass":"valine"},"stickytabs":false,"motion":{"enable":true,"async":false,"transition":{"post_block":"fadeIn","post_header":"fadeInDown","post_body":"none","coll_header":"fadeInLeft","sidebar":"fadeInUp"}},"prism":false,"i18n":{"placeholder":"搜索...","empty":"没有找到任何搜索结果：${query}","hits_time":"找到 ${hits} 个搜索结果（用时 ${time} 毫秒）","hits":"找到 ${hits} 个搜索结果"},"path":"/search.xml","localsearch":{"enable":true,"trigger":"auto","top_n_per_article":1,"unescape":false,"preload":true}}</script><script src="/js/config.js"></script>
+
+    <meta property="og:type" content="article">
+<meta property="og:title" content="《展演科学的艺术家：萨根传》书摘">
+<meta property="og:url" content="https://qianling.pw/carl-sagan">
+<meta property="og:site_name" content="千灵">
+<meta property="og:locale" content="zh_CN">
+<meta property="og:image" content="https://qianling.pw/images/covers/218.jpg">
+<meta property="article:published_time" content="2020-08-12T05:30:35.000Z">
+<meta property="article:modified_time" content="2020-08-16T11:33:10.000Z">
+<meta property="article:author" content="千灵夙赋">
+<meta property="article:tag" content="书摘">
+<meta property="article:tag" content="传记">
+<meta name="twitter:card" content="summary">
+<meta name="twitter:image" content="https://qianling.pw/images/covers/218.jpg">
+
+
+<link rel="canonical" href="https://qianling.pw/carl-sagan">
+
+
+
+<script class="next-config" data-name="page" type="application/json">{"sidebar":"","isHome":false,"isPost":true,"lang":"zh-CN","comments":true,"permalink":"https://qianling.pw/carl-sagan","path":"carl-sagan","title":"《展演科学的艺术家：萨根传》书摘"}</script>
+
+<script class="next-config" data-name="calendar" type="application/json">""</script>
+<title>《展演科学的艺术家：萨根传》书摘 | 千灵</title>
+  
+    <script async src="https://www.googletagmanager.com/gtag/js?id=UA-141264217-1"></script>
+  <script class="next-config" data-name="google_analytics" type="application/json">{"tracking_id":"UA-141264217-1","only_pageview":false}</script>
+  <script src="/js/third-party/analytics/google-analytics.js"></script>
+
+  <script src="/js/third-party/analytics/baidu-analytics.js"></script>
+  <script async src="https://hm.baidu.com/hm.js?b95f636e57f871a4ea1faeae2b4f30e5"></script>
+
+
+
+
+  <noscript>
+    <link rel="stylesheet" href="/css/noscript.css">
+  </noscript>
+<link rel="alternate" href="/atom.xml" title="千灵" type="application/atom+xml">
+</head>
+
+<body itemscope itemtype="http://schema.org/WebPage" class="use-motion">
+  <div class="headband"></div>
+
+  <main class="main">
+    <header class="header" itemscope itemtype="http://schema.org/WPHeader">
+      <div class="header-inner"><div class="site-brand-container">
+  <div class="site-nav-toggle">
+    <div class="toggle" aria-label="切换导航栏" role="button">
+        <span class="toggle-line"></span>
+        <span class="toggle-line"></span>
+        <span class="toggle-line"></span>
+    </div>
+  </div>
+
+  <div class="site-meta">
+
+    <a href="/" class="brand" rel="start">
+      <i class="logo-line"></i>
+      <p class="site-title">千灵</p>
+      <i class="logo-line"></i>
+    </a>
+  </div>
+
+  <div class="site-nav-right">
+    <div class="toggle popup-trigger">
+        <i class="fa fa-search fa-fw fa-lg"></i>
+    </div>
+  </div>
+</div>
+
+
+
+<nav class="site-nav">
+  <ul class="main-menu menu"><li class="menu-item menu-item-home"><a href="/" rel="section"><i class="fas fa-flower fa-fw"></i>首页</a></li><li class="menu-item menu-item-categories"><a href="/categories/" rel="section"><i class="fa fa-cookie fa-fw"></i>分类</a></li><li class="menu-item menu-item-archives"><a href="/archives/" rel="section"><i class="fas fa-acorn fa-fw"></i>归档</a></li><li class="menu-item menu-item-play"><a href="/play/" rel="section"><i class="fa fa-fish fa-fw"></i>游戏</a></li><li class="menu-item menu-item-message"><a href="/message/" rel="section"><i class="fa fa-dog fa-fw"></i>留言</a></li><li class="menu-item menu-item-about"><a href="/about/" rel="section"><i class="fa fa-carrot fa-fw"></i>关于</a></li>
+      <li class="menu-item menu-item-search">
+        <a role="button" class="popup-trigger"><i class="fa fa-search fa-fw"></i>搜索
+        </a>
+      </li>
+  </ul>
+</nav>
+
+
+
+  <div class="search-pop-overlay">
+    <div class="popup search-popup"><div class="search-header">
+  <span class="search-icon">
+    <i class="fa fa-search"></i>
+  </span>
+  <div class="search-input-container">
+    <input autocomplete="off" autocapitalize="off" maxlength="80"
+           placeholder="搜索..." spellcheck="false"
+           type="search" class="search-input">
+  </div>
+  <span class="popup-btn-close" role="button">
+    <i class="fa fa-times-circle"></i>
+  </span>
+</div>
+<div class="search-result-container no-result">
+  <div class="search-result-icon">
+    <i class="fa fa-spinner fa-pulse fa-5x"></i>
+  </div>
+</div>
+
+    </div>
+  </div>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.6.0/jquery.min.js"></script>
+
+<div class="top-scroll-bar"></div>
+
+<canvas class="fireworks" id="canvas" style="position: fixed;left: 0;top: 0;z-index: 1; pointer-events: none;" ></canvas>
+
+<script>
+  document.write('<script type="text/javascript" src="/js/custom/custom.js"><\/script>');
+if( !/Android|webOS|iPhone|iPod|iPad|BlackBerry/i.test(navigator.userAgent)){
+  document.write('<script type="text/javascript" src="//cdn.bootcss.com/animejs/2.2.0/anime.min.js"><\/script> <script type="text/javascript" src="/js/custom/fireworks.js"><\/script>');
+}
+</script>
+
+<!-- 动态背景 -->
+<script>
+if( !/Android|webOS|iPhone|iPod|iPad|BlackBerry/i.test(navigator.userAgent)){
+  document.write('<script type="text/javascript" src="/js/custom/jquery.backstretch.min.js"><\/script>');
+}
+</script>
+<script type="text/javascript">
+  $("body").backstretch([
+    "/images/background/background (1).webp",
+    "/images/background/background (2).webp",
+    "/images/background/background (3).webp",
+    "/images/background/background (4).webp",
+    "/images/background/background (5).webp",
+    "/images/background/background (6).webp",
+    "/images/background/background (7).webp",
+    "/images/background/background (8).webp",
+  ], {duration: 60000, fade: 1000, animateFirst: true});
+</script>
+
+<!-- live2d -->
+<div id="waifu">
+  <div class="waifu-tips" style="opacity: 0;"></div>
+  <canvas id="live2d" width="280" height="250" class="live2d"></canvas>
+</div>
+<script>
+if( !/Android|webOS|iPhone|iPod|iPad|BlackBerry/i.test(navigator.userAgent)){
+  document.write('<script type="text/javascript" src="/live2d/live2d.js"><\/script> <script type="text/javascript" src="/live2d/waifu-tips.js"><\/script>');
+}
+</script>
+
+<!-- 打字礼花及震动特效 -->
+<script>
+if( !/Android|webOS|iPhone|iPod|iPad|BlackBerry/i.test(navigator.userAgent)){
+  document.write('<script type="text/javascript" src="/js/custom/activate-power-mode.js"><\/script>');
+}
+</script>
+<script>
+    POWERMODE.colorful = true; // ture 为启用礼花特效
+    POWERMODE.shake = false; // false 为禁用震动特效
+    document.body.addEventListener('input', POWERMODE);
+</script>
+
+</div>
+        
+  
+  <div class="toggle sidebar-toggle" role="button">
+    <span class="toggle-line"></span>
+    <span class="toggle-line"></span>
+    <span class="toggle-line"></span>
+  </div>
+
+  <aside class="sidebar">
+
+    <div class="sidebar-inner sidebar-nav-active sidebar-toc-active">
+      <ul class="sidebar-nav">
+        <li class="sidebar-nav-toc">
+          文章目录
+        </li>
+        <li class="sidebar-nav-overview">
+          站点概览
+        </li>
+      </ul>
+
+      <div class="sidebar-panel-container">
+        <!--noindex-->
+        <div class="post-toc-wrap sidebar-panel">
+            <div class="post-toc animated"><ol class="nav"><li class="nav-item nav-level-1"><a class="nav-link" href="#%E8%AF%91%E8%80%85%E5%89%8D%E8%A8%80"><span class="nav-text">译者前言</span></a></li><li class="nav-item nav-level-1"><a class="nav-link" href="#%E5%BA%8F%E8%A8%80"><span class="nav-text">序言</span></a></li><li class="nav-item nav-level-1"><a class="nav-link" href="#%E7%AC%AC%E4%B8%80%E7%AB%A0-%E5%B8%83%E9%B2%81%E5%85%8B%E6%9E%97%E5%8C%BA"><span class="nav-text">第一章　布鲁克林区</span></a></li><li class="nav-item nav-level-1"><a class="nav-link" href="#%E7%AC%AC%E4%BA%8C%E7%AB%A0-%E8%8A%9D%E5%8A%A0%E5%93%A5"><span class="nav-text">第二章　芝加哥</span></a></li><li class="nav-item nav-level-1"><a class="nav-link" href="#%E7%AC%AC%E4%B8%89%E7%AB%A0-%E5%9C%B0%E7%89%A2"><span class="nav-text">第三章　地牢</span></a></li><li class="nav-item nav-level-1"><a class="nav-link" href="#%E7%AC%AC%E5%9B%9B%E7%AB%A0-%E5%88%B6%E9%AB%98%E7%82%B9"><span class="nav-text">第四章　制高点</span></a></li><li class="nav-item nav-level-1"><a class="nav-link" href="#%E7%AC%AC%E4%BA%94%E7%AB%A0-%E5%8A%A0%E5%88%A9%E7%A6%8F%E5%B0%BC%E4%BA%9A"><span class="nav-text">第五章　加利福尼亚</span></a></li><li class="nav-item nav-level-1"><a class="nav-link" href="#%E7%AC%AC%E5%85%AD%E7%AB%A0-%E5%93%88%E4%BD%9B"><span class="nav-text">第六章　哈佛</span></a></li><li class="nav-item nav-level-1"><a class="nav-link" href="#%E7%AC%AC%E4%B8%83%E7%AB%A0-%E7%81%AB%E6%98%9F%E5%92%8C%E5%90%97%E5%93%AA"><span class="nav-text">第七章　火星和吗哪</span></a></li><li class="nav-item nav-level-1"><a class="nav-link" href="#%E7%AC%AC%E5%85%AB%E7%AB%A0-X-%E5%85%88%E7%94%9F"><span class="nav-text">第八章　X 先生</span></a></li><li class="nav-item nav-level-1"><a class="nav-link" href="#%E7%AC%AC%E4%B9%9D%E7%AB%A0-%E7%A5%9E%E4%BA%A6%E5%A6%82%E4%BA%BA"><span class="nav-text">第九章　神亦如人</span></a></li><li class="nav-item nav-level-1"><a class="nav-link" href="#%E7%AC%AC%E5%8D%81%E7%AB%A0-%E5%88%86%E7%95%8C%E7%BA%BF"><span class="nav-text">第十章　分界线</span></a></li><li class="nav-item nav-level-1"><a class="nav-link" href="#%E7%AC%AC%E5%8D%81%E4%B8%80%E7%AB%A0-%E3%80%8A%E4%BC%8A%E7%94%B8%E5%9B%AD%E7%9A%84%E9%A3%9E%E9%BE%99%E3%80%8B"><span class="nav-text">第十一章 《伊甸园的飞龙》</span></a></li><li class="nav-item nav-level-1"><a class="nav-link" href="#%E7%AC%AC%E5%8D%81%E4%BA%8C%E7%AB%A0-%E5%AE%89%C2%B7%E5%BE%B7%E9%B2%81%E6%89%AC"><span class="nav-text">第十二章　安·德鲁扬</span></a></li><li class="nav-item nav-level-1"><a class="nav-link" href="#%E7%AC%AC%E5%8D%81%E4%B8%89%E7%AB%A0-%E3%80%8A%E5%AE%87%E5%AE%99%E3%80%8B"><span class="nav-text">第十三章 《宇宙》</span></a></li><li class="nav-item nav-level-1"><a class="nav-link" href="#%E7%AC%AC%E5%8D%81%E5%9B%9B%E7%AB%A0-%E3%80%8A%E6%8E%A5%E8%A7%A6%E3%80%8B"><span class="nav-text">第十四章 《接触》</span></a></li><li class="nav-item nav-level-1"><a class="nav-link" href="#%E7%AC%AC%E5%8D%81%E4%BA%94%E7%AB%A0-L-%E4%B9%8B%E5%80%BC"><span class="nav-text">第十五章　L 之值</span></a></li><li class="nav-item nav-level-1"><a class="nav-link" href="#%E7%AC%AC%E5%8D%81%E5%85%AD%E7%AB%A0-%E5%9B%9E%E9%A6%96%E4%B8%80%E9%A1%BE%E5%85%AE%EF%BC%8C%E5%9B%9E%E7%9C%B8%E4%B8%80%E7%9B%BC"><span class="nav-text">第十六章　回首一顾兮，回眸一盼</span></a></li><li class="nav-item nav-level-1"><a class="nav-link" href="#%E7%AC%AC%E5%8D%81%E4%B8%83%E7%AB%A0-%E5%A5%BD%E8%8E%B1%E5%9D%9E"><span class="nav-text">第十七章　好莱坞</span></a></li><li class="nav-item nav-level-1"><a class="nav-link" href="#%E7%AC%AC%E5%8D%81%E5%85%AB%E7%AB%A0-%E5%A4%9C%E8%A1%8C%E8%BD%A6"><span class="nav-text">第十八章　夜行车</span></a></li></ol></div>
+        </div>
+        <!--/noindex-->
+
+        <div class="site-overview-wrap sidebar-panel">
+          <div class="site-author site-overview-item animated" itemprop="author" itemscope itemtype="http://schema.org/Person">
+    <img class="site-author-image" itemprop="image" alt="千灵夙赋"
+      src="/images/avatar.png">
+  <p class="site-author-name" itemprop="name">千灵夙赋</p>
+  <div class="site-description" itemprop="description"></div>
+</div>
+<div class="site-state-wrap site-overview-item animated">
+  <nav class="site-state">
+      <div class="site-state-item site-state-posts">
+        <a href="/archives/">
+          <span class="site-state-item-count">194</span>
+          <span class="site-state-item-name">日志</span>
+        </a>
+      </div>
+      <div class="site-state-item site-state-categories">
+          <a href="/categories/">
+        <span class="site-state-item-count">39</span>
+        <span class="site-state-item-name">分类</span></a>
+      </div>
+      <div class="site-state-item site-state-tags">
+          <a href="/tags/">
+        <span class="site-state-item-count">56</span>
+        <span class="site-state-item-name">标签</span></a>
+      </div>
+  </nav>
+</div>
+
+
+  <div class="links-of-blogroll site-overview-item animated">
+    <div class="links-of-blogroll-title"><i class="fa fa-link fa-fw"></i>
+      Friends
+    </div>
+    <ul class="links-of-blogroll-list">
+        <li class="links-of-blogroll-item">
+          <a href="https://meow3.family.blog/" title="https:&#x2F;&#x2F;meow3.family.blog&#x2F;" rel="noopener" target="_blank">恶魔菌の记事簿</a>
+        </li>
+        <li class="links-of-blogroll-item">
+          <a href="https://lanyundev.vercel.app/" title="https:&#x2F;&#x2F;lanyundev.vercel.app&#x2F;" rel="noopener" target="_blank">LanYun</a>
+        </li>
+        <li class="links-of-blogroll-item">
+          <a href="https://www.julydate.com/" title="https:&#x2F;&#x2F;www.julydate.com&#x2F;" rel="noopener" target="_blank">七夏浅笑</a>
+        </li>
+    </ul>
+  </div>
+<div id="aplayer" class="aplayer"></div>
+<script>
+if( !/Android|webOS|iPhone|iPod|iPad|BlackBerry/i.test(navigator.userAgent)){
+  document.write('<script type="text/javascript" src="/js/custom/APlayer.min.js"><\/script>');
+}
+</script>
+<script type="text/javascript">
+var ap = new APlayer({
+    element: document.getElementById('aplayer'),                       // Optional, player element
+    narrow: false,                                                     // Optional, narrow style
+    autoplay: false,                                                    // Optional, autoplay song(s), not supported by mobile browsers
+    showlrc: 0,                                                        // Optional, show lrc, can be 0, 1, 2, see: ###With lrc
+    mutex: true,                                                       // Optional, pause other players when this player playing
+    theme: '#e6d0b2',                                                  // Optional, theme color, default: #b7daff
+    mode: 'random',                                                    // Optional, play mode, can be `random` `single` `circulation`(loop) `order`(no loop), default: `circulation`
+    preload: 'metadata',                                               // Optional, the way to load music, can be 'none' 'metadata' 'auto', default: 'auto'
+    listmaxheight: '513px',                                             // Optional, max height of play list
+    music: [{
+      title: '世末歌者',
+      author: '双笙 囧菌',
+      url: '/music/双笙 囧菌 - 世末歌者（Cover 乐正绫）.mp3',
+      pic: '/images/aplayer/双笙 囧菌 - 世末歌者.webp',
+    }, {
+      title: '幹物女(WeiWei)',
+      author: '封茗囧菌',
+      url: '/music/%E5%B0%81%E8%8C%97%E5%9B%A7%E8%8F%8C%20-%20%E5%B9%B9%E7%89%A9%E5%A5%B3(WeiWei).mp3',
+      pic: '/images/aplayer/封茗囧菌 - 幹物女(WeiWei).webp',
+    }, {
+      title: '东京不太热',
+      author: '封茗囧菌',
+      url: '/music/%E5%B0%81%E8%8C%97%E5%9B%A7%E8%8F%8C%20-%20%E4%B8%9C%E4%BA%AC%E4%B8%8D%E5%A4%AA%E7%83%AD.mp3',
+      pic: '/images/aplayer/封茗囧菌 - 东京不太热.webp',
+    }, {
+      title: '有故事的小仙女（Cover 初音ミク）',
+      author: '井宿',
+      url: '/music/%E4%BA%95%E5%AE%BF%20-%20%E6%9C%89%E6%95%85%E4%BA%8B%E7%9A%84%E5%B0%8F%E4%BB%99%E5%A5%B3%EF%BC%88Cover%20%E5%88%9D%E9%9F%B3%E3%83%9F%E3%82%AF%EF%BC%89.mp3',
+      pic: '/images/aplayer/井宿 - 有故事的小仙女（Cover 初音ミク）.webp',
+    }, {
+      title: '拼凑的断音（Cover 洛天依）',
+      author: '泡泡Hansy',
+      url: '/music/%E6%B3%A1%E6%B3%A1Hansy%20-%20%E6%8B%BC%E5%87%91%E7%9A%84%E6%96%AD%E9%9F%B3%EF%BC%88Cover%20%E6%B4%9B%E5%A4%A9%E4%BE%9D%EF%BC%89.mp3',
+      pic: '/images/aplayer/泡泡Hansy - 拼凑的断音（Cover 洛天依）.webp',
+    }]
+  });
+</script>
+
+        </div>
+      </div>
+    </div>
+  </aside>
+  <div class="sidebar-dimmer"></div>
+
+
+    </header>
+
+    
+  <div class="back-to-top" role="button" aria-label="返回顶部">
+    <i class=" fa fa-chevron-up"></i>
+    <span>0%</span>
+  </div>
+
+<noscript>
+  <div class="noscript-warning">Theme NexT works best with JavaScript enabled</div>
+</noscript>
+
+
+    <div class="main-inner post posts-expand">
+
+
+  
+
+
+<div class="post-block">
+  
+  
+
+  <article itemscope itemtype="http://schema.org/Article" class="post-content" lang="zh-CN">
+    <link itemprop="mainEntityOfPage" href="https://qianling.pw/carl-sagan">
+
+    <span hidden itemprop="author" itemscope itemtype="http://schema.org/Person">
+      <meta itemprop="image" content="/images/avatar.png">
+      <meta itemprop="name" content="千灵夙赋">
+    </span>
+
+    <span hidden itemprop="publisher" itemscope itemtype="http://schema.org/Organization">
+      <meta itemprop="name" content="千灵">
+      <meta itemprop="description" content="">
+    </span>
+
+    <span hidden itemprop="post" itemscope itemtype="http://schema.org/CreativeWork">
+      <meta itemprop="name" content="《展演科学的艺术家：萨根传》书摘 | 千灵">
+      <meta itemprop="description" content="">
+    </span>
+      <header class="post-header">
+        <h1 class="post-title" itemprop="name headline">
+          《展演科学的艺术家：萨根传》书摘
+        </h1>
+
+        <div class="post-meta-container">
+          <div class="post-meta">
+    <span class="post-meta-item">
+      <span class="post-meta-item-icon">
+        <i class="far fa-calendar"></i>
+      </span>
+      <span class="post-meta-item-text">发表于</span>
+
+      <time title="创建时间 2020-08-12 13:30:35" itemprop="dateCreated datePublished" datetime="2020-08-12T13:30:35+08:00">2020-08-12</time>
+    </span>
+    <span class="post-meta-item">
+      <span class="post-meta-item-icon">
+        <i class="far fa-calendar-check"></i>
+      </span>
+      <span class="post-meta-item-text">更新于</span>
+      <time title="修改时间 2020-08-16 19:33:10" itemprop="dateModified" datetime="2020-08-16T19:33:10+08:00">2020-08-16</time>
+    </span>
+    <span class="post-meta-item">
+      <span class="post-meta-item-icon">
+        <i class="far fa-folder"></i>
+      </span>
+      <span class="post-meta-item-text">分类于</span>
+        <span itemprop="about" itemscope itemtype="http://schema.org/Thing">
+          <a href="/categories/%E4%BC%A0%E8%AE%B0/" itemprop="url" rel="index"><span itemprop="name">传记</span></a>
+        </span>
+    </span>
+
+  
+    <span id="/carl-sagan" class="post-meta-item leancloud_visitors" data-flag-title="《展演科学的艺术家：萨根传》书摘" title="阅读次数">
+      <span class="post-meta-item-icon">
+        <i class="far fa-eye"></i>
+      </span>
+      <span class="post-meta-item-text">阅读次数 </span>
+      <span class="leancloud-visitors-count"></span>
+    </span>
+  
+  <span class="post-meta-item">
+    <a title="valine" href="/carl-sagan#valine-comments" itemprop="discussionUrl">
+    
+    <span class="post-meta-item-icon">
+      <i class="far fa-comment"></i>
+    </span>
+    <span class="post-meta-item-text">评论数</span>
+  
+      <span class="post-comments-count valine-comment-count" data-xid="/carl-sagan" itemprop="commentCount"></span>
+    </a>
+  </span>
+  
+  
+</div>
+
+        </div>
+      </header>
+
+    
+    
+    
+    <div class="post-body" itemprop="articleBody">
+        <p><img data-src="/images/covers/218.jpg"></p>
+<span id="more"></span>
+
+<hr>
+<p><strong><div class="center">展演科学的艺术家：萨根传 /（美）戴维森（Davidson，K.）著；暴永宁译；吴伯泽校. — 上海：上海科技教育出版社，2014.6<br>（科学大师传记精选）<br>书名原文：Carl Sagan: A life<br>ISBN 978-7-5428-5902-0</div></strong></p>
+<hr>
+<p>衡量第一流智力的标准，是能否在头脑中同时持有两种相反的观念，并仍能发挥其功能。<br>——菲茨杰拉尔德（Francis Scott Fitzgerald）</p>
+<p>每个人的精神世界，确实都犹如一个蚁冢，里面包容着相反的倾向。认为性格具有确定属性乃是一种错觉。<br>——达雷尔（Lawrence Durrell）</p>
+<h1 id="译者前言"><a href="#译者前言" class="headerlink" title="译者前言"></a>译者前言</h1><p>今人不复闻现代的雪莱（Percy Byshe Shelley）和拜伦（George Gordon Byron），并不是这种人的基因不再重现，而是让他们的基因起作用的环境已不复存在。我想，如果把莫扎特请出来，让他坐在机场的候机厅里，面对川流不息的人群和不断起落的飞机，他十有八九也会写出节奏重于旋律的摇滚乐来的。<br>　　凡本书涉及的，估计读者未必会一目了然的内容，如果可在最常见的工具书中查找到，我便不再赘注了。而对于许多常用工具书中未提到的词条，我则尽己所知做了注解。另外，为方便读者计，凡涉及人名、地名以及历史事件的地方，也较多地加了注释。至于书中一些不常见的地名和机构，译法未必十分妥当，尚祈读者见谅并赐教。</p>
+<h1 id="序言"><a href="#序言" class="headerlink" title="序言"></a>序言</h1><p>　　1969 年，我 16 岁时，一个秋日的夜晚，我连作业都没做，就躺到了床上，读起了几年前出版的一本妙不可言的书，书名是《宇宙中的智慧生命》。这本书的作者是两位天文学家，一位是苏联人，名叫什克洛夫斯基（I.S.Shklovskii）；另一位是美国人，叫卡尔·萨根。这本书改变了我的一生。我揣想，如果我当初没有读过这本书，我在过去 30 年来所想过、读过和写过的东西，大部分都未必会发生。这本书的开头部分有一幅黑白照片，上面是银河系中心附近的繁密群星。在照片的下方写着这样的话：“这幅照片中大约有 100 万颗恒星。根据本书第二十九章的估算，会有一个远比我们人类先进的技术文明，存在于这里的某个恒星的某颗行星上。”我凝神注视着这张照片，看了许久许久。<br>　　萨根和什克洛夫斯基向我揭示了迷人的字宙。在他们的设想中，一个个星系就有如一个个微生物培养皿，里面尽是欣欣向荣的生命。而且，在成百上千万个世界里，生命可能已然从微生物进化为智慧生命。这些生物大概很想知道宇宙间其他地方的情况，而且正向四面八方发送出无线电信号，希冀找到别的智慧生命。也许，就在我看这本书的时候，这种肉眼看不见的无线电波编码正携载着不知多少个世纪的知识，从我的卧室里穿过呢！<br>　　然而，人们相信合理的事情，却会出于非理性的原因。从过来人的角度看，我认识到自己年轻时接受外星生命的观念，主要是出于心理方面的原因：填补空荡的心灵。我想要相信外星人存在，于是乎就相信了。至于理性的科学论证——它们自然是极有价值的——则是后来的事情。<br>　　他在获得普利策奖的著作《伊甸园的飞龙》（1977年）中明确地告诉人们，真正的理性识见和非理性识见——有人乐于称后者为“直觉”，两者都是重要的，在通向真理的道路上，这两者是携手并进的。</p>
+<p>　　科学史上从至少部分不正确的理由得出正确理论的科学家实在是太多了。例如，提出地球绕太阳运转的哥白尼（Nicolaus Copernicus）便是其中之一，大陆漂移说的著名先驱人物魏格纳（Alfred Wegener）更是如此。<br>　　科学往往并不像中学教科书中描述的那样，以简单的、线性的和逻辑的方式发展。真正的科学发展，往往会涉及侥幸的揣想、不合潮流的预感和不管不顾的臆测。对于空间科学之类的“前沿学科”来说，由于掌握的信息有限，前进就更是主要靠机敏的仰头想象而非小心的低头耕耘。</p>
+<p>　　萨根最大的名声，来自他是一位科学普及家。在这方面，特别值得一提的是 1980 年播出的、由他担任主角的电视系列片《宇宙》。它吸引了大约 5 亿名观众。萨根去世后，古尔德（Stephen Jay Gould）在《科学》杂志上写道，萨根是“20 世纪最伟大的科学普及家”。美国科学院于 1994 年授予萨根“公共福利奖章”，就是因为在公众心目中，“卡尔·萨根的名字比在世的所有美国科学家更与科学紧密相联”。<br>　　名气会使人头脑发胀。萨根的头脑就曾胀得非同小可。证明他曾属于这种状态的人着实不少。笔者本人虽然对他颇怀敬意，但他摆出的那股无所不知、无人可撼动的架势，却一直让我颇不受用。他总是一副难不住的样子，对无论什么问题都有现成的答案（有时相当肤浅）——至少在公众面前是这副形象。相比之下，其他科学家就很少会表现出他那种永远胸有成竹的样子来。在那些科学家看来，把握住真理，就像使水银停住不动一样困难。萨根所表现出的无所不知的形象，使他带上一种不食人间烟火的做派。<br>　　如今对我来说，他那种不为所动的神情，与其说是出自傲慢，毋宁说是出自半下意识的姿态，而这种姿态是为了表现自己的“客观”。许多优秀的科学家都表现出这种姿态：他们要宣传，要交流，便需要有一种神气十足的架子，带着种超然的派头，像法官，像神父，给人们他们希望的形象——在事实面前客观、中立、不带偏见。科学的特殊地位，在很大程度上是由公众的这种态度造成的。如果科学家不表现出这样的形象，他们讲出的话，就未必会像诗人、艺术家、宗教人士或政界人物那样值得信赖。</p>
+<p>　　有资格对核力量发表观点，并不一定需要取得核工程博士的头衔。同样地，就遗传学问题发表看法，也并不要非先取得遗传工程学的学位不可；就选举最高法院候选人的问题表态，并不是法学博士的特有权利；对联邦储备局的人士任免发表看法，也并不以有无金融经济学学位为先决条件。<br>　　不过，具备一定的知识也是必要的，否则，在以知识为基础的高科技社会里，民主就成了没有意义的空话。因此，我们需要越来越多的普及家。萨根在 20 世纪 80 年代努力向公众介绍“核冬天”的知识，就与这种社会需求有关，这就是说，要让民众相信，他们并非不能理解有关核战略与核武器的技术性内容，而且他们还有资格发表自己的观点。克列孟梭（Georges Clemenceau）曾经说过，战争太重要了，不能全盘交给将军们。同样地，核武器太重要了，不能全盘交给核武器的研制人员。<br>　　遗憾的是，萨根没有给人们留下显眼的接班人——能具备他所具有的异常广泛的兴趣、杰出的文学造诣、卓越的表演才能、科学上的出众勇敢，以及进步的政治观念的科学家。他是文艺复兴时代式的人物。糟糕的是，科学的发展趋势是使文艺复兴时代式的人物变得愈来愈罕见。如今的时代，是“大科学”变成“大生意”的时代——大学为软件和生物技术合同吵得不可开交便是明证。科学领域也如在工厂里一样，社会分工日趋细密，因此，像萨根这样有多学科知识、并且不怕打破学科间壁垒的人，正变得越来越少。而具有多学科造诣的人的减少，又会在政治上产生长期影响。害怕跨越学科界限的人，不可能成为既见树木、又见森林的人物，也就无从批评社会对科学的误用。<br>　　萨根是知识大众化这一伟大传统的组成部分。这一传统以种种不同的方式实现，它可以是杜朗夫妇（WillDurant和Ariel Durant）”的史学著作，可以是阿西莫夫（lsaac Asimov）和霍格本（Lancelot Hogben）的科普读物。这一传统的形成，是基于一种基本信念，这就是在人类越来越依靠知识的时代里，如果想使民主得到保障，就必须实现知识的民主化。知识就是力量。</p>
+<h1 id="第一章-布鲁克林区"><a href="#第一章-布鲁克林区" class="headerlink" title="第一章　布鲁克林区"></a>第一章　布鲁克林区</h1><p>　　为了养家，萨姆到叔叔的工厂去上班，当了名裁料工。他的工作，就是操作一台强大得吓人的裁剪锯，用一大堆布料裁出各种长短女装的部位来，什么后片啦，袖子啦，等等。裁出的布片就被送到好多排一眼望不到头的缝纫机那里，每台缝纫机后都坐着一名女工。这里的空气中弥漫着布丝，萨姆后来的死，说不定就和这些丝絮被吸入肺内有关。</p>
+<p>　　作为科学普及家，卡尔·萨根有时会借助自己儿时的回忆来解释科学方面的内容。在他与妻子安·德鲁扬合写的《淡忘祖先的影子》一书中，就有这样一段话：“你大抵能记得，自己躺在有围栏的小床里，一觉醒过来，哭着要找妈妈。刚开始倒还无所谓，但总也看不到，就动真格的了。你害怕了，心里会想到——当然不是通过言语，因为这时候语言能力尚未得到发展——她在哪里呢？为什么不来呀？诸如此类。她微笑着来了，伸出双臂把你抱了起来，你听到她唱歌般的声音，闻到她的香气，这有多开心呀！”<br>　　雷切尔爱自己的小宝贝儿子爱得要命。她对儿子说他多么聪明能干，儿子也相信妈妈的话。雷切尔对儿子的情感，别人看了有的慨叹，有的讪笑，有的反感。在卡尔第一次婚礼上充当男傧相的彼得·佩施就开玩笑地说过：“她就连卡尔踩过的地面也会崇拜。她认为儿子从来就不会错。人生这样开始——被妈妈捧为太阳、月亮和大地——可真是不赖。”卡尔的童年友伴也记得，雷切尔当年逢人便夸耀自己的儿子，如告诉大家说“瞧！卡尔得了个 A”什么的。°作家费里斯也有这样的印象：“已经上了年纪的雷切尔“这位老妈妈，在如今已空出来的卧室里摆上卡尔的所有奖状奖品什么的，弄得像个神龛，供着一个成就不断的人物。”<br>　　卡尔的第一任妻子、科学家兼作家琳因·马古利斯（Lynn Margulis）说过：“如果不先好好理解一下卡尔的妈妈，就不可能理解卡尔本人。他妈妈把他弄得太依赖于她了。他认为自己有理由得到所有的关心，认为他的每个要求都应当得到满足。永远如此。”<br>　　虽说有母亲全心全意的呵护，小萨根的生活中还存在着看不见的畏惧。据他本人回忆，打从两岁的时候起，他就“受到纯属想象、但又十分真实的‘怪物’恐吓，特别是在夜里和暗处。有时候，会吓得魂不附体，躲在被子里面，直到再也呆不住了，这才没命地跑到父母的房间里去。<br>　　雷切尔对卡尔的关注效果有正面的，也有反面的。她本人经历过生活中的阴暗面。为此，她不能容忍别人把生活设想得太虚幻，哪怕是孩子也不成。稍不实际，便会使她愤懑忧烦。卡尔在自己生涯的最后岁月，曾回忆起 5 岁时“刮大风的一个秋日”，他和妈妈呆在起居室里，隔着窗子眺望纽约的南海湾。那一天水急浪高，正值太阳接近落山。母子俩看着大西洋——大洋彼岸，第二次世界大战正在发端。雷切尔告诉卡尔说：“在那一边，有人正在打仗，你要杀我，我要杀你。”卡尔回答说：“是啊，我能看到他们。”雷切尔则不高兴地说：“不对，你看不到的。他们离得太远了。”<br>　　这件事情似乎无足轻重，却一直令萨根难以忘怀：向来百依百顺的母亲这下子跟自己拧着了！卡尔后来对此是这样说的：“我看得到看不到，她怎么能知道呢？……我在向远处张望时，是觉得地平线那里有一小条陆地，上面有小人儿拿着剑捅来捅去地对打，就跟我在滑稽画册里看到的一样。”</p>
+<p>　　狂傲往往是缺乏安全感造成的。妄自尊大常常被用来掩盖无知。这是在心理学上得到确认的结论。</p>
+<p>　　在卡尔四五岁时，爸爸妈妈带他去逛 1939-1940 年的纽约世界博览会。这一家人手中拿着自己的午餐，走过一个兜售铅笔的男人。萨姆便拿过卡尔手中的苹果给了这个人。卡尔并不喜欢吃苹果，但这是他的苹果啊，于是，他便嚷嚷起来。萨姆不愿令那人难堪，便等他们走到这个人听不见的地方时才说：“我们并不真的需要这只苹果，而那个人可是饿着肚子呢。”这是卡尔永远不会忘记的一课。多年之后，他与美国极右翼分子成了仇敌。</p>
+<p>　　后来，当萨根从回顾的角度评价这届博览会时，承认自己对它传递的“极端技术政治性的”信息是“囫囵吞枣地”接受的。小卡尔的想法是：“嘿！明天就是这样的呀！我将来会生活在这里头吗？”看到一只闪光灯打到一只光电池上，随之产生一阵叽叽声。这让小卡尔看得目瞪口呆。又看到一件展品，是一只音叉发出的声音，被转化成一道正弦波，显示到一只示波器上。卡尔得到的印象是：“很明显，这个世界上有我从不曾想象到的许多奇妙的事物。一股声音，怎么能够变成一幅图形；一道光，又怎么能够化为一阵声音呢？”</p>
+<p>　　“把不让卡尔感受到战争恐怖当做头等大事。……二次大战和纳粹的大屠杀，是摆在母亲面前的特大难题。我们家里从不谈论这些事，至少我不记得有这种谈论。……我们有亲戚就死于大屠杀”。”雷切尔蒙起卡尔的眼睛，不让他看到正在发生的天昏地暗的恐怖，是为了让卡尔成长为乐观主义者。从情感的角度来看，乐观主义会给他带来最强大的力量；从智力的角度来看，乐观主义会使他挑起最大的重担。乐观，这是卡尔·萨根戴上的眼罩，使他在政治上天真烂漫。他这副眼罩一直戴到 50 岁才摘掉。这时他才发现，在一向自认为是天堂的世界上，原来是有毒龙出没的。这毒龙就是核时代，就是使世界在核战争中毁灭的威胁。卡尔的这一矛盾心态源自母亲。</p>
+<p>　　小卡尔“有股鼻子翘到天上的神气”，与多数孩子都不一样：“他对别的孩子很冷淡，说他不合群，那是再恰当不过了。他总是转着和别人不一样的念头。……据我看，他妈妈给他灌了迷汤，让他觉得自己一家人比那些‘长在马路上’的孩子们强。……我跟他说话，谈的内容是无法跟别的朋友提及的。我同其他朋友的关系，几乎可以说只有一个维度，这就是说，其中没有智力的或文化上的交流。而我与卡尔的交谈，则建立在不同的档次上。”<br>　　卡尔·萨根的父母加入了自由民主党。而且在萨根的邻舍中，不少人的政治观念更为偏左。政治上的活跃气氛，培养了萨根毕生的自由意识和宽容态度（这里不妨引用欧文·豪（Irving Howe）‘的话：“宽容的态度即不应计较他人的奇癖、怪异、空想或极端，在犹太人的圈子里相当普遍”）。”萨根成年后，肯与同他观念上对立的人（从搞伪科学的人，到有神论者和膜武主义者）心平气和地接触，而不是疾言厉色地大力诛伐，恐怕便同这种宽容精神不无关系。<br>　　卡尔的父母同样掌握这门自我控制的本领。罗伯特说过：“我从未看到他们对卡尔动个手指头。他是他们的心肝宝贝。从物质的角度来说，他从父母那里得到的，要大大超过其他孩子。”萨根家那时在经济上并不宽裕，卡尔要同父母同睡一个房间。但是，萨姆和雷切尔能够造成一种有教养的向上气氛，他们甚至设法买了一架小钢琴。对卡尔来说，他过的是“活跃的精神生活……父母都知书识字，对政治和其他方面都能进行出色的讨论。家里有朋友和客人来时，我就坐在角落里听着。家里还有一套莎士比亚”。罗伯特记得，别人家孩子的玩具是用装运柑橘的旧木条箱板做成的枪，卡尔可强多了，“他的父母给他买玩具”。事隔半个世纪，卡尔还撰文生动地记叙了父母给他买一部昂贵的、有铁轨有车灯的电动玩具火车的那一天。<br>　　但是，父母并不娇惯孩子。事实上，儿子对他们尊敬有加，这使他的伙伴们觉得很好笑。对此，罗伯特是这样回忆的：“卡尔提到爸爸时说‘父亲’，说到妈妈时叫‘母亲’，那时候才没有人这么叫哩！大家都管妈妈叫‘妈’，爸爸就叫‘爸’或者‘爹’。人们都笑话他，因为他太个别了。”他管阿姨叫“姨妈”，就更惹邻居们笑话了。要是卡尔告诉罗伯特说：“我母亲说了，我得三点钟回家。”到时他一准回去。对此，罗伯特说：“他是个很听话的人，父母说什么是什么，我们（别的孩子）可不这样。”</p>
+<p>　　对于好的古典音乐，卡尔绝对地迷恋。<br>　　卡尔最喜欢的，是一个揭开神秘、特别是玄虚内容而得出合乎逻辑的简单解释的节目。</p>
+<p>　　这几个男孩子还用透镜做实验，试着将远处的景物移近。就这样，卡尔开始想到了星星究竟是什么。他记得自己 5 岁那年冬天发生在布鲁克林的如下这件事：<br>　　在我看来，它们显得同别的东西不一样，同别的无论什么东西都不一样。于是，我便问别的孩子星星是什么。……他们告诉我的，无非是诸如“星星是天上的光”一类话。<br>　　我自己也知道星星是天上的光，但又是什么光呢？是不是一些电灯泡，还拖着长长的黑色电线？……我问自己的父母，他们不知道；问他们的朋友，还是不知道。<br>　　我母亲便建议：“我刚从图书馆给你办来你的借书证。你坐电车去纽约图书馆新乌特勒支分馆，到书里去找吧。……书上一定有答案的。”<br>　　我便去了这座图书馆。我告诉图书馆员说，我想要看讲“星”的书。她就给我拿来了一本。打开一看，里面好多照片，都是影坛之星！<br>　　我怪不好意思地把书还给那位馆员说：“这不是我要看的‘星’。”她觉得这真是挺逗的，这么一来，我就更不好意思了。后来，她把我真正要的书拿来了。我接了过来，这是一本内容简单的儿童读物。我坐在一把矮矮的小椅子上——只能坐个小不点儿，一页页地翻看着，直到找到了解答为止。<br>　　解答真叫我吃惊。原来太阳也是一颗星，只是离得特别近罢了。一颗颗星实际上就是一个个太阳，只是它们太远了，因此成了小小的光点。……尽管我还不知道光传播的什么平方[反比]定律之类的东西，不过我清楚地看出来，得把太阳搬到离布鲁克林好远、好远的地方，它看上去才会是个小光点……<br>　　宇宙的广衰就这样一下子向我展现开来。这是一种类似于宗教悟道的体验。这里面有一种恢宏感。它的壮美从此再也没有离开过我。永远不曾。</p>
+<p>　　卡尔和罗伯特六七岁时发现，要是将两片透镜放到一起，并拉开一定的距离，就能用它“看到月亮上的环形山”，据罗伯特说，他俩还看到了“火星发出的红色光芒”。后来他们才知道，这样的两块透境其实就构成了一架最简单的望远镜。<br>　　卡尔本人对于儿时去自然历史博物馆参观的体验有这样的记忆：“世界各地的动物，以及它们的生活环境，都活生生地陈列在这里：有南极洲暗淡光照下站在冰上的企鹅；有生活在绚丽南非草原上的霍加狓；有栖居在一块林间空地上的一整族黑猩猩，雄的擂着自己的胸膛；有站立高度达 10 或 12 英尺（3 米开外）的美洲熊，正用后腿直立着向我逼视。这一幕幕景象真让我发呆。”他也和许多孩子一样，对恐龙着了迷，有关恐龙的书，他都读过。<br>　　面向大众的文化，增进了萨根对科学日益高涨的兴趣。父母亲带他去参观 1939 年的世界博览会，领他去电影院看迪斯尼动画片《狂幻曲》——影片中一段有关恐龙的内容，使卡尔对科学的不同领域发生兴趣。<br>　　卡尔还喜欢体育。<br>　　卡尔对数字、特别是大数字非常着迷。还在 8 岁时，就特别“喜欢按顺序写出从 1 直到 1000 的所有整数来。“当我写满 1000 时，该上床的时候刚过一丁点儿。大数永远以其规模令我难忘。”<br>　　他的父母还给他买过化学药品，它们真的能产生爆炸效果。这就帮助增长了他对化学的兴趣。<br>　　煞有介事地设想火星人的存在，是 19 世纪末的事情。与此同时出现的，是对鬼魂和“灵气”的热衷。它们都出现在传统宗教削弱的时期。这是不是巧合呢？<br>　　卡尔 10 岁时经朋友介绍，接触到了伯勒斯的著作。他写了很多发生在火星、金星、月球以及其他世界上的动人爱情故事。这些出没于异域的古怪生物使萨根入了迷。伯勒斯的火星故事本身并不是科幻作品。它们应当说是西部故事和剑侠文学的混合。<br>　　小卡尔整个陷进去了。他甚至试图实现卡特去火星的精神旅程。对此，他本人是这样回忆的：“卡特能把自己送到火星上，不就是靠站在一片空地上，伸出手臂来，再抱定一个念头吗？要是光靠这个法子，我也能做个差不离。于是，就在八九岁的小小年纪上，我就试着对卡特的办法加以实验验证。很努力地验证。可是，不管我怎么努力去试，都不能成功。不过我好像也不感到特别意外。我想以后还有机会。”</p>
+<p>　　拉比回忆说：“他高高瘦瘦的，比别的孩子文静些。可是，你一旦同他谈起话来，那股文静气就消失不见了。别的孩子多数没有什么特别值得一提的……他那年  12  岁，但对星星、星座和恐龙，知道得比我还多。”</p>
+<p>　　学校让卡尔厌烦，这与他的智力水平有关。成年后的萨根回忆说，中学使他厌倦，因为功课太容易，老师的讲课也没有启发性。不过，老师们都明白无误地认识到卡尔的智力。他是个神话大王。据加莉说，他曾“在教室的每块黑板上，写满有关希腊和罗马神话中众神祗的详情。而黑板有好多块呢！事后，校行政管理人告诉我父母说：‘这个孩子应当入神童学校。他的确具备特别的禀赋。’”。<br>　　当卡尔十二三岁、家还住在纽约市布鲁克林区时，曾打算在一个比他稍稍年长一些的小姑娘和她妹妹面前露一手。他带她们去看自己设在地下室的实验室，见识他那些光闪闪的仪器。<br>　　这时候，卡尔已经告别伯勒斯的火星小说，读起了更复杂的科幻作品。1947 年，他在路过一家糖果店时，发现了一种名为《惊险科幻》的杂志。<br>　　卡尔·萨根是有文学抱负的。他母亲在写作上有丰富的经验，行文清楚明白。卡尔也是如此。以外星生命为题的著作，他读了很多，而且记得所有支持其存在的论点论据。在大约 16 岁时，他便写了一篇关于外星生命的长篇文章。<br>　　“我们心目中的生命”，基本上是指一切建立在碳－氢－氧－氮代谢基础上的有机体。这就是说，没有碳、氢、氧和氮，就不会有我们所说的生命。<br>　　……然而，大概可以毫无疑义地断言，我们未知的生命是存在的。是的，笔者这里是指不借助碳－氢－氧－氮代谢的生命形式，是不受地球上有关大气气压和成分、重力、温度和“毒性”的极值标准限制的生命形式，是看着、闻着或摸着都不像我们所知道的任何东西的生命形式……它们完全是异样的。<br>　　他还提到了以往的行星潮汐生成假说，即行星由太阳的喷发物（萨根的原用语是“团块”）凝聚而成的理论。接受潮汐假说，便须认定太阳系外存在行星的可能性极小。卡尔不承认这种假说。他肯定地告诉他的读者说：<br>　　一句话，潮汐理论是错误的。它至少犯了六七条明显的大错，也许还不止这些。引力理论和原子物理学知识告诉我们，如果两颗速度各为每秒数英里的恒星朝不同方向运行时相互靠近得发生引力冲突的话，结果会是（1）大的把小的吸过去，由此造成巨大的爆发（即出现一颗新星）；（2）小的环绕大的运行（也就是成为双星）；（3）双方的轨道都发生改变，并不马上造成对任何一方的损伤。三者必居其一。……然而，“团块”是不会产生的。普林斯顿大学的罗素博士已然指出，如果外来恒星逼近到足以造成潮汐瓦解，那就很难提供太阳系如今所具有的角动量。……耶鲁大学天文台的斯皮策博士的推理是，如果从太阳中汲出极热的气体，那么它们并不会凝聚成行星和卫星，而是会像爆炸似地迸溅到四面八方。<br>　　萨根这个笔记本的最后几页上零散地写着几条随记。内容很难理解。比如其中有一条是在进行了长长的计算后得出结论说：“一个直径约 3.05 米的球，位于其赤道上的一点，必须每秒钟旋转 31293864 圈，才能达到相当于光的行进速度。”最后一页上是这位少年抄录的爱因斯坦的一句话：“常识无非是 18 岁以前加到头脑里的一层偏见。”</p>
+<p>　　要想事业有成，不但要聪明刻苦，还必须交人得当——交上有影响的人。对此，萨根早就有所领悟。在他对空间旅行发生兴趣之后，便到第一流的专家那里去寻求信息。要是别的孩子，多半只会到学校图书馆去一趟。萨根可不是这样。他要找博士、找工程师，而且是造火箭的工程师。<br>　　比如，他对第一批宇宙火箭会不会以原子能驱动心存疑窦——在核武器出现以后，许多人都对原子能有了怀疑。当时，位于田纳西州橡树岭的费尔希德发动机与飞机公司正在研制核动力飞机。萨根很想知道，这样的飞机，会不会是未来原子火箭的前身，便向这家公司去信询问。公司有人回了信，告诉他说，这一工程属“高度机密”，无可奉告。与此同时，设在加利福尼亚州圣莫尼卡市的兰德公司这一初显锋芒的军事思想库，也提出了空间卫星的设计方案。萨根便又给兰德公司去信索要资料。兰德公司也只是敷衍一下。萨根那时是 16 岁，坐卧不安地要离开新泽西州，到天上去闯荡。有没有人关心他呢？<br>　　他又给天文学家写信，结果遇到了真佛。罗伯特·理查森（Robert S. Richardson）是其中的一个。这位理查森远在南加利福尼亚新建的帕洛玛天文台工作。在那里用世界上最大的望远镜巡视宇宙。让萨根鼓舞的是，理查森也写科幻作品。萨根感觉“他是个思想开放的人”。起到更关键作用的，或许是萨根与哈佛大学的著名天文学家、一度也是科幻作家的门泽尔（Donald Menzel）的通信。他们的通信结出了果实：十几年后，门泽尔聘请萨根去哈佛工作。</p>
+<p>　　出色的仪表和良好的表演能力，萨根一应俱全。他个子高高的，一头棕黑的头发，锐利的目光，让人感到亲切的笑容，自有股与众不同的吸引力。他还很有口才，一副低沉的嗓音，满腹的学识，还能表现出亲切与魅力来。一句话，他是上台的料。萨根在初中和高中都参加学校里的戏剧演出。1950 年 11 月 17 日，高中生卡尔参演了詹姆斯·瑟伯（James Thurber）的喜剧《大有希望》。演出之后，雷切尔款待了卡尔和整个剧组。她以自己特有的能干，烘了一只大雁形蛋糕。“雁的脖子搞断了，雷切尔就从天花板垂下一根缎带系住。”<br>　　据拉威中学 1951 年年鉴所录，他参加了纽约 WCBS 电视台的“电视测验竞赛”节目。<br>　　在中学里，萨根一直是校辩论小组的成员。上初中时，他是“美国教育周征文竞赛”的获奖者。到了高中，他又在“美国退伍军人团讲演赛”中得了亚军。他不讨厌争论。他在中学时代曾参加哥伦布节的讲演比赛，但没有取得名次，原因是他竟敢发表当时属于大不韪的见解，声言哥伦布发现新大陆未必是好事。”他说，这一发现打开了欧洲压榨美洲的大门，给印第安人带来了灾难性的后果。<br>　　他在高中期间，曾任校内一份小开本双周刊板报《啦呱报》的体育编辑，编辑部这个兴趣小组里的成员多为女生。他还是法语和化学两个兴趣小组的组长，又是文学小组、辩论小组、高中戏剧社和合唱队的成员，还是“引见会”的一分子（其宗旨多为向学生介绍本校机构、活动、头面人物等）。他还一度加入过高中的摄影小组和生物小组。在纽约布鲁克林上初中时，卡尔在科学小组里担任组长。虽说他的高中同学德博拉认为，卡尔是个独来独往的人，其实，他看来也是学校里的知名人物：班里同学推举他为男生“班头”，还选他为男生中“腾达有望第一人”。<br>　　显然，他将来会成为一名工作狂。<br>　　在上大学之前，不少学生要向高中里的升学指导员求教。萨根可用不着。他自己跑到了普林斯顿大学，与美国天体物理学的带头人斯皮策见了面。斯皮策听萨根讲了想当一名与宇宙火箭有关的天文学家的愿望。这是不是意味着打算在大学里修工程学和天文学两科呢？按萨根对当时的回忆：“直到这次晤面之前，我一直认为这样做是必然的。这又是科幻作品的后遗症——科幻作品里描写一些阔气的业余科学家，他们自己造宇宙飞船。”斯皮策让萨根明白，天文学家作为使用者，并没有了解“宇宙飞船上每一颗螺栓”的必要。涉及工程学的问题，让工程师去操心好了。<br>　　1951 年 6 月 5 日，卡尔·萨根从拉威中学毕业了。同年秋天，他来到芝加哥大学。只不过几年前，就在这座校园里，费米（Enrico Fermi）教授和他的同事们一起，在一处壁球场的看台下，秘密地造出了第一座原子反应堆。核时代就是从这里挟着诸多阴暗面开始的。萨根进入这所大学时，朝鲜半岛上的战争正在进行，这是两个超级大国的第一次也许是间接的、然而是巨大的冲突。美国和苏联在意识形态上展开了短兵相接。对当时的许多人来说，妥协是无法想象的。有人警告说，核弹头导弹满天飞的日子不远了。要在那个时代当个乐天派，要么得愚蠢，要么得年轻。</p>
+<h1 id="第二章-芝加哥"><a href="#第二章-芝加哥" class="headerlink" title="第二章　芝加哥"></a>第二章　芝加哥</h1><p>　　萨根具有开放的思想和诚挚的心灵，并在科学与人文两个领域中都受过广博的教育。这要归功于他在芝加哥大学接受的教育。<br>　　赞美芝加哥大学的人称它为“美国中西部的雅典”。萨根属于受益于有争议的“哈钦斯教育大纲”的最后一批学生。校长罗伯特·哈钦斯在萨根入学的同一年离任。它的选课单真有如一场精神会餐，改变了许多学生的一生。它不允许学生像现在这样，在选课单上按自己的意愿和喜好选修课程。每名学生都必须学满围绕经典著作分成 14 个部分的课程。授课实际上都涉及历史。比如说，要学古典物理学，那就要从阅读牛顿（Isaac Newton）本人的原著开始。对一门科学的讲授，并不是把它当作像一条通向真理的孤零零的大道那样，放在与其他学科无关的地位上，而是把它作为更大的文化范围内的一个部分。要是说芝加哥大学哪个有抱负的物理学教授竟然会不知道柏拉图（Plato）、亚里士多德（Aristotle）、巴赫（Johann Sebastian Bach）、莎士比亚（William Shakespeare）、吉本（Edward Gibbon）”、马林诺夫斯基（Bronislaw Malinowski）”、弗洛伊德以及其他许多人的话，那是不可想象的”。<br>　　我们的祖先决不是傻瓜，他们在相信那些我们如今视为胡说妄言的东西时，的确也有其正当的理由。据萨根回忆说：“在一堂科学导论的课上，托勒玫（Claudius Ptolemy）关于太阳环绕地球运行的观念被介绍得如此头头是道，致使一些学生简直觉得要重新考虑哥白尼（Nicolaus Copernicus）是否值得信服了。”后来成为萨根夫人的琳因·马古利斯，当年在芝加哥大学学化学时，也曾一度接受过 18 世纪的燃素理论。另一名芝加哥大学学生彼得·佩施也发现，他后来在科学界的同行中，有不少人的知识面“非常、非常狭窄”。相比之下，“我们在芝加哥大学所受的教育，正是使萨根能有诸如《宇宙》这类成果的原因。”<br>　　萨根身上有似乎矛盾的方面——既具备科学倾向，又渴望结合哲学式的探求；是坚定的怀疑论者，又对神话、梦境以及戴着科幻面具的神学爱好有加。在萨根的头脑中，存在着两种世界观的激烈较量：一方面，他有自由的、现世的、科技的、面向未来的、反对形而上的价值观念；而另一方面，他又有哈钦斯那种古典的、历史的、反科学的文化意识。不过，在有辩证观念的人看来，萨根的“矛盾性”不是思想上出了岔子，而是智力活跃的表征。来自他内心的矛盾有如一经一纬，织出了他的《宇宙》。《宇宙》正是斯诺“两种文化”的杂交结果。被萨根写进《宇宙》的重头人物中，就有开普勒（Johannes Kepler）这种十足自相矛盾的人。（开普勒是牛顿时代以前的天体物理学先驱人物，但他又搞占星术。）</p>
+<p>　　卡尔·萨根是 1951 年秋来到芝加哥大学的。当时他即将 17 岁，带着中学时代对科幻作品、宇宙航行、天文学的种种热情进了大学。他的宿舍里塞满了科幻杂志。他的自信心非常强……招人喜欢。微笑起来真可爱极了。非常热情，思想非常开放。绝不装腔作势。真诚地热衷思想和概念方面的东西。对世界上的事情有广泛的兴趣。不过，他的健谈闸门只对自己选中的一批人，即一帮尖子人物打开。有些学生觉得萨根性格内向、孤高，有如那种照相时总好呆在边上、猫在不显眼地方的人。如果你的喜好和他一致，那他就能滔滔不绝地讲上几小时；如果不一致，那他就绝对不会在你面前出现。以他自己所见，他的一举一动都是绝对有意义的：他有远大的抱负，而去实现它们的时间却有限——区区 70 多年光景。为什么要把时间浪费在关心琐屑小事的人身上呢？当萨根去世的时候，他的个人履历的厚度超过了 2.5 厘米。<br>　　光有热情和天资是不够的，还得加上学习。哈钦斯大纲能把人累死。到了芝加哥大学，他只是成百名尖子中的一个。萨根承认说，踏入芝加哥大学时，“受过的教育有重大缺欠”。他对艺术所知甚少，对世界文学涉猎不多，对全球文化少有领略。面对大力强调人文的大纲，他得认真恶补一番。<br>　　许多学生感到功课的沉重压力。学生中有不少人自杀。有些人无法调整，结果上吊了。如果你立足于当‘班头’的自信上，然后却发觉自己并非真是‘头’，这是很难接受得了的。据信，萨根也感到这种压力，因此得努力学习。卡尔主要是一个人苦读。他书看得极多，偶尔也一起研究问题。就科学头脑而言，他并不是拔头筹的人物。卡尔有非常的天赋，这是没有疑问的。但要当个物理学家，他排不上第一等。社交时间只在吃饭和念书时。芝加哥大学里的社交活动少到了极点。年轻人有点空闲时，就打打乒乓球什么的。卡尔打得很好。他还是一支校园篮球队的队长。<br>　　萨根也自行安排自己的学习科目。有时候，他的安排会同自己的正规教育项目相抵触。萨根主攻天体物理学，但他又把生物进化论摆到了天体物理学专业所要求的基本训练之前。<br>　　萨根认为自己应当有广泛兴趣的原因很简单：他不肯只专不博。他显然意识到，即将来临的空间时代，将是要求有全新跨学科知识的时代：天文学家应当同过去一向没有联系的生物学家、化学家、地质学家、大气物理学家，以及其他许多方面的专家沟通。为此，他努力掌握与天体物理学不搭界的学科，其中又以生物学为最——生物学同萨根的头号挚爱“外星生命”关系最密切。<br>　　能在两个广泛的领域内（比如天文学和生物学）达到世界级水平的科学家相当罕见。萨根就是这凤毛麟角之一。哈钦斯大纲给了他横跨多个学科的自信心。这一自信始自生物学课程。课程深入到了能够阅读当年发表的糖尿病论文的程度。这显然使萨根得出结论说，只要付出足够的努力，就能弄懂自己想掌握的东西。这为成千上万的读者带来福祉，使他们能从一个懂得天体物理学、生物学、神经科学、灵长目的信息交流、大气物理学、地缘政治、核战略……的超级博学之士那里学到东西。萨根是位卓越的交叉学科学者。在现今这种不断细分的时代，像他这种文艺复兴式的人物实在是太罕见了。<br>　　也许是在芝加哥的大学生活损害了萨根的健康。在 18 岁时，大学读到一半的萨根得了贲门失弛缓症——罕见的可怕疾病，症状是食道发生不自主收缩；吞咽食物会感到吃力，严重时甚至会造成呼吸困难。<br>　　患了失弛缓症以后，萨根变得消瘦了。一次他在布卢姆家过夜，夜半时分因喘不过气而醒了过来。布卢姆赶快把他送去看病。脱掉上衣的卡尔，肩膀瘦削，毫无胸脯可言。有人患了重病，对策是尽量少干事。萨根可不是这样的人。他心怀壮志，并且全力以赴地去实现它们。失弛缓症仿佛是给他建立一个有效的备忘录，不时提醒他人生苦短。要想实现自己心中的梦，就决不能懈怠。<br>　　萨根的写作也是文如其人。到了 20 世纪 60 年代末时，萨根的文字已经赢得了一支忠诚的读者队伍。而这些读者并不知道他这个人长相如何，不知道他在谈论有关宇宙学的观点时，会沉着得像位年齿长了两倍的老学究。他下笔的气势，像是已经得了博士学位、发表了数十部著述、有了一两个名誉学衔，而且手下有一帮打杂的实验室助手和研究生似的。少年时代表现在文字上的那种年轻自信的华丽，如今已为平铺直叙的睿智代替。<br>　　现代科学的确是“大科学”：管理体制庞大，工业化程度巨大，综合范围广大。管理体制一庞大，想要取得成功，就不能单凭头脑出众和干活勤快了——还得人头熟。找对了人，才能摸对门。疏通关系、调动资金、与权势人物挂上钩、耀升到要职，都与这一点有关。<br>　　许多本来二把刀的科学家，就因为靠哥儿们，也就进了重要的研究项目，到头来姓名还上了名人录，死后又能在《纽约时报》的计告栏上占一块豆腐干大的版面。萨根以自己早熟的精明，早就认识到套近乎的功效。不过，他在跟对方客气时并不缺乏真诚。只有以自己的成果或观念引起萨根兴趣的人，他才会跟他们搅在一起。这位当年的高中“班头”，曾以随便得像跟啦啦队员聊天似的口气给兰德公司写过信，还就上大学的问题征求过斯皮策的意见。如今在大学里，他又驾轻就熟地同科学巨壁们热络起来；要是换成萨根的胆怯同学们，就连从他们身边走过，都会踮起脚尖来呢。当萨根研究生毕业时，他至少与三位诺贝尔奖获得者——赫尔曼·约瑟夫·缪勒（Herman Joseph Muller）、乔舒亚·莱德伯格（Joshua Lederberg）和尤里——熟悉到了彼此只称名而不道姓的程度，跟另一位未来的诺贝尔奖获得者卡尔文（Melvin Calvin）也是如此。暑假期间，萨根并不把时间浪费在休息和娱乐聚会上，他把这段光阴用来为名家们工作。1952 年夏，他为缪勒工作；1956 年为美国杰出的行星天文学家杰拉德·柯伊伯（Gerald Kuiper），1957 年为博学的物理学家乔治·伽莫夫（George Gamow），1959 年为卡尔文。给这些人工作，使萨根的前途有了很大的保障。萨根是怎样跟这类大人物打上交道的呢？天不怕地不怕呗！他喜欢跟人打交道，于是就找上门去跟人家‘侃’啦！<br>　　不过，总得有人在正确的时候、开个正确的头。这个人正是萨根的一号崇拜者——他的母亲。大学一年级第一个学季”结束时，卡尔回家小住。有一天，他要出门玩篮球，雷切尔叫住了他，让他去看望她的一个朋友的晚辈。这个青年也是学科学的，眼下正在念研究生。卡尔对母亲一向顺从，便改变了初衷，去看望了这位名叫塞摩·亚伯拉汉松（Seymour Abrahamson）的青年。亚伯拉汉松在印第安纳大学师从诺贝尔奖获得者、生物学家缪勒。这一下萨根发现，他们两人都对生命起源这一方兴未艾的问题有兴趣。<br>　　萨根回到大学之后，在写给亚伯拉汉松的一封信中阐述了自己有关生命起源的若干看法。亚伯拉汉松想必很重视这些看法，因为他将这封信拿给缪勒过目。缪勒为萨根的热情所打动，便邀请他到印第安纳大学呆几天，交谈一下双方的看法。萨根很高兴，便在 1952 年第二学季末乘上了“从芝加哥开往布鲁明顿的小火车”。<br>　　他们很快就谈得十分投契了。缪勒不反对其他行星上会有生命的可能性——在那个时代，这决不是科学界流行的观点，这很令萨根喜欢。缪勒思想的活跃使萨根兴奋。他作为科学家的严格也给萨根以深刻的印象。最使萨根惊讶的是，缪勒竟然邀请他当年夏天来他这里工作。萨根立即接受了。<br>　　有些身负导师责任的学者，惯于将手下年轻人的梦想打破，以将这些人领向更能“出成果”的方向。缪勒则不然。萨根就外星生命和宇宙航行侃侃而谈，缪勒听得十分起劲。他们两个人都喜欢科幻作品，也都曾出席过在芝加哥召开的一次科幻大会。缪勒对萨根实在是太宽厚了，就连在他表现得幼稚透顶、呆钝之极、怪气十足时也仍然如此。萨根对缪勒的看法，自然是“崇拜有加”。<br>　　不过，缪勒对萨根的精神支持也有不好的效果：它使萨根的自信变成了不可理喻的自负，使他钻入了智力活动的牛角尖。尽管如此，支持的导师通常总要强过压制的导师。而且，缪勒决不会压制非正统观念——他自己就有一大堆哩！</p>
+<p>　　UFO 狂热始自卡尔·萨根 12 岁这一思想上容易打上烙印的年龄。与科幻作品的经年接触，已经使他的想象力做好了迎接新事物的准备。<br>　　他当时对 UFO 目击报道极为关注，而他的父母和别的成年人却对此漠不关心，这使他感到不安。他们关心的是什么呢？是“红色中国、核武器、麦卡锡主义和房租。我真不明白他们是怎么给各种问题定轻重缓急的”。<br>　　种种消息激动着萨根。当时，他正在为芝加哥大学学生广播站（WUCB）写一个有关宇宙航行的节目，其中安排了与著名科学家（包括天文学家柯伊伯（Gerard Kuiper）、人类学家玛格丽特·米德（Margaret Mead）、地球科学家哈里森·布朗等）就宇宙航行进行讨论（又是萨根喜欢联络名流的一个例子）。他决定在这个节目里，安插进有关 UFO 的内容。<br>　　萨根在节目广播前把脚本寄给了缪勒，希望得到缪勒的建议。在随节目脚本附寄的信函中，可以看出像萨根这类怀有重大理念的聪明才子常有的风格：滔滔不绝、条理不修，还有些言过其实。他在信中坦率地承认，搞这样一个节目，目的就是“宣传”；他要通过它，在芝加哥的学生界引起对“意义无法估量的”宇宙航行的注意。他还向缪勒保证说，这个节目会提供 UFO 的确来自外空的证据。<br>　　从这个节目的脚本中，不难看出后来充分体现在《宇宙》中的戏剧化气氛和表现技巧。脚本中有这样的文字：<br>　　/充满热情的德沃夏克（Atonin Dvorak）的《自新大陆交响曲》小快板乐声淡入。乐声在主题旋律再一次出现时达响亮程度，继之淡出。/<br>　　播音员1：“飞向众星……”，是人类征服空间这个最后疆域的故事，一个戏剧化了的真实故事。本站根据著名科学家提供的科技背景，编成这部人类正面临的最伟大探险的既是预想、又会成为现实的节目，将它献给诸位。这种预想是诸位在有生之年将会亲临的。它就是星际航行。<br>　　……<br>　　/德沃夏克的《自新大陆交响曲》谐谑曲乐章淡入，音量不太强……/<br>　　诸位刚才听到的是题为《飞向众星……》系列节目的第一部分，由芝加哥 WUCB 播出。……播音员为理查·科诺（Richard Connor）、罗杰·凯利（Roger Kelley）和麦克·利迪（Mike Reedy）。本节目的撰稿与制作均为卡尔·萨根，技术处理为佛本·西蒙斯（Ferben Simons）。<br>　　在脚本的手稿上，17 岁的萨根原写有“本节目系卡尔·萨根制作公司产品”的字样，但后来被删掉了。</p>
+<p>　　缪勒不仅支持萨根的热情，不仅第一个向萨根提供了接触真正科学工作的机会，还明显地影响了萨根的表现技巧——这正是后来使萨根声名大振的一项本领。其实，缪勒本人的讲学就颇为讲究表现效果。萨根曾提到缪勒在一次课上给他留下的深刻印象，后来甚至还想把这种增强讲课效果的做法搬进他的电影《接触》。那次缪勒讲学的内容是外星生命。缪勒一开始就对听众说，自己刚刚到一颗行星上去过一趟，并在那里发现了生命形式。他要在课上放几张这些外星生命的幻灯片。随后，课堂上的人们便从幻灯片中看到了“最最令人惊讶的生物……比你能想象到的还奇异，比不论哪部科幻小说里出现的还怪诞”。在如此这般地用一连串古怪生物将听众弄得目瞪口呆之后，缪勒这才快活地对大家说自己刚才出了个大漏——他竟把通过显微镜看到的地球上一滴普通池水里的微生物，放映给大家看了！萨根说，缪勒的用意是要让听众记住，就是在这个地球上，生命也是何等地令人惊异。他的目的显然是达到了。萨根在若干年后就表现出这种制造戏剧化的扣人心弦的才能，使科学变得迷人。<br>　　萨根喜欢这年夏天同缪勒相处的经历。不过，他并不喜爱他的实验室工作。缪勒要出门两星期。他告诉萨根，自己不在的这段时间里萨根可以继续使用实验室。而据萨根所记：“实验室的墙壁上敷设着一种吸音材料。……我发现，要是朝墙上蒙有这种材料的地方投掷解剖针，解剖针就会扎在墙上！”一个人呆在房间里，往显微镜里看虫子，“这简直叫我受不了。我宁可朝墙上掷解剖针”。当缪勒两星期后回来时，发现了墙上的洞眼。“他想不通这些洞眼是怎么来的。我也没有挺身而出告诉他。当年的我是个不像样的毛头小伙子。这件事让我一直心有愧作。”<br>　　那年夏天，萨根还干了一件事，他不曾向任何人透露过。<br>　　萨根在 1952 年 8 月 3 日致国务卿的信里，提到了外星人来临的可能意图。<br>　　这封信是用打字机打在印有“印第安纳大学”字样的信笺上的，信眉上还打上了“H.J.缪勒博士实验室”的字样，无疑是为了增强可信度。萨根希望国务卿能向他披露，一旦证实 UFO 确系外星人派往地球、旨在执行跟踪人类发展过程的侦察性使命，以了解人类研制宇宙飞船和核武器的目的，美国政府将采取何种步骤应对。<br>　　让萨根失望的是，艾奇逊为朝鲜战争、斯大林、麦卡锡听证会和共产党中国忙得腾不出手来。他倒是很快就收到了回复，但只有几句代笔的搪塞的话。<br>　　当时的萨根只是一名毛毛躁躁的新泽西州青年，既不肯坐下来从事枯燥的研究工作，又对UFO和外星人十分着迷。缪勒这样一位卓有声名的科学家，怎么竟然肯在他身上花费这么多时间呢？缪勒是位为人宽厚的君子。尽管他一生多有不如意之处：为自己所持的政治观念所苦，优生学研究又遭希特勒集团歪曲，但他仍坚持自己的社会主义式的道德信条，即尊重“寻常百姓”，哪怕是受业无多、天真幼稚的平常人。<br>　　缪勒的宽厚改造了萨根。在萨根成名以后的生涯里，尽管他曾对不少同事傲慢不逊，但对于门外人，却总是表现出耐心的好脾气。<br>　　他愿意一丝不苟地解答愚蠢、幼稚的问题，哪怕这些问题蠢到了无人能够给出答案的地步。真正的科学普及者，一定得具备民主的心灵。他们绝对不可以轻蔑自己的听众，不然还搞什么科普呢！随着萨根的名声越来越响，他越来越多地在讲演厅里被听众问及糊涂问题，什么 UFO 啦，占星术啦，不一而足。在这种情况下，萨根总是既恳切又和蔼地给出回答。他的回答能让发问人觉得自己挺有头脑，并不是笨伯。换了别人也许会说一句“这真是我所听到的最糊涂的问题”，但萨根不会说这类话，正像缪勒不会说这类话一样。<br>　　缪勒的优生学观念，要比希特勒不知人道多少倍、民主多少倍。缪勒主张在自愿的基础上实现对人类基因的“改良”，即采用人工授精的方式，用著名男人的精子使妇女受孕。（其实，“著名”究竟能不能遗传非常值得怀疑）他还认为必须先使社会更加民主化、更加平等化，以防止优生学被滥用。缪勒预见到了现今社会中出现的难题：如何用生物技术和基因工程学为人类造福，而不是控制和剥削人类。从这一层意义上来说，缪勒在思想上始终站在社会主义者的立场上。1963 年，美国人本主义者协会提名缪勒为当年的人本主义人士。</p>
+<h1 id="第三章-地牢"><a href="#第三章-地牢" class="headerlink" title="第三章　地牢"></a>第三章　地牢</h1><p>　　1776 年的独立战争，是一种相当保守的革命，但是，这场革命的领导人却有许多是自然神论者——相信上帝对世界上的事物，采取的是君临而不管理的态度。按照他们的见解，上帝只干到创造宇宙并让它运行起来为止，就像一位钟表制作大师造出钟表并上好发条一样，以后就听凭它照规律行事了——例如，按牛顿运动定律和万有引力定律行事。</p>
+<p>　　李森科（Trofim Lysenko）这个虚浮的搞农学出身的人，将拉马克学说——一种过了时的、出现于达尔文主义之先的生物学进化观念——东拉西扯地加以变种后搬了出来。按照拉马克（Jean Baptiste Lamarck）的理论，生命机体可以将非遗传性的性状传给后代。拉马克的信徒认为，长颈鹿的脖子长，是因为它拼命伸着去够高处树叶的结果——听起来真像是一则寓言。照李森科说，他的理论可以用来大大提高苏联的农业收成。当时的苏联急需粮食，因此李森科为斯大林看中。怯懦的奥巴林站队站到李森科一边，甚至还去吹捧他，才逃脱了挨整的命运。反李森科的生物学家则被投进监牢。苏联的遗传学界被摧毁了，并且再也不曾完全恢复过来。</p>
+<p>　　弗兰肯斯坦是英国女作家玛丽·雪莱（Mary Shelley）的小说《弗兰肯斯坦》中一名科学家的名字。这位科学家用取自尸体的器官凑成一个整人，并使之有了生命；这个人造生命由于外形可怕，举止也与常人有异，因此到处得不到友谊，最后变成一个疯狂复仇的怪物。这一故事被好莱坞拍成同名电影后大为轰动，弗兰肯斯坦也变成了“作法自毙者”的同义词。但因原书作者未给此怪物起名字，而它又是最引人注意的角色，故弗兰肯斯坦更多地是指代这一怪物。</p>
+<p>　　米勒所要做的，就是向化学成分与之相同的某种混合物输入适当的能源（如电或紫外线）。这时，能量会使原子重新排列，从而形成有机分子。归根到底，这种对原子进行各种不同方式的组合，不正是化学之精义吗？<br>　　在米勒的实验里，碳（C）来自甲烷（CH<sub>4</sub>），氮（N）来自氨（NH<sub>3</sub>），氧（O）来自水（H<sub>2</sub>O），氢（H）在三者里面都有。放电过程可将这些分子劈开，也可能使它们重新结合，形成有机物。<br>　　薛定谔曾经设问：“生命是什么？”如今，有越来越多像萨根那样不信神的人都在这样说：生命是一类机器，它们复杂、精妙、卓绝，然而仍然是机器。靠着物理学，只从原子和分子出发，就能解释生命现象。因此，谁还需要什么“灵魂”、“精神”和“活力”呢？</p>
+<p>　　萨根热望同科学家交流，不管是谁，只要能使他有所获益就行。19 岁的萨根同一个朋友结伴开车去加利福尼亚，到了帕萨迪纳的加州理工学院，竟“不请自来地”到莱纳斯·鲍林（Linus Pauling）的办公室求见。这位传奇式的化学家高个子，瘦得像竹竿，明亮的蓝眼睛，笑起来满脸皱纹。鲍林为人非常和气。他亲切地听着萨根讲述自己关于生命起源的看法。在听到一段时，他向后靠到椅背上，闭起了双眼。这让萨根不安起来：鲍林是不是睡着了呢？后来他才明白，这是鲍林从头脑中“驱除干扰的方式”。鲍林睁开眼睛后，提出了若干有用的建议。这种天不怕地不怕、不知害羞为何物的热情，后来成了萨根事业上的标记。</p>
+<p>　　渐渐地，萨根开始认识到飞碟究竟是什么了：它们不是某种物理现象，而是心理学现象和社会学现象。正如他后来总结的那样：“有多少激烈争辩的课题，有多少知识上的争议，到头来竟然一文不值。这真是令人难以置信。它使我渐渐明白起来，飞碟这个东西，不管人们可能抱有什么样的想法，可能是应当另有解释的。”</p>
+<p>　　琳因·亚历山大和卡尔·萨根在结婚前交往了两年多。但琳因极其聪明颖悟，14 岁便进了大学。哈钦斯大纲改变了她的一生，就像它对萨根那样。她那年 16 岁，卡尔那年 20 岁，非常健谈。在她的印象中，萨根“个子高高的，很英俊，一头棕黑色头发乱蓬蓬的。讲起话来口若悬河。即便在当年，就已经满脑子的念头了。我那时在科学上还是个白丁，因此卡尔把我吸引住了，特别是当他海阔天空地神聊时。在当时，他已经有一副成熟学者的风度了。从我们相遇的第一天起，他就将自己对广衰时空的敏锐理解拿出来与我共享——只要肯听，他都愿意与之分享。他对科学的热爱是有传染性的”。“琳因产生的另一个印象是，卡尔在校园里是个“叫得响的名字”。<br>　　从表面上看来，萨根这个人热情奔放、魅力十足。也就是这层外表，挑动了琳因的芳心。<br>　　琳因的家世也和萨根一样平凡。她在离芝加哥不远的一个环境恶劣的地区长大。那里的女孩子走来走去时，随身都带着刀子。她的父亲是律师，从事与修路有关的业务，”母亲“对家里事几乎不闻不问。……她对男人动心，对婚姻上心。……人长得漂亮”。用琳因自己的话来说，她“没有什么可以进行反叛的知识背景”。<br>　　萨根当上电视明星后，他的年轻有为“打动了琳因改行，从英语转到生物学上”。“琳因或许是萨根对科学的最大贡献。”这话说得实在正确。单纯从科学角度衡量，琳因比卡尔更有声誉。她成为美国科学院院士，是完全当之无愧的。</p>
+<p>　　叶凯士天文台里可不都是上等人。那里总有一股暗处角斗的气氛，一种阴谋算计的感觉。这种形势已存在多年。在 20 世纪 40 年代末，当时的台长斯特鲁维曾在一份私人备忘录里，说天文台是“一片密谋、处处割据”。天文台的下属部门，都有卷入争斗和造成人性狂乱的历史。（据射电天文学家德雷克说，他曾在一处观测站夺下一名狂暴职工手中的枪。）”南极考察站也同样出现过数量可观的精神病事件。当 21 世纪到来，人类实现了载人的国际空间站以后，在那个狭窄的处所将会发生多少精神失控的事件，真是只有天晓得了。</p>
+<p>　　科学家并非生活在象牙塔内的人。他们必然要介入政治。</p>
+<p>　　这篇文章之雄辩超出了他的年龄（一年级研究生），而在组织上则不够纯熟，因此，它缺乏萨根后来表现在专业性写作中所具备的说服力。<br>　　上高中时演戏，十几岁时上电视和广播电台，上大学时主持 WUCB 的节目，早已显露出萨根的表演才能。他不只有志于向读者、听众和观众说些什么，他还有志于说得引人入胜。<br>　　叶凯士天文台的工作人员在星期六下午举办通俗天文学讲座。有时能来上几十个听众，基本上是路过威廉斯贝的度假客。萨根既有意维持多年来对表演的强烈兴趣，便申请参加讲演。他得到了批准。这位 22 岁的年轻人便打扮得整整齐齐的，操起他那共鸣响亮的惊人男低音讲了起来。他身后那架口径约 102 厘米的望远镜，造成了强烈的烘托气氛。不难设想，面对萨根妙语如珠的幽默谈吐，听众不会漏过一个字，笑得既兴高采烈，又出乎意料——这难道是科学讲演吗？克鲁克香克没料到萨根会这么成功。他评价说：“非常爽……紧紧抓住了听众。萨根真是上台的料，绝对是。”<br>　　然而，萨根的表演事业蒸蒸日上。在 1957-1958 学年，他在芝加哥大学校园里组织了一整套科学讲演系列，题目“大致是《宇宙中生命的创造》”。讲演者中有很多著名人物。</p>
+<p>　　琳因对卡尔有许多疑虑，特别是他总有想压她一头的意思。他对母亲的依赖到了不健康的份儿上，这也是重要的一点。琳因说：“他无疑很聪明，很风趣，也很有吸引力。可是，从 16 岁起到 19 岁止，我同他的关系中止了可能是三次或四次。”不过，萨根是个不懈的追求者。“他人可犟啦，”琳因说道。而且“他英俊、迷人、教育程度很高，对自己的事业有浓厚的兴趣，显然会有能力养家。他和我一样是犹太人。……总之，女孩子的母亲，要求的就是这些！”那一年，萨根 22 岁，琳因 19 岁，他们将婚期定在 1957 年 6 月。<br>　　共生，是指不同的生命形式为了共同的利益而彼此合作。现今的细胞是由原来各自独立的细胞结合到一起的。比如，向人体提供能量的小小线粒体，原先曾是独立的细胞，但它们发现，如果进入其他大细胞体内，环境会比原来所处的危险液态环境更为安全和舒适；同样地，大细胞也因它的入伙增加了自己的能量储备，因而从中获益。<br>　　萨根与琳因的关系也是这种共生式的。萨根将琳因带进了生物学领域，让她知悉了遗传学的基本概念，又向她引见了生物界有关人士（通过他与缪勒的关系）使她不费力地为威斯康星大学研究生院录取，并参加该院的一个生物学研究项目。另一方面，萨根后来能知遇莱德伯格，大抵也是由于琳因在这个研究生院之故。莱德伯格对萨根在事业上的影响仅次于缪勒。琳因还给了萨根一个舒适温馨的家。她烹调、打扫，建立了一个情感的小王国，就像他小时候的家。这两个人堪称理想的一对儿。</p>
+<h1 id="第四章-制高点"><a href="#第四章-制高点" class="headerlink" title="第四章　制高点"></a>第四章　制高点</h1><p>　　美国在内华达州定期进行地面核爆炸试验，苏联也是这样；爆炸结果，使大量放射性核素倾泻入大气层，经年累月地绕地球盘旋，最后又沉降到地面上。</p>
+<p>　　卡尔·萨根喜欢孩子。对自己刚刚出世的儿子，他自然爱得不得了。不过卡尔很快就和所有的新任爸爸一样，发现自己不再是家里的“第一号”了。卡尔没过多久就烦起多里昂来了，儿子占去了琳因太多的注意。卡尔也需要琳因，这使她的负担加重。她一向要做所有的家务。（她说，萨根的看法是，他这个人怎么能去干家务呢！）这已经够呛了，如今，她还得照料“两个娃娃”——多里昂和卡尔！她自己的需要怎么办？她自己的抱负怎么办？卡尔能跑出家门去参加科学会议，把洗洗换换的事情都推给了她，这让她越来越生气。固然，当时的夫妻分工多半都是如此，不过，琳因也有自己的科学事业，也在为这一大有前途的事业奋发努力，如今的负担，造成了两个人婚姻上的严重紧张局面。</p>
+<p>　　人在太空里能做到的，用机器人也能做到，因此，将人送入太空，这究竟是否值得？科学家多倾向于使用机器人：它们便宜，又能大量收集数据。而空间迷则认为，人类早晚要到太空中去——第一步是以类似于南极考察站的方式，生活在小型的空间研究站里。（美国设在南极的基地十分宽敞，备有未来风格的家具，提供了家庭的种种舒适，包括美味的烹调。人可以终年生活在那里。）</p>
+<p>　　温室效应：地球大气中因为存在能够吸收红外辐射的二氧化碳，结果就像给地球盖上了一张毯子，否则，地球上的温度就会比现在低上几十度。在萨根的记忆中，“觉得这很有意思：没有温室效应，地球的温度就会落到冰点以下，我们也就都死了！它激发了我的强烈兴趣，让我对温室效应产生了很大敬意！”</p>
+<h1 id="第五章-加利福尼亚"><a href="#第五章-加利福尼亚" class="headerlink" title="第五章　加利福尼亚"></a>第五章　加利福尼亚</h1><p>　　让布卢姆吃惊的事实，就是“琳因看来接受了当个贤妻良母的命运。她的一切都是为了卡尔的事业和他这个人。卡尔指望琳因把什么都给他弄妥帖”。布卢姆说，真应当称萨根为坐而论道者。“犹太神学院里就有这样一批人，成天只是坐着，谈论法律和《圣经》中的种种精细微妙之处，到了家里，又靠妻子操持一切。萨根真可以说是来自另外一个世界。他生活在云端，在银河系里。他的时间太宝贵了，不能花在人间的琐事上。”<br>　　多里昂在 1959 年出世后，萨根就像琳因说的那样“他对多里昂真心嫉妒起来……如果我把多里昂抱起来，他就认定这是冲着他来的”。这真让琳因接受不了。所有的家务都是她干的，卡尔“这一辈子从没有换过一片尿布，自己吃完东西从来不收拾桌子，也从来没有刷过盘子”。如今，萨根要是回家晚了，琳因就要跟他斗嘴了，说些“又去开新闻发布会了吧？”之类的话。家庭的空气变得紧绷绷的。<br>　　其实，萨根只是认为自己没工夫料理个人琐事。他的工作实在太重要了。征服太阳系，沟通外星人——家庭琐事哪能跟这类事情相提并论？他像不少“未来派”一样，只是大处着眼，忘了小处着手。萨根在加利福尼亚染上了这种只注意自己旨趣所在的毛病。他给自己揽了太多的事情，同时挂上了三个大项目：飞向金星的“水手 2 号”空间探测器、“平流层气球计划”，还有国家航空航天局某研究机构的生命起源实验。与此同时，他又开始为科学杂志撰写文章，外出讲演。报刊也开始援引他的成果。”他的活动使他常常不在家。孩子在经常见不到他的情况下成长起来，妻子在他往往不在家的情况下成熟起来。</p>
+<p>　　金星是个明亮而羞涩的世界，总是在昼夜交替之际露面，通常只有一大早上门送报纸或牛奶的人会在朝霞起处得见，再就是薄暮时分疲惫归家的通勤族在落日近旁可睹——他们会怀疑是不是看到了 UFO 哩。<br>　　在贴近云层的下方可能会有空中的微生物随风飘移。萨根指出，进入金星大气的空间探测器必须事先消毒，以防污染那里的任何形式的生命。</p>
+<p>　　20 世纪 60 年代初期，在一般美国人的心目中，对美国的空间发射所持的看法，是“咱们的火箭老是要炸毁”。不过也确实不少。为了增加胜算的把握，美国国家航空航天局往往会准备一式两个相同的探测器；每当某个目标行星临近时，便发射这么一组。而发射的结果，也总是一致得有趣：每对挛生火箭中，准会有一枚泡了汤——这就是说，在从卡纳维拉尔角步履蹒跚地腾空后，在大西洋上空炸成碎片。另一枚呢，倒是会进入空间，接着便会中止发射信号，然后就销声匿迹了。国家航空航天局送往金星的第一个探测器“水手 1 号”是在 1962 年 7 月 22 日发射升空的。这个航天器照例在升天之后几秒钟便偏离轨道，被发射安全官员下令引爆了。技术人员后来发现了事故的原因：计算机的发射指令中偶然漏掉了一个连字符。因此，8 月 27 日那天，当剩下的那枚“水手2号”被送上发射台时，卡纳维拉尔角的每个人都神经兮兮的。<br>　　夜里 1 点 53 分，“大力神 D”推进火箭开始点火，“水手 2 号”被顺利送入空间。按计划，该探测器将在圣诞节前抵达金星。在超过 1.6 亿千米的航程中——这是地球与月球距离的 400 多倍，“水手 2 号”真是多灾多难。仪器严重过热；太阳能电池板出现故障；还有迹象表明与一颗小的流星遭遇。<br>　　而这年秋天里发生的事情，是比这一切都严重的威胁：当圣诞节来临时，当掠过金星的“水手 2 号”将发现的信息向家里传送时，家里却险些没人活下来接收了。10 月里，美国的 U-2 间谍飞机侦察到苏联正在古巴秘密安装核弹头导弹。肯尼迪总统要求苏联总理赫鲁晓夫将这些武器拆除。前任国务卿艾奇逊建议总统进攻古巴。核大战看来迫在眉睫。有些 SETI 科学家认为，技术文明可能有自毁的普遍倾向。如果当真如此，那么，“银河系中一个技术文明的平均存在期”（以字母 L 代表）的取值就不会怎么大，搞 SETI 就会白费事。即使存在别的先进文明，也很难维持到我们跨越多少光年的距离与之通话的时候。1962 年末，当学校里的儿童背诵着老师教给他们的遇到轰炸时得“低头弯腰找遮盖”的口诀时，当家家户户在后院里挖防空洞时，我们自己这个技术文明看来也不会存在多久了。在人类历史上，这个 L 值似乎从未这样低过。<br>　　假设太空中有外星人想同我们联系，或者我们想同他们联系，彼此间怎样才能懂得对方的信息呢？通过数学。这是 SETI 的标准教义。假定地球上的数学知识反映的是宇宙间的普遍性质，那么，凡是存在着智慧生命的行星都会拥有同样的数学。因此，从无线电波中去除宇宙背景噪声，就能得出有数学规律的部分——比如说，一个素数序列，这就是有“智慧”的外星信号。<br>　　地球上的射电望远镜具有足够高的灵敏度，可以发现来自其他恒星的无线电信号。外星人可能正在试图与地球接触，人类应当考虑用射电望远镜发现他们的信号。只有一个问题，就是应当在什么频率上接收，同时排除银河系的天然噪声。电磁波的频率万万千千，从某个窄窄的频道中接收到外星人的信号，恐怕比大海捞针还难。科科尼和莫里森认为 1420 兆赫这一频率，其波长为 21 厘米。这是氢原子的谐振频率，而氢被科学界认为是宇宙间最普遍存在的元素。这样，1420 兆赫这一频率，正可能是宇宙间的“聊天室”。<br>　　会议讨论的一个关键议题是：以何种方式搜寻外星无线电信号最为合理？在我们这个银河系里，恒星的数量大约是3000亿颗（地球上每个人能摊到50颗）。要是一颗一颗地弄下去，那是永远也弄不到头的。因此，人类的目标必须集中到似乎最有希望的目标上，也就是类似于我们太阳的恒星上，至少在开始时必须这样。<br>　　这种搜寻会进行多久呢？这部分地取决于外星文明的多寡。如果比例很高，就有可能很快找到一个；如果很低，就可能弄上几十年或上百年。<br>　　外星文明的数量越大，与我们相隔的平均距离就越短。有了这个平均距离，科学家就可以估计出，这样的距离是否近得能在有意义的期间内进行来往通话。比如，离地球最近的恒星是半人马座α，距地球 4 光年多一些。倘若我们在 2000 年向半人马座 α 发射信号，那么，那里会在 2004 年接收到它。他们的回复将在 2008 年被我们听到。这种联络是够慢的了，但还没有慢到不能接受的程度。如果外星文明的数量极小，只占银河系中恒星数目的极小一部分。那么，各个文明间相隔的距离就可能有上千光年，这将使真正的彼此对话几乎成为不可能。等到人类接到对方的信号时，对方可能早就不存在了。反之亦然。</p>
+<p>　　天文学家一向认为，可供生命居住的行星，必在离恒星不远不近的“可居住带”内；近了就会太热，远了又会太冷。这就是天文学家的论断。而萨根根据自己对金星的研究知道，行星的温度不单单取决于离太阳的远近。因此，远离“家长”的行星，也可能凭借强大的温室效应，处在对生命适宜的温度范围内。这样一来，可供生命居住的行星数目，就可能比原来设想的高出许多。</p>
+<p>　　有没有具备“意识”的动物？有没有“有智慧”的动物？如果“有”，那么，它们是不是应当享受与我们相近的法律“权利”呢？他永远忘不了在利利的阳光明媚的水池里，海豚们一面腾跃、一面快活地叽叽喳喳的情景。在尼克还很小时，父亲带他去海洋世界，领他来到海豚馆。他记得父亲笑得像个孩子，也像海豚那样叽喳着，学得维妙维肖。这弄得尼克好难为情，连连拍着父亲的额头说：“爸！瞧你！”<br>　　“他根本不在乎自己这样做，从某种意义上来说，这种回忆真是美妙。……他身上一直有一种强烈的孩子气。这种孩子气从来没有消褪。”<br>　　萨根喜欢出风头。他既是有学问的成年人，同时又是个孩子。</p>
+<p>　　施密特还提到有一次他乘飞碟去看埃及的金字塔。那些外星人指着其中一个同类告诉他，说这一位在几千年前曾来过地球，按照施密特的理解，“这一位”应当就是耶稣基督。他们还把他领去加利福尼亚南部的一处矿山，山里有一种特别的、能治好癌症的石英。萨根在记录中写着：“在这之后，施密特便开始卖石英矿的股票了。我清楚地记得，他卖的是对半分利的股份——他卖掉的可着实不少咧。”在向施密特买股票的人中，有一些是“上年纪的有钱媚妇”，施密特还跟其中一些人有了缱绻。</p>
+<h1 id="第六章-哈佛"><a href="#第六章-哈佛" class="headerlink" title="第六章　哈佛"></a>第六章　哈佛</h1><p>　　萨根是幻想家、犹太人、左倾分子、一心想发迹的人，还是个“上过舞台”的人。</p>
+<p>　　“嬉皮”系英文 hippy 的音译，有“新风潮”之意。20 世纪 60 年代，美国有不少青年对上一代人加给他（她）们的传统、习俗与生活方式严重不满，并以自己特有的方式表现抗议，如流浪、群居、不修边幅、打临时工谋生、吸用瘾品等。这些人还特别反对一切战争，鄙弃拜金主义，向往人与人之间的爱。嬉皮作风与“波普”、“反文化潮流”等都有密切联系。</p>
+<p>　　萨根通过兰德公司，得到了出版业的聘任，从而走上了成为行星科学界最有影响人物的道路。这种事情未必是注定发生的。生活中充满了偶然。如果萨根当初不曾在楼梯上邂逅未来的妻子琳因，他的后来也许会截然不同。想想这一串事件吧：琳因到威斯康星大学读书，这才可能导致萨根见到莱德伯格；见到莱德伯格，才导致后者帮助萨根得到为空间科学部提供咨询的机会，并提名推荐他得到“米勒研究员”名额，又把他引见给另外一个人；这另外一个人才会出版萨根有关外星生命的历史性著作。经过是这样的：1960 年 6 月，空间科学部在加利福尼亚的阿卡迪亚召开“行星大气会议”。萨根在会上认识了兰德公司的研究人员凯洛格，与他在兰德公司一起撰写专题学术报告时，又遇上了威尔松（A.G.Wilson）。威尔松正在筹办名为《伊卡鲁斯》的空间科学杂志。他聘萨根为该杂志的副主编。过了 6 个年头，《伊卡鲁斯》成了美国最出色的行星科学刊物，萨根也当上了总编辑。萨根后来的名望，基本上都与他任该杂志的主编有关。他为这份刊物工作到 20 世纪 70 年代末，然后辞职当电视明星去了。<br>　　如果萨根当年不曾在那座楼梯上遇到琳因，这一切仍会发生吗？也许仍然会发生。也许就不可能发生。凭萨根的闯劲，他可能早晚会找到莱德伯格头上；不过，他们的相遇会不会为时它晚呢？时机就是一切。莱德伯格见到萨根后不久，就获得了诺贝尔奖，继而又去了加利福尼亚。如果这两个人不是在那个时候相遇，就可能永远没有机会相识了；即使他们后来的确相遇了，也可能是过了许多年以后，那时，美国人对苏联率先发射人造卫星的歇斯底里已经成了过去。也许，萨根由于错过了莱德伯格这个机会，就会从此留在麦迪逊，爱上了这个小镇的丰富文化内涵和林立的书店，最后当上中西部某个科学宫的天文馆馆长；这样干了几十年，与国际知名人士的身份根本无缘。是否会这样呢？只有天晓得。</p>
+<p>　　萨根在兰德公司的主要工作是在空间科学方面。他的头衔是“行星科学顾问”，具体研究金星和火星的大气。兰德公司为什么会对外星球的大气感兴趣呢？当时，兰德公司的主管人士感兴趣的是地球大气的上层，据信一—这是空军将领们的观点——那里将是下一次战争的战场。当世界末日之战爆发时，携带核武器的轰炸机和洲际弹道火箭会在平流层里飞行，向苏联的目标发射武器。这些武器在途中会受高空气流作用发生偏离。电离层和极光活动，也可能给通信和制导造成干扰。为了对这类情况有所准备，五角大楼的官员需要更多地了解上层大气各种可能的情况。行星天文学家告诉他们说，研究金星和火星的大气变化，可能有助于了解地球大气的变化。因此，天文学家向五角大楼要求资助，以通过地球上的望远镜研究这两个世界。（他们并未强调说明，通过地球上的望远镜，只能得到这两个行星的相当不清晰的图像，可以说是全无用处。）这帮军人真是勇敢有余，智商有限，他们在愚蠢的主意上不吝惜大把大把地花钱：什么“心理侦察”，什么“海豚排弹”，什么“反弹道导弹系统”，多得很。这次也是如此。这帮人向行星天文学家的提议打开了支票簿——拿到钱的天文学家，说不定在回天文台时笑了一路呢，而萨根也就这样到了兰德公司工作。</p>
+<p>　　据摩菲回忆，“我对萨根的第一个印象是：‘这个人非常聪明，知识面非常广。他还非常自以为是，非常没有耐性。’我对自己说：这个人聪明啊。‘乖乖，他真有别人不具备的表述才能。莱德伯格比萨根聪明，可表达能力比不上他。’”<br>　　有一次，他和萨根开一辆车出去，摩菲上车慢了点儿，“萨根就飞快地说了句脏话，好像是‘你他妈的快点儿’，或诸如此类的话。琳因纠正他说，‘卡尔，你不能这样。这是给你出书的人。’”</p>
+<p>　　这使尤里激动起来。他以书面形式告诉萨根，他认为埃特曼的结论十分重要，令人信服地排除了安德斯的豚草属植物花粉假说。不过，萨根也不愿意开罪深孚众望的安德斯。他虽然一向有肆无忌惮的名声，可一旦真要在嘴皮子上走钢丝的时候，也会表现出高超的技巧来。（事实上，从事雄辩术研究的学者，会发现萨根的文字颇值得玩味哩！）萨根便写信告诉安德斯说，他得知这些化石可能并非樱草花粉的残留结果。与此同时，他也认为纳吉宣称它们来自外空的说法不能令人信服。许多人都知道，萨根颇喜欢运用两头否定的手法，这就是说，他能就某种古怪想法暗示自己的建议，同时又不真的具体说出这样的建议。他以一连串的否定，在这场由纳吉引起的争论中，站在对立双方的立场上说话——既有赞同污染（亦即反对太空来源）的观点，同时也有反对污染（亦即支持太空来源）的观点。他又说，如果最终能证明那些化石来自地球，这种证据也将是“大大得力于你[安德斯]本人关键性贡献的结果”。瞧！只要真想给别人造成好的印象，他是能够做到的。这样一来，无论纳吉的这场争辩结果如何，他萨根本人的名声都会安然无损。</p>
+<p>　　如果说有谁把萨根不该有的居先权给了萨根，那就是美国的新闻出版界。在传媒界工作的人，大抵不具备多少学术界的缜密作风；他们往往醉心于发现英雄，因而把事实大大简化。而且，当　20　世纪　70　年代到来，新闻界对科学界大加报道时，萨根的形象又是那样出色：迷人的魅力，抑扬顿挫的谈吐，隽永的幽默，英俊的外貌形象正符合他们心目中的标准。因此，20 世纪 80 年代的有些记者，用上了诸如“卡尔·萨根的‘核冬天’理论”等字句，也就不足为奇了。其实，这一概念主要是别人发展起来的，萨根本人也强调过这一点。</p>
+<h1 id="第七章-火星和吗哪"><a href="#第七章-火星和吗哪" class="headerlink" title="第七章　火星和吗哪"></a>第七章　火星和吗哪</h1><p>　　萨根到哈佛时，戈德史密斯（Donald Goldsmith）正在那里读大学本科。“人人都在谈论萨根，说他有多么聪明。”而且还年轻—从外表上看，他简直还是个大学生。戈德史密斯选了萨根的一门课，是行星天文学。他认为这“也许是我在哈佛上过的最有意思的课程。……他能讲出很妙的铁事趣闻来”。<br>　　不过，萨根虽说受到了热情欢迎，心中却仍然怀有不安全感。这位站在讲坛上、成为人们注意的中心时表现得魅力十足的年轻人，到了哈佛这种尖子如云、竞争激烈的环境里就不那么自在了。换个地方，他是鱼中之龙，而到了这里，前后左右到处是龙。</p>
+<p>　　萨根承认：“哈佛的社交生活也有许多地方让我不舒服。我知道这与自己拙于社交很有关系。这是我对哈佛印象不佳的地方。教授们的聚宴啦，会议啦，以及诸如此类的事情，都是我不怎么中意的。”<br>　　然而，他的不安并没有表现出来。他在人们面前摆出一副驾轻就熟的神态来。科内尔（Jim Cornell）说：“其实，萨根能作主的地方只有他自己的那个房间。”萨根为人很不容易摸透，他总是“端着”，跟人说起话来，好像并不认识这个人，而只是在与“一员民众”打交道似的。</p>
+<p>　　卡尔是个出色的科学家；但只是出色，就像霍金（Stephen Hawking）一样，是杰出人物，但离牛顿和爱因斯坦都还差得很远。</p>
+<p>　　火星真的值得一去吗？在整个 20 世纪 60 年代，许多持自由主义观点的人和社会活动家都认为，当阿巴拉契亚山区的美国人还住在贫民窟里、并遭受营养不良的折磨时；当美国南部的黑人在餐馆里得到的仍然是歧视性招待时，应当想一想，在空间研究上花费数以十亿元计的金钱是否道德。埃布尔森（Philip Abelson）发表意见说：“世界上有一半人口营养不良，他们未必会将登上月球看得比填饱肚子还重要。”<br>　　从道德角度讨论是一回事，要是换到科学角度上，想法就会大不相同。只要国家航空航天局的发言人还在心安理得地宣布火星上可能适于生命生存，这颗行星就永远是诱人的科学目标。而在 20 世纪 60 年代初期，表明火星上有生命存在的证据虽然都是间接的，但仍然强大得压倒了道德派的反对。<br>　　<br>　　人类在进化过程中所经历的各种具体事件实在是太多了，这类具体事件极不可能在宇宙中的其他地方重现。我的建议是，既然无论怎样具体表现某个高等形式的外星人，都不可避免地至少会有某个地方不真实，那么，最好的办法就是在电影中不公开显现他的形象。萨根提出的是一个高招，使电影艺术中出现了一个不曾露面的美学朦胧体。</p>
+<p>　　科学史上充满了仿佛是盲人瞎马，却导致了历史性突破的事例。伦琴（Wilhelm Rontgen）之所以发现 X 射线，是因为他偶然把照相底片放在了真空管放电的位置上；弗莱明（Alexander Fleming）发现青霉素，也是由于有一只培养皿意外地接触到了空气中的微生物。费恩曼一次最妙的灵感，来自有人在他周围戏耍，把一只盘子丢来抛去，让这位物理学家看到了它奇怪地一面旋转、一面颤悠悠地下落。</p>
+<p>　　没有一种科学观念是彻底原创的。每个思想家其实都是——这里套用牛顿的话——站在巨人们（或者至少是无数小人物）的肩上。萨根和波拉克的“火星暗潮”新解，或许是被麦克劳克林先行一步。前文提到过，这位密歇根大学的科学家曾在 20 世纪 50 年代提出，火星表面颜色的变化，是由于喷发出来的火山灰被风吹送开来所致。麦克劳克林的理论是错误的，人们未发现火星上现今存在火山活动的证据。还有，萨根早在 1955 年就知道麦克劳克林的这一理论，他会不会下意识地在这一影响下，才提出火星上存在由风吹送的沙尘呢？事隔多年之后，萨根回答不了这个问题：“我不知道。也许我当时脑子里盘桓着麦克劳克林的什么东西。有时候，你脑子里有个什么东西，但说不清究竟是自己想到的，还是从别处看到的。……对于麦克劳克林的居先权，我当时并不明确知道。”显然，他忘记了 1955 年自己曾在给斯坦利·米勒的一封信中，提到过麦克劳克林发表在《太平洋天文学会文集》上的假说。</p>
+<p>　　这两个人的童年经历相像得不可思议；而成年后的禀性则天差地远。萨根傲慢，咄咄逼人，富于色彩，对人有时冷冰冰，有时又笑眯眯。他喜欢海阔天空的想法，兴趣也忽东忽西。波拉克则文静、仔细、谨慎、一丝不苟。他喜欢在一块地方掘了再掘，一步步把计算弄得无懈可击。波拉克出生于 1938 年 7 月 9 日。他和萨根一样，也出身于纽约地区的一个从事女式服装行业的犹太人家庭。父母也像萨根的双亲一样，“有最幸福的婚姻”。他家里也像萨根一样，有两个孩子，大的是儿子，小的是女儿。他的父母也和卡尔的双亲一样，不把眼光死盯着自己的行当，而是决心让孩子有更好的前途。他还有一点和卡尔一样，就是无意进入服装业。他公开表示说：“把生意传给金妮好了！”<br>　　波拉克在纽约长岛区的伍德米尔地段长大，据金妮说，“这里是个富人区，住的尽是事业有成的犹太人”。波拉克是“班头”。在大学数学班上，他的分数是800分（满分）。英语得的是700多分，他很不满意；为了改进自己的英语，他竟去背辞典，又在屋子里到处贴上单词条。他在地下室里搞了一个“火箭科学实验室”——真邪门，萨根小时候不也在地下室里搞过一个化学实验室吗！据金妮说，波拉克就在这间实验室里“鼓捣药品、进行实验。然后，他又跑到三楼，那里他还有张大桌子，他就在那里用望远镜向天空张望”。<br>　　金妮还说：“小时候，他说话有点儿期期艾艾，我想，这是因为他的脑子比嘴巴反应快。”在上劳伦斯高中时，他负责过学校小报的科学栏目“精神食粮”。他喜欢棒球，径赛成绩全队第一，高中毕业时代表全年级在毕业典礼上发言。1960 年，波拉克从普林斯顿大学毕业。1962 年，他又在伯克利获得了硕士学位。接下来，他便来到哈佛，进入天文学研究生班，成了萨根的学生，1965 年拿到博士学位。帕萨乔夫当年与波拉克同在哈佛读研究生。他印象中的波拉克“绝对是个内向的人，总是在想着有关宇宙的事，对别的则心不在焉。他关心的基本上只是科学。<br>　　当波拉克专心致志时，“就会像一台激光器，人也像戴上了眼罩似地心无旁骛。他精力的集中程度简直难以置信。记得有一次，他们一帮人在院子里聚会娱乐，当时，有宇航员们行将抵达月球。他将一台手提电视搬到院子里，除了看登月实况，别的什么也不问”。他的沉默寡言或许是与自我保护有关。萨根有说不尽的话题要告诉全世界，而波拉克却有一个鲜为人知的大秘密。<br>　　这两个人不同得有如昼夜之分，却在一起密切共事 30 年。萨根成了名流之后，作为科学家的声名受到了非议，而波拉克的声名仍扶摇直上，而且一直如此，直至他不幸早天。对于萨根，科学界的看法褒贬不一。但大家对波拉克都怀着敬意。如今，在美国国家航空航天局的艾姆斯研究中心，悬挂着波拉克的一幅油画肖像。1989 年，科学界向波拉克颁发终身成就奖，金妮陪同哥哥出席。萨根也出席了这次仪式，又是微笑、又是喝彩。有位来宾悄悄对金妮说：“如今的蝙蝠大侠是波拉克。”</p>
+<p>　　曾有几年，萨根对这种地下活动方式相当适应。1963 年，他曾去波兰华沙参加空间研究委员会的一次会议。据他说，他“同中国代表团进行了一场 6 个小时的意识形态辩论”。他还向颇有名望的英费尔德（Leopold Infeld）——著名物理学家、又是爱因斯坦的朋友——传递了反核机构“帕格沃什”“委托转达的一份口信。“他请我到他家里去，在他家里用了晚餐，又见到了他的孩子。”英费尔德是有名的物理学家，又栖身在东欧集团，因此有可能不时听到一些重要传闻。他告诉萨根说，中国就要试验她的第一颗原子弹了，敦促他将这个消息带回美国报警。这是第三世界中第一个拥有自己核武器的国家，又是越南的近邻，而美国军队当时正在越南打仗呢。<br>　　萨根回到美国后，与一个同中央情报局有关的人联络。据他事后回忆，不知什么原因，这个联络人“对中国的原子弹一点也不感兴趣。我能看得出来，因为这个人连一个字都没写。这件事不在他的问题清单上”。1964 年，萨根年届三十，他开始考虑美国政府是否称职、是否尽职。”没过多久，许多美国人也开始考虑同一问题了。1964 年 10 月 16 日，中国爆炸了第一颗原子弹，当量为两万吨梯恩梯。</p>
+<p>　　这时，越南战争陷入了血淋淋的僵持局面。美国政府看来不能、也不肯采纳本国专家的明智建议，使自己从这个泥潭中挣脱出来。萨根的大学朋友拉斯金是持左倾观点的，却不知怎么在肯尼迪任职期间在白宫找到了一份工作。这工作名义上是充当国家安全助理麦克乔治·邦迪的“良心”。但邦迪发现拉斯金太讲良心了，便炒了他的鱿鱼。1963 年 11 月，肯尼迪总统遇刺。林登·约翰逊继任。此后，血淋淋的僵持更变成了血淋淋的梦魔。</p>
+<p>　　地球上存在着金与铀这两种元素，这有力地表明，形成地球的物质曾经穿过一颗超新星。超新星给予的这两种产物——金和轴——在人类近代历史中的作用大得惊人。也许，在银河系中还存在其他行星，它们是形成于极少出现超新星爆发的地方。那里的人类没有金，没有轴，日子大概比我们过得快活吧？</p>
+<p>　　萨根对形势的估计真是太天真了。也许他青云直上得太轻松了。来哈佛之前，他有好几次险些毁了自己，都是有人出面搭救了他。在他的博士论文有可能通不过时，柯伊伯帮他过了关；他承担的“同温层 2 号”气球工作没能完成，是伯克利的同事们代庖了；在“水手 2 号”项目中，他也从好多工作中打了退堂鼓，空缺都是别人填补上的；“可能有生物学意义的金星”一文没有让他丢丑，原因真是只有天晓得。</p>
+<h1 id="第八章-X-先生"><a href="#第八章-X-先生" class="headerlink" title="第八章　X 先生"></a>第八章　X 先生</h1><p>　　20 世纪 60 年代和 70 年代的美国青年中间，吸用大麻是一种社交方式。对于刚踏入这个年龄段的小青年们，吸用这种瘾品是反叛父母和藐视政府权威的最大胆的表现方式。不过不光是青年人，比他们年长些的也吸用这种东西。</p>
+<p>　　没有哪个科学家能纯守中立；他们也不应当总是坚持中立的立场。客观性往往不但无法实现，也可能会不受欢迎。大多数科学家都诚心相信自己的理论是正确的。</p>
+<p>　　包括萨根在内的一些人担心，宇航员有可能将月球上的微生物带回地球，引发传染病。</p>
+<p>　　尽管空军不明飞行物顾问委员会在一家电视台的节目中被表现为花费不货的、实现了计算机化的机构，“但实际上是个不怎么办事的地方，只有不多几名职员，几口文件柜，挤在空军基地一间狭小的办公室里。老实说，这些调查报告只是拿来充充门面的。对于 UFO，空军已经有好多年不当一回事了，不过它觉得这个小组最好还是留下来，好对付国会或其下属机构中那些对 UFO 好奇心特重的人。如果 UFO 果真是一种未知的物理现象，调查报告是永远也搞不清楚的。</p>
+<h1 id="第九章-神亦如人"><a href="#第九章-神亦如人" class="headerlink" title="第九章　神亦如人"></a>第九章　神亦如人</h1><p>　　人类一向是将对地面的关心搬上天的。在人类开凿运河的伟大时代里，有些学者担心大海有干涸的危险，这时，向火星张望的洛厄尔自以为看到了个修建巨大运河系统、防止出现沙漠化的社会。同样地，在西方世界为防止第三世界国家走向共产主义而向它们提供大规模“技术援助”时，将眼睛盯住群星的 SETI 科学家又自以为看到了一心要向落后的地球乡巴佬提供“技术援助”的超级社会。这些人中很少有人会想到，外星人的技术可能与地球上的需要根本不相干。技术并不是放之四海而皆准的。它们只在特定的时间里适用于特定文明的特定需要。大概正因为这样，古罗马人才从未发展节省劳力的机器，因为这样就会动摇奴隶制度，而奴隶制度正是古罗马社会结构的根本。中国人发明了火药、钟和印刷术，但也从未大规模使用过，也可能这些发明并不符合他们当时的需要。如果外星人真能给人类送来他们的技术“蓝图”，大概也会对我们没有多大用处，就像老鼠用不着打蛋器一样。”</p>
+<p>　　“先驱者10号”、“先驱者11号”、“旅行者1号”、“旅行者2号”在地球上空高高地翱翔，并将在那里呆上几百万年。如果人类灭绝了，它们就会告诉未来的外星来访者，这个地球在什么时候曾有人类生活过。<br>　　空间太大了，因此，小小的飞船能被发现——且不论是被谁发现——的可能性真是低到了极点。用尤里的话来说，发现的概率“极小极小…是我能想到的所有概率中最低的一种”。搞这个干什么呢？不妨认为这是一项高成本的表演艺术，是对人性中“不实际”但很基本的人类情感的表现。</p>
+<p>　　据西俗，大人习惯告诉小孩子们说，婴儿是被放在小包裹里，由鹳鸟衔着送到各家去的。</p>
+<p>　　尿是富氨的物质。</p>
+<h1 id="第十章-分界线"><a href="#第十章-分界线" class="headerlink" title="第十章　分界线"></a>第十章　分界线</h1><p>　　萨根真“酷”，而且他的吸引力不只是在表面上。萨根引起了 20 世纪 70 年代的不再幻想的美国嬉皮士们的注意。在恨现实、反现状、蓄长发、吸大麻的大学生眼中，美国的空间计划中没有令他们信服的英雄人物。在他们看来，宇航员无非是些剪着平头、满口爱国陈词滥调的家伙，跟在越南扔凝固汽油弹的丘八是穿一条裤子的。萨根跟这班人不一样：他看上去挺年轻，说不定还是个颓废派人物，只不过不公开而已，要是递过去一支大麻烟，他兴许就会笑一笑接过来，真的抽起来呢。在全美国的所有校园里，大学生不到夜里 1 点以后是不睡觉的（笔者本人当时就是如此），他们要看萨根的节目。</p>
+<p>　　萨根刚刚出席了在悉尼召开的一次会议，在会上提到尤里当年如何善待他。<br>　　萨根的复信真是一片君子之风。他对尤里说，他想不起尤里“有哪一次”对他不好。他还肯定地说，如果尤里所指的是对论文发表的批评，或者是指他萨根不曾得到一次晋升机会，他深信尤里的用意都是“为了科学的最大利益”。</p>
+<p>　　看一个假说是不是伪科学的标准是什么？<br>　　只有可证伪的假说才能算得上是“科学的”。这样就涉及到两个重要问题：他的原始假说能否令人信服地证伪？有没有证伪或证实这些假说？如果它们具备可证伪性，然而却被证实了，那现有的天体物理学知识便是严重不完备的。如果不具备可证伪性，人们就应当自信地将他的理论丢进历史的垃圾箱，让它去和颅相学、招魂术、湖妖海怪等大杂烩呆在一起。<br>　　科学界对待伪科学的态度一向有两种：或者置之不理，或者用强力打倒。</p>
+<p>　　我们干什么要把自己所在的位置公开出来呢？因为明白得太晚了。<br>　　从 20 世纪初开始，人类已经漫不经心地把电视和无线电信号发射到太空中去了。人类最早的大功率定时播出是从四分之一个世纪之前开始的。“如今，电磁波已离开地球大约 25 光年了。在这 25 光年的范围内，很可能并不存在外星文明。离我们最近的文明，可能会在几百光年远的地方。因此，在他们发现我们的存在之前，我们至少还有 175 年的时间。据我想象，他们会使用巨大然而粗糙的射电望远镜，定期地对天空进行扫描……在偶然发现我们的信号后，他们会一步步解译出《奶牛克拉拉》节目‘和罗伊·库恩（Roy Cohn）的讲话’。”</p>
+<p>　　对参与海盗号计划的几个科学家小组来说，关键的任务是首先实现这两个探测器在火星表面安全着陆。无论选火星的什么地方，都总是有利有弊，而各个科学小组都要选对自己的专业研究有利的地方：地质学家希望去地质构造最复杂、因而对他们最有吸引力的所在；生物学家则打算去地势低的地方，因为那里最可能找到水（也就最可能发现生命）；“海盗号”计划的首席气象学家西摩·赫斯（Seymour Lester Hess）则极力主张在平坦的平原地区着陆，因为在这样的地方，着陆器配备的气象台才能发挥最佳功能。”</p>
+<p>　　“海盗2号”着陆后，萨根和费里斯在帕萨迪纳市萨根的公寓见了面。萨根展开了一幅由“海盗号”着陆器携带的相机环视火星拍得的全景照片。他们就像玩搭筑城堡的孩子那样，把照片包在自己的外面，好感受一下站在这颗红色行星上的体验。费里斯回忆说，凝视着这幅黑白照片，望着这片只有石块散布其间的沙漠，他们觉得“自己就置身在那个地方。我们转来转去地看了好一会儿，一句话也没有说”。<br>　　后来，费里斯轻声说道：“你瞧，我总是感到在地平线处看见了一丛椰子树。”萨根咯咯地笑出了声，说道：“你瞧，我也产生了完全一样的幻觉。”</p>
+<p>　　火星表面存在某种化学成分（可能是过氧化氢），有机物一生成就会被这种成分夷毁。这是萨根在被米勒一尤里实验弄得兴冲冲时忘记了的一点：大自然能够生成，大自然也能够毁灭。宇宙还是有可能不像萨根设想的那样友好。</p>
+<h1 id="第十一章-《伊甸园的飞龙》"><a href="#第十一章-《伊甸园的飞龙》" class="headerlink" title="第十一章 《伊甸园的飞龙》"></a>第十一章 《伊甸园的飞龙》</h1><p>　　一名崇拜者从得克萨斯州达拉斯市来电话……有明显的南方口音。对你在卡森节目中的仪表赞叹有加。<br>　　一位姓××、名雪莉的人打电话来……想知道你能不能为她的男朋友在实验室安排一份工作。<br>　　××女士从华盛顿来电话。长话短说，她……最近被警方送入医院，因为她产生幻觉，听到用摩尔斯电码发来的无线电信号。她想知道你能不能指教她，如果再次收到这种信号时该如何答复。<br>　　名叫××的青年男子，要求你给他以“先驱者 10号”图案饰板上图画的使用权。他想把它用漆复制在自己的车子上！”<br>　　××又打来电话，想同你讨论核试验对地球轨道的影响。<br>　　热火朝天的事业却给他的私生活造成了不良影响。萨根的秘书的职责之一，便是提醒他应做的个人私事，因为在他忙于名人事务时，有时会将这些私事忘掉。比如，南加利福尼亚发生森林火灾，萨根的朋友金特里·李的住处受到威胁。过了几天，阿登女士便提醒萨根给他挂个电话，询问他的住处是否安然无恙。笔者还看到一份备忘录，上面提醒萨根说，他的大儿子将在他下一次出差时过 18 岁生日：“他的生日是在 17 日，选好你的过夜地点，并考虑是否去看他和什么时候去。”<br>　　从阿登女士的备忘录中，可以具体而微妙地看出名人的日常生活状态——名气如何起作用，如何培植名气，名气对名人本人及其周围人等的影响。名人得下决心，得做决断：在料理业务上的事情之后，在给著名科学家、记者、出版社和电视主持人打过一大堆电话之后，还有没有时间在大儿子满 18 岁那天去看他呢？如果他准备去见大电影导演科波拉（Francis Ford Coppola），或是去见弗雷德·霍伊尔勋爵，不然就是见大物理学家盖尔曼（Murray Gell-Mann），等等，那么还会记得该给朋友金特里·李挂个电话，问问他家有没有受火灾殃及？<br>　　有时，阿登女士还得向萨根转递来自另一个小世界的话语。这个小世界就是他常常缺席的家：“林达打电话过来，说你得赶快回家，因为家里有（两个客人），都还饿着肚子呢！（我说，我会尽我所能，让你马上从门里冲出去！）”<br>　　萨根的名声扶摇直上，婚姻生活却江河日下。他和林达口角：因为他经常不在她身边；因为他不肯干家务；因为他对她想摆脱家庭主妇地位的愿望无动于衷。据林达·奥布斯特说，萨根认为林达活着的目的，就是为他烧饭洗衣，好让他安心搞他的科学。</p>
+<p>　　这和我祖母有关系。……我认为是她把父亲弄到了这种地步……什么都替他搞好了，大事小事一概都不用他管。</p>
+<p>　　有些在林达看来需要注入更多情感的东西，卡尔却总是“理性地”对待。比如，夫妻间应当满怀激情地相互理解，而不是冰冷抽象的“推理”，也不是面对“非逻辑”无言地容忍。<br>　　“有一天，父亲就说了：‘我说，要是你先把面包片放进烤炉，然后再打奶昔，两样就会一块儿弄好。’母亲则说：‘这也不过是 20 秒钟的事儿。’父亲又说：‘是这样。不过每天 20 秒……’说着便算了一气，告诉她这前前后后将损失多少时间。”“这种大男人式的超级理性，真把林达气炸了。尼克告诉笔者说：“她干脆就什么也不管不顾了，只是大吵大闹。”<br>　　* 简单计算表明，每天浪费 20 秒钟，50 年里大约就会损失 100 小时。</p>
+<p>　　《伊甸园的飞龙》一书显然是在吸用大麻的情况下写成的。它的万花筒式的复杂内容、天马行空般的臆想，还有《黄色潜艇》式的欢快，都使《宇宙联络》相形之下简直像是正经八百的学术专著。</p>
+<p>　　假设大脑中的每个神经突触都能处于两种所谓“神经态”（就像“0”和“1”）。人脑中有10万亿（10<sup>3</sup>）个神经突触。假设神经态的总数是按突触的多少呈指数型增长的——2 个突触=4（2<sup>2</sup>）个状态，3 个突触=8（2<sup>3</sup>）个状态，4 个突触=16（2<sup>4</sup>）个状态，如此这般——那么，大脑总共可以具有的神经态总数，就是 2 这个数字“自己与自己乘上 10 万亿次。这个数目大得无法想象。哪怕是整个宇宙中的基本粒子（电子加上质子）的总数，也比这个数目小得多”。因此，“任何两个人，就算是一对同卵挛生子，又在一起抚养，也难得会真正一样。这个数目的巨大，正可能用来解释人类行为的不可预知性，也可能说明为什么我们自己有时会干出让自己也大吃一惊的事情来”。由此，他得出了如下的乐观结论：“每个人都是真正罕有的和真正独特的。人类个体的神圣，正寓于可信的前因后果系列之中。”</p>
+<p>　　对许多人来说，神话与梦境本身不构成有意义的科学数据，但能为激发思维能力提供有趣的隐喻或方法（就像罗尔沙克测验图一类东西一样）。不过，萨根却有不同的见解。他觉得，这两者都可能包含着人类进化过程的历史线索。<br>　　这本书中有这样一句话：“涉及科学内容的神话，在古代神话中占了很大的比重。也许这只是偶然，但也可能未必如此。”蛇使亚当与夏娃被逐出伊甸园，这是不是表明人类对爬行动物当年心怀的惧怕感呢？也许，这甚至表明人类对自己身体里与爬虫有关的部分——爬行皮质——怀着惧怕心理呢！对于在全世界不同文化中大量出现的曲十字图形，萨根一直深感兴趣（他后来还同安·德鲁扬一起，提出这是由于古人曾目睹呈现这种形状掠过的星）；同样地，对于“在许多古代文化的民间传说中比比皆是的有关龙之类的神话”，萨根也同样怀有兴趣。他认为“这未必出于偶然”。“人类在告诉别人不要出声、或者在提请别人注意时，都普遍会发出模仿爬行动物的嘶嘶声。难道做出这种奇怪的举动，竟都只是偶然的结果吗？”<br>　　萨根指出，进化留下来的遗产，以化学方式被编码保存在大脑的解剖学构造之中。就是到了现在，人们早已不复露天睡在树上，也不用总是担心爬行动物会来袭击我们，但这种遗产看来至今仍在影响我们处于清醒状态下的生活。</p>
+<h1 id="第十二章-安·德鲁扬"><a href="#第十二章-安·德鲁扬" class="headerlink" title="第十二章　安·德鲁扬"></a>第十二章　安·德鲁扬</h1><p>　　学方面的书，名叫《红限》，出版后好评如潮。安·德鲁扬希望得到费里斯的指点。一次，科特邀费里斯一起吃午饭，德鲁扬也去了。费里斯这样对笔者说：“我们就一起去吃饭了。告诉你吧，另外还有位可人儿呢！漂亮得没比了，聪明得没治了，幽默得没边儿了。<br>　　“对于那次聚会的每一秒钟，我至今都还记得：屋子里的光线什么的，我统统记得，因为我产生了一种极其明晰的感觉，这就是：我可千万别打这个姑娘的主意…科特爱着这个姑娘，而我是科特的朋友。”<br>　　在男人们的眼中，萨根对性相当无知，性激素对他感召不起来。举例来说，当有漂亮女性走过时，他从不会评头论足。“我敢打赌说，除了跟他结婚的女人，跟他上过床的这辈子可能不会超过两个。我有相当的把握赌赢。原因很简单，他从来就不曾对这件事发生过太大的兴趣。”萨根从来没有挑逗过女人，也没有评论过她们的容貌或谈论过性。“没有！从来也没有！”金特里·李这样说。<br>　　卡尔还表现出一种女人常有、而当时的男人往往缺乏的向往心理：与他人建立非肉欲的亲密关系。据安妮回忆，对于她和林达·奥布斯特之间的亲密友情，他便表示过妒羡。这两位妇女有时会一起出门旅行探险，但是没有萨根的份儿。安妮记得他曾可怜巴巴地请求说：“把我也算成你们的女友行不行？”</p>
+<p>　　当时的两代人在音乐上的代沟又深又宽；长辈在听到年轻人收听的音乐时，会大吼一声：“关上那乱响的劳什子！”萨根也不隐瞒自己对“波普音乐”毫无兴趣。安·德鲁扬和费里斯将他的音乐放给萨根听。<br>　　萨根的反应是：“听着怪差劲的。”不过，安妮自有办法。她告诉萨根说，要仔细听，听清音乐家是在说些什么。由于安妮的努力，萨根最后开了绿灯——贝里可以去太空旅行了。萨根的艺术趣味最终有了扩展。据他妹妹加莉告诉笔者说，萨根在他最后几年的时日里，曾与她的女儿雪伦（Sharon Greene）讨论过摇滚乐不同流派的特色。</p>
+<p>　　估计是鉴于“先驱者号”图案饰板上的裸体人引发的冲突，当萨根建议在音像盘上录入一个形体完整的男人和一个怀孕女人的形象时，美国国家航空航天局表示不同意。萨根说：“国家航空航天局坚决不同意向太空送入正面的裸体形象。””因此，人形就以侧面表现出来。（不过，盘上仍然收入了一张菲律宾妇女用自己的乳房为婴儿哺乳的照片。）安妮记得，当他们在录制接吻声音时，“国家航空航天局郑重指示说，接吻必须在异性之间。”</p>
+<p>　　设计音像盘的工作，使萨根和安·德鲁扬越来越相互接近。安·德鲁扬发现自己总是会想到萨根。他也真是撩人情思：那棕黑的头发，棕黑的大眼睛，那种青年人的笑容，那种好脾气的冷静，那种对无限疆域的观念。她把自己的念头，都对密友林达·奥布斯特和盘托出。林达当过《纽约时报》的编辑，费里斯就曾为她写过稿子。如今，林达是一名电影制片人。她对这件事的看法是“真是太浪漫了”。安·德鲁扬对自己爱上萨根怀有一种负罪感。毕竟，他是个结了婚的男人，他的妻子与自己也结成了朋友。再说，她又与费里斯有了嫁娶之约，费里斯还是萨根的朋友。整个形势就像是一部法国浪漫喜剧。<br>　　据林达帮她摆脱了在这件事情上的严重犯罪感，劝安妮让这种关系发展下去。<br>　　萨根也总是满脑子的安·德鲁扬。这个瘦削、一头长发、眼睛会笑的漂亮黑发女郎！她的声音轻软柔和，有股撩人的力量。不过，她可不是那种在大庄园里长大的无忧无虑、娇生惯养的富家闺秀，而是经过纽约历练的姑娘，是未来的作家，有抱负，也有能力。她是犹太人，出身于服装工人家庭，在纽约市昆士区长大。无论从时间上，还是从地点上，她所处的时代都促使她提出不同见解，而不是把她造就成守夫傍子过日子的家庭妇女。罗森堡夫妇（Julius Rosenberg，Ethal Rosenberg）被处死刑时，她已经在这个世界上了。后来，她参加过反战活动，也卷入过早期的女权运动浪潮。安妮的善良、聪颖和美丽，使得她在谈起女权运动时，男人们不会觉得有多么令人生厌。</p>
+<p>　　安妮的政治观点得自家庭经历。她童年时代家中的气氛可以用一句话形容，就是<br>“小罗斯福总统“自由派”。<br>　　“跟我一起住在昆士区的人都不富有，”安妮回忆说，“不过，这些人全是读书迷。从我 5 岁的时候起，母亲便教我读《纽约时报》；她希望我通过阅读达到理解与消化。……父亲则在晚上给我读莎士比亚的作品。他对我说：‘你应当学会这样写作。”安妮曾与父亲一起排演两个人出场的莎士比亚戏剧，安妮在楼梯上方（扮朱丽叶），她父亲在下方（饰罗密欧）。母亲“每个星期都带我去博物馆——大都会博物馆、富理克艺术馆”，等等。每当我能说出一件艺术作品的子丑寅卯来，就会在星期四得到一分钱作为奖励——每个星期都如此，直到我长大成人。……这样长大真是妙不可言”。<br>　　“在华盛顿举行的每一次游行，我都去参加。在杜邦环岛路“上，还有别的地方，我多次闻过催泪弹的气味。闻得多，长得壮！我就是喜欢跳上大轿车，开到华盛顿去……。我至今还记得我们那群志同道合的人，记得那种意气昂扬的气氛，记得可爱的小伙子们，记得那个时代的乐趣。当时的一切，都是那样的感人。”<br>　　安·德鲁扬为人热情、活泼、负责。在萨根的眼中，她更是无比地迷人。“海盗号”在火星着陆后，他们两人随即在纽约市名叫“俄罗斯茶室”的娱乐中心见了面，并一如往常兴冲冲地交谈起来。据安妮回忆，在这次见面时，萨根目不转睛地盯住她的眼睛告诉她说，在他一生和所有女士的谈话中，只有与她交谈的感觉最美妙。“我们平素总是谈这种观念那种观念的。这一次，他转过身子来，正面直冲着我说：‘听我说，有这么一档子事，弄得我总是心神不宁。这件事与你有关系。……我希望你是个男人。……这样，我跟你相处就会容易得多。’”说到这里，安妮的眼睛睁大了，目光变得忧郁起来。回首这段往事，她告诉笔者说：“我当时就意识到，这番话是序曲开场了，我可完全弄懵了。”<br>　　1977 年 6 月 1 日——这一天，安妮记得一清二楚——他们彼此向对方敞开了心扉。安妮还不满 28 岁，卡尔则 42 岁了。过了一段时间，具体什么时候记不清了，费里斯知道了自己的朋友萨根干出了这样的事。<br>　　他们在发射场附近的海滩上，一面漫步，一面交谈。萨根把一只手臂放到了费里斯的肩上。就是在这个时刻，费里斯作出了决定——“让这个人从此走出我的生活。我们之间出现了虚伪的东西。”他抬起手来，把萨根放在他肩膀上的手臂拿了下来。<br>　　阿登女士：“他对我说，他并不想伤害任何人，不过，他已经爱安妮爱得很深了。他又说，他打算在与林达一起去鳕鱼角”时对她把事情讲出来，安妮也将在这个时候在纽约让费里斯知道他们这件事。”萨根还“请求我以后去帮助林达，要我尽我的力量，帮她度过她以后会面临的困难”。<br>　　这场吵闹，是真也好，是梦也好，结果是“父亲‘砰’地关上门走了，母亲也‘砰’地关上了卧室的门”。就在这种状态下，父母分开的日子一天天临近，最后是漫长而昂贵的诉讼。“他们不停地吵，”尼克说，“我想，这是因为他们都害怕没人理的缘故。在我看来，父亲害怕，是因为母亲要离开他了；母亲害怕，是因为她的双亲都早已弃世。这样，时候一到，就像炸药碰上了火柴。”<br>　　琳因认为“安妮是最适合卡尔的人”。这句评语出自萨根的前妻，可称得上是一种赞誉了。琳因和卡尔的长子多里昂觉得“安妮真的最适合他。就连她的外号都是‘如意小姐’。这个外号都在报上登出来过。真是起得不错。我跟她谈话，要比跟父亲谈话时舒服得多。……安妮像是来自天上的外交家”。<br>　　一个女人，爱上了一个男人，想着要把他改造得好一些，到头来却大失所望。这样的事例千千万万。安·德鲁扬却是成功者。多里昂曾觉得，“大多数人都会感到同这个人很难相处”，不过，安妮却独具慧眼，“能够看出这是个在情感上和心理上都受过伤害的人，并能成为这个人灵魂上的特里萨修女（Mother Teresa）。多里昂有一种观点，就是这两个人能够合得来，是因为都有相似的家庭背景：“母亲都难相处，父亲都给予充分的支持和几乎是无限的爱与理解。……我曾经这样想，[他们两个]其实是一个人，是一个高维物体在两种性别维度上的投影。”<br>　　通过两个人的共同生活，安妮造成了卡尔政治观念的变化。她的观念比卡尔的更左倾。如今，这些都体现到了后者的世界观中。有一次，他们参加康奈尔大学的一个讲演会。主讲人不久前写过一篇题为“资本主义的胜利”的文章。讲演过后，安妮走到主讲人面前，问他下次讲演的题目是不是“可卡因的胜利”。在经济学上，萨根接纳了安妮的看法，而且接受得相当彻底。<br>　　安妮把萨根拖着留在了地面上。她鼓励萨根更多地关注这个小小行星、关注在它上面生存的人类。她特别提醒萨根关注自己的孩子；孩子中又应特别关注一向遭他忽视的多里昂和杰里米。她总是责备卡尔说：“别忘了你是当爹的人！”</p>
+<p>　　骷髅头和两根交叉的腿骨图案。</p>
+<h1 id="第十三章-《宇宙》"><a href="#第十三章-《宇宙》" class="headerlink" title="第十三章 《宇宙》"></a>第十三章 《宇宙》</h1><p>　　萨根还相信，在电视台播放科学节目，会使公众摆脱对伪科学和非理性观念的病态执迷。伪科学会造就思想懒汉。而在民主化的社会里，每个人，哪怕是一窍不通的人，都要做出判断和决定，而判断和决定的结果，又将影响到政府的行动。20 世纪末是历史上科学最发达的时期，然而，电视系统却像人类学家的高烧梦：表面上一应齐备，实际上空空洞洞。在政治角逐节目中推销候选人，就像是在推销洗衣粉；宣传的往往是无用甚或有害的产品；在科幻节目或幻想节目中，讲求严格科学性的做法被斥为精英崇拜，因而受到摒弃；在新闻节目中，竟然很少涉及政府外交政策和军事方针。电视就是弗洛伊德所说的“本我‘膨胀”（被大广告商怂恿着）。将电视用于民众教育的梦想，如今又在哪里呢？<br>　　对于马隆其人，金特里·李的评价是：“我喜欢他。这个人健谈、有趣，而且精力旺盛。说到自以为是嘛，他的确是这样的人。不过，我在跟软件设计人员打交道的时候早已有这种经验，那些都是世界上最自以为是的人。”</p>
+<p>　　美国男人在中年阶段会遇到的生活危机真是难以解释。一个人工作得好好的，事业有成，在成功的阶梯上爬得很顺利。可是突然间，到了 40 多岁，却会感到没了什么盼头，而且感觉得相当真切，就像皱纹爬上额头、腰腹加宽尺寸一样真切。他们会在某一天照镜子时，看到一个陌生人，一个上了年纪、眼睛凹陷的人。他们会奇怪地问自己：我的生活就是这样的吗？这就是我年轻时梦想的结果吗？他们会感到茫然。随之而来的便是胡乱折腾——昂贵的赛车啦，一个人到加拿大西北部的荒凉省份跋涉啦，不管不顾的外遇啦，等等。卡尔·萨根一向将工作与成就看得高于一切，家庭也不例外。当《宇宙》工作开始之际，当此他一生中迄今为止最重要的事业还没铺开的时候，如果设想萨根这时会冒起险来，不管不顾地开起浪漫的小差来，所有知道他的人都会觉得这是不可能的事情。然而，事情就真的这样发生了。<br>　　就在《宇宙》工作刚刚开始的第一个星期，大明星就缺席了。卡尔和安妮跑到巴黎去了。”这使马隆大为光火。他已经拉起了摄制组的全班人马，正准备开会向大家交代任务。萨根这时是必须在场的。他不单单是主角，还是《宇宙》剧组的创作核心与智力中心。然而，一向是完美事业家的萨根，这次却有了中年危机的典型表现，将种种顾忌抛到九霄云外，去寻求放松和快活去了。他正爱得颠三倒四，也正在让人们看到这一点。索托这样回忆说：“这是卡尔第一次有了真正、彻底和完全的爱情，是他第一次真正体会到了什么是爱。”他后来对索托说过，他过去的婚姻中“都不存在激情，遇到安妮之后，才明白炽烈的爱是怎么回事。这是他的新体验。他整个人好像都在放光。<br>　　这种爱使他变了样。这是我所见识到的最强烈的表现”。卡尔和安妮间激情似火，使朋友和家里人都感到吃惊。他们在相识了十来年后，当着安妮的父亲的面，仍然会亲昵地卿卿我我。难怪哈里·德鲁扬会认为“这样的火热不可能保持下去”。”金特里·李后来同安妮有了严重分歧，不过，他也承认，萨根只要和安妮在一起，“就显得很幸福”，就萨根的个人幸福这一点而言，“安妮无疑给卡尔带来了最大的欢乐。安妮是他梦寐以求的女人。她的爱与柔情，把卡尔弄得完全盲目了。”<br>　　安妮曾发表过一些作品。这次，萨根出马，将她拉进了《宇宙》的写作小组。在事关创造的活动中，时间的压力，再加上将各成员间竞相争鸣的不同观念融为一体的困难，往往会使合作中出现关系紧张的局面。一般说来，合作队伍中两个成员之间有了恋情，既会造成更大的紧张，也能带来更富创造性的成果。《宇宙》的情况正是这样。<br>　　一方面，由于安妮在场，并也参加了写作，萨根显得更加自信，干劲也更足。金特里·李认为，“她在卡尔的活力、态度和对这项工作的投入上，都有不可磨灭的贡献。卡尔喜欢让安妮成为自己通向外面世界的窗子。有安妮在身旁，卡尔便精力更充足，情绪更高涨，也不那么难相处了。”安妮在剧本的若干地方是有重要贡献的。她提出了一个聪明的建议，就是让古希腊女科学家希帕蒂亚（Hypatia）也成为系列片中出场的人物。萨根从芝加哥大学的课堂上知道有这位人物，便表示同意。结果，这个形象成了全剧中最引人注意的历史角色之一，成了有志于科学的年轻妇女的榜样。在萨根的小说《接触》的女主角身上，也有希帕蒂亚的影子。</p>
+<p>　　也许是因为感到压力太大的缘故，在《宇宙》摄制组里，萨根令人不快的禀性越发表露出来。萨根与人们合不来，其实往往是完全无意的，是他对社交礼貌缺乏敏感造成的。比如，金特里·李就发现，萨根会对电视台的工作人员流露出他们连本职工作都不懂的意思，这便开罪了这些人。有一次，他就对管照明的人说“光打得不对”。金特里·李有这样的话：“别人对萨根的态度使他很吃惊，因为他这个人不会……设身处地地考虑到别人。当我解释给他听，说他把《宇宙》剧组的某某人惹火了，说的不是鼓劲的话，而是让人家泄了气，他听了会露出惶惑的表情。”金特里·李还告诉笔者说，萨根“会陷入某种特别的情绪中，这时，他的言谈中会流露出‘汝等低能者听了’的意思。他管这种情绪叫做‘进了特尔斐的神托所’”。一旦他‘进了特尔斐的神托所’，就能知道万事的一切”。一开始，金特里·李连说带哄地劝说萨根，萨根也就笑着听了进去。但到了后来，这种对立情绪愈来愈严重，弄得萨根仿佛也失去了幽默感，变得越发傲慢，有时候简直是暴躁。金特里·李说，“当他[萨根]生起气来的时候，就会逞起口舌之利，用最犀利的逻辑方式贬低对方。”有时候，他还会“针对对方的想法大加刁难与挖苦”。说到这里，金特里·李又加了这样一句话：“不过得为他说句公道话，他贬低人是不假，但从来不搞人身攻击。比如，他就不说脏话，只是说某某的工作‘没水平’之类。”<br>　　萨根坚持要住饭店里的高级房间，甚至就连巧克力牛奶，他也坚持要人家送来他喜欢的牌子，有些人看到这种表现很是生气。正像《宇宙》剧组的创作人员海恩斯-斯泰尔斯（Geoff Haines-Stiles）所说的那样，“要是不了解这个人，就会觉得他纯粹是在臭摆谱。”不过，在看到萨根如何拼命工作之后，海恩斯-斯泰尔斯便认为，他有权利提出些特别要求，因为这对保证他的创造性显然是必需的：“我看到了他是如何严格要求自己的。……为了一个词，他会坐卧不安。”海恩斯-斯泰尔斯还吃惊地看到，萨根和索托（后者也是训练有素的行星科学家）中断了剧本的写作，“为的是估算——他们真的是在信封背面进行计算的——某颗行星的卫星大气中的氧含量……在保证科学内容的正确上，萨根是不遗余力的。他较真到了极点”。因此，海恩斯-斯泰尔斯的看法是：为了有助于完成这部电视片，就得保证萨根“住进合适的饭店，喝上对路的巧克力牛奶。没二话可说”。”<br>　　当时尼克有 9 岁了。他还记得当年去 KCET，看摄影机俯拍行星模型的实况。他还见识到父亲是怎么给节目配音的。领略到制作电视节目的情景，对尼克起了“定向作用”，使他后来成为电视行业中的一员。<br>　　在索托的记忆中，萨根从未大发雷霆。“这个人从来不会失去自制力。从来不会。不过有些时候，他明显地是在生气。”在《宇宙》的制作期间，他的任务多得不得了。“我一直闹不清楚，他怎么能够干成这么多事情，”索托说道，“他有很多藏书，成千上万本。你随便抽出一本，都能看到萨根写在书里的评注！<br>　　他与林达的分手，从伤心动怒的吵架斗嘴变成了所费不货的法庭诉讼。用尼克的话来说，这是场“怨大恨深的离异”。在林达看来，是萨根抛弃了她。她本来视安·德鲁扬为朋友，而后者是“大大地伤害与背叛”了她。她坚决要求得到经济补偿。<br>　　还有一个在萨根的情感上产生影响的因素，就是他父亲的肺癌。卡尔把双亲接到南加利福尼亚来，让父亲能在洛杉矶的医院里接受治疗。萨姆的健康状态日益恶化，卡尔经常会放下《宇宙》的工作，好同住院的父亲盘桓一阵。对雷切尔来说，这种局面实在是太痛苦了，丈夫的生命一天天消逝，她的精神也日见暴躁。有一次，她竟然心烦意乱地说要“跑得不见踪影”；还有另一次，她又说如果她丈夫死了，她就开枪把医生打死。萨姆于 1979 年去世。是年，卡尔 45 岁。萨姆的离去给他造成的打击是持久的。从此，他身边少了一位将爱无保留、无条件地奉献给他的人。雷切尔固然也很爱他，但同时也掺杂着种种怪癖与胡搅蛮缠。萨姆去世数年后，萨根的小说《接触》发表了。他在书中借女主人公埃莉诺对父亲逝去的痛悼，宣泄了自己对父亲的拳拳之情。当他和安·德鲁扬有了一个儿子后，他们为这个孩子取了爷爷的名字。</p>
+<p>　　哈雷（Edmond Halley）吸过鸦片烟（也像他自己私下吸用大麻一样），而且“看不出吸鸦片或服用其他欣快剂间或会造成所谓‘不自主运动’的症状”；</p>
+<p>　　萨根在感情上拒人于千里之外，使金特里·李深感不安。“他是我的合作伙伴，我本来是应当将他当做朋友的。但他从来不曾对我说过，‘我心里有个疙瘩，你要不要听我说说呢？’我敢打赌，除了对安妮，他一辈子大概从来没有跟任何人说过这类话。”</p>
+<h1 id="第十四章-《接触》"><a href="#第十四章-《接触》" class="headerlink" title="第十四章 《接触》"></a>第十四章 《接触》</h1><p>　　卡尔对安妮的关注，是他以往从不曾在任何人身上表现过的。他虽然要马不停蹄地在全国到处跑：一会儿在康奈尔，一会儿在 KCET 电视台，一会儿又在喷气推进实验室，但他决心不让这种事业上的奔忙搅了他最珍贵的第三轮夫妻关系。他在 1978 年 10 月给秘书的指示中，要求“希望能够在每个星期我和安妮见面之前——管它是在伊萨卡也好，还是在帕萨迪纳也好，提醒我带一束鲜花去见她。她喜欢鲜花。我打算将此形成惯例。你就在我动身前提个醒儿就行。”</p>
+<p>　　在天文学界，特别是在射电天文学界，SETI 一向不很受欢迎。著名天文学家中固然不乏像斯特鲁维这样的支持者，但在射电天文台内部，“正规军们”一向排斥在新闻里出尽风头、又在台里占去射电望远镜宝贵使用时间的 SETI 研究，这正像行星科学家们（萨根也在其中）排斥载人的航天飞机计划一样：因为它一是取悦公众，二是占了搞“真正”科学的资金。</p>
+<p>　　萨根“以无比的耐心”向这位参议员解释了德雷克估算银河系中参与星际通信的文明数目的公式。萨根强调了公式中 <em>L</em>（先进技术文明的平均存在时间）的意义。普罗克希米尔跟萨根一样，是反对穷兵膜武的著名斗士。听着萨根的解释，他解悟到了搜寻外星智慧生命与人类生存这两者间的关系。据安妮说，她看到了这位参议员的态度，从最初的“先敷衍一下这个‘大学者’，然后再打发他开路”，变成了“入迷得连嘴都合不上了。……他承认自己当初弄错了，承认得很有风度。他还说他今后再也不致如此，再也不会犯同样的错误了。这个人挺够意思，从此真的再也没有表示过反对意见。”</p>
+<p>　　伏尔泰是个笔名，他的真名实姓是弗朗索瓦-马利·阿鲁埃（Frangois-Marie Arouet）。</p>
+<h1 id="第十五章-L-之值"><a href="#第十五章-L-之值" class="headerlink" title="第十五章　L 之值"></a>第十五章　<em>L</em> 之值</h1><p>　　在卡特任总统届满时，萨根便被请来参与撰写卡特 1981 年 1 月的告别讲话。</p>
+<p>　　行之无效的节育措施：如果一种避孕措施只能阻隔 90% 的精子，那就应当认为它没有价值——精子的数量一次可有 2 亿个之多，突破了保护伞的有 10%，那就是 2000 万，仍然是多得不得了。这种保护伞其实并不比根本没有保护强，反而是更糟糕，因为它会造成虚假的安全感，反而会促使建造这一系统所欲防止的形势出现。</p>
+<p>　　由于核交火，城市地区会出现巨大火灾，导致大气中烟雾弥漫达数星期甚至数月之久。阳光会被阻隔，地球会严重降温，造成冰封或接近冰封的状态。由是，经受了核攻击而幸存下来的人——少则几百万，多则上亿一—会无法从事农业和重建家园。这样，如果一场核战争本身没能彻底夷毁文明的话，“核冬天”也会使它终结。<br>　　“核冬天”理论并不是萨根最早提出的（对此，新闻界的错误报道不应由萨根本人负责）。不过，由于他的大力宣传，加上他面对面地与从巴克利（William F.Buckley）到特勒等一群右翼人物辩论，致使这个假说得到了公众的广泛注意，而如果换成别人，效果就不会这样明显。对“核冬天”的宣传，再加上规模更大的“停止核活动”运动，迫使里根当局和军界人物在他们企图复活冷战的行动中处于守势，也不得不对苏联领袖戈尔巴乔夫伸出的和平触角态度积极些。<br>　　“核冬天”理论的主要科学工作是另外 4 位科学家做的。他们是：特科、图恩、托马斯·P·阿克曼（Thomas P.Ackerman）和波拉克。（图恩和波拉克都曾是萨根的学生。）他们再加上萨根，形成了一个小组，即“核冬天理论小组”。</p>
+<p>　　其实，按照核“逻辑”作出推理的军方人士，在上层人物里并没有几个。这与公众的普遍观念正好相反。真正有这种想法的高级将领，大概只有一个，就是原美国战略空军总指挥勒梅（Curtis LeMay）。这个雪茄不离口的将军，有一句要把苏联人“炸回石器时代去”的口头禅。将军们都有实战经验，知道战争是怎样的场面：人们在战场上悲惨地送命，拟定得再好的战术方案，一旦真正实施起来，也会被“战争的雾霭”弄得乱糟糟的。（对广岛进行原子弹轰炸的计划，就受到盟军最高统帅艾森豪威尔的激烈指责。）然而，决定核“逻辑”的战略家们多是平民出身，主要是一些有科学背景的人；这就是说，他们是些自诩“替不会想的人去想”，并以此为荣的人物，尽管这样的人未必能分得清什么是榴弹炮，什么是军用直升飞机，却在侈谈什么“成千累万的死亡”。兰德公司的赫尔曼·卡恩就是这样的人物（尽管他在第二次世界大战期间服过兵役）。这是个发福有如福斯塔夫（Falstaffian）、想象力直追浮士德（Faustian）的人物”。他在 1961 年写了一本题为《论热核战争》的书，指责科普作家一向众口一词地认定核战争会导致世界的灭亡；而据他认为，一个“进行了正确准备的国家”，可以不遭致毁灭的命运——“很可能只是在经济上倒退数年”。</p>
+<p>　　* 浮士德历史上确有其人，是个德国人。他冒充学者、炼金术士和占星家到处招摇撞骗，后经歌德（Johann Wolfgang von Goethe）、托马斯·曼（Thomas Mann）等德国著名作家的提炼，成为追求邪恶知识的代表。</p>
+<p>　　牛顿曾经表示，自己是站在巨人们的肩上。对这句话，搞科学的人是常常引用的。不过，引用者未必能理解它的全部含义。百分之百原创的观点是不存在的；科学上的每个想法都是有根有源的。（即便是狭义相对论，也有人在爱因斯坦之先隐约模糊地设想过；生物进化的观念也有不少人想在了达尔文前面。）</p>
+<p>　　旧金山是美国的同性恋之都。</p>
+<p>　　有一种理论认为，在 6500 万年前，有一颗小行星或星落到地球上，造成了气候的变化。这就是一次巨大的“核冬天”事件，恐龙就是这样灭绝的。这次撞击造成了大团的尘埃云，它包围着地球，阻断了阳光，引发了温度大幅度下降。结果是与恐龙有关的生态系统遭到毁坏，于是这种“令人恐怖的龙”一古脑儿地灭绝了。</p>
+<p>　　森林火灾生成的烟雾，在数量和不透明度方面远不如焚毁城市造成的又黑又浓的碳矣那么严重。“城市里烧起的建筑物生成的烟尘是黑色的，因为被火燃着的东西里面有塑料和诸如地毯之类受过化学处理的制品，”阿克曼这样说道。碳——纠结在一起的又长又黑的碳分子链，阻隔阳光的能力特别强：“碳矣云阻断的太阳辐射，会多于污染的云层之所阻断，它们不在同一数量级上。”这便使他们意识到一种可怕的前景，就是上百座被核战火焚毁的城市，会在橙红的冲天火光中，像倒流的尼亚加拉大瀑布似地将漆黑的碳粒大量地泻入大气，使天空为之变黑，白天遂变为黑夜。若干小时后，地球便开始降温。到了第二天，太阳虽然依然升起，但人类被裹罩在这层黑色尸布下，便难得见到它一面。由于阳光不能穿透大气到达地表，地球的温度便继续下降，也许会降到冰点——说不定还会更低。<br>　　大气高处的风会将黑云吹送到地球各处。要不了很久，整个地球便会被这块黑色的尸布包裹得严严实实。于是，赤道地区会出现降雪。逃过了核战火的人，会成百万地活活冻死。其他人也会饿死，因为庄稼和牲畜都因霜冻而无法存活下去。地球将被禁锢在“寒冷加黑暗”38之中。人类文明至此便告解体，两个超级大国（加起来 5 亿人口）间的一场核格斗，带来的是全球气候的严重恶化，危及到整个星球上 60 多亿生灵的生存。与此同时，远在许多光年之外，外星的 SETI 科学家们，也会在某个时刻发现，他们从地球那里收到的人造电磁波辐射——我们人类的无线电与电视广播——蓦地中止了。他们会无所谓地从搜寻名单上划掉一个目标。<br>　　地球大气在经历一场爆炸当量为 50 亿吨梯恩梯级的核战争后：在北温带地区，进入空中的烟尘会阻隔住 95% 的阳光。地表的温度会降到 -23℃。即令是一场规模小得多的核战（100 个城市被轰炸，当量为 1 亿吨梯恩梯），也会引发温度降至冰点以下的核冬天。<br>　　怎样防止核冬天的降临呢？自然是永远不要进行核战争。然而，两个超级大国的国防战略系统，大部分都是围绕着各自的核武器库建立起来的。它们都不会痛痛快快地宣布说：“请勿担心。我们永远也不会使用这些可怕的东西。”所以只好退一步而求其次，寄希望于超级大国将核武器库都削减到一定的规模以内，也就是保持在低于会引发核冬天的“门坎儿”以下。萨根说不出这个“门坎儿”到底是多高，不过，他也透露过一个猜想，就是如果核爆炸次数达到  1000，就有可能弄到这个份儿上。而在当时，两个超级大国的核弹头，数量已经达到 6 万枚。<br>　　核冬天理论是战略研究家们不能置之不理的。一名枪手，如果得知手中的枪有毛病，枪筒会在射击时炸裂，自己也可能送命，他还会开枪吗？如今，核冬天理论使战略家处在了这名枪手的地位上。如果这一理论是正确的，由核战争引发的核冬天至少也会带来战后美国环境的巨大改变，要使美国人能在这种环境中生存，就需要美国军队的大力干预。兰德公司啦，还有其他类似机构啦，由上千名搞核博弈的人花了几十年时间弄出来的“教义”，突然间变得毫无意义了。<br>　　有关核冬天的理论，“在 20 世纪 80 年代的军备控制活动中起了十分重要的作用。核冬天的概念引人注意，或者说令人恐惧，能使人们行动起来。”造成一场核屠杀，并不需要互相抛掷成千上万颗核弹头；只消有一番不大的交火，也就是所谓的有限核战争，这种结局就会出现。正因为如此，人们才从沙发上一跃而起，走上街头去示威游行，去写信请愿，去找国会议员表态，去参加在市政厅举行的会议。<br>　　自由派、左翼人士和反膜武主义者，都欢迎这个核冬天假说。右翼人士则起劲地攻击它和它的灵魂人物萨根。保守杂志《国家评论》的编辑巴克利撰写评论认为，核冬天理论“从第一句话起便是谎言”。</p>
+<p>　　为了绕开国家航空航天局总部对小组工作的审议，萨根很快组织起一次形式特殊的专业评议，即请有关气象和核武器方面的专家来开会，请他们阅读核冬天理论小组研究报告的草稿。在此之后，再由国家航空航天局进行审议。这时，美国国家航空航天局提出不能在研究项目的题目中使用“核战争”的字样。该局仍在政治上诚惶诚恐，不希望自己的部门里出现对于白宫和国防部太触目的东西。特科和图恩有一次通电话时，想到了一个不那么直接、在政治上更为安全的用语：核冬天。小组的结果最后在《科学》杂志上发表时，用的就是这个说法，引起了传媒的注意。</p>
+<p>　　“萨根走了进来，身上穿着浴袍，里面是睡衣，脚上是便鞋。他脸色苍白，形容憔悴，脚步也有些迈不起来的样子。他刚动过一次大手术，差点没能活过来，眼下正处于恢复阶段。”在三个人进行讨论的过程中，有名助手给他端来一碗汤喝。“这真是不可思议。眼前这个人差点儿就送了命……这场讨论却以他为中心进行。……到了晚上结束时，我都累得够呛了。”可是萨根还在侃侃而谈。这不禁令特科惊异不止：“这老兄居然能这样，怎么搞的？”考虑到他缺乏经常性的体育锻炼，能有这种精力实在惊人。（他的好友莱斯特·格林斯朋说，萨根曾买来一台跑步机，也试用过一次，但由于想问题出了神，从上面跌了下来，从此便再也没用过。）萨根的精力完全来自他的精神追求。<br>　　据阿克曼所记，他与萨根初次见面时，屋里有 50 多个人，大家都“围在卡尔身边”。萨根也真有本事，他能与人逐个交谈，而让每个人都觉得，自己才是在场的最重要的角色。阿克曼还补充说：“我觉得，这并不是他在做戏。他喜欢与人们打交道。”<br>　　萨根还有丰富的想象力。他在谈话时内容忽东忽西，曾让不少同事着恼。可萨根就是“能从没人触动的领域里转出个想法来，而你压根儿就不曾哪怕是沾个边儿”。</p>
+<p>　　大雾中变暖的伦敦。潮湿的雾会阻止热量向上逸散。</p>
+<p>　　戴森指出了萨根在反对核活动中的一点不妥之处，就是单从技术角度反对进行核战争，而不从道德范畴内反对邪恶的核战争。他担心五角大楼对于核冬天问题可能采取的对策，不是迅速削减核储备，而是设计新的核武器和新的核战术，以减小核冬天效应。（中子弹便是一例。这种核武器会发出强大的辐射杀伤人体，而对建筑物损坏极微，引起火灾的可能性也很低。还可能改用会钻入地下深处爆炸的导弹。这样，爆炸产生的高温会被闷在地下，发生火灾的机会也因此减少。）<br>　　戴森曾担心军方会从技术方面采取对策，以绕开核冬天假说。特勒便是这样做的。他在《自然》杂志中提出制造小型化的、目标更准确的核武器，这样便能减小火与烟的规模。此外，他认为这种小型核武器的攻击对象应当严格针对军事目标，如苏联的轰炸机基地和导弹库等，这样就不会产生轰炸城市时形成的浓烈黑烟。“如果只攻击军事目标，并且只用小型核弹，引发的烟雾就会大大低于导致核冬天所需的量值。认为核战争必然会导致核冬天的高论便可以休矣。”</p>
+<p>　　萨根发现，在使这个世界不致毁于核战争与环境恶化的奋斗中，宗教组织可能是一支强大的同盟力量。这一结果很可能和他在 1984 年与西欧宗教界的首要领袖教皇保罗二世（Pope John Paul Ⅱ）晤面有关。<br>　　保罗二世与其他教皇不同。他虽然在许多方面持保守观念（特别是在生育和妇女等问题上），但为人极富学识，对若干问题的见解也比历位前任开明与深入。他常常会使自由派和左派人物感到吃惊与为难——他固然反对节育和人工流产，但这位受过哲学教育的学者，也曾引起一场有关后现代理性思维含义的严肃讨论；他固然在许多社会问题上态度保守，但也支持工会运动，并击过对资本主义不加约束的纵容。这样的教皇，萨根是可以打打交道的。<br>　　安妮请求教皇为一枚宗教纪念章赐福——这是特意代她雇来料理家务的一名秘鲁女工请求的。教皇脸上流露出的怀疑神色使安妮大吃一惊。教皇当着一群科学家的面，“要在座的人明白，他并不相信这一套[迷信]！这套东西对他一文不值！……我真是吃惊极了！”尽管这样，他还是一丝不苟地为这枚纪念章赐了福。怀疑这一套的，原来不只是无神论者啊。<br>　　古尔德后来也这样记叙了这段经过：“我和卡尔在罗马共同度过的时光，是我们友谊中最好的一段日子。我们在这座‘永恒的城市’漫步，饱览她的历史与建筑一一当然，还有她的烹调！卡尔还特别享受到了鲜为人识所带来的快乐——《宇宙》这部自有电视以来最享盛名的科普电视作品，意大利当时还不曾播放。”<br>　　这次谒见的结果，是教皇发表了一份声明，对核冬天以及以各种形式使用核武器的危险提出了警告。对世界上的许多民众来说，这份声明无疑比科学家的警告更令他们信服。在这些人看来，既然教皇都对核冬天表示担心，这个东西自然是够严重的。这样，教皇便无形中给萨根这位 20 世纪最有名气的无神论者之一帮了一个大忙。也许正因为如此，使萨根对宗教有了新的看法。诚然，这是在背叛信仰，但也确实实用。<br>　　有趣的是，萨根也从无神论者的一处大本营那里得到了赞扬。这个大本营就是克里姆林宫。新上任的苏联领导人戈尔巴乔夫相当赞赏萨根提出的消除冷战紧张局面的措施一—美苏两国联合执行一项火星探测项目。这一建议既得到戈尔巴乔夫的赞赏，也得到了萨根在美国国会内的朋友、后来当上美国副总统的参议员戈尔（Albert Gore）的支持。<br>　　从政治角度分析，核冬天假说对苏联政府产生的影响可能要大于美国政府。</p>
+<h1 id="第十六章-回首一顾兮，回眸一盼"><a href="#第十六章-回首一顾兮，回眸一盼" class="headerlink" title="第十六章　回首一顾兮，回眸一盼"></a>第十六章　回首一顾兮，回眸一盼</h1><p>　　戴维还记得，萨根在同孩子们谈话时，态度很是尊重，好像对方是些大人。“他在听孩子们说话时，确实很注意他们在说些什么。他拿孩子们当回事。”戴维 12 岁那年，曾与萨根争论过摇滚乐与古典音乐的优劣。萨根“表示摇滚乐与古典音乐，前者好像是漫画图片，后者则是传统油画”。不过，戴维并没有产生萨根是在教训他的感觉。他们之间的谈话是知识性的对话，而且双方互相尊重。“当我开始进入科学研究领域时，他帮助我找到像样的暑期工作，”比如，在萨根的同事里德·汤普逊（W.Reid Thompson）和克海亚手下工作。萨根还曾介绍他进“旅行者号”的图像处理小组工作，这对大学二年级学生来说，真是美好绝顶的机会。戴维还在《宇宙》电视剧里露过面，“形象是个皮包骨头、直冒傻气的小孩子，看上去像个非洲人——我称之为‘犹（太）非（洲）人’。”</p>
+<p>　　随着萨根名气愈来愈大，有些人感到，他的举止有时会带上一股二流电影明星、或者类似人物的派头。他身上出现了一些迹象，精神病学专家莱斯特·格林斯朋认为这是自恋倾向，是一种优越感。这种人会认为别人都欠着他们什么。比如说，萨根养成了一种要乘豪华轿车的意识。也许，这种意识是当年电视台访谈节目频频请他当嘉宾时，总是请他住豪华饭店、接送都用黑色豪华轿车养成的。有一天晚上（在格林斯朋的记忆中，也许在 20 世纪 80 年代末），萨根住进了波士顿的瑞兹大饭店，准备在“美国自由公民同盟”马萨诸塞支盟发表纪念罗杰·鲍德温（Roger Baldwin）”的讲演。萨根提出要一辆豪华轿车送他去会场，其实，会场离饭店只隔 8 个街区。当时莱斯特·格林斯朋也在场，他十分生气：“我和我太太都觉得，他这种优越感真是表现得愈来愈明显了。”萨根有一个老相知，这个人可不肯姑息这种豪华轿车癖。他就是索尔·兰道。<br>　　“我觉得，他的头脑有些发胀。我对自己说，‘这家伙变成个浑球了。’这说明他感到自己没有保障：如果一个人需要凭借表面一套来构成重要人物的自我感觉，那就是对自己的所作所为没有安全感。我有一种印象，就是他是个没有安全感的人。不弄这一套，他就会成为浮萍。我的意思是说，他就会无所依托。”<br>　　与此同时，阿登女士也觉得自己这位有多方面才华的老板，在个人履历中塞进了太多的琐屑成分。“其实并不真正需要加进去。我跟他提起过这种看法，”她这样回忆说，“然而，我这套关于公关的唠叨话，如今他是听不进去了。依我看，他现在心中就是他自己一个人，这样一来，在有些问题上就掂量不准了。他变得一意孤行。”老实说，他的履历表正被同事们传为笑谈。比如说，他作过些其实很简短的讲演，而他就连这些都差不多统统划拉了进去——在爱达荷州双瀑市的双瀑学院讲学啦，在宾夕法尼亚州威斯特切斯特市的威斯特切斯特大学讲学啦，等等。有不少小块剪报的内容涉及他，对此，哪怕是登在小地方的小报纸上——俄克拉何马州克拉尔摩的《进取报》啦，印第安纳州霍巴特的《大公报》啦，他也都录入履历不误。阿登对安·德鲁扬谈起了这种情况，安妮倒是说动了丈夫，没有让他再写这种出乖露丑的履历。对此，阿登感慨说：“安妮对卡尔的影响，我无论怎么说也不会过头。”不过，尽管有安妮的努力，在萨根去世时，他的事业履历已达 256 页，厚度在 1 英寸以上（超过 2.5 厘米）。</p>
+<p>　　爱因斯坦经常抱怨说，总有些人自认为跟他认识，于是会满不在乎地跑到他的面前…。照我看，萨根也碰上了同样的局面。我认为，他一方面为自己的名气沾沾自喜，但又被人们的随心所欲搞得不知所措。人们会不管不顾地跟他纠缠，就好像占有了他这个人似的。要想一个人干些什么，真是太困难了。最后，他总算学会了怎样出门。他定下一整套规矩，谁要想找他工作，或打算请他讲演，就得照他这套规矩行事。……有人认为他牛气，可我觉得这无非是为了保护自己。面对美国人那种待别人如同自己私有财产的做法，你非得这么对付不行。”<br>　　有时候，萨根也会意识到，自己的做派的确像是“萨根大帝”。莱斯特·格林斯朋曾发表看法说，有些知名人物的品性会发生改变。在萨根与莱斯特·格林斯朋一起访问苏联时，萨根提到了这种情况，并对莱斯特·格林斯朋说了一番话，大意是说：“如果有朝一日我会变得‘胖得裤子套不进’，莱斯特，我得指望你来提醒我。”莱斯特·格林斯朋答应会尽力这样做。这句话后来真的应验了。</p>
+<p>　　当时，戴维已在行星科学界崭露头角，女郎带他踏进好莱坞放射着异彩的世界。这在一开始曾使他心醉神迷。不过，在有了几年体验后，他便嫌恶起那里的浅薄与虚伪来。<br>　　戴维说，在他们漫长的友情之路上，萨根“变得很厉害。我认识他 30 多年了，目睹他身上发生了这些变化。我的看法是，由于总有人夸他如何如何了不起，日积月累地，他的名气……弄昏了他的头”。<br>　　戴维的父亲也站在儿子一边。他这样说道：“我再也不能忍受萨根的自恋表现和优越感。阿克顿（John Emerich E.D.Acton）男爵“说过：权力导致腐败，绝对的权力导致绝对的腐败。就是这么回事。</p>
+<p>　　凡是失去过朋友的人，对此可能会有所理解：一系列误解和不满，一点一滴加到一起，最终弄得不可收拾。他们在争论中谈及的内容——比如，在萨根 60 岁生日聚会上，萨根夫妇不曾邀请戴维讲话，在局外人看来无足轻重，但在当事人心中却难以释怀。</p>
+<p>　　科学界里似乎存在这样的规律：当有了一把年纪的科学家“胖得裤子套不进”——这是萨根说过的话——时，往往会过分相信个人的直觉。他们“觉得”某个理论是正确的，于是乎就是正确的。</p>
+<p>　　戈尔巴乔夫治下的苏联正走向式微，世界上出现了一个地缘政治的权力真空。如果不是这样，苏联就还有可能对伊拉克产生重大影响（苏联对这个国家支持过若干年），就有可能阻止萨达姆·侯赛因（Saddam Hussein）出兵占领毗邻的石油王国科威特。</p>
+<p>　　萨根一直担心：低水平的科学教育，将造就一个不会区分科学探索与伪科学花头的社会。</p>
+<p>　　美国科学家当选为美国科学院院士，这在大多数人心目中是达到事业顶点的标志，如同政治上当选为参议员一样。在已当选为院士的斯坦利·米勒看来，如今该是他的老朋友萨根入选的时候了。“我认为，以他这样的知名度和科学成就，早就应当成为院士了。不少人都有这样的看法。”米勒说。<br>　　米勒时过境迁回顾此段历史，仍坚持认为主要障碍——用他的话来说就是“大原因”——在于“嫉妒心。我能看得出来，他们的想法是：‘这就是那个和卡森搅在一起大出风头的玩闹哥儿，而我可是比他强上十倍的科学家！’没人明着讲出来，但我知道他们在心里是这样念叨的！”。</p>
+<p>　　一个人的公众生活要是成了死水一潭，剩下的将是什么呢？私生活。随着年龄的增长，萨根对人们的感情似乎在不断加深。如今，他对自己的三组家里人都表现得很关切，而且，他的第三个家庭的增长，并没有妨害他对另外两个这样做。据核冬天理论小组成员阿克曼说，在核冬天争论的尘埃落定以后，他与萨根见过几次面，气氛一直是“友好的、愉快的，不过谈正经事的时候不多。会面多是借出席会议的机会。卡尔仍像通常那样是中心人物，我只能有几分钟时间与他盘桓”。他们的主要谈话内容是自己的家庭。他们“谈及科学的时间，还没有谈论子女时间的一半多”。</p>
+<p>　　在经济学问题上，父子两个也谈不拢。“不管是说什么，他总以为自己比别人知道得多。”据多里昂在 1997 年末说起，萨根“对市场的理解是简单化的。我一直在研究市场，因此知道他的水平如何。记得一次在瑞兹·卡尔顿大饭店见到他、他的新夫人[安妮]，还有他的几个朋友。住在这幢豪华大饭店最高级的顶层，四周尽是华而不实的东西，可这帮人却在谈什么共产主义的道德观念。这可真是典型的呷香槟、谈共产，你说是不是？”<br>　　多里昂承认，随着年齿渐增，父亲的毛病有所减轻。是安妮使他对子女有了推心置腹的交流。</p>
+<p>　　卡尔在面对不利环境时，一向是冷静而自信的。</p>
+<p>　　尼克年龄最小。在他对童年的记忆里，父亲是与温馨联在一起的。在他的回忆中，尽是些一起去看海豚的往事。不过，《宇宙》给父亲带来的鼎鼎大名，还有父母大吵大闹、最后还弄上法庭的离异，使十几岁的尼克蒙受了影响。据尼克自己说，11 岁到 15 岁，是他生命中的“黑暗时代”。在这个阶段上，他“不知道何去何从，看什么都不顺眼，而且还尽干些自戕性的冒险勾当……我跟一帮朋友泡在一起，这伙人又爱喝酒，又好摆弄火器——两样搅在一起，可不是什么安全事”。他讨厌南加利福尼亚的预科学校，学习成绩也很差。是名人之后，“有好处也有坏处。这样固然绝对有了些可以吹吹牛的东西，但也有些坏东西会深深盘据在脑子里。”</p>
+<p>　　运用铁的逻辑在公开论战中挫败巴克利是一回事，可用到了家里——比如，告诉尼克为什么不给他买连环画《超人》，而是应当读一读尼采的《人与超人》——则是另一回事。这个以有孩子气出名的萨根，难道居然忘记了，自己当年最早的灵感，不正是从廉价的画报和科幻小说中汲取的吗？<br>　　幸好，家里还有妈妈关心到尼克满足想象力的需求。林达给了儿子三盘英国电视节目《囚犯》的录像带。这是一部温和的、具有超现实风格的节目，写一名被囚禁在某个未名古怪乡间别墅里的间谍的经历，由麦克戈罕（Patrick McGoohan）主演。这部节目的摄制风格是“后现代派”的——而在当时，后现代主义尚未时兴起来。“我走进自己的房间，把房门锁上，看完了这套录像。然后，我便离开房间，好像身上附了某种灵气似的，”尼克回忆说。这时，他立下了志向：“我知道自己要当个什么人了。”他先是进了圣莫尼卡的社区大学，学习成绩斐然，然后，他转到加利福尼亚大学洛杉矶分校的影视系，并以优异成绩毕业。他为电视系列剧《星际远征》的“旅行者”分集写剧本，设计影像光盘，也为电影公司搞些东西。目前，尼克正在从事一部科学幻想小说的创作。</p>
+<p>　　卡尔说过一段精彩的话，那就是每个‘最高领袖’，每个劣迹累累的刁徒，每个大独裁者，每个你曾经爱过的人，大家都出现在这个暗淡蓝点上。大家争斗得血流成河，可是争的是什么呢？争的是对一个小点上的一小块有片刻的控制权。</p>
+<h1 id="第十七章-好莱坞"><a href="#第十七章-好莱坞" class="headerlink" title="第十七章　好莱坞"></a>第十七章　好莱坞</h1><p>　　《接触》并不特别出色，但不失为一部好电影，而且立意极好，远远超过如今那些票房价值颇为可观的“叫座片子”，其实，后者只是充塞着特技效果、剪接得让人眼花缭乱、对话则千篇一律得如同在流水线装配出来的货色，再加上全方位立体声效果和如同家常便饭的暴力。萨根在《接触》这部电影中，将斯诺的“两种文化”在自己心中空前地结合到一起，使大脑左半球和右半球空前地协调起来，这部电影揭示出，对宇宙的探索不但包括发现星辰，也包括发现自己身上的“大千世界”。<br>　　然而，对属意在电影中打上个人烙印的人来说，电影界是个靠不住的天地。电影是艺术世界中最富集体性的形式。制作影片要有复杂的技术，要将多种艺术形式（涉及作家、画家、布景设计师，演员、音乐家等）结合到一起，而且这些人都应当是顶级人物。<br>而顶级人物呢，又多是自以为是的，而且差不多都会结成冷酷的死党。电影业的绝对目标，就是招徕观众，尽最大可能开辟市场。因此，艺术家的构思，往往会成为商业祭台上的牺牲品。<br>　　有了这么一大帮自以为是的家伙，再加上巨大的压力，每家电影制片厂，都像是一颗定时原子弹，说不定什么时候便会爆炸。一旦爆炸，事业毁了不说，制片厂也可能毁掉，稀里糊涂往这里投资的新加坡阔佬啦、在中西部开业的医生啦，他们的股票就会一下子成了废纸片。因此，西起温哥华，东到科勒尔盖布尔斯”，美国大大小小5000家“明珠”连锁电影院，最怕的就是座位空着。由此导致的结果便是保守：说一千、道一万，观众得进电影院；给观众拍“他们想看的东西”，拍“保险的东西”，拍一准叫座的东西—拍床上戏、拍撞车、拍简单易懂的对话。在这种局面下，能有好影片出现已是难能可贵；<br>《接触》的内容是讲心灵的高度追求，主角又是生活中难得出现的女强人，能拍出这样的片子，更是奇迹一桩。</p>
+<p>　　时间是在晚上。林达表现出好莱坞的作风，赴约姗姗来迟。不过，她熟知男士的心理，先派了一位漂亮得惊人的聪明金发女郎前来，陪着我在南加利福尼亚的落日余晖中，啜着异国情调的茶水打发时光。<br>　　以好莱坞的标准衡量，林达算得上是高级知识分子。她当年在纽约市的哥伦比亚大学读书，主攻哲学，对科学史特别感兴趣。她后来又去读研究生。对于这段生活，她回忆起来相当亲切。不过，她也觉得智力上的束缚让她难受。她曾写过一篇有关情感上的形而上学的论文，得了低分，教授“说这种课题是无法接受的”。这给她泼了一头冷水。<br>　　她后来退了学，原因是她所说的，“在哥伦比亚大学，我周围尽是些手不释卷的学生，都比我认真得多。我就对自己说：‘听着，林达。你不是真正的哲学家。你是个波普派！’”<br>　　与萨根夫妇一起工作，使林达呼吸到了智力上的新鲜空气。这与她一向在好莱坞式的会议上听惯的内容不同。在这类会上，“一帮年轻的和不年轻的男人，满嘴不是前胸就是后臀，他们告诉我说，由于我在场，他们都没法谈‘真格’的东西。”</p>
+<p>　　对于林达与安妮的友情，萨根当年颇有些防范之心。他甚至嫉妒安妮和林达间的亲昵情分。回首往事，林达将萨根当初的这种自私表现归因于“占有欲”。这种感觉的形成，与他是“天才儿童”、雷切尔的“说一不二的宝贝儿子”有关，与他在芝加哥大学才华横溢的表现有关。她还认为这是他在哈佛大学被拒绝续任、使“扛在肩膀上的那个部位受了影响”的结果。她有时甚至还有一种感觉，就是萨根意识到自己会不能尽享天年，因此“不得不在短短的时期里做完大量的事情”。因此，依林达所见，当一个人活在世界上的目的就是为了科学、真理、施展抱负和取得成功时，当他有这么多使命要去努力完成时，就会认为其他人的目的应当服从自己的事业使命，他们本人的需求则居次位。<br>　　她还认为，对她与安妮的交情，萨根有一种医学上称之为“遗弃焦虑症”的表现。“如果我也在场，与安妮为伍的乐趣就得与别人分享，这对他是很难的，”林达这样说道，“倘若安妮打算一个人去看场电影，或者有意独自去商场逛上三个小时，他都会觉得自己受了伤害。显然，这是因为他不愿意看到安妮表现出独立性所致。”</p>
+<p>　　在安妮和林达这里，卡尔的精神能够放松下来。他向两位女士倾诉了从未向任何人泄露过的内心软弱。的确有不少男人觉得，同女士们谈自己的内心情感，要比向别的男人容易启齿。</p>
+<p>　　拍摄设想迟迟不能变成银幕上的现实。于是，林达搞起了“思想库”会议，请来著名科学家和宗教界权威等人士，对电影的内容进行推敲。她给参加“思想库”会议的成员开列出一份参考读物的清单。<br>　　需要这个思想库解决的问题之一，是这部影片应当真实到何种程度。好莱坞出品的科幻电影往往会失于粗糙，失去了科学的真实（比如会在真空中听到爆炸声响）。在好莱坞某些电影制作者的眼中，拘泥于科学或历史的准确性，会有损于表现电影的意图。但萨根不是这样。据安妮说，电影中出现的违背科学内容的错误会使他感到肉体上的痛苦。他曾感慨地说：“难道他们就雇不起一名研究生吗？”<br>　　在有科学家出场的好莱坞电影里，却很少有这些人搞科学研究的情节。这在一些人中引起了不满。搞电影的人知道，来看电影的基本观众是年轻人，他们最怕让别人送上“书呆子”的称号。这样一来，为了不加重这些观众短暂注意的负担，科学中应当有的推理和实验过程，到了电影中便一概全免了。萨根是尽力维护科学准确性的，不过，他也愿意以牺牲照抄现实为代价，换取对更深刻含义的反映。毕竟，他这部电影的对象并不是高级知识分子阶层。</p>
+<p>　　被改编成电影的酝酿阶段起，便是一个难题。在好莱坞，电影计划会一拖就是若干年，从一个制片人辗转给另一个制片人，从一家摄影棚转到另一家摄影棚。《接触》的电影剧本正是这样的流浪儿。林达·奥布斯特一开始是制片人，后来却丢了控制权，然后又东山再起，失而复得，几经起落，十几年就这样过去了。</p>
+<p>　　把福斯特搬出来在拍摄合同上签字，就等于把钱存进了银行——电影有票房价值高的明星主演，上座率便有了保证。</p>
+<p>　　他们请来一位中年女科学家，参加“思想库”的讨论会，阅读《接触》的电影剧本，听她发表在电影所表现的年代（20 世纪 50 与 60 年代），年轻妇女为在科学界争得一席地位会经受的种种风波。在自己从事的科学研究领域里，她做出了相当出色的成绩，但公众却几乎不知道她的存在。“希帕蒂亚”的从业经历，说明她那一代妇女想在科学界求得发展，经受的种种艰难会何等令人心酸。<br>　　对“希帕蒂亚”的磨难从儿时便已开始。在一次剧务讨论会上，她回忆了自己的儿童时代。她的兄弟们欺负她，“把我锁进壁橱里，还拿着死虫子满屋子追我。他们明显怀有一种敌视情绪。我有许多光阴是一个人度过的。”她的母亲责怪她不应该去学什么物理，告诉她应当去学文学。她母亲还一个劲地逼她结婚。在她 30 岁上，母亲这样对她讲：“面对现实吧，你是个嫁不出去的老姑娘。”“希帕蒂亚”的反应是：“我气坏了，一把抓起我坐的椅子，朝房间的对面扔了过去。”她后来取得了科学成就，母亲虽然感到骄傲，但是“由于我不曾结婚，她一直觉得我没能混好”。<br>　　对于大学生活，她的回忆是“与男人不停地开战……跟男人争个高低”。对她来说，大学“既是地狱，又是天堂。在一个教授的课上，我问的问题多了些，他就脸直冲着我说：‘嘿，嘿！不问问题，你的前胸胀得难受是不是？’我才 21 岁呀……当时真想把这个王八蛋的牙给砸掉。……另外一个教授给我们班上课，看来他对我挺满意，在我头上拍了拍，全班人都哄堂大笑。这让我难堪极了。……还有一个人，是得过诺贝尔奖的，居然拉我坐到他的腿上，好像我还是个小娃娃似的”。她还诉说道，她的博士生导师发过议论，说“女人进行不了抽象思维”。<br>　　“希帕蒂亚”向这个小组交底说，为了在科研小组里说话有人听，她“摆出一副十足的男人派头来。我有意表现出男人的做派，特别是属意领导权的男人的做派：走进办公室，将书砰地撂到桌子上，人这么坐下来——只有男人才会这样坐着，占上好大一块地盘，发出好大的动静。……我努力表现得非常、非常男人气。……你要是女人气太重，对他们太客气，他们就不拿你当回事”。</p>
+<p>　　萨根担心电影最后会将他本人的无神论观点大大冲淡。他在一次小组讨论会上抱怨说：“好莱坞拍电影的路数是调和，是折衷，是失掉本来很强烈的反宗教意识。原因只是由于观众中有人会不痛快。……据我看，等到拍摄和剪辑进入后期阶段时，怀疑宗教的对话会不受重视。”</p>
+<p>　　然萨根未能完全领会宗教信仰的一个关键内容，就是宗教公然将非理性摆在桌面上。宗教并不像韦利科夫斯基或者 UFO 家们那样，给自己披上科学的外衣。宗教就是“信仰”。这就是宗教的断言。伪科学中的非理性和宗教中的非理性，两者是存在区别的。萨根未能把握住这一点，因此认为可以通过讨论的方式，使信仰宗教的人一改初衷，好像宗教信仰和认为真有飞碟在新墨西哥州沙漠里坠毁的看法没有什么区别。人类学家和社会学家对宗教的理解要正确得多，可惜社会科学从来不是萨根的强项。</p>
+<h1 id="第十八章-夜行车"><a href="#第十八章-夜行车" class="headerlink" title="第十八章　夜行车"></a>第十八章　夜行车</h1><p>　　这场大病使一个早已存在的复杂问题更棘手了。这就是用动物进行医学试验的争议。萨根一向反对给动物制造痛苦，强调“为了制造诸如唇膏之类的东西，就将动物杀害，这是道德败坏”。他是康奈尔大学协会校区分会的教员代表，并和安·德鲁扬一起接受过“反对虐待动物协会”的褒奖。美国国家航空航天局局长戈尔丁（Daniel Gordin）也曾收到萨根的一封信，信中委婉提议不要再向太空中送入灵长类动物。然而，他这次能够活下来，正是由于医学界在鼠和狗身上进行了骨髓移植实验的结果。萨根在自己的书中这样说：“对于这个问题，我一直处于矛盾状态。没有在动物身上进行的研究工作，我就活不到今天。”<br>　　* 参见《卡尔·萨根的宇宙——从行星探索到科学教育》，耶范特·特奇安、伊丽莎白·比尔森主编，周惠民、周玖译，上海科技教育出版社，2000年12月。</p>
+<p>　　他们是知识分子，谈论的是知识性问题。这一次，他们谈论的是一个古老而又敏感的内容：属于不同领域的观念，是否可以统一到一起。费里斯提到，有位学者曾对科学史家李约瑟（Joseph Needham）说：“你受到过通才教育。因此，你应当知道存在着这五个学科领域：科学、哲学、宗教、艺术、历史。如果你对这五门都通晓，你受的教育就是出色的，就能去从事好多其他工作。缺了任何一样或者两样的教育是不充分的。”李约瑟对此补充了一句：“我看不出有统一它们的必要。”<br>　　萨根马上说道：“不过，这五门中倒有三门可以归结为科学，此外还有一门属于幻觉。”</p>
+<p>　　语气中仍同往常一样，不带任何悲凉成分。<br>　　德鲁扬后来还说：“他相信一了百了。他认为别的说法都是精神上的自抬自捧。如果一个人确信猩猩死了是一了百了，就不会以为人就该有什么不同，否则就会自相矛盾了。”</p>
+<p>　　萨根的生命已临近终点。他有心向自己伤害过的人致歉，承认过去的批评太粗鲁无礼。这时，他像尤里进入晚年后一样，追悔起自己当年的无礼，并有心求得年轻一代的原谅。他恢复了与戴维的联系，不过是以男人的方式，即通过间接试探的方式：给戴维写去一封信，对这位青年的科学观点表示有兴趣。戴维也回了一封“语气轻松”的信。如此而已。没过多久，卡尔“叔叔”便故去了。尽管他们只做到这一步，但总算恢复了交流，想到这一点，还是让戴维有所藉慰。</p>
+<p>　　“奥卡姆的剃刀”——由奥卡姆（William Occam）提出的哲学原理，即认为若无必要，任何事情皆应采纳最简单的解释方式。勒纳认为，通过表现艾罗藏——“一位狭隘的经验科学主义的坚定支持者”——发现了外星生命，但“她在地球上的同事所拥有的任何仪器都无法确认她的发现”；因此，人们对她的奇妙经历大起怀疑。“《接触》就是对奥卡姆的剃刀及其立足的整套经验主义哲学提出了挑战。”妙就妙在“狭隘的经验主义，本来已经成了她的安身立命之所。如今却被证明不足以包容整个宇宙的复杂与奇妙”。</p>
+<p>　　萨根相信科学会对世界产生影响，因此应当使公众具备科学知识，这样才能使民主发挥作用。</p>
+<p>　　与安妮结婚 15 年，卡尔无疑学会了像父母一样，尊敬和注重自己生活中的伴侣，甚至达到了合二为一的地步。他与安妮间的关系，密切到了往往无需言语便可以沟通交流的程度。<br>　　萨根在家里极少帮忙干家务。不过德鲁扬并不以此为。“他可会烧饭？不成！门儿都没有，”她说，“他也不会叠毛巾。在一起生活了几年以后，我意识到一点，就是我并不需要让他来叠毛巾。……他会铺床吗？他偶尔会干一次，这是因为他知道这样干会让我高兴。可他干起这种事情来，真是像鸭子上架。不过，我感觉到的是，他愿意为我去死，我也愿意为他去死，立马就死都成。我和卡尔一起发现，爱情是可以永存的。”</p>
+<p>　　一位“有眼界的展望者”是指什么样的人呢？卡尔·萨根考虑起时间来，是以“纪”为单位的，说起空间来，是以“光年”为单位的。他毕生都在想着太阳系的事情。对于这样的人来说，地球上发生的种种倒行逆施，充其量无非是一种小家子气而已。这种小家子气作风，正是他在《暗淡蓝点》一书中谈及的中心内容。<br>　　他恪守逻辑学原理，因此，如果他看出自己被证明是错误的，就会爽快地承认。据安·德鲁扬披露，每当她赢得一场争论，他就会“明朗地”微笑，作出脱帽一挥的姿势说道：“向你致敬了，安妮。”因此，安·德鲁扬知道，“这使你有一种感觉，就是以这种方式，不仅所有的问题最终都会得到解决——因为这的确是获得真理的途径，而且这个人还会永远这样做下去。他不肯安于会使大多数人感到满足的老一套。……他认为要紧的事情，就是知道什么是真实的观念，而不是某些能够支持其偏爱的观念。”所谓“真正的科学之梦”，就是了解宇宙——不是“我希望它会有的状况，而是它实在的状况。我并不是为了减少对宇宙广衰无垠的惧怕，就希望它的状况会同我设想的一样”。</p>
+<p>　　到了 2050 年、2100 年或者 2200 年时，是否还会有人记得萨根这个名字，那实在就难说了。新大陆的全称亚美利加洲，是以亚美利加·威斯普契（Amerigo Vespucci）的名字命名的，如今又有多少人知道美洲据以命名的这个人呢？</p>
+
+    </div>
+
+    
+    
+    
+      
+
+
+    <footer class="post-footer">
+          
+
+<div class="post-copyright">
+<ul>
+  <li class="post-copyright-author">
+      <strong>本文作者  </strong>千灵夙赋
+  </li>
+  <li class="post-copyright-link">
+      <strong>本文链接 </strong>
+      <a href="https://qianling.pw/carl-sagan" title="《展演科学的艺术家：萨根传》书摘">https://qianling.pw/carl-sagan</a>
+  </li>
+  <li class="post-copyright-license">
+    <strong>版权声明  </strong>本博客所有文章除特别声明外，均采用 <a href="https://creativecommons.org/licenses/by-nc-sa/4.0/" rel="noopener" target="_blank"><i class="fab fa-fw fa-creative-commons"></i>BY-NC-SA</a> 许可协议。转载请注明出处！
+  </li>
+</ul>
+</div>
+
+          <div class="followme">
+  <span>　</span>
+
+  <div class="social-list">
+
+      <div class="social-item">
+        <a target="_blank" class="social-link" href="/atom.xml">
+          <span class="icon">
+            <i class="fa fa-rss"></i>
+          </span>
+
+          <span class="label">RSS</span>
+        </a>
+      </div>
+  </div>
+</div>
+
+          <div class="post-tags">
+              <a href="/tags/%E4%B9%A6%E6%91%98/" rel="tag"># 书摘</a>
+              <a href="/tags/%E4%BC%A0%E8%AE%B0/" rel="tag"># 传记</a>
+          </div>
+
+        
+  <div class="post-widgets">
+    <div class="wpac-rating-container">
+      <div id="wpac-rating"></div>
+    </div>
+  </div>
+
+          <div class="post-nav">
+            <div class="post-nav-item">
+                <a href="/guns-germs-and-steel" rel="prev" title="《枪炮、病菌与钢铁》书摘">
+                  <i class="fa fa-chevron-left"></i> 《枪炮、病菌与钢铁》书摘
+                </a>
+            </div>
+            <div class="post-nav-item">
+                <a href="/complexity" rel="next" title="《复杂》书摘">
+                  《复杂》书摘 <i class="fa fa-chevron-right"></i>
+                </a>
+            </div>
+          </div>
+    </footer>
+  </article>
+</div>
+
+
+
+
+
+
+    <div class="comments" id="valine-comments"></div>
+</div>
+  </main>
+
+  <footer class="footer">
+    <div class="footer-inner">
+
+
+<div class="copyright">
+  &copy; 
+  <span itemprop="copyrightYear">2022</span>
+  <span class="with-love">
+    <i class="fab fa-github-alt"></i>
+  </span>
+  <span class="author" itemprop="copyrightHolder">千灵夙赋</span>
+</div>
+<div class="busuanzi-count">
+    <span class="post-meta-item" id="busuanzi_container_site_uv">
+      <span class="post-meta-item-icon">
+        <i class=""></i>
+      </span>你是第
+      <span class="site-uv" title="总访客量">
+        <span id="busuanzi_value_site_uv"></span>位到访的小伙伴喔
+      </span>
+    </span>
+    <span class="post-meta-item" id="busuanzi_container_site_pv">
+      <span class="post-meta-item-icon">
+        <i class=""></i>
+      </span>本站已被访问
+      <span class="site-pv" title="总访问量">
+        <span id="busuanzi_value_site_pv"></span>次啦
+      </span>
+    </span>
+</div>
+
+    </div>
+  </footer>
+
+  
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/animejs/3.2.1/anime.min.js" integrity="sha256-XL2inqUJaslATFnHdJOi9GfQ60on8Wx1C2H8DYiN1xY=" crossorigin="anonymous"></script>
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/next-theme-pjax/0.5.0/pjax.min.js" integrity="sha256-3NkoLDrmHLTYj7csHIZSr0MHAFTXth7Ua/DDt4MRUAg=" crossorigin="anonymous"></script>
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.6.0/jquery.min.js" integrity="sha256-/xUj+3OJU5yExlq6GSYGSHk7tPXikynS7ogEvDej/m4=" crossorigin="anonymous"></script>
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/fancybox/3.5.7/jquery.fancybox.min.js" integrity="sha256-yt2kYMy0w8AbtF89WXb2P1rfjcP/HTHLT7097U8Y5b8=" crossorigin="anonymous"></script>
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/lozad.js/1.16.0/lozad.min.js" integrity="sha256-mOFREFhqmHeQbXpK2lp4nA3qooVgACfh88fpJftLBbc=" crossorigin="anonymous"></script>
+<script src="/js/comments.js"></script><script src="/js/utils.js"></script><script src="/js/motion.js"></script><script src="/js/schemes/muse.js"></script><script src="/js/next-boot.js"></script><script src="/js/pjax.js"></script>
+
+  
+  <script src="https://embed.widgetpack.com/widget.js" async></script>
+  <script class="next-config" data-name="rating" type="application/json">{"enable":true,"id":8657,"color":"5bc0de"}</script>
+  <script src="/js/third-party/rating.js"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/hexo-generator-searchdb/1.4.0/search.js" integrity="sha256-vXZMYLEqsROAXkEw93GGIvaB2ab+QW6w3+1ahD9nXXA=" crossorigin="anonymous"></script>
+<script src="/js/third-party/search/local-search.js"></script>
+
+
+
+  <script src="/js/third-party/fancybox.js"></script>
+
+  <script src="/js/third-party/pace.js"></script>
+
+  
+  <script data-pjax async src="https://busuanzi.ibruce.info/busuanzi/2.3/busuanzi.pure.mini.js"></script>
+
+
+  <script class="next-config" data-name="leancloud_visitors" type="application/json">{"enable":true,"app_id":"zulMeib4pyC6zB1a65OmVtHz-gzGzoHsz","app_key":"TEjUlOUBz3KwSUmDQ35ROxpw","server_url":null,"security":false}</script>
+  <script src="/js/third-party/statistics/lean-analytics.js"></script>
+
+
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/quicklink/2.2.0/quicklink.umd.js" integrity="sha256-4kQf9z5ntdQrzsBC3YSHnEz02Z9C1UeW/E9OgnvlzSY=" crossorigin="anonymous"></script>
+  <script class="next-config" data-name="quicklink" type="application/json">{"enable":true,"home":false,"archive":false,"delay":true,"timeout":3000,"priority":true,"url":"https://qianling.pw/carl-sagan"}</script>
+  <script src="/js/third-party/quicklink.js"></script>
+
+
+<script class="next-config" data-name="valine" type="application/json">{"enable":true,"appId":"zulMeib4pyC6zB1a65OmVtHz-gzGzoHsz","appKey":"TEjUlOUBz3KwSUmDQ35ROxpw","serverURLs":"https://zulmeib4.lc-cn-n1-shared.com","placeholder":"说点什么好呢~","avatar":"wavatar","meta":["nick","mail","link"],"pageSize":10,"lang":null,"visitor":false,"comment_count":true,"recordIP":false,"enableQQ":true,"requiredFields":[],"emojiCDN":"//i0.hdslb.com/bfs/emote/","emojiMaps":{"团宝":"311f83d568e2fd702b08f40d4c838572a07ebea0.png","少前小剧场-心虚":"61ea3a788ec43241860ed984672eb588963bc98a.png","少前小剧场-打call":"f4b6b513bf4280da6395a40a61d15480ff12f978.png","少前小剧场-卖萌":"bbe8c979922144e667efd63dcce0320437425a00.png","少前小剧场-钱钱":"48ae808b0463e0cde3cc5c8666839776ed7a4cfb.png","泠鸢yousa-awsl":"7663b729161bd4556c2ec318c07791000743eb56.png","泠鸢yousa-打call":"718e9495846db4172eb87d2f7f02015a34d35ea2.png","泠鸢yousa-大哭":"3f757b147b9b1e201470eae7dac9cc0360172569.png","泠鸢yousa-好人卡":"e3907b3bb20b18e7ecb11cd86829c9a4ce5b1b2f.png","泠鸢yousa-加大力度":"a0393a2d4b522f07a319dfd2e91754a3cdff2c48.png","泠鸢yousa-滑稽":"a8057c0e0579b93c16010a270e261fd0a64034af.png","泠鸢yousa-请吃桃":"e92276d9d8c28f85f7dbcc0fbbb6ecb3345ce33e.png","泠鸢yousa-生气":"9e6ba9ff34101e04d3e321cad486f845f892050e.png","泠鸢yousa-真棒":"02ea49543a3ac52feee185c156ab08fb2bfdd89e.png","初音未来-GKD":"44caa7ec800837d8860482c214ac792f4c37c490.png","初音未来-加油":"4943a9be0a3134125c7d585b4dafde79a9a1990a.png","初音未来-哭了":"db9b01e5808967a32ed644b490ab47faf0f29ce3.png","花园Serena-？？？":"42f7ab2a562d000929979976d30669bec042662f.png","花园Serena-安详去世":"cdf595646132b98dcf1d230d351b2738d68f49c3.png","花园Serena-mua":"20319d3948da83f666a643b2c8103e6da0e36721.png","花园Serena-到点了":"af2f6c0dd1155f4aefb610cc6d09c135df9e6752.png","花园Serena-恭喜":"c1d8361755bb135d24b3b4680fe6ba03c086b395.png","花园Serena-喵":"4159859e6c9c2e0476299454b6015c2659149e3c.png","花园Serena-睡":"ae8ad8fd2a8d14e53938ba7dc7ca22681143dc09.png","白上吹雪-不是猫咪":"7524855a584f7ec0f9cf337b1a3554ee5ffd29b9.png","白上吹雪-吃惊":"aa6549e4daba755b5cf6a7031bd37ab9cf378706.png","白上吹雪-大佬喝茶":"9c7f6f0c192d972c27988d7d461477ca8871dcc6.png","白上吹雪-狐狐祟祟":"14f8be6955ee392baccd7d82b4371765a0c18523.png","白上吹雪-摸摸":"218cc0fb954a3dadde61eed03e3a376f277f36ee.png","白上吹雪-围观":"04d66a7b0b7b4f78bf45297cd91c0059de71b8bb.png","白上吹雪-一派狐言":"7d504e583857d68edf4fe0706be0b426f0d3cfb1.png","白上吹雪-emmm":"709bc019cf7960d9dcb40a0d5a444f8a78e376d3.png","原神-哦":"4b8b6f0e451c600abf2d83560125d03cfa97fe28.png","原神-哼哼":"62d09fa482842dabbd4a51176abc0ec20a64a359.png","原神-给我走开":"c0a9f2bea10fdf763b4fbe3874ee254d61916711.png","原神-鸽子":"d03a8f9f490eb007aae2d826f9143e3a29a3be5a.png","原神-干杯":"966f0b307bf4d07e81162dc32bf1e71c83bf997a.png","原神-吃惊":"d8d07498a567ea109a8fc4b58ffccdc33643cd99.png","原神-不要啊":"8ea92be976beb8126adc7cabc2aa7f2b02b9bee2.png","原神-拜托":"2f2817b84caf9d81fdce171d18a3f99983f1ec64.png","2233塔罗牌-撒花":"0d301be888e87aed6cc8e6548fbc74a23421dedc.png","2233塔罗牌-我觉得星":"1aa7391b61aa7be88644db2672cd4603559f1469.png","2233塔罗牌-下次一定":"294690ac14a2adc6ee50b138229aa5c53636e46f.png","洛天依·夜航星-爷青回":"d1202872850a335b357e702adaf3d2a79db72e13.png","洛天依·夜航星-萌妹初醒":"3159931d9afa243c6cf5939753e3c82acb69a554.png","洛天依·夜航星-冲鸭":"659efad4a6aa25ed6a98efe611564c26f497f436.png","洛天依·夜航星-Lucky":"bbeb9d231773a168397697072a11373893d7c01a.png","洛天依·夜航星-锦鲤":"35ab588061c32f07743b07f1ac3f62a16f34438c.png","神乐七奈-变猫猫":"9f699c56da1178079b18be27dc3f219138e4a164.png","神乐七奈-辛苦辣":"7b22908d4afac2c0ad1ba96177ac7a24855f4a2e.png","2021拜年纪-投币":"d2d0a3a4621dede09506264110cefcbfa9561572.png","双鱼座-做白日梦":"ba03f95ebe480106806377024e0c93ddb9c0f836.png","崩坏3-吃饭团":"62173e795139cfaf60b5665165400e99bb8a14ac.png","崩坏3-饿了":"8b6160dfc5f8a8608e88bcb380f4e812b8a165cb.png","崩坏3-干杯":"8de5f3a1cc3dfd9f7be8f12662a489214d3e72fb.png","不问天-大哭":"aea0c17a62f825621a1273f100c17330180b7b01.png","进击的冰糖-探头":"ae834e6efdd568f7e30aec059a8646b75438d896.png","干物妹！小埋-？？？":"d2d0955e6ddf2d3528c6f2364b7002b114907c94.png","干物妹！小埋-抱抱":"f7d5a5150733a15386d98015114630e893f5281b.png","Hiiro-亲亲":"0b54433d978f51a7031a965f2981832129eb8ef5.png","C酱-问号":"4fb6f0d8fcedef1624c5999609036346748b31e2.png","C酱-AWSL":"4b8ac5c1fa7358d949ecfe089e02b252b29d6082.png","C酱-害怕":"f5f777b059df8c40cbc240586aeaf4f63af97f91.png","C酱-嘻嘻":"65cf8762af542e8a72edc466b05bb1a19600dc2d.png","C酱-不要啊":"86994300b58eb3cb91fc99818dd87a691deed564.png","一周年纪念-抱大腿":"0800070155b5dabc3097793c0e086420057a7e2f.png","咩栗-nya":"b8011132b40b4f9807523db3d21581f82c2dce91.png","咩栗-打call":"01b6ee0712d13daa323dbd89217018ea7f6794a5.png","咩栗-聪明":"750542d25fcf1675baf143c2ab7e945445e8b078.png","咩栗-好耶":"9aa9b53211a938c1859c15407cee57cc7519fefd.png","咩栗-惊":"8c4ecf43c895bc9ed23eea9274328ba6cf24481e.png","咩栗-咩？":"bb305147beb88a101061dff54cbcb9062635670b.png","咩栗-咩呀！":"a36a0973f1c9935577db05bc90b602dc61236c0f.png","咩栗-斯米马三":"a46bc117192aa2495c492acca03e27393258c015.png","咩栗-羊名立万":"8fd2b4174f94c1c9b7cf4cf132a54838db40ddff.png","咩栗-羊羊得意":"dd55311765d00d768acb157958e85413ae25578c.png","嘉然-mua":"74ea9b89f8923df6a123cabe6053762b9e776387.png","嘉然-安详":"312359401cc72c34fcea3654cdba42db0f9f3dd0.png","嘉然-暗中观察":"3acf0b43facfd0601f5ab88cca6e401aa4f5a02e.png","嘉然-锤头丧气":"e6342840311ffeba8f2c58d1c360d76644e75dff.png","嘉然-点赞":"7017d90d4ceb9ea042cef8adc70d35eeb1f95e7e.png","嘉然-嘉人们":"d270845c9590da372e9b311cd6d976459acd1087.png","嘉然-嘉速心动":"387035168f40ca81afce8b38303c60ceb0c5dc6c.png","嘉然-流口水":"78bfeff475ad56a6d9379164b099f1ad8ecd7086.png","嘉然-你好":"d1530f972a59bca97bc4b8acf4f7e16f989f37c3.png","嘉然-一眼真":"ff436f5821db8b871517d0e5bb7ade7b64d3d0bf.png","嘉然-绷不住了":"4f0a9ee7708d71083dba4e79768ff0b7c308eaf4.png","嘉然-笔芯":"332a6df0e6def8da77e09310a62f3bffdc397640.png","嘉然-我有嘉心糖":"7579c6085f984f39ff0f6a2cb710301a2b113fac.png","银杏鎏金-幸运喷雾":"89e550f628333fe35f0b010337bdc5c4bf713cfc.png","2022拜年纪-HAHA":"ece69ad87284eb12324572be2a9009c0bc5e65b8.png","2022拜年纪-？？？":"0c5acb46f82cc559e16e542c29ae3bd503b65344.png","2022拜年纪-比心":"5001d623ddbe81d704e0093343ced12e2b38a3db.png","2022拜年纪-不愧是我":"ab807d0265a5c834c0d4d54b676c54da4feb38ce.png","2022拜年纪-不要啊":"80a74addbae8dd5bccc71728181e1d7e11a79d19.png","2022拜年纪-馋":"5012311cfa88687663f636f044f020a611a49848.png","2022拜年纪-打call":"54f99d1e613b42b0241a7f7c9ef5d8f5331fc754.png","2022拜年纪-瞪大双眼":"7def07a3a1829c7e26cfa6a3f1259fe3f9b9d4d3.png","2022拜年纪-放空":"823ea6f47ef1dda2d85317f635dc7d42a58c1545.png","2022拜年纪-干了这杯":"de06e28d6afee561556c6e3cbd199d21f4e4fd09.png","2022拜年纪-哈？":"206ddfebe778cf4f4c2c3f6f87330db32d4e1708.png","2022拜年纪-擦擦":"7b5fb834faccffe090db5ae3406468a306018bfd.png","2022拜年纪-哭哭":"365002e8c6007564b92fe4eb7ab0f815e988995e.png","2022拜年纪-捂脸":"380d5814aa70370f57f990ab68b4cd2a195830a6.png","2022拜年纪-恰柠檬":"5d2e17818c67eaff2de2890d808cc1f7a2bb8232.png","2022拜年纪-无情吃瓜":"3342b9aa0c6fc6f7ddfec0bcc611fa4ea6987c60.png","2022拜年纪-眼前一黑":"9cf5e735e64525c59f26ccbcb4ddf6ba5a29ed11.png","2022拜年纪-星星眼":"ef49e822e72ced75f71950f4c296192dae543486.png","2022拜年纪-晕":"460d02950b4d676604e9d4686fa769a866d21191.png","拜年纪2022-火了":"20ee37d0695247f6f32e71de264fe7e955d74835.png","月隐空夜-咕咕咕":"df59993b9ea4255e8666bd417f75b3857bd67627.png","月隐空夜-回家了":"3c796d34b61c18fd1d03443a4a144c1133859600.png","月隐空夜-欧拉":"36465ab94e113a0557cff76bed5c6266277430f3.png","月隐空夜-欧气满满":"fce384d8ad9dd6ba2b87e6a8c6fec1e3f8576984.png","月隐空夜-天才":"542eaddb1b04f85a04068f31bfe1c133a5270a66.png","月隐空夜-完了":"1289c9f89244342b83f784d3bf6c18dcd548f1e3.png","新月冰冰!-心脏骤停":"04f0e3087d39629079bbfc7f2b2d0e3cdd3eada6.png","新月冰冰!-加油":"46be9e14a41ec1f392240c5c7f3006cbff5b3744.png","新月冰冰!-不可以色色":"116f93998c4c50a8c801103b9037f793f936a896.png","新月冰冰!-大哭":"50a0ad849ffae469cd376f5e4afeb0ab64b74887.png","新月冰冰!-单推":"542fbbc36493831ec98ed64b51d60a1191afa63e.png","新月冰冰!-诶嘿":"dae8436e7042b1440748993da11d5c93e55e0c13.png","新月冰冰!-给花花":"fac1c332932004b3922e19b1d8f20208ddb7ea23.png","新月冰冰!-滑稽":"c2dfb168f43d334ff291042e81ddf80a8a059913.png","新月冰冰!-开车":"83630b278dd62d2dde701021d98be2d5fcbf00f3.png","新月冰冰!-穷醒":"9cc02af9592ceceb795006cf2611b4a423ec4a19.png","新月冰冰!-谢谢老板":"ddc6b7389787bec178ab24eb842ee949d2d79be2.png","新月冰冰!-kira":"f50869288aa706cf9f1aa9e5d3f7274eac558f68.png","Hiiro二周年-吃瓜":"f5dd831cd8dc9fc93a8cf21247f2e1bdbfa65eff.png","Hiiro二周年-大的要来了":"7cb1ccd578c1946ff68cbcf55add6527cc7826e1.png","Hiiro二周年-好耶":"3250844f983fad2e8888a69f9438a925492630b1.png","Hiiro二周年-坏女人":"74f02465c6c057aebb0df5cb3ab785616b5f077b.png","Hiiro二周年-击剑":"3212b33d39221df349dea0695701bbce07971b00.png","Hiiro二周年-寄":"22ce9c662192d858231ffd02190db7338e0b6e8c.png","Hiiro二周年-辣眼睛":"8ea839758e87947326711297ca7c08a9ad3af906.png","Hiiro二周年-流口水":"0648c8bf4f3836de0902b4ab8e9b1c1b68505a5e.png","Hiiro二周年-麻了":"a7b0deef902b639e40c9b4dc3d3a9df5793cf538.png","Hiiro二周年-无语":"5a61e12360c94b413fa6d370829b8d7f4733c897.png","Hiiro二周年-吓":"cbaca277bcc77739abf41bfc5c377b61ff8527d9.png","Hiiro二周年-两眼一黑":"9b6d393c8f9248e9f8ea8e1d075cc88a300972f3.png","崩坏学园2-好耶":"f1fe88c6d201f2b5d91ad70bcad15288d4569f00.png","崩坏学园2-偷瞄":"31406161e268ab3a3ae24befacc64ab9812d478b.png","崩坏学园2-乖巧":"fb397421eaea8f271acfe135a8dc49bffa7605be.png","扶桑大红花-疑惑":"5d3d9164fd05da8a1690d7a1dff210bdf822a64d.png","崩坏3-幸福":"714cc90d3485a003f53eecec336bea8a0b2dc12d.png","扶桑大红花-略略略":"e1fd8c1f6947c94e3227e7f7afe8de61aa277a24.png","扶桑大红花-生气":"6adad591921aa4d51a8399b6efdf18f84e7144f6.png","扶桑大红花-好诶":"1acaf75c1f900e827922169b8512a5c38695f620.png","扶桑大红花-啪":"0f06e1363cbfd72ed411c2385f3c64d098fdac18.png","扶桑大红花-入脑":"6b343b588735140442460054a4b64e81a6ee9dd9.png","扶桑大红花-不行":"b21a234b272c952b012af2cfa097693b126bd445.png","扶桑大红花-rua":"50053d5c3c485fda2c110ed0874a6a5a2d7f1dff.png","暹罗猫小豆泥-抱大腿":"1e309b348e969e7ff1c7d873352799a2005494d5.png","暹罗猫小豆泥-惊讶":"d6024fd52d7e66241062c045559974e2a4c6e87f.png","暹罗猫小豆泥-哭":"9153d549e425cc02eb911695fff29cb59b338da0.png","暹罗猫小豆泥-探头":"4741a1d527c52365850368b2f480d5818b23cb8f.png","小可学妹-老板大气":"f5fadc61fd4da10fca13cc352e9a37663c21daf6.png","小可学妹-好热":"6892a3b67b1968c550fdd110e9ff8f995973a44b.png","小可学妹-两眼一黑":"66b17fa948ce00a66f260b202dff5bb943103c6c.png","Akie秋绘-可爱":"d1e9aeb4fee6a64e1cbc17c6fe129d3b74e41f50.png","Akie秋绘-哭哭":"06fb34e4d4d33477fcbf13cb5d8327c2bd746e76.png","天涯明月刀伙伴-？？？":"6b7815e08667c6fd7905b7c640c5b46b2bc4dec0.png","天涯明月刀伙伴-馋":"0467b117ad55f21d2b13b8230dc28bc06039d842.png","天涯明月刀伙伴-emo":"8b0cf44f7311445e1590391c7a091a664bad353b.png","祖娅纳惜生贺-懒":"97029c26e7b2700dd30f9ac53842e4806872f262.png","祖娅纳惜生贺-泪奔":"1486e90eea32c556b21a8a0c9474cb8b04f04eae.png","祖娅纳惜生贺-恰饭":"780146c9ea1b35d7b8efad3de8a6a153d42d760e.png","祖娅纳惜生贺-生气":"115705216f64896f40b0bab9ee0b127c315e3721.png","祖娅纳惜生贺-晚安":"1e6f9b96f9ed121928e4bbaa27a4263156b48d3d.png","星瞳-星想事成":"23dcbf6168d8befa79856764d1a4036662786063.png","请吃红小豆吧-吃薯片":"35aeeddf6f0c96dec6652e6050e34626d6cfdcbf.png","请吃红小豆吧-发呆":"ffdc8f1ab56c4d9ccc6a35a7a6bb7092df93f231.png","请吃红小豆吧-告辞":"463fb9facfa0d4700b001ef9365e7253f80a0459.png","请吃红小豆吧-害羞":"7e1ae398526c28926767fda86bf41ba6f6d6e7b4.png","请吃红小豆吧-好耶":"905662fe86b316d361a37e64c6d753ee6efb1d2e.png","请吃红小豆吧-坏笑":"9ff8ab26feeb0a7f65c698825192cbbee417dcd3.png","请吃红小豆吧-泪目":"41f2e34af7e0c3cdd726dadbc8933f21f01d1c13.png","请吃红小豆吧-摸摸头":"7fe816a29961559ac6248274087de14b3447f3f2.png","请吃红小豆吧-哇":"be9352ed161a0d0aa222986b5610802bbf18e5a6.png","请吃红小豆吧-我很好":"ad9d73e683990c86e06be15e0187c930826de644.png","请吃红小豆吧-在吗":"865566aa175609d7a018436046407199a4e2b51a.png","请吃红小豆吧-糟糕":"8c8372a8fc9655e1559a764afe3d769fa141c96e.png","请吃红小豆吧-啧":"b033a8a098bb321a6220cd10a534322a7ea94aad.png","最后的召唤师-吃瓜":"72007fc6e0cbc2b2c13b8c3971e333708024785a.png","最后的召唤师-摸摸":"808b65dddecd55c06bde59080823f60030b6be98.png","最后的召唤师-歇歇":"63e50835bad0184129e9382df435efbf6b29a3b0.png","眞白花音-打call":"e3957fbe286f694f215fafdcc6597c9a9cc3a5ae.png","眞白花音-大头":"8cf7b3d9e9b81017d6d616b643373bf57b516ec5.png","眞白花音-对不起":"b12fa885dc14cdc73cdb71f69f70a54350316d92.png","雪绘-比心":"892ec2ea31bae16044c683b68b4744fda62f1eff.png","坎公骑冠剑-YYDS":"207ad2f10f32e138c29761fd3526877e2210c2e2.png","坎公骑冠剑-唱歌":"46dbf43a57841ae840e21e8678b7daa58935a26e.png","坎公骑冠剑-吃鸡腿":"db344ad0fd23621beecb7db3abb7567156bfb8f4.png","坎公骑冠剑-出来玩":"485be2a946e954ba886b50b8ba1033accb056071.png","坎公骑冠剑-干杯":"25cab88e656ea009152ad6364df1b42065d1ffda.png","坎公骑冠剑-乖巧":"c9468c3a6dd02389b2e1364fba39f51efea9f247.png","坎公骑冠剑-惊叹":"30ed9cd688e17cc6c54f7b969b6e89b74580a5db.png","坎公骑冠剑-嗯!":"9d7f7dff618d4fbcb99cfef30141e37105179044.png","坎公骑冠剑-你还好吗":"d48c0e8ef71bc2af28d25ac390c67a9f08533517.png","坎公骑冠剑-你在干嘛":"4521901b073665c42f76a50b07acb19a2d3459bf.png","坎公骑冠剑-欧气传输":"e8f1308e982c818a6d7a6b4ff3ef5d92c24f4fe0.png","坎公骑冠剑-送花":"9fb76616e1cdf524bc254f2b8873b83d43e03b87.png","坎公骑冠剑-哇":"a737de02e1952f2841916cff82e73009f9946dec.png","坎公骑冠剑-晚安":"c223ba1967dd328307f74e2b58f815acb3232cf9.png","坎公骑冠剑-妖妖灵":"2c8eee463117bec38f38d6cf6873d333aa9660a5.png","永雏塔菲-不理你了":"ec38a461c767fd0f4dee7346f82d81e5a88b176c.png","永雏塔菲-嘲笑":"094c321f0829f0894f48195d6671358a1a43b53c.png","永雏塔菲-对呀对呀":"37afa9e099d0c2ca9a4f3ff7d599e86060d6b942.png","永雏塔菲-尴尬":"71a5b730a3c20ddac64f8e7803ffc00da97f7397.png","永雏塔菲-哈哈哈":"b1f89d85b9c9f8553fe021c1e5785bc2995f8751.png","永雏塔菲-累":"889f95e3b36f257cb6b68f420b8238a11c596d19.png","永雏塔菲-摸头":"a826477acfa607224dd4a6771431af3b18ee8f92.png","永雏塔菲-亲嘴":"ce2123ec6b4f15eb8dfc2467f36fa3d69f2f97cd.png","永雏塔菲-闪亮登场":"c7eff8db64b132e6757bacdd51e649e16965f6b9.png","永雏塔菲-生日快乐":"9daed0ba16c89f983c7fcfa38e2bc8d1b80f7957.png","永雏塔菲-太好吃了":"86b760ed0a466b5dc3fa0b1e64b9ba7d6b53b6ed.png","永雏塔菲-嘻嘻喵":"866c99dbf6cb5e054e8e94be60c1b37ff4581eaa.png","永雏塔菲-星星眼":"bf3e961a1c3d4edf5ebdd063418495a1ed4c865f.png","永雏塔菲-嘤嘤嘤":"ba43546b013efffa7821dc21df6c79490cbafe72.png","永雏塔菲-有鬼":"b33d0672a01810a6b26696bf4a56204dadd5ff31.png","永雏塔菲-晕了":"d395fd944642b882a9226db81dcfa2e80307461c.png","永雏塔菲-震惊":"36bea35a3a15b675b2f5f28529582f82cf65b1c9.png","奈姬niki-微笑":"6fdc161f1086c522d90e684639a3bd1c48837507.png","奈姬niki-我超":"8d6d65fa2764084fd17fd18bef5a2bbc58f044f4.png","奈姬niki-无语":"33479daa29101a0846d7735cd5fba0d847be6e51.png","奈姬niki-谢谢":"8eaca252ea780a992261b4f9df7a4e170cfd71f1.png","有栖mana-打call":"0572afd470f86cc73cd5a1dff047cd22b620f336.png","有栖mana-喝可乐":"7788e653641e40f5043267aa6f73afbd73f5dd73.png","有栖mana-嘿嘿嘿嘿":"0500a6063e9828ce5002f0d796b19569db7ea63c.png","有栖mana-你好":"0d1575f7203eaf1705cc1104eaf7c02983cae9f0.png","有栖mana-辛苦了":"1893dad434a59c1f5e9c70e1440a6b323a92c3c6.png","有栖mana-炸毛":"f8d86249f486e3e0eb0b601bdf9994cb76634538.png","有栖mana-做什么？":"eb2eb12a288287b4f46d7a4dbeb71ec645810726.png","幻塔-害羞":"7868841b13f2067418c34becd73fde4be8a8bdfe.png","鹿乃桜帆-早上好":"1b58aba1d2e1372a8c4b7e49cb420db738bce414.png","鹿乃桜帆-恭喜":"584dae2f7faf4ee160c389e4ba0eebfb26aeb910.png","鹿乃桜帆-惊":"b945fc60b60467fc80b1e18ba4ea6d8c7b3ae0f9.png","鹿乃桜帆-期待":"5ae064b9deefdce14129d24659f0ee605a0e341b.png","鹿乃桜帆-神":"863c349b44abb098fecac479772f23ef1edd10f5.png","鹿乃桜帆-3Q":"9bee9ccc87c3ffe392e5572c4f67dae92a031e35.png","尼奈-妙!！":"3c2439d868818711b6c2cee035c4d51818c07c99.png","蕾尔娜Leona-反弹":"bc82f5b4e8525efeac017a1a9a3ea94d811d4463.png","蕾尔娜Leona-好耶":"f5269730d3156ba2a6cbe5c127d65753b3143f81.png","约战4-疑惑":"9174bde1afdde014a1b066c1bbb3027dc8dbb834.png","夏日青春欧皇套装-谢谢老板":"ca607626747f23cf37dbe8bb81397985dcb0ab17.png","夏日限定宅家手册-期待":"aaf3de49543253272e7eaeabff07ef0d162db67a.png","夏日限定宅家手册-重在参与":"aeafdb2f36c2cfde1ff4dadfecde48241ee31f15.png"},"el":"#valine-comments","path":"/carl-sagan"}</script>
+<script>
+document.addEventListener('page:loaded', () => {
+  NexT.utils.loadComments(CONFIG.valine.el)
+    .then(() => NexT.utils.getScript(
+      '/js/custom/Valine.min.js',
+      { condition: window.Valine }
+    ))
+    .then(() => {
+      new Valine(CONFIG.valine);
+    });
+});
+</script>
+
+</body>
+</html>

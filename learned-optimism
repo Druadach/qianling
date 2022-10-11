@@ -1,0 +1,987 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+  <meta charset="UTF-8">
+<meta name="viewport" content="width=device-width">
+<meta name="theme-color" content="#222"><meta name="generator" content="Hexo 5.4.0">
+
+
+  <link rel="apple-touch-icon" sizes="180x180" href="/images/apple-touch-icon-next.png">
+  <link rel="icon" type="image/png" sizes="32x32" href="/images/favicon-32x32.png">
+  <link rel="icon" type="image/png" sizes="16x16" href="/images/favicon-16x16.png">
+  <link rel="mask-icon" href="/images/logo.svg" color="#222">
+
+<link rel="stylesheet" href="/css/main.css">
+
+<link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Noto+Serif+SC:300,300italic,400,400italic,700,700italic%7CZCOOL+XiaoWei:300,300italic,400,400italic,700,700italic&display=swap&subset=latin,latin-ext">
+
+<link rel="stylesheet" href="/fontawesome/all.min.css">
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/animate.css/3.1.1/animate.min.css" integrity="sha256-PR7ttpcvz8qrF57fur/yAx1qXMFJeJFiA6pSzWi0OIE=" crossorigin="anonymous">
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/fancybox/3.5.7/jquery.fancybox.min.css" integrity="sha256-Vzbj7sDDS/woiFS3uNKo8eIuni59rjyNGtXfstRzStA=" crossorigin="anonymous">
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/pace/1.2.4/themes/blue/pace-theme-minimal.css">
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/pace/1.2.4/pace.min.js" integrity="sha256-gqd7YTjg/BtfqWSwsJOvndl0Bxc8gFImLEkXQT8+qj0=" crossorigin="anonymous"></script>
+
+<script class="next-config" data-name="main" type="application/json">{"hostname":"qianling.pw","root":"/","images":"/images","scheme":"Muse","darkmode":false,"version":"8.11.1","exturl":false,"sidebar":{"position":"right","display":"hide","padding":18,"offset":12},"copycode":true,"bookmark":{"enable":false,"color":"#222","save":"auto"},"mediumzoom":false,"lazyload":true,"pangu":false,"comments":{"style":"tabs","active":"valine","storage":true,"lazyload":true,"nav":null,"activeClass":"valine"},"stickytabs":false,"motion":{"enable":true,"async":false,"transition":{"post_block":"fadeIn","post_header":"fadeInDown","post_body":"none","coll_header":"fadeInLeft","sidebar":"fadeInUp"}},"prism":false,"i18n":{"placeholder":"搜索...","empty":"没有找到任何搜索结果：${query}","hits_time":"找到 ${hits} 个搜索结果（用时 ${time} 毫秒）","hits":"找到 ${hits} 个搜索结果"},"path":"/search.xml","localsearch":{"enable":true,"trigger":"auto","top_n_per_article":1,"unescape":false,"preload":true}}</script><script src="/js/config.js"></script>
+
+    <meta property="og:type" content="article">
+<meta property="og:title" content="《活出最乐观的自己》书摘">
+<meta property="og:url" content="https://qianling.pw/learned-optimism">
+<meta property="og:site_name" content="千灵">
+<meta property="og:locale" content="zh_CN">
+<meta property="og:image" content="https://qianling.pw/images/covers/164.png">
+<meta property="article:published_time" content="2019-10-21T14:10:40.000Z">
+<meta property="article:modified_time" content="2019-10-25T00:57:41.000Z">
+<meta property="article:author" content="千灵夙赋">
+<meta property="article:tag" content="书摘">
+<meta property="article:tag" content="心理学">
+<meta name="twitter:card" content="summary">
+<meta name="twitter:image" content="https://qianling.pw/images/covers/164.png">
+
+
+<link rel="canonical" href="https://qianling.pw/learned-optimism">
+
+
+
+<script class="next-config" data-name="page" type="application/json">{"sidebar":"","isHome":false,"isPost":true,"lang":"zh-CN","comments":true,"permalink":"https://qianling.pw/learned-optimism","path":"learned-optimism","title":"《活出最乐观的自己》书摘"}</script>
+
+<script class="next-config" data-name="calendar" type="application/json">""</script>
+<title>《活出最乐观的自己》书摘 | 千灵</title>
+  
+    <script async src="https://www.googletagmanager.com/gtag/js?id=UA-141264217-1"></script>
+  <script class="next-config" data-name="google_analytics" type="application/json">{"tracking_id":"UA-141264217-1","only_pageview":false}</script>
+  <script src="/js/third-party/analytics/google-analytics.js"></script>
+
+  <script src="/js/third-party/analytics/baidu-analytics.js"></script>
+  <script async src="https://hm.baidu.com/hm.js?b95f636e57f871a4ea1faeae2b4f30e5"></script>
+
+
+
+
+  <noscript>
+    <link rel="stylesheet" href="/css/noscript.css">
+  </noscript>
+<link rel="alternate" href="/atom.xml" title="千灵" type="application/atom+xml">
+</head>
+
+<body itemscope itemtype="http://schema.org/WebPage" class="use-motion">
+  <div class="headband"></div>
+
+  <main class="main">
+    <header class="header" itemscope itemtype="http://schema.org/WPHeader">
+      <div class="header-inner"><div class="site-brand-container">
+  <div class="site-nav-toggle">
+    <div class="toggle" aria-label="切换导航栏" role="button">
+        <span class="toggle-line"></span>
+        <span class="toggle-line"></span>
+        <span class="toggle-line"></span>
+    </div>
+  </div>
+
+  <div class="site-meta">
+
+    <a href="/" class="brand" rel="start">
+      <i class="logo-line"></i>
+      <p class="site-title">千灵</p>
+      <i class="logo-line"></i>
+    </a>
+  </div>
+
+  <div class="site-nav-right">
+    <div class="toggle popup-trigger">
+        <i class="fa fa-search fa-fw fa-lg"></i>
+    </div>
+  </div>
+</div>
+
+
+
+<nav class="site-nav">
+  <ul class="main-menu menu"><li class="menu-item menu-item-home"><a href="/" rel="section"><i class="fas fa-flower fa-fw"></i>首页</a></li><li class="menu-item menu-item-categories"><a href="/categories/" rel="section"><i class="fa fa-cookie fa-fw"></i>分类</a></li><li class="menu-item menu-item-archives"><a href="/archives/" rel="section"><i class="fas fa-acorn fa-fw"></i>归档</a></li><li class="menu-item menu-item-play"><a href="/play/" rel="section"><i class="fa fa-fish fa-fw"></i>游戏</a></li><li class="menu-item menu-item-message"><a href="/message/" rel="section"><i class="fa fa-dog fa-fw"></i>留言</a></li><li class="menu-item menu-item-about"><a href="/about/" rel="section"><i class="fa fa-carrot fa-fw"></i>关于</a></li>
+      <li class="menu-item menu-item-search">
+        <a role="button" class="popup-trigger"><i class="fa fa-search fa-fw"></i>搜索
+        </a>
+      </li>
+  </ul>
+</nav>
+
+
+
+  <div class="search-pop-overlay">
+    <div class="popup search-popup"><div class="search-header">
+  <span class="search-icon">
+    <i class="fa fa-search"></i>
+  </span>
+  <div class="search-input-container">
+    <input autocomplete="off" autocapitalize="off" maxlength="80"
+           placeholder="搜索..." spellcheck="false"
+           type="search" class="search-input">
+  </div>
+  <span class="popup-btn-close" role="button">
+    <i class="fa fa-times-circle"></i>
+  </span>
+</div>
+<div class="search-result-container no-result">
+  <div class="search-result-icon">
+    <i class="fa fa-spinner fa-pulse fa-5x"></i>
+  </div>
+</div>
+
+    </div>
+  </div>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.6.0/jquery.min.js"></script>
+
+<div class="top-scroll-bar"></div>
+
+<canvas class="fireworks" id="canvas" style="position: fixed;left: 0;top: 0;z-index: 1; pointer-events: none;" ></canvas>
+
+<script>
+  document.write('<script type="text/javascript" src="/js/custom/custom.js"><\/script>');
+if( !/Android|webOS|iPhone|iPod|iPad|BlackBerry/i.test(navigator.userAgent)){
+  document.write('<script type="text/javascript" src="//cdn.bootcss.com/animejs/2.2.0/anime.min.js"><\/script> <script type="text/javascript" src="/js/custom/fireworks.js"><\/script>');
+}
+</script>
+
+<!-- 动态背景 -->
+<script>
+if( !/Android|webOS|iPhone|iPod|iPad|BlackBerry/i.test(navigator.userAgent)){
+  document.write('<script type="text/javascript" src="/js/custom/jquery.backstretch.min.js"><\/script>');
+}
+</script>
+<script type="text/javascript">
+  $("body").backstretch([
+    "/images/background/background (1).webp",
+    "/images/background/background (2).webp",
+    "/images/background/background (3).webp",
+    "/images/background/background (4).webp",
+    "/images/background/background (5).webp",
+    "/images/background/background (6).webp",
+    "/images/background/background (7).webp",
+    "/images/background/background (8).webp",
+  ], {duration: 60000, fade: 1000, animateFirst: true});
+</script>
+
+<!-- live2d -->
+<div id="waifu">
+  <div class="waifu-tips" style="opacity: 0;"></div>
+  <canvas id="live2d" width="280" height="250" class="live2d"></canvas>
+</div>
+<script>
+if( !/Android|webOS|iPhone|iPod|iPad|BlackBerry/i.test(navigator.userAgent)){
+  document.write('<script type="text/javascript" src="/live2d/live2d.js"><\/script> <script type="text/javascript" src="/live2d/waifu-tips.js"><\/script>');
+}
+</script>
+
+<!-- 打字礼花及震动特效 -->
+<script>
+if( !/Android|webOS|iPhone|iPod|iPad|BlackBerry/i.test(navigator.userAgent)){
+  document.write('<script type="text/javascript" src="/js/custom/activate-power-mode.js"><\/script>');
+}
+</script>
+<script>
+    POWERMODE.colorful = true; // ture 为启用礼花特效
+    POWERMODE.shake = false; // false 为禁用震动特效
+    document.body.addEventListener('input', POWERMODE);
+</script>
+
+</div>
+        
+  
+  <div class="toggle sidebar-toggle" role="button">
+    <span class="toggle-line"></span>
+    <span class="toggle-line"></span>
+    <span class="toggle-line"></span>
+  </div>
+
+  <aside class="sidebar">
+
+    <div class="sidebar-inner sidebar-nav-active sidebar-toc-active">
+      <ul class="sidebar-nav">
+        <li class="sidebar-nav-toc">
+          文章目录
+        </li>
+        <li class="sidebar-nav-overview">
+          站点概览
+        </li>
+      </ul>
+
+      <div class="sidebar-panel-container">
+        <!--noindex-->
+        <div class="post-toc-wrap sidebar-panel">
+            <div class="post-toc animated"><ol class="nav"><li class="nav-item nav-level-1"><a class="nav-link" href="#%E5%89%8D%E8%A8%80"><span class="nav-text">前言</span></a><ol class="nav-child"><li class="nav-item nav-level-2"><a class="nav-link" href="#%E4%B8%BA%E4%BB%80%E4%B9%88%E8%B6%8A%E6%9D%A5%E8%B6%8A%E6%8A%91%E9%83%81"><span class="nav-text">为什么越来越抑郁</span></a></li><li class="nav-item nav-level-2"><a class="nav-link" href="#%E8%87%AA%E5%B0%8A%E4%B8%AD%E7%9A%84%E6%8A%91%E9%83%81%E4%B8%8E%E6%9A%B4%E5%8A%9B"><span class="nav-text">自尊中的抑郁与暴力</span></a></li><li class="nav-item nav-level-2"><a class="nav-link" href="#%E6%88%98%E8%83%9C%E2%80%9C%E9%AD%94%E5%85%BD%E2%80%9D%E7%9A%84%E4%B8%96%E7%BA%AA%E4%B9%8B%E5%89%91"><span class="nav-text">战胜“魔兽”的世纪之剑</span></a></li></ol></li><li class="nav-item nav-level-1"><a class="nav-link" href="#%E7%AC%AC%E4%B8%80%E9%83%A8%E5%88%86-%E4%BB%80%E4%B9%88%E6%98%AF%E6%82%B2%E8%A7%82%EF%BC%8C%E4%BB%80%E4%B9%88%E6%98%AF%E4%B9%90%E8%A7%82"><span class="nav-text">第一部分　什么是悲观，什么是乐观</span></a><ol class="nav-child"><li class="nav-item nav-level-2"><a class="nav-link" href="#%E7%AC%AC-1-%E7%AB%A0-%E6%82%B2%E8%A7%82%E8%80%85%E4%B8%8E%E4%B9%90%E8%A7%82%E8%80%85%E7%9A%84%E7%94%BB%E5%83%8F"><span class="nav-text">第 1 章　悲观者与乐观者的画像</span></a><ol class="nav-child"><li class="nav-item nav-level-3"><a class="nav-link" href="#%E8%BA%AB%E8%BE%B9%E7%9A%84%E6%82%B2%E5%96%9C%E6%95%85%E4%BA%8B"><span class="nav-text">身边的悲喜故事</span></a></li><li class="nav-item nav-level-3"><a class="nav-link" href="#%E6%97%A0%E5%8A%A9%E6%98%AF%E6%88%91%E4%BB%AC%E4%BA%BA%E7%94%9F%E7%9A%84%E5%BC%80%E5%A7%8B"><span class="nav-text">无助是我们人生的开始</span></a></li><li class="nav-item nav-level-3"><a class="nav-link" href="#%E6%82%B2%E8%A7%82%E6%AF%81%E6%8E%89%E4%BA%86%E5%A5%B9%E7%9A%84%E4%B8%80%E7%94%9F"><span class="nav-text">悲观毁掉了她的一生</span></a></li><li class="nav-item nav-level-3"><a class="nav-link" href="#%E6%88%91%E4%BB%AC%E4%B8%8D%E5%86%8D%E6%98%AF%E7%8E%AF%E5%A2%83%E7%9A%84%E5%82%80%E5%84%A1"><span class="nav-text">我们不再是环境的傀儡</span></a></li><li class="nav-item nav-level-3"><a class="nav-link" href="#%E6%8A%91%E9%83%81%E7%9A%84%E6%97%B6%E4%BB%A3%EF%BC%8C%E6%82%B2%E8%A7%82%E7%9A%84%E8%87%AA%E6%88%91"><span class="nav-text">抑郁的时代，悲观的自我</span></a></li><li class="nav-item nav-level-3"><a class="nav-link" href="#%E6%88%90%E5%8A%9F%E4%B8%8E%E5%81%A5%E5%BA%B7%E7%9A%84%E5%85%B3%E9%94%AE"><span class="nav-text">成功与健康的关键</span></a></li><li class="nav-item nav-level-3"><a class="nav-link" href="#%E4%BA%BA%E4%BA%BA%E9%83%BD%E8%83%BD%E5%AD%A6%E4%BC%9A%E4%B9%90%E8%A7%82"><span class="nav-text">人人都能学会乐观</span></a></li><li class="nav-item nav-level-3"><a class="nav-link" href="#%E5%A1%9E%E5%88%A9%E6%A0%BC%E6%9B%BC%E7%9A%84%E4%B9%90%E8%A7%82%E7%AE%B4%E8%A8%80"><span class="nav-text">塞利格曼的乐观箴言</span></a></li></ol></li><li class="nav-item nav-level-2"><a class="nav-link" href="#%E7%AC%AC-2-%E7%AB%A0-%E6%82%B2%E8%A7%82%E8%80%85%E7%9A%84%E6%97%A0%E5%8A%A9%E6%84%9F%E6%BA%90%E8%87%AA%E4%BD%95%E5%A4%84"><span class="nav-text">第 2 章　悲观者的无助感源自何处</span></a><ol class="nav-child"><li class="nav-item nav-level-3"><a class="nav-link" href="#%E4%B8%BA%E4%BA%86%E4%BA%BA%EF%BC%8C%E5%BA%94%E8%AF%A5%E7%89%BA%E7%89%B2%E7%8B%97%E5%90%97"><span class="nav-text">为了人，应该牺牲狗吗</span></a></li><li class="nav-item nav-level-3"><a class="nav-link" href="#%E5%A1%9E%E5%88%A9%E6%A0%BC%E6%9B%BC%E7%9A%84%E4%B9%90%E8%A7%82%E7%AE%B4%E8%A8%80-1"><span class="nav-text">塞利格曼的乐观箴言</span></a></li></ol></li><li class="nav-item nav-level-2"><a class="nav-link" href="#%E7%AC%AC-3-%E7%AB%A0-%E6%82%B2%E8%A7%82%E8%80%85%E7%9C%BC%E4%B8%AD%E7%9A%84%E6%8C%AB%E6%8A%98"><span class="nav-text">第 3 章　悲观者眼中的挫折</span></a><ol class="nav-child"><li class="nav-item nav-level-3"><a class="nav-link" href="#%E6%B5%8B%E6%B5%8B%E4%BD%A0%E6%9C%89%E5%A4%9A%E4%B9%90%E8%A7%82"><span class="nav-text">测测你有多乐观</span></a></li><li class="nav-item nav-level-3"><a class="nav-link" href="#%E8%B0%81%E6%B0%B8%E4%B8%8D%E6%94%BE%E5%BC%83"><span class="nav-text">谁永不放弃</span></a></li><li class="nav-item nav-level-3"><a class="nav-link" href="#%E6%B0%B8%E8%BF%9C%E5%88%B0%E5%BA%95%E6%9C%89%E5%A4%9A%E8%BF%9C"><span class="nav-text">永远到底有多远</span></a></li><li class="nav-item nav-level-3"><a class="nav-link" href="#%E6%89%93%E5%87%BB%E9%9D%A2%E7%9A%84%E5%A4%A7%E5%B0%8F"><span class="nav-text">打击面的大小</span></a></li><li class="nav-item nav-level-3"><a class="nav-link" href="#%E5%B8%8C%E6%9C%9B%E4%B8%8E%E7%BB%9D%E6%9C%9B"><span class="nav-text">希望与绝望</span></a></li><li class="nav-item nav-level-3"><a class="nav-link" href="#%E9%83%BD%E6%98%AF%E6%88%91%E7%9A%84%E9%94%99"><span class="nav-text">都是我的错</span></a></li><li class="nav-item nav-level-3"><a class="nav-link" href="#%E4%B8%8D%E6%98%AF%E9%80%83%E9%81%BF%E8%B4%A3%E4%BB%BB%E7%9A%84%E5%80%9F%E5%8F%A3"><span class="nav-text">不是逃避责任的借口</span></a></li><li class="nav-item nav-level-3"><a class="nav-link" href="#%E5%81%87%E5%A6%82%E4%BD%A0%E6%98%AF%E4%B8%80%E4%B8%AA%E6%82%B2%E8%A7%82%E8%80%85"><span class="nav-text">假如你是一个悲观者</span></a></li><li class="nav-item nav-level-3"><a class="nav-link" href="#%E5%A1%9E%E5%88%A9%E6%A0%BC%E6%9B%BC%E7%9A%84%E4%B9%90%E8%A7%82%E7%AE%B4%E8%A8%80-2"><span class="nav-text">塞利格曼的乐观箴言</span></a></li></ol></li><li class="nav-item nav-level-2"><a class="nav-link" href="#%E7%AC%AC-4-%E7%AB%A0-%E4%BB%8E%E6%82%B2%E8%A7%82%E6%BB%91%E5%90%91%E6%8A%91%E9%83%81"><span class="nav-text">第 4 章　从悲观滑向抑郁</span></a><ol class="nav-child"><li class="nav-item nav-level-3"><a class="nav-link" href="#%E8%BA%AB%E8%BE%B9%E7%9A%84%E6%82%B2%E5%96%9C%E6%95%85%E4%BA%8B-1"><span class="nav-text">身边的悲喜故事</span></a></li><li class="nav-item nav-level-3"><a class="nav-link" href="#%E5%90%84%E4%B8%AA%E6%96%B9%E9%9D%A2%E9%83%BD%E4%B8%8D%E5%AF%B9%E5%8A%B2%E4%BA%86"><span class="nav-text">各个方面都不对劲了</span></a></li><li class="nav-item nav-level-3"><a class="nav-link" href="#%E4%BD%A0%E7%9C%9F%E7%9A%84%E6%8A%91%E9%83%81%E5%90%97"><span class="nav-text">你真的抑郁吗</span></a></li><li class="nav-item nav-level-3"><a class="nav-link" href="#%E6%8A%91%E9%83%81%E7%97%87%E6%98%AF%E4%B8%80%E7%A7%8D%E6%B5%81%E8%A1%8C%E7%97%85"><span class="nav-text">抑郁症是一种流行病</span></a></li><li class="nav-item nav-level-3"><a class="nav-link" href="#%E4%B8%8D%E8%A6%81%E8%BD%BB%E8%A7%86%E4%BD%A0%E7%9A%84%E6%97%A0%E5%8A%A9%E6%84%9F"><span class="nav-text">不要轻视你的无助感</span></a></li><li class="nav-item nav-level-3"><a class="nav-link" href="#%E5%A1%9E%E5%88%A9%E6%A0%BC%E6%9B%BC%E7%9A%84%E4%B9%90%E8%A7%82%E7%AE%B4%E8%A8%80-3"><span class="nav-text">塞利格曼的乐观箴言</span></a></li></ol></li><li class="nav-item nav-level-2"><a class="nav-link" href="#%E7%AC%AC-5-%E7%AB%A0-%E6%83%B3%E6%B3%95%E5%86%B3%E5%AE%9A%E6%82%B2%E5%96%9C%E4%BA%BA%E7%94%9F"><span class="nav-text">第 5 章　想法决定悲喜人生</span></a><ol class="nav-child"><li class="nav-item nav-level-3"><a class="nav-link" href="#%E4%BB%8E%E8%81%8A%E5%A4%A9%E3%80%81%E5%90%83%E8%8D%AF%E5%88%B0%E6%94%B9%E5%8F%98%E6%80%9D%E7%BB%B4"><span class="nav-text">从聊天、吃药到改变思维</span></a></li><li class="nav-item nav-level-3"><a class="nav-link" href="#%E4%BD%A0%E6%98%AF%E6%82%B2%E8%A7%82%E7%9A%84%E5%8F%8D%E5%88%8D%E8%80%85%E5%90%97"><span class="nav-text">你是悲观的反刍者吗</span></a></li><li class="nav-item nav-level-3"><a class="nav-link" href="#%E5%A5%B3%E4%BA%BA%E6%8A%91%E9%83%81-VS-%E7%94%B7%E4%BA%BA%E6%8A%91%E9%83%81"><span class="nav-text">女人抑郁 VS 男人抑郁</span></a></li><li class="nav-item nav-level-3"><a class="nav-link" href="#%E8%B7%9F%E6%8A%91%E9%83%81%E8%AF%B4%E6%8B%9C%E6%8B%9C"><span class="nav-text">跟抑郁说拜拜</span></a></li><li class="nav-item nav-level-3"><a class="nav-link" href="#%E4%BA%94%E8%AE%B0%E9%87%8D%E6%8B%B3%E6%89%93%E7%A2%8E%E6%8A%91%E9%83%81"><span class="nav-text">五记重拳打碎抑郁</span></a></li><li class="nav-item nav-level-3"><a class="nav-link" href="#%E5%A1%9E%E5%88%A9%E6%A0%BC%E6%9B%BC%E7%9A%84%E4%B9%90%E8%A7%82%E7%AE%B4%E8%A8%80-4"><span class="nav-text">塞利格曼的乐观箴言</span></a></li></ol></li></ol></li><li class="nav-item nav-level-1"><a class="nav-link" href="#%E7%AC%AC%E4%BA%8C%E9%83%A8%E5%88%86-%E4%B9%90%E8%A7%82%E7%9A%84%E4%BA%BA%E7%94%9F%E4%B8%BA%E4%BB%80%E4%B9%88%E7%B2%BE%E5%BD%A9"><span class="nav-text">第二部分　乐观的人生为什么精彩</span></a><ol class="nav-child"><li class="nav-item nav-level-2"><a class="nav-link" href="#%E7%AC%AC-6-%E7%AB%A0-%E4%B9%90%E8%A7%82%E5%A5%A0%E5%AE%9A%E6%88%90%E5%8A%9F%E7%9A%84%E4%BA%8B%E4%B8%9A"><span class="nav-text">第 6 章　乐观奠定成功的事业</span></a><ol class="nav-child"><li class="nav-item nav-level-3"><a class="nav-link" href="#%E8%B0%81%E6%98%AF%E6%9C%80%E5%90%88%E9%80%82%E7%9A%84%E4%BF%9D%E9%99%A9%E4%B8%9A%E5%8A%A1%E5%91%98"><span class="nav-text">谁是最合适的保险业务员</span></a></li><li class="nav-item nav-level-3"><a class="nav-link" href="#%E6%88%90%E5%8A%9F%E7%9A%84%E9%87%91%E4%B8%89%E8%A7%92"><span class="nav-text">成功的金三角</span></a></li><li class="nav-item nav-level-3"><a class="nav-link" href="#%E5%8F%AA%E5%BD%95%E7%94%A8%E6%9C%80%E4%B9%90%E8%A7%82%E7%9A%84%E4%BA%BA"><span class="nav-text">只录用最乐观的人</span></a></li><li class="nav-item nav-level-3"><a class="nav-link" href="#%E5%86%92%E9%99%A9%E7%9A%84%E6%94%B6%E8%8E%B7"><span class="nav-text">冒险的收获</span></a></li><li class="nav-item nav-level-3"><a class="nav-link" href="#%E5%8C%96%E6%82%B2%E8%A7%82%E4%B8%BA%E4%B9%90%E8%A7%82"><span class="nav-text">化悲观为乐观</span></a></li><li class="nav-item nav-level-3"><a class="nav-link" href="#%E4%B8%BA%E4%BB%80%E4%B9%88%E4%BC%9A%E6%82%B2%E8%A7%82"><span class="nav-text">为什么会悲观</span></a></li><li class="nav-item nav-level-3"><a class="nav-link" href="#%E6%94%B6%E6%94%AF%E5%B9%B3%E8%A1%A1%EF%BC%9A%E4%B9%90%E8%A7%82-VS-%E6%82%B2%E8%A7%82"><span class="nav-text">收支平衡：乐观 VS 悲观</span></a></li><li class="nav-item nav-level-3"><a class="nav-link" href="#%E5%A1%9E%E5%88%A9%E6%A0%BC%E6%9B%BC%E7%9A%84%E4%B9%90%E8%A7%82%E7%AE%B4%E8%A8%80-5"><span class="nav-text">塞利格曼的乐观箴言</span></a></li></ol></li><li class="nav-item nav-level-2"><a class="nav-link" href="#%E7%AC%AC-7-%E7%AB%A0-%E5%AD%A9%E5%AD%90%E4%B8%BA%E4%BB%80%E4%B9%88%E4%BC%9A%E6%82%B2%E8%A7%82"><span class="nav-text">第 7 章　孩子为什么会悲观</span></a><ol class="nav-child"><li class="nav-item nav-level-3"><a class="nav-link" href="#%E8%BA%AB%E8%BE%B9%E7%9A%84%E6%82%B2%E5%96%9C%E6%95%85%E4%BA%8B-2"><span class="nav-text">身边的悲喜故事</span></a></li><li class="nav-item nav-level-3"><a class="nav-link" href="#%E4%BD%A0%E7%9A%84%E5%AD%A9%E5%AD%90%E4%B9%90%E8%A7%82%E5%90%97"><span class="nav-text">你的孩子乐观吗</span></a></li><li class="nav-item nav-level-3"><a class="nav-link" href="#%E5%AD%A9%E5%AD%90%E4%B8%8D%E4%BC%9A%E7%BB%9D%E6%9C%9B"><span class="nav-text">孩子不会绝望</span></a></li><li class="nav-item nav-level-3"><a class="nav-link" href="#%E5%AD%A9%E5%AD%90%E4%B8%BA%E4%BB%80%E4%B9%88%E4%BC%9A%E6%82%B2%E8%A7%82"><span class="nav-text">孩子为什么会悲观</span></a><ol class="nav-child"><li class="nav-item nav-level-4"><a class="nav-link" href="#%E5%A6%88%E5%A6%88%E7%9A%84%E5%BD%B1%E5%93%8D%E5%8A%9B"><span class="nav-text">妈妈的影响力</span></a></li><li class="nav-item nav-level-4"><a class="nav-link" href="#%E8%80%81%E5%B8%88%E5%92%8C%E7%88%B6%E6%AF%8D%E7%9A%84%E6%89%B9%E8%AF%84"><span class="nav-text">老师和父母的批评</span></a></li><li class="nav-item nav-level-4"><a class="nav-link" href="#%E5%AD%A9%E5%AD%90%E7%94%9F%E5%91%BD%E4%B8%AD%E7%9A%84%E5%8D%B1%E6%9C%BA"><span class="nav-text">孩子生命中的危机</span></a></li></ol></li><li class="nav-item nav-level-3"><a class="nav-link" href="#%E5%A1%9E%E5%88%A9%E6%A0%BC%E6%9B%BC%E7%9A%84%E4%B9%90%E8%A7%82%E7%AE%B4%E8%A8%80-6"><span class="nav-text">塞利格曼的乐观箴言</span></a></li></ol></li><li class="nav-item nav-level-2"><a class="nav-link" href="#%E7%AC%AC-8-%E7%AB%A0-%E4%B9%90%E8%A7%82%E7%9A%84%E5%AD%A9%E5%AD%90%E6%88%90%E7%BB%A9%E5%A5%BD"><span class="nav-text">第 8 章　乐观的孩子成绩好</span></a><ol class="nav-child"><li class="nav-item nav-level-3"><a class="nav-link" href="#%E5%A5%BD%E6%88%90%E7%BB%A9%EF%BC%8C%E5%9D%8F%E6%88%90%E7%BB%A9"><span class="nav-text">好成绩，坏成绩</span></a></li><li class="nav-item nav-level-3"><a class="nav-link" href="#%E4%BD%A0%E7%9A%84%E5%AD%A9%E5%AD%90%E6%8A%91%E9%83%81%E5%90%97"><span class="nav-text">你的孩子抑郁吗</span></a></li><li class="nav-item nav-level-3"><a class="nav-link" href="#%E4%B8%BA%E4%BB%80%E4%B9%88%E4%BC%9A%E6%88%90%E7%BB%A9%E5%B7%AE"><span class="nav-text">为什么会成绩差</span></a><ol class="nav-child"><li class="nav-item nav-level-4"><a class="nav-link" href="#%E8%A7%A3%E9%87%8A%E9%A3%8E%E6%A0%BC"><span class="nav-text">解释风格</span></a></li><li class="nav-item nav-level-4"><a class="nav-link" href="#%E4%B8%8D%E5%B9%B8%E7%9A%84%E9%81%AD%E9%81%87"><span class="nav-text">不幸的遭遇</span></a></li></ol></li><li class="nav-item nav-level-3"><a class="nav-link" href="#%E7%BB%99%E5%AD%A9%E5%AD%90%E4%B8%80%E4%B8%AA%E5%92%8C%E8%B0%90%E7%9A%84%E5%AE%B6"><span class="nav-text">给孩子一个和谐的家</span></a></li><li class="nav-item nav-level-3"><a class="nav-link" href="#%E7%94%B7%E5%AD%A9-VS-%E5%A5%B3%E5%AD%A9"><span class="nav-text">男孩 VS 女孩</span></a></li><li class="nav-item nav-level-3"><a class="nav-link" href="#%E8%B0%81%E6%98%AF%E5%90%88%E6%A0%BC%E7%9A%84%E5%A4%A7%E5%AD%A6%E7%94%9F"><span class="nav-text">谁是合格的大学生</span></a></li><li class="nav-item nav-level-3"><a class="nav-link" href="#%E5%8F%AA%E6%9C%89%E8%81%AA%E6%98%8E%E6%98%AF%E4%B8%8D%E5%A4%9F%E7%9A%84"><span class="nav-text">只有聪明是不够的</span></a></li><li class="nav-item nav-level-3"><a class="nav-link" href="#%E5%A1%9E%E5%88%A9%E6%A0%BC%E6%9B%BC%E7%9A%84%E4%B9%90%E8%A7%82%E7%AE%B4%E8%A8%80-7"><span class="nav-text">塞利格曼的乐观箴言</span></a></li></ol></li><li class="nav-item nav-level-2"><a class="nav-link" href="#%E7%AC%AC-9-%E7%AB%A0-%E4%B9%90%E8%A7%82%E9%80%A0%E5%B0%B1%E8%B5%9B%E5%9C%BA%E5%86%A0%E5%86%9B"><span class="nav-text">第 9 章　乐观造就赛场冠军</span></a><ol class="nav-child"><li class="nav-item nav-level-3"><a class="nav-link" href="#%E4%BC%AF%E5%85%8B%E5%88%A9%E7%9A%84%E6%B8%B8%E6%B3%B3%E9%98%9F"><span class="nav-text">伯克利的游泳队</span></a></li><li class="nav-item nav-level-3"><a class="nav-link" href="#%E6%95%99%E7%BB%83%E5%BF%85%E9%A1%BB%E7%9F%A5%E9%81%93%E7%9A%84%E4%BA%8B"><span class="nav-text">教练必须知道的事</span></a></li><li class="nav-item nav-level-3"><a class="nav-link" href="#%E5%A1%9E%E5%88%A9%E6%A0%BC%E6%9B%BC%E7%9A%84%E4%B9%90%E8%A7%82%E7%AE%B4%E8%A8%80-8"><span class="nav-text">塞利格曼的乐观箴言</span></a></li></ol></li><li class="nav-item nav-level-2"><a class="nav-link" href="#%E7%AC%AC-10-%E7%AB%A0-%E4%B9%90%E8%A7%82%E7%9A%84%E8%BA%AB%E4%BD%93%E4%B8%8D%E7%94%9F%E7%97%85"><span class="nav-text">第 10 章　乐观的身体不生病</span></a><ol class="nav-child"><li class="nav-item nav-level-3"><a class="nav-link" href="#%E6%88%91%E4%BB%AC%E9%83%BD%E9%9C%80%E8%A6%81%E6%8E%A7%E5%88%B6%E6%9D%83"><span class="nav-text">我们都需要控制权</span></a></li><li class="nav-item nav-level-3"><a class="nav-link" href="#%E5%BF%83%E8%BA%AB%E7%9A%84%E7%BA%A0%E7%BB%93"><span class="nav-text">心身的纠结</span></a></li><li class="nav-item nav-level-3"><a class="nav-link" href="#%E4%B8%BA%E4%BB%80%E4%B9%88%E4%B9%90%E8%A7%82%E8%80%85%E6%9B%B4%E5%81%A5%E5%BA%B7"><span class="nav-text">为什么乐观者更健康</span></a></li><li class="nav-item nav-level-3"><a class="nav-link" href="#%E6%82%B2%E8%A7%82%C2%B7%E4%B8%8D%E5%81%A5%E5%BA%B7%C2%B7%E7%99%8C%E7%97%87"><span class="nav-text">悲观·不健康·癌症</span></a></li><li class="nav-item nav-level-3"><a class="nav-link" href="#%E5%85%8D%E7%96%AB%E7%B3%BB%E7%BB%9F"><span class="nav-text">免疫系统</span></a></li><li class="nav-item nav-level-3"><a class="nav-link" href="#%E5%93%88%E4%BD%9B%E9%AB%98%E6%9D%90%E7%94%9F%E7%9A%84%E7%94%9F%E6%B4%BB"><span class="nav-text">哈佛高材生的生活</span></a></li><li class="nav-item nav-level-3"><a class="nav-link" href="#%E8%B5%B6%E8%B5%B0%E4%BD%A0%E7%9A%84%E6%8A%91%E9%83%81"><span class="nav-text">赶走你的抑郁</span></a></li><li class="nav-item nav-level-3"><a class="nav-link" href="#%E5%A1%9E%E5%88%A9%E6%A0%BC%E6%9B%BC%E7%9A%84%E4%B9%90%E8%A7%82%E7%AE%B4%E8%A8%80-9"><span class="nav-text">塞利格曼的乐观箴言</span></a></li></ol></li><li class="nav-item nav-level-2"><a class="nav-link" href="#%E7%AC%AC-11-%E7%AB%A0-%E4%B9%90%E8%A7%82%E7%9A%84%E9%A2%86%E8%A2%96%E5%BE%97%E6%B0%91%E5%BF%83"><span class="nav-text">第 11 章　乐观的领袖得民心</span></a><ol class="nav-child"><li class="nav-item nav-level-3"><a class="nav-link" href="#%E6%80%BB%E7%BB%9F%E5%A4%A7%E9%80%89%EF%BC%9A1948%E2%80%941984"><span class="nav-text">总统大选：1948—1984</span></a></li></ol></li></ol></li><li class="nav-item nav-level-1"><a class="nav-link" href="#%E7%AC%AC%E4%B8%89%E9%83%A8%E5%88%86-%E5%A6%82%E4%BD%95%E6%B4%BB%E5%87%BA%E6%9C%80%E4%B9%90%E8%A7%82%E7%9A%84%E8%87%AA%E5%B7%B1"><span class="nav-text">第三部分　如何活出最乐观的自己</span></a><ol class="nav-child"><li class="nav-item nav-level-2"><a class="nav-link" href="#%E7%AC%AC-12-%E7%AB%A0-%E4%B9%90%E6%B4%BB%E4%BA%BA%E7%94%9F%E7%9A%84-ABCDE"><span class="nav-text">第 12 章　乐活人生的 ABCDE</span></a><ol class="nav-child"><li class="nav-item nav-level-3"><a class="nav-link" href="#%E8%BA%AB%E8%BE%B9%E7%9A%84%E6%82%B2%E5%96%9C%E6%95%85%E4%BA%8B-3"><span class="nav-text">身边的悲喜故事</span></a></li><li class="nav-item nav-level-3"><a class="nav-link" href="#%E4%BB%80%E4%B9%88%E6%97%B6%E5%80%99%E8%AF%A5%E4%B9%90%E8%A7%82"><span class="nav-text">什么时候该乐观</span></a></li><li class="nav-item nav-level-3"><a class="nav-link" href="#%E8%AE%A9%E8%87%AA%E5%B7%B1%E4%B9%90%E8%A7%82%E7%9A%84-ABC"><span class="nav-text">让自己乐观的 ABC</span></a><ol class="nav-child"><li class="nav-item nav-level-4"><a class="nav-link" href="#%E7%A1%AE%E8%AE%A4-ABC"><span class="nav-text">确认 ABC</span></a></li></ol></li><li class="nav-item nav-level-3"><a class="nav-link" href="#%E4%BD%A0%E7%9A%84-ABC-%E8%AE%B0%E5%BD%95"><span class="nav-text">你的 ABC 记录</span></a></li><li class="nav-item nav-level-3"><a class="nav-link" href="#%E5%8F%8D%E9%A9%B3%E5%92%8C%E8%BD%AC%E7%A7%BB%E6%B3%A8%E6%84%8F"><span class="nav-text">反驳和转移注意</span></a><ol class="nav-child"><li class="nav-item nav-level-4"><a class="nav-link" href="#%E8%BD%AC%E7%A7%BB%E6%B3%A8%E6%84%8F"><span class="nav-text">转移注意</span></a></li><li class="nav-item nav-level-4"><a class="nav-link" href="#%E5%8F%8D%E9%A9%B3"><span class="nav-text">反驳</span></a></li><li class="nav-item nav-level-4"><a class="nav-link" href="#%E4%BF%9D%E6%8C%81%E8%B7%9D%E7%A6%BB"><span class="nav-text">保持距离</span></a></li></ol></li><li class="nav-item nav-level-3"><a class="nav-link" href="#%E5%AD%A6%E4%B9%A0%E4%B8%8E%E8%87%AA%E5%B7%B1%E4%BA%89%E8%BE%A9"><span class="nav-text">学习与自己争辩</span></a><ol class="nav-child"><li class="nav-item nav-level-4"><a class="nav-link" href="#%E8%AF%81%E6%8D%AE"><span class="nav-text">证据</span></a></li><li class="nav-item nav-level-4"><a class="nav-link" href="#%E5%85%B6%E4%BB%96%E5%8F%AF%E8%83%BD%E6%80%A7"><span class="nav-text">其他可能性</span></a></li><li class="nav-item nav-level-4"><a class="nav-link" href="#%E6%9A%97%E7%A4%BA"><span class="nav-text">暗示</span></a></li><li class="nav-item nav-level-4"><a class="nav-link" href="#%E7%94%A8%E5%A4%84"><span class="nav-text">用处</span></a></li></ol></li><li class="nav-item nav-level-3"><a class="nav-link" href="#%E4%BD%A0%E7%9A%84%E5%8F%8D%E9%A9%B3%E8%AE%B0%E5%BD%95"><span class="nav-text">你的反驳记录</span></a></li><li class="nav-item nav-level-3"><a class="nav-link" href="#%E5%A4%A7%E5%A3%B0%E8%AF%B4%E5%87%BA%E4%BD%A0%E7%9A%84%E6%83%B3%E6%B3%95"><span class="nav-text">大声说出你的想法</span></a></li><li class="nav-item nav-level-3"><a class="nav-link" href="#%E7%BB%83%E4%B9%A0%E3%80%81%E7%BB%83%E4%B9%A0%E3%80%81%E5%86%8D%E7%BB%83%E4%B9%A0"><span class="nav-text">练习、练习、再练习</span></a></li><li class="nav-item nav-level-3"><a class="nav-link" href="#%E5%A1%9E%E5%88%A9%E6%A0%BC%E6%9B%BC%E7%9A%84%E4%B9%90%E8%A7%82%E7%AE%B4%E8%A8%80-10"><span class="nav-text">塞利格曼的乐观箴言</span></a></li></ol></li><li class="nav-item nav-level-2"><a class="nav-link" href="#%E7%AC%AC-14-%E7%AB%A0-%E7%BB%84%E7%BB%87%E9%9C%80%E8%A6%81%E6%80%8E%E6%A0%B7%E7%9A%84%E4%B9%90%E8%A7%82"><span class="nav-text">第 14 章　组织需要怎样的乐观</span></a><ol class="nav-child"><li class="nav-item nav-level-3"><a class="nav-link" href="#%E8%BA%AB%E8%BE%B9%E7%9A%84%E6%82%B2%E5%96%9C%E6%95%85%E4%BA%8B-4"><span class="nav-text">身边的悲喜故事</span></a></li><li class="nav-item nav-level-3"><a class="nav-link" href="#%E8%81%8C%E5%9C%BA%E4%B8%AD%E7%9A%84%E4%B9%90%E8%A7%82"><span class="nav-text">职场中的乐观</span></a></li><li class="nav-item nav-level-3"><a class="nav-link" href="#%E5%8F%8D%E9%A9%B3%E8%87%AA%E5%B7%B1%E7%9A%84%E6%83%B3%E6%B3%95"><span class="nav-text">反驳自己的想法</span></a><ol class="nav-child"><li class="nav-item nav-level-4"><a class="nav-link" href="#%E8%B7%B3%E5%A2%99%E6%B8%B8%E6%88%8F"><span class="nav-text">跳墙游戏</span></a></li><li class="nav-item nav-level-4"><a class="nav-link" href="#%E5%8F%8D%E9%A9%B3-1"><span class="nav-text">反驳</span></a></li></ol></li><li class="nav-item nav-level-3"><a class="nav-link" href="#%E6%8B%AF%E6%95%91%E5%9D%8F%E5%BF%83%E6%83%85"><span class="nav-text">拯救坏心情</span></a><ol class="nav-child"><li class="nav-item nav-level-4"><a class="nav-link" href="#%E8%AF%81%E6%8D%AE-1"><span class="nav-text">证据</span></a></li><li class="nav-item nav-level-4"><a class="nav-link" href="#%E5%85%B6%E4%BB%96%E5%8F%AF%E8%83%BD%E6%80%A7-1"><span class="nav-text">其他可能性</span></a></li><li class="nav-item nav-level-4"><a class="nav-link" href="#%E6%9A%97%E7%A4%BA-1"><span class="nav-text">暗示</span></a></li><li class="nav-item nav-level-4"><a class="nav-link" href="#%E7%94%A8%E5%A4%84-1"><span class="nav-text">用处</span></a></li></ol></li><li class="nav-item nav-level-3"><a class="nav-link" href="#%E7%BB%83%E4%B9%A0%E3%80%81%E7%BB%83%E4%B9%A0%E3%80%81%E5%86%8D%E7%BB%83%E4%B9%A0-1"><span class="nav-text">练习、练习、再练习</span></a></li><li class="nav-item nav-level-3"><a class="nav-link" href="#%E5%A1%9E%E5%88%A9%E6%A0%BC%E6%9B%BC%E7%9A%84%E4%B9%90%E8%A7%82%E7%AE%B4%E8%A8%80-11"><span class="nav-text">塞利格曼的乐观箴言</span></a></li></ol></li><li class="nav-item nav-level-2"><a class="nav-link" href="#%E7%AC%AC-15-%E7%AB%A0-%E4%B9%90%E8%A7%82%E5%8F%AF%E4%BB%A5%E6%9C%89%E5%BC%B9%E6%80%A7"><span class="nav-text">第 15 章　乐观可以有弹性</span></a><ol class="nav-child"><li class="nav-item nav-level-3"><a class="nav-link" href="#%E8%BA%AB%E8%BE%B9%E7%9A%84%E6%82%B2%E5%96%9C%E6%95%85%E4%BA%8B-5"><span class="nav-text">身边的悲喜故事</span></a></li><li class="nav-item nav-level-3"><a class="nav-link" href="#%E2%80%9C%E7%89%B9%E5%A4%A7%E5%8F%B7%E2%80%9D%E7%9A%84%E8%87%AA%E6%88%91"><span class="nav-text">“特大号”的自我</span></a></li><li class="nav-item nav-level-3"><a class="nav-link" href="#%E9%81%97%E5%A4%B1%E7%9A%84%E7%B2%BE%E7%A5%9E%E5%AE%B6%E5%9B%AD"><span class="nav-text">遗失的精神家园</span></a></li><li class="nav-item nav-level-3"><a class="nav-link" href="#%E5%8F%96%E8%88%8D%E4%B9%8B%E9%97%B4"><span class="nav-text">取舍之间</span></a></li><li class="nav-item nav-level-3"><a class="nav-link" href="#%E7%89%B9%E5%A4%A7%E5%8F%B7%E8%87%AA%E6%88%91%E7%9A%84%E5%AE%9D%E8%97%8F"><span class="nav-text">特大号自我的宝藏</span></a><ol class="nav-child"><li class="nav-item nav-level-4"><a class="nav-link" href="#%E9%81%93%E5%BE%B7%E6%85%A2%E8%B7%91"><span class="nav-text">道德慢跑</span></a></li><li class="nav-item nav-level-4"><a class="nav-link" href="#%E5%AD%A6%E4%BC%9A%E4%B9%90%E8%A7%82"><span class="nav-text">学会乐观</span></a></li></ol></li><li class="nav-item nav-level-3"><a class="nav-link" href="#%E5%BC%B9%E6%80%A7%E7%9A%84%E4%B9%90%E8%A7%82%E4%B8%BB%E4%B9%89"><span class="nav-text">弹性的乐观主义</span></a></li><li class="nav-item nav-level-3"><a class="nav-link" href="#%E5%A1%9E%E5%88%A9%E6%A0%BC%E6%9B%BC%E7%9A%84%E4%B9%90%E8%A7%82%E7%AE%B4%E8%A8%80-12"><span class="nav-text">塞利格曼的乐观箴言</span></a></li></ol></li></ol></li></ol></div>
+        </div>
+        <!--/noindex-->
+
+        <div class="site-overview-wrap sidebar-panel">
+          <div class="site-author site-overview-item animated" itemprop="author" itemscope itemtype="http://schema.org/Person">
+    <img class="site-author-image" itemprop="image" alt="千灵夙赋"
+      src="/images/avatar.png">
+  <p class="site-author-name" itemprop="name">千灵夙赋</p>
+  <div class="site-description" itemprop="description"></div>
+</div>
+<div class="site-state-wrap site-overview-item animated">
+  <nav class="site-state">
+      <div class="site-state-item site-state-posts">
+        <a href="/archives/">
+          <span class="site-state-item-count">194</span>
+          <span class="site-state-item-name">日志</span>
+        </a>
+      </div>
+      <div class="site-state-item site-state-categories">
+          <a href="/categories/">
+        <span class="site-state-item-count">39</span>
+        <span class="site-state-item-name">分类</span></a>
+      </div>
+      <div class="site-state-item site-state-tags">
+          <a href="/tags/">
+        <span class="site-state-item-count">56</span>
+        <span class="site-state-item-name">标签</span></a>
+      </div>
+  </nav>
+</div>
+
+
+  <div class="links-of-blogroll site-overview-item animated">
+    <div class="links-of-blogroll-title"><i class="fa fa-link fa-fw"></i>
+      Friends
+    </div>
+    <ul class="links-of-blogroll-list">
+        <li class="links-of-blogroll-item">
+          <a href="https://meow3.family.blog/" title="https:&#x2F;&#x2F;meow3.family.blog&#x2F;" rel="noopener" target="_blank">恶魔菌の记事簿</a>
+        </li>
+        <li class="links-of-blogroll-item">
+          <a href="https://lanyundev.vercel.app/" title="https:&#x2F;&#x2F;lanyundev.vercel.app&#x2F;" rel="noopener" target="_blank">LanYun</a>
+        </li>
+        <li class="links-of-blogroll-item">
+          <a href="https://www.julydate.com/" title="https:&#x2F;&#x2F;www.julydate.com&#x2F;" rel="noopener" target="_blank">七夏浅笑</a>
+        </li>
+    </ul>
+  </div>
+<div id="aplayer" class="aplayer"></div>
+<script>
+if( !/Android|webOS|iPhone|iPod|iPad|BlackBerry/i.test(navigator.userAgent)){
+  document.write('<script type="text/javascript" src="/js/custom/APlayer.min.js"><\/script>');
+}
+</script>
+<script type="text/javascript">
+var ap = new APlayer({
+    element: document.getElementById('aplayer'),                       // Optional, player element
+    narrow: false,                                                     // Optional, narrow style
+    autoplay: false,                                                    // Optional, autoplay song(s), not supported by mobile browsers
+    showlrc: 0,                                                        // Optional, show lrc, can be 0, 1, 2, see: ###With lrc
+    mutex: true,                                                       // Optional, pause other players when this player playing
+    theme: '#e6d0b2',                                                  // Optional, theme color, default: #b7daff
+    mode: 'random',                                                    // Optional, play mode, can be `random` `single` `circulation`(loop) `order`(no loop), default: `circulation`
+    preload: 'metadata',                                               // Optional, the way to load music, can be 'none' 'metadata' 'auto', default: 'auto'
+    listmaxheight: '513px',                                             // Optional, max height of play list
+    music: [{
+      title: '世末歌者',
+      author: '双笙 囧菌',
+      url: '/music/双笙 囧菌 - 世末歌者（Cover 乐正绫）.mp3',
+      pic: '/images/aplayer/双笙 囧菌 - 世末歌者.webp',
+    }, {
+      title: '幹物女(WeiWei)',
+      author: '封茗囧菌',
+      url: '/music/%E5%B0%81%E8%8C%97%E5%9B%A7%E8%8F%8C%20-%20%E5%B9%B9%E7%89%A9%E5%A5%B3(WeiWei).mp3',
+      pic: '/images/aplayer/封茗囧菌 - 幹物女(WeiWei).webp',
+    }, {
+      title: '东京不太热',
+      author: '封茗囧菌',
+      url: '/music/%E5%B0%81%E8%8C%97%E5%9B%A7%E8%8F%8C%20-%20%E4%B8%9C%E4%BA%AC%E4%B8%8D%E5%A4%AA%E7%83%AD.mp3',
+      pic: '/images/aplayer/封茗囧菌 - 东京不太热.webp',
+    }, {
+      title: '有故事的小仙女（Cover 初音ミク）',
+      author: '井宿',
+      url: '/music/%E4%BA%95%E5%AE%BF%20-%20%E6%9C%89%E6%95%85%E4%BA%8B%E7%9A%84%E5%B0%8F%E4%BB%99%E5%A5%B3%EF%BC%88Cover%20%E5%88%9D%E9%9F%B3%E3%83%9F%E3%82%AF%EF%BC%89.mp3',
+      pic: '/images/aplayer/井宿 - 有故事的小仙女（Cover 初音ミク）.webp',
+    }, {
+      title: '拼凑的断音（Cover 洛天依）',
+      author: '泡泡Hansy',
+      url: '/music/%E6%B3%A1%E6%B3%A1Hansy%20-%20%E6%8B%BC%E5%87%91%E7%9A%84%E6%96%AD%E9%9F%B3%EF%BC%88Cover%20%E6%B4%9B%E5%A4%A9%E4%BE%9D%EF%BC%89.mp3',
+      pic: '/images/aplayer/泡泡Hansy - 拼凑的断音（Cover 洛天依）.webp',
+    }]
+  });
+</script>
+
+        </div>
+      </div>
+    </div>
+  </aside>
+  <div class="sidebar-dimmer"></div>
+
+
+    </header>
+
+    
+  <div class="back-to-top" role="button" aria-label="返回顶部">
+    <i class=" fa fa-chevron-up"></i>
+    <span>0%</span>
+  </div>
+
+<noscript>
+  <div class="noscript-warning">Theme NexT works best with JavaScript enabled</div>
+</noscript>
+
+
+    <div class="main-inner post posts-expand">
+
+
+  
+
+
+<div class="post-block">
+  
+  
+
+  <article itemscope itemtype="http://schema.org/Article" class="post-content" lang="zh-CN">
+    <link itemprop="mainEntityOfPage" href="https://qianling.pw/learned-optimism">
+
+    <span hidden itemprop="author" itemscope itemtype="http://schema.org/Person">
+      <meta itemprop="image" content="/images/avatar.png">
+      <meta itemprop="name" content="千灵夙赋">
+    </span>
+
+    <span hidden itemprop="publisher" itemscope itemtype="http://schema.org/Organization">
+      <meta itemprop="name" content="千灵">
+      <meta itemprop="description" content="">
+    </span>
+
+    <span hidden itemprop="post" itemscope itemtype="http://schema.org/CreativeWork">
+      <meta itemprop="name" content="《活出最乐观的自己》书摘 | 千灵">
+      <meta itemprop="description" content="">
+    </span>
+      <header class="post-header">
+        <h1 class="post-title" itemprop="name headline">
+          《活出最乐观的自己》书摘
+        </h1>
+
+        <div class="post-meta-container">
+          <div class="post-meta">
+    <span class="post-meta-item">
+      <span class="post-meta-item-icon">
+        <i class="far fa-calendar"></i>
+      </span>
+      <span class="post-meta-item-text">发表于</span>
+
+      <time title="创建时间 2019-10-21 22:10:40" itemprop="dateCreated datePublished" datetime="2019-10-21T22:10:40+08:00">2019-10-21</time>
+    </span>
+    <span class="post-meta-item">
+      <span class="post-meta-item-icon">
+        <i class="far fa-calendar-check"></i>
+      </span>
+      <span class="post-meta-item-text">更新于</span>
+      <time title="修改时间 2019-10-25 08:57:41" itemprop="dateModified" datetime="2019-10-25T08:57:41+08:00">2019-10-25</time>
+    </span>
+    <span class="post-meta-item">
+      <span class="post-meta-item-icon">
+        <i class="far fa-folder"></i>
+      </span>
+      <span class="post-meta-item-text">分类于</span>
+        <span itemprop="about" itemscope itemtype="http://schema.org/Thing">
+          <a href="/categories/%E5%BF%83%E7%90%86%E5%AD%A6/" itemprop="url" rel="index"><span itemprop="name">心理学</span></a>
+        </span>
+    </span>
+
+  
+    <span id="/learned-optimism" class="post-meta-item leancloud_visitors" data-flag-title="《活出最乐观的自己》书摘" title="阅读次数">
+      <span class="post-meta-item-icon">
+        <i class="far fa-eye"></i>
+      </span>
+      <span class="post-meta-item-text">阅读次数 </span>
+      <span class="leancloud-visitors-count"></span>
+    </span>
+  
+  <span class="post-meta-item">
+    <a title="valine" href="/learned-optimism#valine-comments" itemprop="discussionUrl">
+    
+    <span class="post-meta-item-icon">
+      <i class="far fa-comment"></i>
+    </span>
+    <span class="post-meta-item-text">评论数</span>
+  
+      <span class="post-comments-count valine-comment-count" data-xid="/learned-optimism" itemprop="commentCount"></span>
+    </a>
+  </span>
+  
+  
+</div>
+
+        </div>
+      </header>
+
+    
+    
+    
+    <div class="post-body" itemprop="articleBody">
+        <p><img data-src="/images/covers/164.png"></p>
+<span id="more"></span>
+
+<hr>
+<p><strong><div class="center">活出最乐观的自己 / (美) 塞利格曼著 ; 洪兰译. -- 沈阳 : 万卷出版公司, 2010.7<br>ISBN 978-7-5470-1107-2</div></strong></p>
+<div class="center"><a id="download" href="https://qianling.coding.net/api/share/download/2b792ee0-f383-4d53-8634-608e0e05057e"><i class="fa fa-download"></i> 活出最乐观的自己</a></div>
+
+<hr>
+<blockquote>
+<p>　　我所谓的理性与完美主义建立在过度预估事件的消极发展倾向及其后果之上，是童年时期形成的悲观的解释模式，并非真正的理性。我的前任部长在我变得越来越悲观消极的时候又一次帮助了我，建议我学习情绪管理。于是，我翻开了这本书。</p>
+</blockquote>
+<hr>
+<br />
+
+<h1 id="前言"><a href="#前言" class="headerlink" title="前言"></a>前言</h1><h2 id="为什么越来越抑郁"><a href="#为什么越来越抑郁" class="headerlink" title="为什么越来越抑郁"></a>为什么越来越抑郁</h2><p>　　大部分发达国家正经历着一场空前的抑郁流行病——尤其在年轻人中间。为什么越富裕、越强大、书籍越多或教育越发达的国家，抑郁却越流行呢？<br>　　现在有三股力量已经聚集在一起，我想强调一下第三股，因为它最令人惊讶，也是最不可思议的。本书在结尾部分中对其他两股力量进行了讨论：第一股力量是“自我”的失常。在一个个人主义猖獗的社会，人们越来越相信自己是这个世界的中心，在这个信念系统的支配下，人们所面临的失败常常会使人变得极度沮丧。<br>　　第二股力量注重“我们”，这在一定程度上可以使个人的失败得到缓冲。人们对上帝、社区、国家以及家庭的信任在过去的 40 年里已经完全被侵蚀了，我们过去所依赖的精神居所现在似乎已经变得有些陈腐了。</p>
+<h2 id="自尊中的抑郁与暴力"><a href="#自尊中的抑郁与暴力" class="headerlink" title="自尊中的抑郁与暴力"></a>自尊中的抑郁与暴力</h2><p>　　我想要强调的是，自尊运动就是第三股力量。过去的 25 年里，我亲眼见证了儿童书籍的日新月异。 25 年前（正处极度抑郁年代），儿童书籍多是关于如何很好地适应这个世界、关于如何坚持到底、关于如何克服障碍的。而现在的许多儿童书籍却都是关于感觉良好、高度自尊、高度自信方面的内容。<br>　　这是自尊运动所导致的结果之一。我不是反对自尊，而是相信自尊只是一个能读出这个系统状态的刻度表而已，自尊本身并不是终点。<br>　　当你在学业或工作上表现良好时，当你与所爱的人相处融洽时，当你的娱乐生活很美好时，这个刻度值就会很高；当你做得不好时，它的刻度值就会很低。自尊似乎只是一种反映一个人在这个世界上表现得如何的表征或关联。<br>　　一部分高自尊的孩子的脾气很烈。当这些孩子遭遇真实世界时，世界会告诉他们，他们并不像被教导的那样强大，于是，他们会表现出暴力行为。因此，如今美国年轻人中间出现了双生流行病——抑郁和暴力。这可能都来自不恰当的观念：高度重视年轻人如何看待自己，而不重视我们如何评价自己在这个世界上的表现。</p>
+<h2 id="战胜“魔兽”的世纪之剑"><a href="#战胜“魔兽”的世纪之剑" class="headerlink" title="战胜“魔兽”的世纪之剑"></a>战胜“魔兽”的世纪之剑</h2><p>　　如果在青春期之前、儿童期末期教导孩子习得性乐观，那他们就能学会反思自己的思维方式，这是一种富有成效的策略。当有免疫力的孩子利用了这些技巧来应对青春期的首次否定后，那么他们在未来就会越来越好地使用这些技巧。<br>　　我们所能做的便是提供本书中的技巧，并把它们转换成一种教育模式，从而克服我们生活中的抑郁以及孩子生活中的抑郁。乐观的作用是无法估量的，只要你怀揣着对未来的积极信念，你一定可以过得更幸福。</p>
+<h1 id="第一部分-什么是悲观，什么是乐观"><a href="#第一部分-什么是悲观，什么是乐观" class="headerlink" title="第一部分　什么是悲观，什么是乐观"></a>第一部分　什么是悲观，什么是乐观</h1><h2 id="第-1-章-悲观者与乐观者的画像"><a href="#第-1-章-悲观者与乐观者的画像" class="headerlink" title="第 1 章　悲观者与乐观者的画像"></a>第 1 章　悲观者与乐观者的画像</h2><h3 id="身边的悲喜故事"><a href="#身边的悲喜故事" class="headerlink" title="身边的悲喜故事"></a>身边的悲喜故事</h3><p>　　这位父亲和母亲对这个世界有着两种截然不同的看法，不管什么事发生到他头上，他都立刻想到最坏的一面：破产进监狱、离婚、被炒鱿鱼，他的健康也因此而受损。她则是另一个极端，看事情都看好的一面，对她来说，坏事只是暂时的，是一个挑战，最终都会被克服。所以遇到挫折时，她可以很快恢复，养精蓄锐，重新出发。她的身体非常健康。<br>　　<strong>悲观的人的特征是，他相信坏事都是因为自己的错，这件事会毁掉他的一切，会持续很久。乐观的人在遇到同样的厄运时，会认为现在的失败是暂时性的，每个失败都有它的原因，不是自己的错，可能是环境、运气或其他人为原因的后果。这种人不会被失败击倒。在面对恶劣环境时，他们会把它看成是一种挑战，更努力地去克服它。</strong><br>　　这两种思考习惯会带来不同的结果。无数的研究告诉我们，悲观的人很容易放弃，常常陷入抑郁中。这些实验显示，乐观的人在学校的成绩比较好，在工作上和球场上的表现也比较好，他们常常超越能力倾向测验（aptitude test）所预测的上限。乐观的人通常比悲观的人更容易在竞聘中胜出。他们的健康状况一般来说都很好，年纪大时，也不会像大多数人那样有很多病痛。实验证据甚至指出他们比一般人更长寿。<br>　　很多人生活在悲观的阴影下，却并没有意识到自己是悲观的。测验的方法可以从他的谈话中分析出悲观的特质来。<br>　　悲观的态度看起来好像是根深蒂固的，但我发现悲观其实是可以改变的，悲观者其实可以学习成为乐观者，而且不是通过那些无聊的方式，像吹快乐的口哨或一直重复着“每一天，每一件事都会越来越好”的咒语。而是通过学习一种新的认知方式，这些方式跟市面上大肆宣传的那些不实的方式不同，它们是心理学家和精神病学家在实验室和临床医疗中发现的，并且经过了严谨的验证，是确实有效的。</p>
+<h3 id="无助是我们人生的开始"><a href="#无助是我们人生的开始" class="headerlink" title="无助是我们人生的开始"></a>无助是我们人生的开始</h3><p>　　悲观现象的核心是另外一个现象——无助感（helplessness），所谓无助感是说不论你怎么做都无法改变你的命运。<br>　　生命一开始就是无助的。初生的婴儿无法做任何事，几乎所有的行为都是反射行为，虽然他一哭，妈妈就会来，但这并不表示他控制了母亲来不来的行为。他的哭只是对痛苦或不舒服的一个反射反应，他对要不要哭完全没有选择的余地。初生婴儿只有一个行为勉强算得上可以自主控制：吸吮。人生快要走到尽头时也常常又回到这种无助的阶段，我们可能会失去行走的能力，我们可能会失去自我们两岁以来就有的、控制大小便的能力，我们可能会失去使用语言的能力，甚至失去思考的能力。<br>　　从出生到死亡，我们逐渐脱离无助而习得了个人控制（personal control）。个人控制指的是用自主的行为去改变命运，它和无助感是相反的。在婴儿期的头 3～4 个月，手和脚逐渐变得可以自主控制了。然后，他父母发现：婴儿的哭变成可以自主控制的了，他现在可以用哭来控制妈妈，要她来时就大哭。到婴儿一岁时，他已实现了自主控制的两个奇迹：走出第一步和说出第一个字。假如这个孩子具备最基本的心理和身体发展条件的话，这以后的数年里，他会逐渐地走出无助感，让个人控制能力成长起来。<br>　　人生有许多事是无法由我们控制的——我们眼睛的颜色、种族、美国西部的干旱。但是人生还是有一大部分是我们可以控制的，这包括我们如何生活，如何跟别人相处，如何谋生。<br>　　对生命的想法其实可以扩大或缩小我们对生命的控制力。我们的思想其实不仅仅是对事件的反应，它还改变了事情的情境。例如，如果我们认为我们对孩子的未来发展是无助的，发挥不了任何影响，那这种“我怎么做都没用”的思想会阻止我们采取行动，所以我们就把自己的孩子交给了老师、环境，甚至孩子的同伴。当我们高估了自己的无助感时，其他力量就会左右我们孩子的前途。<br>　　在这本书的后面，我们会看到<strong>如果权衡，轻度的悲观是有用的。</strong>但是 25 年的研究使我相信，习惯性的悲观想法会使更多不顺利的事降临到我们头上。而且这种想法会使我们很容易陷入抑郁状态，使我们不能发挥出原有的能力。悲观的预言常常是自我实现的。</p>
+<h3 id="悲观毁掉了她的一生"><a href="#悲观毁掉了她的一生" class="headerlink" title="悲观毁掉了她的一生"></a>悲观毁掉了她的一生</h3><div style="font-size: 0.93em">
+
+<p>　　一个最好的例子就是我以前教书那个大学的一名英国文学系的女生。前三年，她的指导教授非常关心她，爱护她，老师的支持加上她自己的优秀使她得到了奖学金，可以去英国进修一年。当她回来时，她的研究兴趣从狄更斯转移到了英国早期的小说家，尤其是简·奥斯汀。狄更斯是她原来指导教授的专长，而简·奥斯汀是另一位教授的专长。她的指导教授本想说服她继续研究狄更斯，但说服不成后也接受了她的坚持，让她以简·奥斯汀作为毕业论文题目，并且同意与另一位教授共同指导她。<br>　　在她答辩前，她原来的指导教授给答辩委员送了一张条子，指责这位女生论文抄袭。他指控这位女生引用了两段论述简·奥斯汀少年时期创作的文章，却未注明出处。抄袭在学术界是很严重的罪名，这位女生的前途，她念研究生的奖学金，甚至大学能不能毕业，都会受到严重的影响。<br>　　当她看到教授指责她抄袭的那两段时，她回想起来这两段论点都是她从与这位教授的闲谈中得到的。事实上，这位教授从来没有提过他在哪一本书上得到这样的看法，这让这位女生以为这些看法是教授自己的看法。很明显，这位女生成了她老师嫉妒心的牺牲品。<br>　　大多数人会感到愤怒，但是这位女生却不会。她悲观的思维习惯主宰着她，她认为答辩委员会的委员一定会认为她有错。她告诉自己，她没有办法举出反证，因为这件事变成她和他的对抗，而他是教授。她不去找证据来反驳教授，而是从内心里崩溃了，她认为都是她自己的错，即使她能证明这位教授是从别人那里得来的看法也没有用，最主要是她“偷”了这个看法，因为她没有注明这是教授的看法。她认为自己的确有欺骗之嫌，说不定她一直都是个骗子，只是自己以前未发觉罢了。</p>
+</div>
+
+<p>　　研究指出，有悲观思维习惯的人常常会把一点不顺利转变成大灾难。其中一种方式就是把自己的无辜转变成有罪。这位女生在脑海中拚命去搜索符合她现在罪名的记忆：她初中一年级时曾抄袭过同学的答案；在英国时，有人误以为她来自有钱人家，而她没去纠正；而现在是论文“抄袭”。她在论文答辩时保持了沉默，以至于没有拿到学位。<br>　　这个故事并没有一个好的结局。在后来的 10 年里，她以当售货员为生，不再写作，甚至不再读书，她到现在还在为她自己认为的罪过付着代价。<br>　　她其实并没有罪，只是有着人类的通病：<strong>习惯性的悲观思维模式。</strong>如果她对自己说“我是被陷害的，那个嫉妒我的混账设计圈套来害我”，那她可能会站起来大声说出她的故事，为自己辩白，而这位教授以前曾经为了类似事件被另一个学校解聘的事也会浮出水面，她很有可能荣耀地毕业。<br>　　悲观的思维模式不一定永远不能改变。心理学在过去 20 年最显著的发现就是：<strong>人可以选择他想要的思考模式。</strong></p>
+<h3 id="我们不再是环境的傀儡"><a href="#我们不再是环境的傀儡" class="headerlink" title="我们不再是环境的傀儡"></a>我们不再是环境的傀儡</h3><p>　　心理学以前是不关心人的思维模式的，也不关心个人的行为，甚至不关心个人。弗洛伊德派（Freudians）认为童年期未曾解决的冲突驱使了长大后某些行为的出现；斯金纳的信徒则相信行为只有在强化的情况下出现；生态学家认为行为是来自固定的行为模式（fixed action pattern），而这个行为模式是由基因决定的；而赫尔（Clark Hull）派的行为主义者则认为我们的行为是为了减少紧张及满足生理需求。<br>　　乔姆斯基认为人类的行为，特别是语言，绝对不是强化所能解释的，语言最重要的一个特点就是它的衍生性（generative），人们能够马上理解一个从来没有听过或说过的句子。<br>　　新行为主义学派的心理学家发现人类和动物的行为只用驱使和需求来解释是不够的，他们开始将认知，即思维模式加入到原有的理论中，以解释复杂的行为。<br>　　所以，心理学的主要理论在 20 世纪 60 年代后期从环境的力量转移到个人的期待、喜好、选择、决策、控制，以及无助感上。<br>　　我们的社会正给予它的成员前所未有的权利，并把它的成员的痛苦和幸福当做一件严肃的事，把个人的自我实现当成一个正当合理的目标，甚至认为是神圣的权利。</p>
+<h3 id="抑郁的时代，悲观的自我"><a href="#抑郁的时代，悲观的自我" class="headerlink" title="抑郁的时代，悲观的自我"></a>抑郁的时代，悲观的自我</h3><p>　　伴随这些自由而来的是危机。因为自我的时代也是一个跟悲观现象非常接近的时代，而抑郁症就是悲观的终极表现。现在抑郁症正大肆流行。抑郁症所导致的自杀已经夺去了跟死于艾滋病一样多的生命，而且自杀的流行范围远比艾滋病更广。现在严重抑郁症的人数比 50 年前多了 10 倍，女性患病率是男性的两倍，而且发病期比上一代人提早了 10 年。</p>
+<ul>
+<li>  抑郁症是无端降临到你身上的。</li>
+<li>  抑郁症不是一种病而只是严重的心情低落。</li>
+<li>  是眼前的困难引发了你的抑郁。</li>
+<li>  你的抑郁不能归罪于你的基因或是大脑生化的问题。</li>
+<li>  抑郁症是由我们对生命中的悲剧或挫折所做的错误推论而引发的。</li>
+<li>  抑郁症只有在我们对挫折的原因有着悲观的想法时才发生。</li>
+<li>  我们可以舍去悲观而学习对挫折抱有新的、乐观的看法。</li>
+</ul>
+<h3 id="成功与健康的关键"><a href="#成功与健康的关键" class="headerlink" title="成功与健康的关键"></a>成功与健康的关键</h3><p>　　传统对成就的看法就如同传统对抑郁症的看法一样。我们的学校、社会都认为成功来自能力和动机。当失败时，通常被认为是能力或动机不足。但失败也可能是在能力和动机都很足，但乐观不足的情况下发生的。<br>　　从上幼儿园开始，孩子们就面临着各种不同的能力测验。父母认为这些测验对他们孩子的前途如此重要，以致于不惜花钱请人教他们的孩子如何应对测验。在我们生命的每一个阶段，我们都逃不过这些测验的筛选。虽然有些能力是可以测量的，但想增加分数却很困难。上个补习班可能会提高一些分数，但是增加的分数并不代表较高的能力。<br>　　<strong>动机</strong>是另外一回事，它<strong>很容易被提高。</strong>传教士、布道者可以在一两个小时内把信徒救世的热情煽高到白热化，高明的广告可以激起消费者对一个以前根本不存在的产品产生购买动机，报告会也可以鼓舞员工的士气，但这些热情是短暂的。没有后续的煽风点火，信徒的热情很快会冷却，对一个新产品的喜爱很快会忘记或是被另一个新产品所取代，鼓舞士气的报告会也只能提高几天或几个星期的士气。</p>
+<ul>
+<li>  还有第三个要素——乐观或悲观，跟能力和动机一样重要。</li>
+<li>  你已经具备了能力和动机，但你仍然失败了，只因为你是个悲观者。</li>
+<li>  乐观者在学业、事业、球场上都表现得比较好。</li>
+<li>  乐观是一个习得的技巧，而且一旦学会了，它就终身跟着你。</li>
+<li>  我们可以把这个技巧传授给我们的孩子。</li>
+</ul>
+<p>　　传统对健康的看法就跟传统对天赋的看法一样，存在谬误。悲观或乐观对健康的影响跟身体的生理条件一样重要。<br>　　很多人以为健康是受体质、健康习惯等因素的影响。他们相信体质基本上是受基因影响的，但是你可以靠后天健康的饮食习惯、持之以恒的运动、定期检查以及注意安全防护来改善健康状况。如果一个人生病了，我们则会认为一定是他的体质不强，健康习惯不好，或是接触了太多的细菌。<br>　　这个传统的看法忽略了决定健康的最主要的因素——我们的认知，我们对自身健康的控制，远比我们想象的更高。请看下面的例子。</p>
+<ul>
+<li>  我们对健康的看法会改变我们的健康状况。</li>
+<li>  乐观者比悲观者较少受到传染病的感染。</li>
+<li>  如果我们是乐观的，那么我们免疫系统的功能就会比较好。</li>
+<li>  证据显示乐观的人比悲观的人活得长。</li>
+</ul>
+<h3 id="人人都能学会乐观"><a href="#人人都能学会乐观" class="headerlink" title="人人都能学会乐观"></a>人人都能学会乐观</h3><p>　　摆脱抑郁症、提高成就以及改善健康状况是习得性乐观（learned optimism）的三个最主要的应用，同时它也会带给你全新的自我认知。<br>　　习得性乐观不是积极思考方式的威力的再发现。乐观技巧不是来自学校，也不是学着对自己说肯定的话——我们早已发现这种方式毫无用处。重要的是你在失败的时候运用“非消极的思考方式”（non-negative thinking）。习得性乐观的主要技巧是在失败的情境中改变具有破坏性的想法。<br>　　我们从个人控制理论开始。我将介绍两个主要的概念：习得性无助（learned helplessness）和解释风格（explanatory style），它们是彼此交错的。<br>　　习得性无助是一个放弃的反应，是源自“无论你怎么努力都于事无补”的想法的行为。解释风格是你对为什么这件事会这样发生的习惯性解释方式。它是习得性无助的调节器：乐观的解释风格可以阻止习得性无助，而悲观的解释风格可以散播习得性无助。你在遇到挫折或暂时的失败时，你的解释方式将决定你会变得多无助或多斗志昂扬。我认为你的解释方式其实反映出你的心态：你心中的一个字。<br>　　我们每个人心中都有一个字，是“Yes”或“No”。你或许不知道你心中有这么一个字，但是你可以很准确地感知你心中的字是哪一个。<br>　　乐观在你的某些生命领域中占有很重要的地位，它虽不是万灵药，但它可以保护你不受抑郁的侵害，它可以提升你的成就水平，它可以使你的身体更强健，它是一个令人愉悦的精神状态。另一方面，悲观在你的生命中也有它的地位，你在本书里也会发现它的一些积极作用。<br>　　假如测验显示你是一个悲观的人，那你还不能就此打住。<br>　　悲观跟其他人格特质不一样，它不是固定不变的。你可以学会一套技巧使你摆脱悲观的魔爪，而且你可以学会随时去应用乐观。</p>
+<h3 id="塞利格曼的乐观箴言"><a href="#塞利格曼的乐观箴言" class="headerlink" title="塞利格曼的乐观箴言"></a>塞利格曼的乐观箴言</h3><p>　　★ 悲观的人相信坏事都是因为自己的错，这件事会毁掉他的一切，会持续很久。悲观的人会认为自己无能为力，就此一蹶不振。<br>　　★ 乐观的人在遇到同样的厄运时，会认为现在的失败是暂时性的，每个失败都有它的原因，不是自己的错，乐观的人不会被失败击倒。在面对恶劣环境时，他们会把它看成是一种挑战，更努力地去克服它。</p>
+<h2 id="第-2-章-悲观者的无助感源自何处"><a href="#第-2-章-悲观者的无助感源自何处" class="headerlink" title="第 2 章　悲观者的无助感源自何处"></a>第 2 章　悲观者的无助感源自何处</h2><h3 id="为了人，应该牺牲狗吗"><a href="#为了人，应该牺牲狗吗" class="headerlink" title="为了人，应该牺牲狗吗"></a>为了人，应该牺牲狗吗</h3><p>　　“把痛苦强加到动物身上合理吗？”我问道。<br>　　我的教授提醒我说，今天人类以及宠物可以活这么久主要是动物实验的贡献，如果没有这些动物实验，小儿麻痹症、天花到今天还会肆意流行。“反过来说，”他继续说道：“科学史上也充满了没有达到目的的实验，这些实验都承诺说要减轻人类的痛苦，但最后都没有做到。”<br>　　“我问你两件事。第一，你是否可能在将来为许多人减轻痛苦，这个痛苦比你现在加在狗身上的要严重得多？第二，你在动物身上得到的结论可以应用到人身上吗？”我对上面两个问题的答案都是肯定的。<br>　　我的教授警告我说，科学家常常被他的野心遮蔽，忘记了实验的最初目的。他要我作出两项承诺：一旦我发现了我要了解的因果关系，就立刻停止狗的实验；一旦我得到了需要进行动物实验才能得到的解答，就要立刻停止所有的动物实验。</p>
+<h3 id="塞利格曼的乐观箴言-1"><a href="#塞利格曼的乐观箴言-1" class="headerlink" title="塞利格曼的乐观箴言"></a>塞利格曼的乐观箴言</h3><p>　　★ 动物可以学会它们的行为是于事无补的，它们因此而变得被动，不再做任何事。我们的实验结果证明了学习理论的中心前提是错的，即学习只有在行为产生奖励或惩罚时才可能发生。<br>　　★ 许多无助的实验情境显示，每 3 个人中只有 1 个人不会变得无助。另外，虽然从来没有受过挫折，但每 10 个人中也会有 1 个人一开始就采取放弃的态度。</p>
+<h2 id="第-3-章-悲观者眼中的挫折"><a href="#第-3-章-悲观者眼中的挫折" class="headerlink" title="第 3 章　悲观者眼中的挫折"></a>第 3 章　悲观者眼中的挫折</h2><h3 id="测测你有多乐观"><a href="#测测你有多乐观" class="headerlink" title="测测你有多乐观"></a>测测你有多乐观</h3><p>　　下面的测验没有时间上的限制。一般来说，这个测验大约要花15分钟。你应该先做测验，然后再去看后面的分析，不然你的答案就不准确了。<br>　　请仔细阅读每一个情境的描写，并想象你在那个情境下的想法。有的情境你可能从来没有经历过，也可能两个答案都不适合你，这都没有关系，圈出一个最符合你的即可。请不要圈选你认为“应该”的说法或是对别人来说这样说才比较可接受的选项，请选最符合你的想法的选项。（节录部分以供搜索）<br>　　1. 你所负责的项目非常成功。 PsG<br>　　A. 我对手下监督很严。 1<br>　　B. 每一个人都花了很多心血在上面。 0<br>　　…<br>　　48. 商店拒收你的信用卡。 PvB<br>　　A. 我有时候高估了自己的额度。 1<br>　　B. 我有时候忘了去付信用卡账单。 0</p>
+<p>　　计分表（2019/10/22）<br>　　PmB 4　　　　PmG 5<br>　　PvB 7　　　　PvG 3<br>　　　　　HoB 11<br>　　PsB 6　　　　PsG 4<br>　　B类总分 17　　G类总分 12<br>　　　　　G-B -5</p>
+<h3 id="谁永不放弃"><a href="#谁永不放弃" class="headerlink" title="谁永不放弃"></a>谁永不放弃</h3><p>　　<strong>你</strong>对发生在你身上的大小不幸事件的原因是怎么看的？有的人很容易就放弃了，他们认为“都是我不好，我注定一辈子倒霉，做什么都没有用”。另一种人拒绝向命运低头，他们说“这只是环境使然，厄运很快就会过去，生命中还有许多东西比这件事更重要”。<br>　　<strong>你</strong>对厄运的解释习惯和你的解释风格，不仅仅是你在失败时嘴里说出来的话。<strong>它是一种习惯性的思维方式，是你在童年期或青少年期养成的。你的解释风格表明了你是乐观还是悲观。</strong><br>　　<strong>你</strong>刚刚所做的测验就是用来测查你的解释风格的。<br>　　解释风格有三个维度——永久性、普遍性和人格化。</p>
+<h3 id="永远到底有多远"><a href="#永远到底有多远" class="headerlink" title="永远到底有多远"></a>永远到底有多远</h3><p>　　容易放弃的人相信发生在他身上的坏事或霉运是永久的，坏事永远会影响着他的生活。而可以抵制无助感的人相信厄运的原因是暂时的。</p>
+<p>　　永久的（悲观的）　　　暂时的（乐观的）<br>　　我完蛋了。　　　　　　我累坏了。<br>　　节食根本没有用。　　　如果出去吃饭，节食肯定成功不了。<br>　　<strong>你</strong>总是很唠叨。　　　　我一不打扫房间，你就会唠叨。<br>　　我的老板是个混蛋。　　老板现在情绪不佳。<br>　　<strong>你</strong>从来不跟我交流。　　最近，你没怎么跟我聊天。</p>
+<p>　　如果你认为厄运是“永远”，“从不”，那你就是悲观型的。如果你认为厄运是“有时候”，“最近”，那你就是乐观型的。<br>　　PmB（Permanent Bad，“永久性的坏”）<br>　　假如你选“我不擅长记生日”，而没有选“我太忙了”来解释你为什么忘了配偶的生日，那你是用一个比较永久的，也就是比较悲观的原因在解释。<br>　　请将题目右边有 PmB 的分数加起来，将它写到计分表的 PmB 项目上。</p>
+<ul>
+<li>  假如你的分数是 0 或 1，那说明你在这个维度上是非常乐观的。</li>
+<li>  2 或 3 代表中等乐观。</li>
+<li>  4 属于平均水平。</li>
+<li>  5 或 6 代表相当悲观。</li>
+<li>  假如你的分数是 7 或 8，那本书第三部分对你将非常有帮助。</li>
+</ul>
+<p>　　下面要解释为什么永久性这个维度非常重要。<br>　　失败使人暂时无助，这就像肚子被人狠狠地打了一拳，很疼，但是这个疼会消失。对分数是 0 或 1 的人来说，它几乎会立即消失。但对得分为 7 或 8 的人来说，这个疼最后会变成一种积怨。即使挫折是微不足道的，他们都可能几天甚至几个月无法做事。一旦遇到了真正的灾难时，他们就彻底崩溃了。<br>　　乐观的解释风格正好相反，相信好运会持久的人比较乐观。</p>
+<p>　　暂时的（悲观的）　　　永久的（乐观的）<br>　　今天是我的幸运日。　　我一向运气很好。<br>　　我很努力。　　　　　　我很有才干。<br>　　我的对手累了。　　　　我的对手水平不行。</p>
+<p>　　乐观的人将好运归因于人格特质、能力等永久性的因素。悲观的人把好运看成与暂时性因素相关，例如情绪、努力等。<br>　　PmG（Permanent Good，“永久性的好”）<br>　　请将这些题的分数加起来，写在计分表的PmG项目上。</p>
+<ul>
+<li>  假如你的分数为 7 或 8，你对好运的持续发生非常乐观。</li>
+<li>  6 分是中等乐观。</li>
+<li>  4 分和 5 分代表平均水平。</li>
+<li>  3 分是中等悲观。</li>
+<li>  0、1 或 2 分是非常悲观。</li>
+</ul>
+<p>　　相信好运是永久的人在他们成功后往往更加努力，而把成功看成是暂时的人常常在成功后就放弃了，因为他们相信成功只是侥幸。</p>
+<h3 id="打击面的大小"><a href="#打击面的大小" class="headerlink" title="打击面的大小"></a>打击面的大小</h3><p>　　永久性是时间上的维度，普遍性是空间上的维度。<br>　　娜拉和凯文在永久性维度上的分数一样高，他们在这方面都一样悲观。当他们被解雇后，他们都抑郁了很久。但他们在普遍性这个维度上正好相反。凯文认为解雇这件事使他以往的努力都付诸流水，他认为自己做什么都不行。娜拉则认为她只是做会计不行，其他能力还是很好的，她认为自己被解雇是因为某个特殊的原因。<br>　　下面是对不好的事情的一些特定的或普遍的解释。</p>
+<p>　　普遍的（悲观的）　　　　特定的（乐观的）<br>　　所有的老师都不公平。　　塞利格曼教授很不公平。<br>　　我是个令人讨厌的人。　　他很讨厌我。<br>　　书本一点儿用也没有。　　这本书一点儿用也没有。</p>
+<p>　　永久性维度决定一个人会放弃多久。对厄运做永久性解释的人会有长期的无助，而对同样事件做暂时性解释的人很快就能回复。<br>　　具有普遍性特点的解释风格会在许多不同的情境中造成无助，而特定性的解释风格只会在某些问题领域内造成无助。凯文就是普遍性维度的牺牲者，一点小事都被他看成大难临头。<br>　　<strong>你</strong>是否习惯把事情灾难化？<br>　　PvB（Pervasiveness Bad，“普遍性的坏”）</p>
+<ul>
+<li>  假如你的分数是 0 或 1，那你是非常乐观的。</li>
+<li>  2 或 3 分代表中等乐观。</li>
+<li>  4 分是平均水平。</li>
+<li>  5 或 6 分是中等悲观。</li>
+<li>  7 或 8 分是非常悲观。<br>　　对好运的乐观型解释风格正好和对霉运的解释相反，乐观者认为坏事情的发生是有其特定原因的，而好事情的发生会加强他对所做的每一件事的信心。悲观的人认为坏事情的发生是由于普遍的原因，而好事情的发生是由于特定的原因。当娜拉又被公司找回去做临时雇员时，她想“公司终于认识到没有我不行了”；当凯文也接到回去做临时雇员的通知时，他想的是“公司现在一定是人手不足才会找我回去的”。</li>
+</ul>
+<p>　　特定的（悲观的）　　　　　　　普遍的（乐观的）<br>　　我的数学很好。　　　　　　　　我很聪明。<br>　　我的股票经纪人很懂石油股。　　我的经纪人很了解股市运作。<br>　　她觉得我很迷人。　　　　　　　我很迷人。</p>
+<p>　　<strong>你</strong>的分数如果是 7 或 8，那你是很乐观的。</p>
+<ul>
+<li>  6 分代表中等乐观。</li>
+<li>  4 或 5 分代表平均水平。</li>
+<li>  3 分是中等悲观。</li>
+<li>  0、1 或 2 分是非常悲观。</li>
+</ul>
+<h3 id="希望与绝望"><a href="#希望与绝望" class="headerlink" title="希望与绝望"></a>希望与绝望</h3><p>　　我们是否抱有希望是由我们解释风格的两个维度决定的：普遍性和永久性。<strong>为不幸的事找到暂时的和特定的原因</strong>是获得希望的艺术。暂时的原因限制了无助的时间，而特定的原因将无助限制在特有的情境中。反过来讲，永久性使无助感延伸到未来，而普遍性使无助感扩散到你生活的各个层面。为不幸的事找永久性和普遍性的原因是在练习绝望。</p>
+<p>　　无望的　　　　　　　　　充满希望的<br>　　我很愚蠢。　　　　　　　我没想到。<br>　　男人是暴君。　　　　　　我先生心情不好。<br>　　这肿块 50% 是癌症。　　这肿块 50% 没事。</p>
+<p>　　将这个测验中你的 PvB 分数加上你的 PmB 分数就是你的希望（HoB）分数。</p>
+<ul>
+<li>  假如你的分数是 0、1 或 2，那你是充满了希望的。</li>
+<li>  3、4、5 或 6 分表示中等有希望的。</li>
+<li>  7 或 8 分是平均水平。</li>
+<li>  9、10、11 分是中等绝望的。</li>
+<li>  12、13、14、15 或 16 分代表严重绝望的。</li>
+</ul>
+<p>　　对挫折采取永久性和普遍性解释风格的人容易在压力下崩溃，这个崩溃是长期的，而且是全面的。<br>　　对你来说，任何分数都没有希望分数重要。</p>
+<h3 id="都是我的错"><a href="#都是我的错" class="headerlink" title="都是我的错"></a>都是我的错</h3><p>　　最后一个解释风格的维度是人格化。<br>　　当不好的事情发生时，我们可以怪罪自己（内在化），也可能怪罪旁人或环境（外在化）。人在失败时，如果怪罪自己，那他们的自视很低，他们认为自己一文不值，没有才干也不讨人喜欢。怪罪旁人的人比较不会失去自尊，总的来说，他们比前者更喜欢自己。</p>
+<p>　　内在的（低自尊）　　　　外在的（高自尊）<br>　　我很愚蠢。　　　　　　　<strong>你</strong>很愚蠢。<br>　　我没有打扑克的天分。　　我打扑克时，运气不好。<br>　　我没有安全感。　　　　　我在贫困的环境中长大。</p>
+<p>　　PsB（Personalization Bad，“人格化的坏”）</p>
+<ul>
+<li>  如果你的分数是 0 或 1，那么你的自尊很高。</li>
+<li>  2 或 3 分是中等自尊。</li>
+<li>  4 分代表平均水平。</li>
+<li>  5 或 6 分是中等低自尊。</li>
+<li>  7 或 8 分代表自尊非常低。</li>
+</ul>
+<p>　　解释风格的三个维度中，人格化是一个最容易懂且最显而易见的维度。人格化也是最容易被过度重视的维度，它只控制你如何看待自己，即所谓的“自我感觉良好”。而普遍性和永久性则控制着你的行为，你感到无助的持久性，以及无助感涉及的层面。<br>　　<strong>人格化这个维度是最容易作假、最好骗的维度。</strong>你可以假装把你的挫折怪罪到别人身上，而如果你是个悲观的人，我要你假装你的问题是暂时性的，是有特定原因的，你就不容易做到了。<br>　　下面是在你算总分前最后的一项计分：相信自己带来了好运的人比较喜欢自己，对自己的满意程度远比那些认为好运是别人带来的或是环境造成的人高很多。</p>
+<p>　　外在的（悲观的）　　内在的（乐观的）<br>　　完全是运气。　　　　我能善加利用好运。<br>　　我队友的技术……　　　我的技术……</p>
+<p>　　PsG（Personalization Good，人格化的好）</p>
+<ul>
+<li><p>  假如你的分数是 7 或 8，表示你很乐观。</p>
+</li>
+<li><p>  6 分是中等乐观。</p>
+</li>
+<li><p>  4 和 5 分代表平均水平。</p>
+</li>
+<li><p>  3 分是中等悲观。</p>
+</li>
+<li><p>  0、1 或 2 分是极端悲观。</p>
+</li>
+<li><p>  如果你的 B 分数是 3～6，那么你真是一个非常乐观的人。</p>
+</li>
+<li><p>  如果你的 B 分数是 6～9，你属于中等程度的乐观。</p>
+</li>
+<li><p>  10～11 分是平均水平。</p>
+</li>
+<li><p>  12～14 分是中等程度的悲观。</p>
+</li>
+<li><p>  14 分以上表示你需要改变。</p>
+</li>
+<li><p>  如果你的 G 分数在 19 以上，你对好运、好事件的想法是非常乐观的。</p>
+</li>
+<li><p>  如果是 17～19，你属于中等程度的乐观。</p>
+</li>
+<li><p>  14～16 分是平均水平。</p>
+</li>
+<li><p>  11～13 分表示你相当悲观。</p>
+</li>
+<li><p>  10 分之下表示你是极端悲观的。</p>
+</li>
+<li><p>  如果你的 G-B 分数在 8 以上，整体来说，你是个很乐观的人。</p>
+</li>
+<li><p>  如果是 6～8 分，你属于中等程度的乐观。</p>
+</li>
+<li><p>  3～5 分是平均水平。</p>
+</li>
+<li><p>  1～2 分是中等程度的悲观。</p>
+</li>
+<li><p>  0 分或负分是极端悲观。</p>
+</li>
+</ul>
+<h3 id="不是逃避责任的借口"><a href="#不是逃避责任的借口" class="headerlink" title="不是逃避责任的借口"></a>不是逃避责任的借口</h3><p>　　虽然学习乐观有很明显的好处，但它也有危险。难道我要把过错都推到别人身上吗？<br>　　我们绝对是要人们为自己的行为负责，但是目前有些心理学的教条却使人可以规避责任：邪恶的行为被错误地认为是精神失常；缺乏教养的行为被认为是神经官能症。现在的问题是当人们从内在化改变到外在化时，会不会导致规避责任？<br>　　我不愿再加深因回避责任而造成的社会伤害，我并不认为对所有的事情都应该改变想法，怪罪到他人身上。只有在一个情况下应该这样做：在抑郁的时候。抑郁的人常常把不是他的错也揽到自己身上，他们常去负不需要负的责任。</p>
+<h3 id="假如你是一个悲观者"><a href="#假如你是一个悲观者" class="headerlink" title="假如你是一个悲观者"></a>假如你是一个悲观者</h3><p>　　假如你有悲观的解释风格，那么你在下面四个方面会碰到困难。第一，你很容易抑郁。第二，你没有发挥你的潜能，以你的表现应该可以更好。第三，你的健康、你的免疫机能比较差，而且年纪越大，健康情况会越差。第四，生命一点情趣都没有，悲观的解释风格使得生活很灰暗。<br>　　假如你的悲观分数处于平均水平，那么在平常不会出现问题，但是在危机发生时，在受到重挫时，你可能就要付出一些不必要的代价了。当打击来临时，你发现自己比“应该的抑郁”还更抑郁。生命的火花似乎熄灭了，你完全丧失了斗志，无法东山再起，你的未来漆黑一片。你会这个样子几天，甚至几个月，而你可能已经这个样子好几次了。<br>　　虽然这种反应很普遍，但这并不表示它是可以接受的或生活必须是这个样子。假如你采用不同的解释风格，你在灾难来临时会准备得更好。<br>　　新的解释风格还有许多好处。如果你的分数属于悲观的平均值左右，那么你多半没有充分发挥你的天分。我们在第 6 章、第 8 章和第 9 章会谈到，中等程度的悲观会使你在学校的成绩下降，工作表现不好，在运动场上失利。第 10 章会告诉你，即使你只是有些悲观，你的健康也会因此而受损。<br>　　如果你应用第 12 章所说的技巧，你可以进行选择，可以去提高每一天的乐观程度。</p>
+<h3 id="塞利格曼的乐观箴言-2"><a href="#塞利格曼的乐观箴言-2" class="headerlink" title="塞利格曼的乐观箴言"></a>塞利格曼的乐观箴言</h3><p>　　★ 解释风格有三个维度——永久性、普遍性和人格化。普遍性和永久性控制着你的行为，你的无助感的持久性，以及无助感涉及的层面。<br>　　★ 人格化控制你如何看待自己，对自己的感觉。当不好的事情发生时，悲观的人怪罪自己，乐观的人怪罪旁人或环境。当好事情发生时，悲观的人归功于旁人或环境，而乐观的人归功于自己。</p>
+<h2 id="第-4-章-从悲观滑向抑郁"><a href="#第-4-章-从悲观滑向抑郁" class="headerlink" title="第 4 章　从悲观滑向抑郁"></a>第 4 章　从悲观滑向抑郁</h2><h3 id="身边的悲喜故事-1"><a href="#身边的悲喜故事-1" class="headerlink" title="身边的悲喜故事"></a>身边的悲喜故事</h3><p>　　悲观、消沉的时候，我们会经历一个轻微的心理失常状态——抑郁。抑郁是悲观的放大，而了解了悲观，就可以帮助我们了解它的放大形态——抑郁症。<br>　　有些人曾经历过抑郁，而且清楚地知道它如何蚕食生活。但对有些人来说，可能极少有这样的经验，只有在许多希望同时破灭时才会发生。对大多数人来说，每一次打击都会带来情绪的低潮是一个相当熟悉的经验。<br>　　抑郁分三种，第一种是一般性的抑郁（normal depression）。这是大家所了解的一般形态，它来自痛苦和失落。对有思想、对未来有期待的万兽之灵来说，这种痛苦和失落是不可避免的。当我们遭遇痛苦和失落时，我们会变得很懒散、被动、无精打采。我们不去上班，不去上课，对以前喜欢的活动也提不起劲；我们吃不下饭，睡不着觉，不想见朋友，对性也没兴趣。<br>　　过一阵子后，我们自己会慢慢变好，这真是大自然神奇的恩赐。这种一般性的抑郁非常普遍，就像心理上的小感冒。我发现在任何时候，大约有 1/4 的人处于这种抑郁状态中。<br>　　另外两种抑郁都被称为抑郁症（depressive disorder），包括单极抑郁症和双极抑郁症（unipolar and bipolar depression）。单极抑郁症没有躁狂症（mania）的症状。躁狂症的症状与抑郁症正好相反：患者会无故地极度快乐、狂妄，不停地说，不停地动，自我膨胀得一塌糊涂，天下好像没有他办不到的事。<br>　　双极抑郁症有时也被称为躁郁症，一端是躁狂症，另一端是抑郁症。单极抑郁症和双极抑郁症还有一个差别，那就是双极抑郁症的遗传几率比单极抑郁症大很多。如果同卵双生子中有一个人得了双极抑郁症，那么另一个患病的几率是 72%，但异卵双生子同时患病的几率则只有 14%。</p>
+<h3 id="各个方面都不对劲了"><a href="#各个方面都不对劲了" class="headerlink" title="各个方面都不对劲了"></a>各个方面都不对劲了</h3><p>　　下一个问题就是：单极抑郁症和一般性的抑郁有关系吗？我认为它们是同一个东西，不同之处在于程度和症状的多寡。一个被诊断为单极抑郁症的人就被贴上了精神病人的标签，而另一个有一般性抑郁的人却不会被视为病人。其实两者间的差别非常小。<br>　　我认为一般性的抑郁和单极抑郁症都有四种消极的变化：思想、情绪、行为和身体上的消极变化，他们被认定的方法也基本相同。<br>　　<strong>你</strong>抑郁时的思考方式与非抑郁时是不一样的：抑郁时，对自己、对世界及未来的看法都是灰色的。当你抑郁时，一丁点的小障碍看起来都像不可逾越的高山，你相信你手指碰到的每一样东西都会变成灰烬，你对为什么你的成功其实是个失败有着无数的理由。<br>　　贝克（Aaron Beck）是世界上最有名的心理治疗师之一，他有一名病人，在抑郁时曾为厨房换过一次壁纸，但病人把这个成就看成是一个失败。</p>
+<div style="font-size: 0.93em">
+
+<p>　　治疗师：你为什么不把换厨房壁纸看做一个小成就呢？<br>　　病人：因为我没有把那些花对整齐。<br>　　治疗师：但是你把工作完成了，对吗？<br>　　病人：是的。<br>　　治疗师：是你自己的厨房吗？<br>　　病人：不是，我帮邻居贴壁纸。<br>　　治疗师：是他做了大部分工作吗？<br>　　病人：不是，是我做的，他以前没换过壁纸。<br>　　治疗师：在贴的过程中发生过什么意外吗？你有没有打翻浆糊？浪费很多壁纸？把厨房搞得乱七八糟？<br>　　病人：没有，唯一的问题是花没有对齐。<br>　　治疗师：这些花歪了多少？<br>　　病人（伸出手指比着0.3厘米左右的距离）：大约这么多。<br>　　治疗师：每张壁纸都差这么多吗？<br>　　病人：不是，只有两张或三张没有对齐。<br>　　治疗师：总共有多少张壁纸？<br>　　病人：大约有20到25张。<br>　　治疗师：有没有别人注意到这个缺点？<br>　　病人：没有。其实我的邻居觉得很好。<br>　　治疗师：如果你退后一点看整面墙，你能看出这个缺点吗？<br>　　病人：不能。</p>
+</div>
+
+<p>　　这个病人把一项做得很好的工作看成是失败，因为在他的思想中，他不可能做对任何事情。悲观的解释风格是抑郁的核心。对未来、对世界、对自己的消极看法，来自对一个事件的永久性、普遍性及人格化的归因方式。<br>　　抑郁的第二个表现是消极的情绪。当你抑郁时，情绪会非常差，可能会哭。本章开头那个故事中的苏菲，在她情绪非常低落时，她会早上不起床，在床上一直哭到中午，生命变得非常苦涩，以前喜爱的活动变得毫无趣味。<br>　　抑郁的情绪并非不可打破。抑郁症患者通常在刚醒来时情绪处于最低潮，你躺在床上想着过去种种的失败，想着今天可能要面临的失败，假如你躺在床上不起身，这些失败的想法就像一床棉被一样把你包裹着，如果你爬起床，开始一天的活动，通常情绪会变好些。到了下午 3 点到 6 点，情绪又会低落下去。晚上通常是一天中最不抑郁的时间，清晨 3 点到 5 点，如果你没睡着，则是情绪最差的时候，情绪在一天中是有所变化的。<br>　　抑郁症并不仅是悲伤而已，它同时也有焦虑和易怒。但是当抑郁症非常严重时，焦虑和易怒就退出了，抑郁者变得麻木而空虚。<br>　　抑郁症第三个症状是行为上的。抑郁者有三种行为症状：被动、犹豫不决以及自杀行为。患抑郁症的人通常无法开始做一件事，除非那件事是例行公事，完全不费力就可以执行。他们也很容易放弃，只要一点点不顺利就立刻放弃。<br>　　抑郁症病人也很难做决定。一个患有抑郁症的学生打电话叫比萨，当人家问他要哪种口味时，他无法回答，沉默了 15 秒后，他把电话挂了。<br>　　很多抑郁症病人一直想自杀，也试着去自杀。他们的动机不外乎两种：第一是终止痛苦，生活变得如此痛苦、如此不能忍受，所以他们要终止这种痛苦。第二种是操纵，他们要找回爱，要报仇，要赢得这场争执。<br>　　抑郁症的最后一个症状与身体有关。抑郁通常伴随着某些身体症状。例如没有胃口，对性不感兴趣。睡眠也会受影响，抑郁者很早就醒来，在床上翻来覆去，无法再入睡，最后闹钟响了，只得起床。他们不但抑郁，而且很疲倦，这样日子怎么会过得好呢？<br>　　思想、情绪、行为和身体上的消极变化是诊断抑郁的四个标准，但并不一定四者都要有才能被认定为抑郁症。</p>
+<h3 id="你真的抑郁吗"><a href="#你真的抑郁吗" class="headerlink" title="你真的抑郁吗"></a>你真的抑郁吗</h3><p>　　现在请你做一下这个应用很广的抑郁测验，它是美国国家心理健康研究所的拉德罗夫（Lenore Radloff）设计的。这个测验叫做流行病学研究中心抑郁量表（Center for Epidemiological Studies-Depression，简称 CES-D），里面包含了抑郁的所有症状。请圈出你觉得最能体现你过去一星期心情的选项。（节录部分以供搜索）<br>　　在过去的一个星期<br>　　1. 以前不会担心的事现在开始令我忧心。<br>　　0 很少或没有过（少于 1 天）。<br>　　1 偶尔或很少（1～2 天）。<br>　　2 有时或大约一半的时间（3～4 天）。<br>　　3 很多时候或所有时候（5～7 天）。<br>　　…<br>　　20. 我无法开始做一件事。<br>　　0 很少或没有过（少于1天）。<br>　　1 偶尔或很少（1～2天）。<br>　　2 有时或大约一半的时间（3～4天）。<br>　　3 很多时候或所有时候（5～7天）。</p>
+<p>　　分数 41（2019/10/22）</p>
+<p>　　这个测验很容易计分，把所有你选定的数字加起来，如果你不能决定而圈选了两个，选数字大的那个，你的分数应该为 0～60。<br>　　在我解释你的分数之前，你先要知道高分并不代表抑郁症的诊断。要做诊断还要考虑很多其他因素，例如你有这些症状多久了等，必须与心理治疗师或精神科医生面谈后才能决定，这个测验只是告诉你，你现在的抑郁程度。<br>　　假如你的分数是 0～9，那么你不在抑郁的范围内。假如你的分数为10～15，那么你有轻度的抑郁。16～24 分是中度抑郁，24 分以上则可能是重度抑郁。<br>　　如果你的分数落在重度抑郁的范围内，或不管是哪个范围，只要你认为你有机会就会自杀的话，我劝你赶快去找心理医生。如果你的分数落在中度抑郁的范围内，请在两个星期之后再做一次这个测验，如果你的分数仍然落在中度抑郁的范围内，也请去找心理医生。</p>
+<h3 id="抑郁症是一种流行病"><a href="#抑郁症是一种流行病" class="headerlink" title="抑郁症是一种流行病"></a>抑郁症是一种流行病</h3><p>　　20 世纪以来抑郁症增加了 10 多倍。<br>　　现在抑郁症不但非常普遍，而且它的受害者年龄层也降低了许多。整体来说，美国人比以前更抑郁，而且发病年龄更小。一个物质上空前富足的国家，它的国民却出奇的不幸福！<br>　　无论如何，所有证据都足以让我们高呼：“抑郁症是一种流行病！”</p>
+<h3 id="不要轻视你的无助感"><a href="#不要轻视你的无助感" class="headerlink" title="不要轻视你的无助感"></a>不要轻视你的无助感</h3><p>　　习得性无助的来源来源是“经验”，一个被试学到他不管怎么做都没有用，他们的行为不能带给自己想要的东西，这个经验教他们预期在未来新的环境里，他们的行为也是无效的。<br>　　我们可以通过让被试看到他的行为的确有效，或教被试改变他对失败的原因的看法，来治愈习得性无助。如果被试在无助的经验发生之前就先学到他的行为是有效的话，那么无助是可以预防的。如果小孩子学会了这些方法，他以后便会对无助有较强的免疫力。<br>　　要被诊断为“重度抑郁症”，你必须有下面 9 个症状中的 5 个。<br>　　1.情绪低落。<br>　　2.对日常活动失去兴趣。<br>　　3.没有胃口。<br>　　4.失眠。<br>　　5.思维或动作迟缓。<br>　　6.无精打采，没有活力。<br>　　7.有罪恶感或觉得自己毫无价值。<br>　　8.思考能力减弱，注意力不集中。<br>　　9.有自杀的想法或行为。<br>　　当我们把这 9 条应用到实验室中习得性无助的人或动物身上时，我们发现有主控力的那一组没有出现任何一条症状，但没有主控力的那一组却出现了 8 条。我们唯一没发现的症状是自杀倾向，这可能是因为实验室里的失败通常微不足道。所以这个模型与外界真实的现象十分契合。<br>　　“相信自己的行为会失败”的想法被失败和无法控制的环境所强化，最终制造出了抑郁症。<br>　　现代人的自我观念使得现代人更容易变得习得性无助。我想我知道为什么会这样，我会在最后一章来讨论它。</p>
+<h3 id="塞利格曼的乐观箴言-3"><a href="#塞利格曼的乐观箴言-3" class="headerlink" title="塞利格曼的乐观箴言"></a>塞利格曼的乐观箴言</h3><p>　　★ 抑郁的人会在思想、情绪、行为和身体四个方面发生消极的变化。<br>　　★ 当你抑郁时，很小的障碍看起来都像不可逾越的高山，你对为什么你的成功其实是个失败有着无数的理由。你的情绪会非常差，可能会哭。在行为上，抑郁者会变得被动、犹豫不决，甚至有自杀行为。身体上的变化是，没有胃口，没有性欲，失眠，感到很疲倦。</p>
+<h2 id="第-5-章-想法决定悲喜人生"><a href="#第-5-章-想法决定悲喜人生" class="headerlink" title="第 5 章　想法决定悲喜人生"></a>第 5 章　想法决定悲喜人生</h2><h3 id="从聊天、吃药到改变思维"><a href="#从聊天、吃药到改变思维" class="headerlink" title="从聊天、吃药到改变思维"></a>从聊天、吃药到改变思维</h3><p>　　埃利斯认为所谓的精神冲突其实只是不合理的信念，他让病人不要再去想自己哪里做错了，哪里不好，而是去想哪里好。很奇怪的是，病人摆脱传统心理分析的阴影后，病情都有所好转。<br>　　消极思维模式是习得性无助和抑郁症的主要原因。<br>　　既然抑郁症来自一个长期养成的<strong>消极思维模式</strong>，那如果我们可以改变这种思维模式，我们就可以治疗抑郁症。我们用所有可用的方法来改变病人对不幸事件的想法，这就是认知疗法（cognitive therapy）。<br>　　<strong>你</strong>怎样看问题决定了你是否能从抑郁中解脱出来，或者使抑郁更加严重。一次失败或打击会告诉你，你现在是无助的，但习得性无助只会造成暂时的抑郁，除非你有悲观的解释风格。<br>　　女性得抑郁症的比例是男性的两倍，因为一般来说，女人看事情的方式正好是放大抑郁的方式。男人碰到事情会去做，而不会反复地去想；但女人会钻牛角尖，把事情翻来覆去地想，去分析它为什么是这样。心理学家把这种强制性的分析叫做反刍（rumination）。<strong>反刍的习惯加上悲观的解释风格，结果就是严重的抑郁症。</strong><br>　　好消息是，悲观的解释风格和反刍的习惯都是可以改变的，而且这个改变是永久性的。认知疗法可以创造出乐观的解释风格并且能治疗反刍。你在下面的章节中会看到它如何在别人身上发挥效用，你也可以学习把这个技巧应用到自己身上。</p>
+<h3 id="你是悲观的反刍者吗"><a href="#你是悲观的反刍者吗" class="headerlink" title="你是悲观的反刍者吗"></a>你是悲观的反刍者吗</h3><p>　　假如你认为事情不顺利都是“我的原因，而且这件坏事注定要跟着我一辈子，我所有的努力都白费了”，那你已经准备好要得抑郁症了。你这样想并不表示你常常会这样对你自己说，反覆咀嚼不如意的事的人叫做反刍者。<br>　　反刍者可以是乐观者，也可以是悲观者。悲观的反刍者会出现问题，因为他们的信仰结构是悲观的，他们会一再告诉自己事情有多糟。有些悲观的人会表现出无望但不会反刍：他们有悲观的解释风格，但是他们不会一直对自己说事情有多糟。<br>　　下面我们来看悲观–反刍的联结是如何引发出抑郁症的。第一，你受到无助感的威胁；第二，你去寻找威胁的来源，假如你是个悲观者，你找出的原因就是永久的、普遍的以及人格化的。因此，你预期未来也是无助的，在其他情境下也是无助的，这种预期引发了抑郁症。<br>　　如果你是个反刍者，这种预期会常常发生，它越常发生，你就越抑郁。沉浸在不幸的事件中会启动这个循环，而反刍则加快这个循环。不反刍的人即使他是悲观的，也可以避免抑郁症。乐观的反刍者也可以避免抑郁症。改变悲观或改变反刍都能减轻抑郁症，两者都改变则效果最大。<br>　　我们发现悲观的反刍者最容易得抑郁症。认知疗法阻止了反刍，也建立了乐观的解释风格。</p>
+<h3 id="女人抑郁-VS-男人抑郁"><a href="#女人抑郁-VS-男人抑郁" class="headerlink" title="女人抑郁 VS 男人抑郁"></a>女人抑郁 VS 男人抑郁</h3><p>　　难道是生理上的原因使女性更易抑郁吗？不是的。研究指出月经前和产后的情绪的确会受荷尔蒙变化的影响，但这个效应没有大到使患病比率高达 2∶1。<br>　　最后还剩下三个有趣的理论。第一个是性别角色——女性在社会中的角色使得女性成为抑郁症的温床。一个流行的说法是女性从小被教养成以家庭为重，爱情和社交关系是最重要的；而男性被教导成把事业、成就看得最重要。女性的自尊取决于爱情和友谊，因此，社交上失败，如分居、离婚、子女离家，甚至约会时不愉快等，对女性的打击都比对男性大。这个说法或许是对的，但不能解释为什么女性的患病率是男性的两倍。因为我也可以把这个论点反过来说：因为男性被教导为以事业为重，所以男性在事业失败时所遭受的打击应该比较重，这对男性的自尊打击应该很大，而且这种打击的频率应该和社交失败的频率差不多，所以男性发病率应该和女性一样才对。<br>　　第二个理论是习得性无助和解释风格。在我们的社会里，女性在生活中比男性有更多习得性无助的经验。父母和老师比较注意男孩的行为而容易忽略女孩，男孩被教养为自给自足的、好动的，而女孩则是被动的和依赖的。当女孩长大后，她们发现这个社会并不重视妻子和母亲的角色，如果她们去外面工作，她们会发现老板不太重视她们的工作。当她们与男性做得一样好时，老板只夸奖男性而忽略了她们的成绩；当她在会议中发言时，她说的话没有男性的有分量。她们在很多情境下都会碰到习得性无助，如果女性比男性更具有悲观的解释风格的话，任何一个习得性无助的经验都会制造出抑郁症，所以女性比男性更容易得抑郁症。实验结果也显示，任何一个压力因素所造成的女性患病者都比男性多。<br>　　这个理论似乎是真的，但也有漏洞。其中一个漏洞就是没有任何证据显示女性比男性更悲观。唯一相关的研究是对小学生的随机取样，而它的结果正好相反。在三年级、四年级和五年级的小学生中，男生比女生更悲观、更沮丧。当父母亲离婚时，男生比女生更容易抑郁（这些到青春期时就反过来了，而 2∶1 的比例也的确是从青春期开始显著的。青春期一定发生了什么事，它使女生变得容易抑郁，而使男生走出抑郁。这一点在第 7 章和第 8 章会谈到）。另一个漏洞就是没有任何一个研究显示，女性觉得她的生活比男性更无法控制。<br>　　最后一个理论是有关反刍的。当灾难来临时，女性总是去想而男性却去做。当女性被解雇时，她去想为什么会被解雇，她把每一个细节都想了又想。而男性被解雇时，他会行动，他去喝得烂醉，跟人打架，或做别的事来使自己不去想被解雇的事。他宁可去找别的工作，也不愿去想他为什么会被解雇。假如抑郁是思维的失常，那悲观和反刍就是火上加油。去分析它只会加大它的威力，去行动，不去想它，才可能打破它的诅咒。<br>　　事实上，抑郁症本身可能使女性比男性更容易反刍。当我们发现自己情绪低落时，我们怎么办？女人想去找出情绪低落的原因，而男人会去打篮球或去工作来忘记不快。男性酗酒者比女性多，男性通过喝酒来忘记烦恼，而女性因为反刍而增加了烦恼。<br>　　这个反刍理论差不多可以解释抑郁症的一般性质以及女性患者比男性患者多的事实。我们处在一个自我意识（self-consciousness）的时代，如果我们从小就被鼓励去正视问题、分析问题而不是去行动的话，抑郁症的流行可能就是这种教育的后果了。我将在第 15 章讨论这个问题。<br>　　最近开始有证据显示反刍的确是造成抑郁症性别差异的主要原因。斯坦福大学的诺伦霍克斯曼（Susan Nolen-Hoeksema）是反刍理论的创始人。她的研究显示，大多数女性在抑郁时，试着去分析自己的情绪，或是想去找出为什么自己会有这样的感觉，但大多数男性却是去做一些他们喜欢的事情。<br>　　男性想办法转移他对情绪的注意力，而女性则思考、分析她的情绪。<br>　　所以分析情绪及沉溺于情绪中似乎是女性比男性更容易抑郁的原因。这暗示着男性与女性有同样的轻度抑郁的发生比例，但女性沉溺在抑郁的情绪中，这使得抑郁程度升高。<br>　　我们现在有两个可能的理论。一个是女性习得较多的无助与悲观，第二个是女性更趋向反刍，沉溺在抑郁情绪中，使得这种情绪升级为抑郁症。</p>
+<h3 id="跟抑郁说拜拜"><a href="#跟抑郁说拜拜" class="headerlink" title="跟抑郁说拜拜"></a>跟抑郁说拜拜</h3><p>　　100年前，人们对行为（特别是坏的行为）最流行的解释是“个性”（character），而个性是不容易改变的。如果一个人认为自己是愚蠢的，而不认为是由于自己读书不多的话，那他就不会采取行动来改进自己。如果一个社会把犯人看成是邪恶的，把精神病人看成是疯子，它就不会花钱去支持改造犯人、康复病人的机构。<br>　　到 19 世纪末，这种贴标签的做法和它背后的理念开始发生改变。无知开始被看成是因为没有受教育，而不是愚蠢；犯罪被看成是贫穷的产物而不是因为本性邪恶；贫穷被看成是没有机会，而不是懒惰；疯狂被看成是适应不良，是可以改正的。这个新的、强调个人受环境影响的理论就是行为主义的基本精神。<br>　　行为主义之后是认知心理学，它保留了对改变的乐观信念，认为“自我”可以改进自己。例如，精神病的治疗不再是医生一个人的责任，而是把一部分治疗的责任转移到病人自己手中去了。这个信念是当今盛行的自我改善（self-improvement）运动的基本精神。<br>　　自我改善的信念就跟贴标签理论一样有预言的效果。一个人如果相信他不必老坐在办公室中或不必老是抱着对他人的敌意的话，他可能就会去外面慢跑或在欺侮别人之前想一下。一个相信自我改进的文化会支持健康俱乐部、戒酒组织以及心理治疗。<br>　　人类自从有了失败就开始有抑郁，那时尽管没有今天这么厉害，但至少会心情低落。当一个中世纪的乡村少年未能赢得他意中人的心时，他妈妈可能对他说，天涯何处无芳草，大丈夫何患无妻。到了 20 世纪 80 年代，出现了认知疗法，它试着改变人类对自己失败的看法。它的座右铭跟老祖母的话并没有什么两样，但老祖母的话没有用，而认知疗法却有用。认知疗法是什么？为什么它有效？</p>
+<h3 id="五记重拳打碎抑郁"><a href="#五记重拳打碎抑郁" class="headerlink" title="五记重拳打碎抑郁"></a>五记重拳打碎抑郁</h3><p>　　认知疗法有五种策略。<br>　　<strong>第一，学会去认识在情绪最低沉时自动冒出来的想法。</strong>例如，一位三个孩子的母亲在孩子出门上学前常会对他们大喊大叫，等他们走后又很懊悔这种行为，觉得很沮丧。在接受认知疗法时，她学会去认识她一吼完时不自觉地对自己说的话，“我是个最糟的妈妈”，她学着感知这个想法的出现，知道这就是她的解释，而这个解释是永久的、普遍的和人格化的。<br>　　<strong>第二，学会与这个自动冒出来的想法抗争，举出各种与之相反的例子。</strong>每当“我是个最糟的妈妈”的念头出现时，这位母亲就集中注意去想那些自己是好妈妈的例子来与之对抗。<br>　　<strong>第三，学会用不同的解释——重新归因</strong>（reattribution）去对抗原有的想法。这个母亲学习对自己说“我下午对孩子们很好，而早上很差，或许我不是一个擅于早上活动的人”，这种解释法就比较不具有永久性及普遍性。她学会用新的、正面的证据去瓦解原来的消极的解释链，“我是一个糟糕的妈妈，我不配有小孩，我不配活下去”。<br>　　<strong>第四，学会如何把你自己从抑郁的思绪中引开。</strong>这个母亲意识到消极想法的出现是不可避免的，如果常去反刍则会使情况更糟，最好先不要去想它。<br>　　<strong>第五，学会去认识并且质疑那些控制你并引起抑郁的假设。</strong><br>　　“没有爱，我活不下去。”<br>　　“除非每一件事都完美，否则我就是一个失败者。”<br>　　“除非每一个人都喜欢我，否则我就是一个失败者。”<br>　　“任何问题都有答案，我必须找到它。”<br>　　像这样的假设都会导致抑郁症，你完全可以选择一套新的假设去过日子。<br>　　“爱情的确很珍贵，但很难得到。”<br>　　“尽力就是成功。”<br>　　“有人喜欢你，也肯定有人讨厌你。”<br>　　“生活中免不了有许多问题，我只能挑最重要的去处理。”<br>　　治疗师帮她看到她对自己说的话都是无法获得解脱的消极对话。当她读到印度总理甘地夫人被刺的消息时，她想到“所有的女性领袖都没有好下场”；<br>　　我问她：“假如路上有个醉汉对你说你很讨厌，你会不会信他说的话？”<br>　　“当然不会。”<br>　　“但你对自己说同样没道理的话时，你就相信了，就是因为你认为这些话的来源——你自己是比较可信的。事实并非如此，很多时候我们将事实扭曲得比醉汉还厉害。”<br>　　苏菲很快就学会通过举证来对抗她的习惯性信念，挑战这些信念的合理性。她学会了一个重要的技术：如何与自己进行乐观的对话。她的解释风格从悲观转换为乐观。<br>　　在机制的层面，认知疗法有效是因为它将悲观的解释风格改变成乐观，而这个改变是永久性的。当你失败时，你可以用它有效地阻挡抑郁的侵蚀。<br>　　在哲学的层面上，认知疗法之所以有效是因为它利用了自我的力量。在一个相信自我可以改善自己的时代，我们愿意去改变一个思维习惯。为了自我的利益，我们会选择去做让我们感觉更好的事情。</p>
+<h3 id="塞利格曼的乐观箴言-4"><a href="#塞利格曼的乐观箴言-4" class="headerlink" title="塞利格曼的乐观箴言"></a>塞利格曼的乐观箴言</h3><p>　　★ 男人碰到事情会去做，而不会反复去想；但女人会钻牛角尖，把事情翻来覆去地想，去分析它为什么是这样。女性看事情的方式造成女性得抑郁症的比例是男性的两倍。<br>　　★ 研究显示，悲观确实是引发抑郁症的重要原因。认知疗法通过将悲观的解释风格改变成乐观的解释风格，从而减轻抑郁症状，让抑郁症患者彻底、永远摆脱抑郁症。</p>
+<h1 id="第二部分-乐观的人生为什么精彩"><a href="#第二部分-乐观的人生为什么精彩" class="headerlink" title="第二部分　乐观的人生为什么精彩"></a>第二部分　乐观的人生为什么精彩</h1><h2 id="第-6-章-乐观奠定成功的事业"><a href="#第-6-章-乐观奠定成功的事业" class="headerlink" title="第 6 章　乐观奠定成功的事业"></a>第 6 章　乐观奠定成功的事业</h2><h3 id="谁是最合适的保险业务员"><a href="#谁是最合适的保险业务员" class="headerlink" title="谁是最合适的保险业务员"></a>谁是最合适的保险业务员</h3><p>　　“告诉我乐观为什么有用，”克瑞顿说。我解释说乐观的解释风格影响的不只是保险业务员对他的未来客户说的话，最主要的是当他的客户说不要时，他对自己说的话。一个悲观的业务员可能会对自己说：“我不行，没有人愿意买我的保险”。在经过几次这种事后，这位业务员就说，今天到此为止算了，我回家去吧！这样的情况发生几次后，他逐渐就会想辞职了。<br>　　一个乐观的业务员可能会这样对自己说，“他现在太忙，不能接电话”或是“他已经买保险了，但 10 个人中有 8 个是还没买保险的”或“我可能不应该在吃晚饭的时间打电话”，或根本不对自己说任何话。对他们来说，第二个电话并不会特别难打，几分钟之后，这位业务员可能就找到了一个肯买保险的人。这个小成绩会立刻给他带来活力，因此他又连续打了 10 个电话，又得到另一个面谈的机会，这让他的销售才能充分地发挥出来。<br>　　前 10％ 的乐观销售员的业绩比后 10％ 的悲观销售员的业绩多了 88％。</p>
+<h3 id="成功的金三角"><a href="#成功的金三角" class="headerlink" title="成功的金三角"></a>成功的金三角</h3><p>　　一般来说，有两种问卷可以预测各行各业人员的成功潜能：经验测验和基于理论的测验。经验测验是以已经在这个领域中成功的人或是在这个领域中失败的人为对象，给他们一大堆问题，范围很广，例如“你喜欢古典音乐吗？”“你想赚很多钱吗？”“你有没有很多亲戚？”“你喜欢参加宴会吗？”大部分单一的这类问题无法区分出优劣，但几百道这样的题还是可以的。这几百个问题就变成预测工作成功与否的测验题，凡是合适的应征者都有着类似的人格轮廓。经验测验事实上无法告诉你为什么有些人会成功，这些问题只是碰巧能区分出合适的和不合适的人。<br>　　基于理论的测验就不一样了，这类测验有智商测验、高考等。高考背后的理论认为智慧包含着语文技能、数理分析能力等，因为这些技能都与你在学校的学业表现有很大关系，因此，高考成绩好就被假定可以预测你的智慧程度。<br>　　但是经验测验和基于理论的测验都犯了一些错误，很多人高考成绩不好，但进了大学以后表现良好，工作中也成绩斐然。更突出的例子是大都会保险公司的情况，很多人在职业剖析上分数很高，但销售业绩却很差。但是有没有这个可能：在职业剖析上得分低的人，却是很好的保险业务员呢？大都会保险公司并不知道，因为他们从来没有雇用过这些分数低的人。<br>　　我们的归因风格测验是基于理论的测验，但它的理论与传统的成功观点很不同。传统的观点认为成功有两个必备要素，第一是能力或天资，智商测验和高考都是用来测量它的。第二是动机，不管你的能力多高，如果你缺乏动机，你也不会成功。足够的动机可以弥补能力上的不足。<br>　　我认为传统的观点并不完善。一位作曲家就算有莫扎特的天分和强烈的成功动机，如果他认为自己不擅长作曲，他还是不会成功。他的悲观想法会让他很容易放弃。成功需要坚持，一种遇到挫折也不放弃的坚持，我认为乐观的解释风格是坚持的灵魂。<br>　　成功的解释风格理论认为，要筛选出能在有挑战性的工作上获得成功的人，要考虑三个方面：<br>　　1.　能力；<br>　　2.　动机；<br>　　3.　乐观。<br>　　这三者决定了成败。</p>
+<h3 id="只录用最乐观的人"><a href="#只录用最乐观的人" class="headerlink" title="只录用最乐观的人"></a>只录用最乐观的人</h3><p>　　我们做了一个研究，告诉被试如何欺骗测验（尽可能假装乐观），另外为了加强欺骗的动机，实验者提供 100 美元的奖金给得分最高的人。虽然有了这些知识和动机，他们的分数仍然没有高过另一组诚实作答的被试。换句话说，这是一个很难作弊的测验。</p>
+<h3 id="冒险的收获"><a href="#冒险的收获" class="headerlink" title="冒险的收获"></a>冒险的收获</h3><p>　　我们现在可以进行正式的实验了。在这个实验里，我们把这个测验作为录用与否的标准。1985 年，全国 15000 名应征大都会保险公司的人接受了归因风格测验和职业剖析测验。<br>　　我们有两个目标。第一个是仅用职业剖析测验录用 1000 名新业务员，完全不考虑归因风格测验的成绩。我们想看看这 1000 人中，乐观者会不会比悲观者业绩好。<br>　　第二个目标对大都会来说，稍冒险了一点。我们决定录用一些特别乐观的人，这些人的职业剖析分数为 9～11 分，未达到 12 分的标准。我们录用了 129 名没有任何一家保险公司会录用的人做业务员，不过他们并不知道背后的细节。如果这个实验失败了，大都会保险公司会损失 300 万元的培训费。<br>　　在以后的两年里，我们监控了这 1129 名业务员的表现，下面就是实验的结果。<br>　　第一年里，在用传统方法录用进来的人中，乐观者比悲观者表现得好，不过差距不大，只有 8％。但是到了第二年，乐观者比悲观者多卖了 31％ 的保险。<br>　　用特别方法录用进来的业务员的表现好极了，他们比用传统方法录用进来的悲观组在第一年就好了 21％，到了第二年，差距增大到 57％。他们甚至比用传统方法录用进来的 1000 人的头两年平均销售业绩还多 27％。事实上，他们至少跟以传统方法录用的业务员的乐观组的业绩一样好。<br>　　我们也看到，与悲观组比起来，乐观组一直在进步。为什么？我们的答案是乐观造成了坚持。一开始，能力、动机跟坚持一样重要，但时间一久，被拒绝得越来越多时，坚持就变得比前两项更重要了。乐观的测验跟职业剖析测验一样可以准确地预测出销售业绩。</p>
+<h3 id="化悲观为乐观"><a href="#化悲观为乐观" class="headerlink" title="化悲观为乐观"></a>化悲观为乐观</h3><p>　　“有一件事一直萦绕着我，”克瑞顿说，“每个行业都有一些悲观的人，他们可能资历很高，可能是某一行的专家，所以不能把他们怎样。我现在年事渐高，越来越感到那些悲观者的力量，他们总是告诉我不能做什么，或者只告诉我什么地方做得不对。我知道悲观的态度冻结了他们的行动、想象力和主动性。我相信他们如果能乐观一点，他们自己会更好，对公司也会更有利。”<br>　　“所以，这是我现在的难题：你能不能使一个人成为乐观的人，即使他已经有 30 年，甚至 50 年的悲观思维模式。”<br>　　这个问题的答案是肯定的，但是克瑞顿谈的不是他的销售队伍而是董事会，特别是那些保守的董事。我不知道该如何去改造一个官僚，你不能叫这些董事去做测验，去上课，去接受认知治疗。就算克瑞顿可以做到，教他们乐观可行吗？<br>　　那天晚上，以及后来的很多晚上，我都在想克瑞顿的要求。在一个经营良好的公司里，是否有一个合适的岗位给悲观的人？在顺利的人生旅途中，悲观是否有其应有的作用呢？<br>　　其实悲观无所不在，有些人甚至一生受它的苦。除了那些极端的乐观者以外，我们所有的人都曾吃过它的亏。难道悲观是大自然的一个错误吗？还是它有它存在的意义和价值？<br>　　悲观可以帮助我们认清事情的真相，在生活的某些层面，乐观是不切实际的。在我们跌倒、失败时，用玫瑰色的镜片来看事情会让我们好过些，但这并不能改变事实。有的时候我们要承认我们输了，转变我们努力的方向，而不是找理由紧抓着不放。<br>　　当克瑞顿问我是否可以改变大都会保险公司董事们的悲观想法时，我担心的不是我可不可以做到，而是这样做会不会有什么害处。或许他的董事的某些悲观想法是有一些用处的，的确需要有人对狂热的计划泼些冷水。这些悲观的人能够爬上企业的最高层，肯定有他们的可取之处。</p>
+<h3 id="为什么会悲观"><a href="#为什么会悲观" class="headerlink" title="为什么会悲观"></a>为什么会悲观</h3><p>　　那天晚上，回想着克瑞顿的抱怨，我再一次仔细地思考着长久以来困扰我的一个问题：为什么人类的进化会允许悲观和抑郁症的存在？乐观显然在进化中有自己的作用。泰格（Lionel Tiger）在他那本《乐观：希望的生物学》（Optimism:The Biology of Hope）中提出，人类在进化中生存下来是因为人类对真实世界有着乐观的幻觉。相信现实会变得比它原来更好的希望驱使着人类去超越自己，去发挥潜能。<br>　　那么，悲观的作用是什么？或许它可以校正我们的一些错误，使我们能够正确地认识现实。<br>　　但这是一个令人不安的想法，抑郁的人看世界竟然比不抑郁的人更真实、更正确，这暗示着不抑郁的人看世界是扭曲的。作为一名治疗师，我被训练去相信我的工作是帮助那些抑郁症病人，让他们快乐一点，更清楚地认识这个世界，但或许真相是令人不快的。一个好的治疗师或许只是让抑郁症病人有个美丽的幻觉，让病人认为这个世界是美好的。<br>　　事实上，有一些证据显示抑郁的人虽然比较哀伤，但比较有智慧。<br>　　10 年前，当阿洛伊（Lauren Alloy）和艾布拉姆森还是宾州大学的研究生时，他们做了一个实验：被试对于房间电灯的亮不亮有不同程度的控制权，有些人具有完全的控制权，他们按开关，电灯就亮，他们不按时电灯就不亮；另一组人则具有不完全的控制权，有时他们没有按开关，电灯也会亮起来，当然有时这一组人也有控制权，按了开关，灯会亮起来。<br>　　然后让这两组人尽可能准确地去判断他们对灯光的控制权有多大。抑郁的人在有控制权和无控制权的实验情境下，判断都比较准确。而不抑郁的人的表现令我们吓了一跳。当他们有控制权时，他们的判断是很准确的，但当他们具有不完全的控制权（即无助的情境）时，他们也没有气馁，依然认为他们有极大的控制权。<br>　　因为担心灯光和按钮对人来说太无足轻重，所以阿洛伊和艾布拉姆森增加了金钱的诱惑。当被试能正确控制灯光亮时就可以赢钱，当他们按按钮而灯光不亮时他们会输钱。即便这样，不抑郁的被试夸大自己控制的特点也并没有消失，反而更突出了。有一个实验情境是这样的：每个人都有部分控制权，但是实验设计得使每个人都输钱。在这种情况下，不抑郁的人判断他们的控制权比实际要少。如果实验改成他们都赢钱，不抑郁的人认为他们有很大的控制权，比实际拥有的更大。抑郁的人则不论输赢，都很沉静，且相对判断更准确。<br>　　这些是过去 10 年来非常一致的发现。抑郁的人，大部分是悲观者，他们可以正确地判断出他们的控制权。而不抑郁的人，大部分是乐观者，相信他们有比实际情况更大的控制权，尤其当他们处于无助情境时，他们反而高估了自己的控制地位。<br>　　许多年前《新闻周刊》（Newsweek）报导说 80% 的美国男性认为自己的社交能力很好。这些人一定是不抑郁的美国男性，因为俄勒冈大学的心理学家卢因森（Peter Lewinson）对此有所研究。他把抑郁和不抑郁的人安排在一个研讨会上发言，然后让他们评定自己的表现如何，是否有说服力，是否受欢迎。同时也请观察者来评分。结果发现抑郁的人不太有说服力，不太受欢迎，抑郁症的症状之一就是社交能力很差。抑郁的人能正确判断自已缺乏社交能力。令人惊奇的发现依然来自不抑郁的那一组：他们显著地高估了自己的社交能力，他们对自己的说服力以及受欢迎程度的评价都远比观察者的评价高。<br>　　另一个证据是有关记忆的。一般来说，抑郁的人对不好事件的记忆比对好事件的记忆好。而不抑郁的被试则是正好相反，他们对好事件的记忆力更好。那么究竟谁是更准确的呢？如果我们真的可以知道世界上好的和坏的事件的数目，那我们就知道谁能够更准确地看待过去了。<br>　　当我刚成为治疗师的时候，前辈告诉我说，想知道病人确切的生活情况，问病人自己一点用也没有。你听到的都是他们的父母不爱他们，他们的投资失败，等等。有没有可能这些病人说的是实话呢？<br>　　这种行为形态一再出现在我们的解释风格研究中，即不抑郁的人判断偏颇，而抑郁的人判断相对准确。在第 3 章的测验中有一半是不好的事，一半是好的事件，你可以选 A 或选 B 作为这些事件的原因。你会得到一个G-B分数，你的分数与抑郁者的比起来会怎么样？不论对好的事件或坏的事件，抑郁者的解释风格都差不多。也就是说，抑郁者的 G-B 分数在 0 分附近，他是不偏不倚的。<br>　　不抑郁的人的分数比 0 分高很多，他们是偏颇的。对不抑郁的人来说，坏事情的原因是外在的、暂时的、特定的，而好事的原因是内在的、永久的、普遍的。越乐观的人他的判断越偏向一边。<br>　　整体来说，<strong>不抑郁的人扭曲外界的事实来迎合自己，而抑郁的人看世界更准确一些。</strong>从统计上来看，抑郁的人的解释风格偏向悲观，而不抑郁的人偏向乐观。这说明乐观者扭曲世界，而悲观者能正确地看世界。不过我们也要记住，这种关系是就统计上来说的，并不是每一个悲观者都能正确地反映真实世界。乐观者中也存在少数的现实主义者。<br>　　关于抑郁者的正确判断研究是否只是为了满足研究者的好奇心？我认为不是，它其实是关于为什么会有抑郁症的第一个确切线索。对于前面我们问的那个问题：为什么进化会允许悲观和抑郁留下来，这是最可能的一个答案。如果悲观是抑郁症和自杀的根源，而且它会引起低成就、不良的免疫功能并破坏健康，那为什么它没有在几个世纪前灭绝？<br>　　悲观的益处在进化的后期才显现出来。我们是冰河时期的动物，我们的情绪受到十万多年前地球气候灾难的塑造，能够活过冰河时期的老祖宗很可能是未雨绸缪、看到阳光就会思虑严冬的人。我们遗传了祖先的脑，所以也遗传了他们常常看到乌云而看不到光明的特性。<br>　　对现代人来说，在某些场合，悲观也会发生作用。试想在一个成功的大企业，研发、企划、市场营销等岗位需要有远见、有梦想的人，他们能帮助公司超越现有的能力而迎向未来。这些都是乐观者的特点。但试想一下，假如这个公司只有乐观者，所有人都只看到未来令人兴奋的可能性，那这家公司很快就会出大问题。公司也需要悲观的人，一个对现实世界有正确概念的人，公司的会计、出纳、财务经理、总经理、管安全的工程师等都需要正确的概念。<br>　　我们应该说明的是，这些人并不是彻底的悲观者。他们中的大多数人如果不是因为职业的原因，他们很可能也是愉快的、满怀希望的、有自信的人。他们的职业使他们有了悲观者的小心谨慎。<br>　　这些轻度悲观者，或把他们叫做职业悲观者，似乎能充分利用悲观来做出正确的判断，而没有尝受到悲观的痛苦，他们的健康也没有因为悲观而付出代价。<br>　　所以一个成功的企业需要有追梦的乐观者，也需要悲观者，一些小心谨慎的现实主义者。我要强调的是每家公司的 CEO 都应该是一个有弹性的明智者，他们可以在乐观的远见及小心谨慎的现实精神之间取得平衡。</p>
+<h3 id="收支平衡：乐观-VS-悲观"><a href="#收支平衡：乐观-VS-悲观" class="headerlink" title="收支平衡：乐观 VS 悲观"></a>收支平衡：乐观 VS 悲观</h3><p>　　成功的生活就像成功的企业一样，需要乐观和偶尔的悲观。<br>　　我刚刚在替悲观打抱不平，现在让我来回顾一下对悲观不利的证据，这样我们可以比较一下它的收益和代价。</p>
+<ul>
+<li>  悲观引起抑郁。</li>
+<li>  在遭遇打击时，悲观会产生惰性和不作为。</li>
+<li>  悲观引起主观的不良感觉——情绪低落、忧虑、焦虑。</li>
+<li>  悲观是自我实现的。悲观者在面对挑战时会退缩，所以即使成功在望，也会变成失败。</li>
+<li>  悲观与不良的健康状况有关。</li>
+<li>  悲观者在竞争中容易败北。</li>
+<li>  即使悲观者是对的，事情的确不好，但他们的悲观解释会把小不幸变成大灾难。</li>
+</ul>
+<p>　　由此可见，这张收支平衡表应该偏重于乐观，不过偶尔在某时、某地，我们也会需要悲观。第 12 章对什么人、什么情况下不应该太乐观进行了说明。<br>　　所有人，包括极端乐观和极端悲观的人，都经历过抑郁和欢快。我们的情绪在每天的不同时段有所不同，对女性来说，每个月也有某个时段比较容易抑郁。通常我们是刚起床时比较抑郁，日头越往西移，抑郁程度越减轻，不过这还受到基本休息与活动周期（Basic Rest and Activity Cycle，简称 BRAC）的影响。在BRAC达到高潮时，我们比较乐观，在低潮时，我们会倾向悲观和抑郁。<br>　　在这些悲观时段里，我们可以看出悲观在我们生命中也有重要的作用。轻度的悲观使我们在做事之前三思，不会做出愚蠢的决定；乐观使我们的生活有梦想，有计划，有未来。现实被善意地扭曲了，以使想象力有空间得以发挥。假如没有这些梦想，我们永远不敢去尝试新事物，也不会知道我们的潜力有多大。<br>　　进化很厉害的地方就在于它利用乐观和悲观之间的动态平衡来互相牵制、互相校正。<strong>我们可以学习在大部分时间里选择乐观，但是在必要时也可以利用悲观。</strong></p>
+<h3 id="塞利格曼的乐观箴言-5"><a href="#塞利格曼的乐观箴言-5" class="headerlink" title="塞利格曼的乐观箴言"></a>塞利格曼的乐观箴言</h3><p>　　★ 传统的成功观点并不完善。要成功，除了具备能力和动机之外，还需要坚持，遇到挫折也绝不放弃的坚持，而乐观的解释风格则是坚持的灵魂。<br>　　★ 成功的生活需要大部分时间的乐观和偶尔的悲观。轻度的悲观使我们在做事之前三思，不会做出愚蠢的决定；乐观使我们的生活有梦想、有计划、有未来。</p>
+<h2 id="第-7-章-孩子为什么会悲观"><a href="#第-7-章-孩子为什么会悲观" class="headerlink" title="第 7 章　孩子为什么会悲观"></a>第 7 章　孩子为什么会悲观</h2><h3 id="身边的悲喜故事-2"><a href="#身边的悲喜故事-2" class="headerlink" title="身边的悲喜故事"></a>身边的悲喜故事</h3><p>　　解释风格对成人的生活影响非常大，它可以引发抑郁，也可以使人在悲剧发生后立刻振作起来；它可以让人对生活失去兴趣，也可以使人充分享受人生；它可以阻止一个人实现他的目标，也可以使人超越他的目标。我们下面会看到，解释风格如何影响别人对你的看法，如何把别人变成同盟或敌人，它甚至还会影响身体健康。</p>
+<h3 id="你的孩子乐观吗"><a href="#你的孩子乐观吗" class="headerlink" title="你的孩子乐观吗"></a>你的孩子乐观吗</h3><p>　　<strong>解释风格是在童年期形成的，那个时候所发展出来的悲观或乐观态度是基础性的，</strong>新的挫折或胜利经过它的过滤，最后变成一个牢固的思维习惯。在这一章里，我们要问这些解释风格的根源是什么，对孩子来说，这种风格的后果是什么，如何才能改变它。<br>　　如果你的孩子已经超过 7 岁，他可能已经发展出一种解释风格了，而这种风格正在定型中。你可以用“儿童归因风格问卷”给他做测试，这份问卷有成千上万的孩子做过。它和第 3 章你做过的那份测验非常相似，8～13 岁的孩子大约 25 分钟就能做完。如果你的孩子超过 13 岁了，你可以让他做第 3 章的测验。对于 8 岁以下的孩子，其实没有什么纸笔测验，但还是有一些方法可以测量他们的解释风格的，我会在这一章的后面谈到。<br>　　孩子进行这个测验之前，请花 20 分钟跟他说下面的这些话。<br>　　“每个小孩遇到事情都会有他自己的想法，我读过一本书，上面谈到这个问题。我在想，遇到这些事情时，你会怎么想。你来看，这些问题真的很有趣，它问你对某个情况会有什么样的想法。每一个问题都像个小故事，而每个故事有两种反应方式，你应该选一个最符合你的反应的选项。”<br>　　“这有一支笔，你试着回答看看。想象这个故事就发生在你身上，即使没有发生过也没关系，然后，选 A 或选 B，选那个最能代表你的感觉的选项。这个测验没有标准答案。你要不要试试看？现在让我们来看一下第 1 题。”<br>　　一旦开始，他可以自己做下去，不需要你帮忙，但对年幼的孩子，可能需要你把每道题读给他。</p>
+<p>　　儿童归因风格问卷（节录部分以供搜索）<br>　　1. 你考试拿了个 A。 PvG<br>　　A 我很聪明。 1<br>　　B 我擅长这一科。 0<br>　　…<br>　　48. 你想加入一个俱乐部，可没成功。 PvB<br>　　A 我跟别人合不来。 1<br>　　B 我跟那个俱乐部的人合不来。 0</p>
+<p>　　计分表（2019/10/23）<br>　　PmB 1　　　　PmG 5<br>　　PvB 2　　　　PvG 5<br>　　　　　HoB 3<br>　　PsB 5　　　　PsG 4<br>　　B类总分 7　　G类总分 14<br>　　　　　G-B 7</p>
+<p>　　现在你可以计分了。你可以跟孩子一起计分，如果你告诉孩子他的分数，请同时解释这个分数的意义。<br>　　下面是分数的意义以及其他上万个作过这个测验的孩子们的结果。<br>　　第一，男孩和女孩的分数是不同的。女孩在青春期以前显著地比男孩乐观。9～12 岁女孩的平均分数（G-B）是 7.0；9～12 岁男孩的平均分数是 5.0。如果你女儿的平均分数为 4.5，那么她有一点悲观，如果她的分数低于 2，则她是非常悲观的，有得抑郁症的危险。如果你儿子的分数低于 2.5，那他是有些悲观的，如果他的分数低于 1，那他非常悲观，有得抑郁症的危险。<br>　　至于 B 的总分，9～12 岁的女孩的平均分是 7.0；男孩的平均分是 8.5。总分如果比平均分高出 3 分以上，则这个孩子是非常悲观的。<br>　　9～12 岁女孩 G 总分的平均分和男孩一样，都是 13.5，如果你孩子的分数比平均分低 3 分以上，则意味着非常悲观。在好事件维度上（PmG，PsG，PvG），每一项的平均分大约是 4.5，总分为 3 或 3 以下则表示非常悲观。在不好事件的维度上（PmB，PvB，PsB），女孩的平均分为 2.5，男孩为 2.8，如果分数为 4 或 4 以上则表示有抑郁的倾向。</p>
+<h3 id="孩子不会绝望"><a href="#孩子不会绝望" class="headerlink" title="孩子不会绝望"></a>孩子不会绝望</h3><p>　　一般来说，青春期以前的孩子非常乐观，有无限的希望，对抑郁也是免疫的，但过了青春期之后，他们的乐观开始流失。<br>　　小孩的解释风格常常是一面倒，比大人厉害多了。他们会认为好事件会一直好，而且这个好都是自己的功劳，这个好运会让各个方面都变好。不好的事是碰巧发生的，很快就会过去，而且都是别人的错。孩子的乐观分数很像大都会保险公司最成功的业务员的分数；有点抑郁的孩子的分数与不抑郁的成人的分数差不多。似乎没有一个成人能像孩子一样乐观，这更显出了儿童抑郁症是多么可悲。<br>　　孩子也会抑郁，而且他们抑郁的次数和严重程度跟成人一样，但是有一点跟青少年或成人的抑郁症很不相同：他们不会绝望，而且他们不会自杀。美国每年大约有 20000～50000 人自杀，这些自杀几乎都是抑郁症的结果。抑郁症的一个重要成分——绝望是预测自杀的最准确的指标。自杀的人都认为目前这种悲惨的情形会延续到永远，死是唯一的解脱。儿童期的自杀真是一个悲剧，而且这个数字有逐渐升高的趋势，不过一年200起还不足以证明已经达到了流行病的程度。目前还没有7岁以下的孩子自杀的记录。<br>　　我想这是进化上的需要。孩子是未来的希望，大自然最关注的是孩子是否能长到青春期，从而具有生育能力。大自然不但在身体方面保护他们——青春期之前的儿童有着最低的死亡率，同时也保护着他们的心理，给予他们无限的、不合常理的希望。<br>　　虽然有这么多的保护，但有些孩子还是天生比较悲观和抑郁。儿童归因风格问卷可以提供很好的预测，告诉你谁比较容易受到伤害。乐观的孩子，即男孩分数在 5.5 以上，女孩分数在 7.5 以上的儿童，比较可能成长为乐观的青少年和成人。他们会有比较高的成就，而且会更健康。<br>　　孩子 8 岁时，解释风格就基本定型了。你的孩子在小学三年级时对这个世界就已经有了一种乐观或悲观的看法，而你又知道这种看法对他的前途、健康和成功是非常重要的，你肯定想知道他的看法是怎么来的，有没有方法可以改变它。</p>
+<h3 id="孩子为什么会悲观"><a href="#孩子为什么会悲观" class="headerlink" title="孩子为什么会悲观"></a>孩子为什么会悲观</h3><h4 id="妈妈的影响力"><a href="#妈妈的影响力" class="headerlink" title="妈妈的影响力"></a>妈妈的影响力</h4><p>　　孩子解释风格的来源有三种不同的观点，第一种观点认为它与孩子的母亲有关。<br>　　玛乔莉听到她母亲对一个坏事件的四种非常悲观的解释，她学会了用这种风格来看待世界。<br>　　每一天，玛乔莉都听到她母亲对发生的事情以永久性、普遍性以及人格化的方式进行分析。玛乔莉跟着一个对她最有影响力的人学习对事件的解释风格：坏事是永久的，会伤害到每一件事，而且都是自己的错。<br>　　小孩非常注意父母的言行，尤其是母亲对情绪化事件的解释。小孩会问很多“为什么”。这是因为他们要得到对周边发生的事情，尤其是社会生活的解释。一旦父母变得不耐烦，不再回答孩子永无止尽的为什么时，孩子就从别的地方去寻找答案。绝大多数情况下，他们会仔细聆听大人对某一件事的解释，而在我们平常的说话中，大约每分钟都有一次解释，只是自己不自觉而已。你的孩子对这种解释会一字不落地听进去，特别是对不好的事情的解释。他们不但听，而且还会注意到这些解释是永久性还是暂时性的，是特定的还是普遍的，是你的错还是别人的错。<br>　　我们给 100 个儿童以及他们的父母做了解释风格测验。母亲的乐观程度跟孩子的极为相似，不管是儿子还是女儿。我们很吃惊地发现孩子的解释形态跟父亲的不相似，母亲的跟父亲的也不相似，这表明孩子主要学习了母亲对因果关系的解释风格。<br>　　这个研究引发了一个问题：解释风格是遗传的吗？我们会像继承聪明才智、政治思想、宗教观点一样继承解释风格吗（同卵双生子的研究显示，不在同一个家庭长大的双胞胎，也有着非常相似的政治观点、宗教信仰和智商）？我们发现解释风格不是遗传来的，因为母亲的解释风格与儿子的或女儿的相似，而父亲的跟谁的都不相似，这与一般的遗传模式不太符合。<br>　　为了确定这一点，我们用比较直接的方式来研究这个问题。我们测量从小被收养的儿童，研究他们的乐观程度与其养父母和亲生父母的乐观程度的关系。如果从小被收养的孩子的乐观程度与他们养父母相似，而与他们亲生父母不相似，那么我们的观点就是对的，即乐观是学习来的。如果孩子的乐观程度是与他从未谋面的亲生父母相似的话，那么乐观至少有一部分是遗传来的。</p>
+<h4 id="老师和父母的批评"><a href="#老师和父母的批评" class="headerlink" title="老师和父母的批评"></a>老师和父母的批评</h4><p>　　当你的孩子做错事时，你会对他说什么？他的老师又对他说什么？注意，孩子不只听对他们说什么，还包括怎么说。这点在批评上尤其重要，孩子相信这些人的批评，并用它形成自己的解释风格。<br>　　世界知名的发展心理学家德威克（Carol Dweck）的研究显示了乐观是如何发展的，或许它可以告诉我们女性在童年时发生了什么事，使得她们比男性更容易得抑郁症。让我们来看一下一个小学三年级的教室。<br>　　当你和教室里的小朋友彼此非常熟悉了，你发现的第一件事就是男孩子和女孩子的举止是完全不同的。女孩子安静地坐着，手放在膝盖上，注意听老师讲话。她们的吵闹也只是悄声耳语或窃笑，基本上她们都很守纪律。男孩子就不太一样了，他们就算勉强安静地坐着也忍不住要扭来扭去，更何况他们很少能安静地坐着。他们看起来不注意听讲，也不像女孩那样守纪律。他们大声喊叫，互相追逐。<br>　　全班安静下来，进行测验。老师对考试不及格的同学怎么说？<br>　　如果是男孩考试不及格，老师一般会说“你上课不注意听讲”，“你不努力”，“我在教这些题目时，你东张西望，和其他同学说话”。这些解释是什么性质的呢？它们是暂时的、特定的、非普遍的，因为你可以改变它们。<br>　　德威克的研究显示，女孩听到的是非常不同的批评。因为她们上课时看起来很注意听讲，老师不能以这些理由来批评她们。老师一般的说法会是“你的数学不好”，“你交来的作业总是写得乱七八糟”，“你从来不验算”。大部分暂时性的原因，如不注意听讲、不努力都被剔除掉了，而留下的都是永久性、普遍性的批评。<br>　　德威克给四年级的女生出了一道无解的难题，然后检验她们对失败的解释。<br>　　她们要把 ZOLT，IEOF，MAPE 等重新组合成有意义的英文单词。每个人都非常努力地去试各种组合方式，不过在她们试完各种可能的组合之前，实验者就宣布“时间到”。<br>　　“你为什么没有得出答案呢？”实验者问道。<br>　　女孩们的回答是“我不擅长字谜游戏”，或“我想我不够聪明”。<br>　　但做同样实验的男孩却回答 “我没很专心地去做”，“我没尽全力”，“谁在乎这个烂字谜游戏”。<br>　　在这个实验里，女孩对失败的解释是永久性和普遍性的，而男孩的解释风格则是比较有希望的——暂时的、特定的，可以改变的。在这里我们看到的是，大人对小孩的批评如何影响了孩子的解释风格。</p>
+<h4 id="孩子生命中的危机"><a href="#孩子生命中的危机" class="headerlink" title="孩子生命中的危机"></a>孩子生命中的危机</h4><p>　　1981 年在德国海德堡，我听到著名的社会学家艾尔德（Glen Elder）有关孩子在极端恶劣的环境下成长的研究报告。在美国经济大萧条之前，一些有远见的科学家开始了一个有关儿童成长的研究。这个研究持续了 60 年，被试是美国加州伯克利和奥克兰的儿童，目前他们都已经是七八十岁的老人了。他们接受了详细的测试和面谈，以了解他们心理的优势与不足。这是一个人生发展的研究，它不但包括这些儿童，还包括他们的孩子，现在他们的孙子也参与了这项研究。<br>　　艾尔德谈到了什么样的人安然无事地度过了经济大萧条，什么样的人从此一蹶不振。他谈到一些中产阶级的女孩虽在童年遭受了家庭失去财富的打击，但在中年早期就基本上从心理的创伤中恢复过来了，而且进入老年期时心理和生理都很健康。和中产阶级的女孩一样，较低阶层的女孩在20世纪30年代也很遭遇了贫困，但她们一直没能再站起来。到了中年晚期，她们崩溃了。她们的晚年是凄凉的，生理和心理都不健康。<br>　　艾尔德推测原因如下。<br>　　“我认为那些晚年过得很好的女人从她们童年期的经济大萧条中学到厄运是可以克服的。毕竟大多数她们的家庭在20世纪30年代末和40年代初就恢复了经济地位，这让她们学到了乐观，塑造了她们对不幸事件的暂时的、特定的和外在的解释风格。当她们年事已高，她们的好朋友去世时，她们会想‘我还可以交到新朋友’。这种乐观的看法帮助她们维持健康，并积极面对变老。”<br>　　“相反，绝大多数低阶层女孩的家庭没有从经济大萧条中恢复过来。她们在大萧条之前就比较穷，之后仍然是穷的，她们学会的是悲观。她们的解释风格是绝望的，当她们的朋友去世时，她们想‘我再也交不到朋友了’。这种在童年期学会的悲观，影响了她们对每一个新危机的看法，瓦解了她们的健康、她们的成就以及她们的幸福感。”<br>　　“当然，这只是一个推测，”艾尔德在演讲结束时这么说，“50年前没有人想到解释风格这个词，所以没有去测量它。可惜我们没有时间机器，否则我真想回到20世纪30年代去看看我的推测是否是对的。”<br>　　那天晚上，我不能入睡，一直想着“可惜我们没有时间机器”这句话。清晨五点，我去敲艾尔德的房门。<br>　　“艾尔德，醒醒，我有话要跟你说，我有办法弄到时间机器！”<br>　　我把艾尔德从床上拖起来，去散步。<br>　　“去年我接到一位了不起的年轻社会心理学家彼得森（Chris Peterson）的来信。他写道：‘我在一所小学院里，一年要教八门课，我的创意都被抹杀了。我很有创意，愿意出差。’我把他找到宾州大学，跟我做了两年的研究，他真的很有创意。”<br>　　彼得森最有创意的地方是确定那些不肯接受解释风格测验的人的解释风格，这些人包括体育明星、总统、电影明星等。彼得森每天很仔细地读体育版，每当他在报上看到某位体育明星说了一句有因果关系的话时，他就把它当成这个明星回答了解释风格问卷上的一个题目。例如，一个足球运动员说他因为“风向不利”而没射进球时，彼得森就把它放在永久性、普遍性以及人格化的维度上来评分。分值为1～7，“风向不利”在永久性上得1分，因为这根本不具永久性；在普遍性上得1分，因为风向只会影响你踢球，不会影响你的爱情生活；在人格化上得1分，因为风向并不是球员可以控制的，不是他的错。这句“风向不利”是球员对一个不好的事的非常乐观的解释。<br>　　彼得森由此就能得出这名球员的解释风格了，而不需要通过问卷测试。下一步，我们证明了这样得来的解释风格跟实际回答问卷得来的解释风格非常相似。我们把这种方法叫做逐字解释内容分析法（content analysis of verbatim explanation, 简称 CAVE）。<br>　　“艾尔德，”我继续说：“CAVE 的方法就是时间机器，我们不但可以将它应用到当代不肯做问卷的人身上，我们也可以把它用到以前不能做问卷的人身上。”<br>　　“这就是我为什么要把你叫起来的原因了，你的前辈研究者有没有留下当年在伯克利和奥克兰面谈的原始资料？”<br>　　艾尔德想了一下：“那时录音机还没有被广泛使用，但我记得面谈者好像用速记的方式做了记录，我可以回去找找看。”<br>　　“假如我们还有原始资料，”我说，“我们可以用 CAVE 的方式来给他们评分，看他们的乐观程度。这样，我们就能知道 50 年前每个孩子的解释风格了，我们就能证明你的推测是否正确。”<br>　　艾尔德果然回去查了伯克利的档案，他发现有完整的面谈记录，而且是从小女孩到少女、到母亲、到祖母的完整记录。我们取得资料后，将记录中所有有关因果的谈话摘录出来，让不知道资料来源的评分者根据普遍性、永久性及人格化三个维度进行评分。<br>　　艾尔德的推测大致是正确的。顺利进入老年期的中产阶级妇女大多是乐观者，晚景凄凉的下层妇女大多是悲观者。<br>　　第一次使用这个时间机器让我们有三个收获。<br>　　第一，证明这个时间机器的方法确实是一个强有力的工具。我们可以用这个方法测知那些不愿意做问卷的人的乐观程度，只要我们有他们的谈话记录。CAVE适用的范围非常广，记者招待会、日记、心理治疗时的笔记、前线的来信、遗嘱等，所有的话都可以用来做解释风格的分析。我们也可以用这种方法测出年龄太小，还不能做儿童归因风格问卷的孩子的解释风格。<br>　　第二，这个时间机器带给我们新的证据，以证明我们的解释风格来自我们的母亲。在 1970 年，对当年那批伯克利、奥克兰的女孩（她们已经是祖母了）又进行了一次面谈。这次面谈还包括她们的孩子（现在也做了妈妈）。我们把这次面谈的资料拿来做CAVE，结果发现母亲和女儿的悲观程度具有相似性。这就像上面我们说的一样，孩子聆听母亲解释生活中发生的事件，从而学会了乐观与悲观。<br>　　第三，时间机器提供给我们第一个证据，证明孩提时代所经历的危机会影响我们的乐观性。安然度过经济大萧条的女孩相信厄运是可以克服的，是暂时的。那些被经济大萧条击倒，一蹶不振的女孩则认为厄运是命中注定，逃不掉的。所以我们童年期的危机就像是做饼干的模型，把我们塑造成以后的那个样子，我们用童年的解释风格来解释新的危机。<br>　　除了艾尔德的研究外，还有其他证据支持儿童会从危机中提炼出他们的解释风格。这个证据由英国的布朗（George Brown）教授提出。在我初次见到他时，布朗已经花了 10 年的时间研究伦敦南部最穷困的家庭，与 400 多位家庭主妇面谈，寻找防治抑郁症的方法。在他面谈的家庭主妇中，有 20% 是抑郁的，这里面有一半有心理疾病。他想知道在这么恶劣的环境中，究竟是什么因素影响了是否得抑郁症？<br>　　他得出了三个保护因素。人们只要具备三者之一，就不会得抑郁症，即使物质非常匮乏，损失非常惨重都没有关系。第一个保护因素就是与配偶或情人有非常亲密、无话不谈的关系。第二个因素是外出工作。第三个因素是家中 14 岁以下的孩子少于 3 个（含 3 个）。<br>　　除了这三个保护因素以外，布朗还得出两个导致抑郁症的重要因素：一个是刚刚发生的离别（丈夫的死亡，儿子的移民），另一个是母亲在她们进入青春期之前就去世了，后者对发病的影响远超过前者。<br>　　“假如你的母亲在你很小的时候就去世了，”布朗解释道，“你对以后发生的挫折都是以最绝望的态度去看待”。<br>　　对女孩来说，母亲的死亡的确是永久的和普遍的失落。女孩的成长非常需要妈妈，在青春期以前尤其如此；进入青春期后，她们的同龄人会部分替代父母的地位。如果早期的重大损失会塑造我们对以后损失的看法的话，布朗的发现应该是正确的。这些不幸的孩子就如同大萧条时低阶层的女孩一样，学会了离别是永久的、普遍的。对以后生活中发生的离别，她们的解释会是：他死了，他永远不再回来了，我没办法再生活下去了。</p>
+<h3 id="塞利格曼的乐观箴言-6"><a href="#塞利格曼的乐观箴言-6" class="headerlink" title="塞利格曼的乐观箴言"></a>塞利格曼的乐观箴言</h3><p>　　★ 孩子 8 岁时，乐观或悲观的解释风格就基本定型了。<br>　　★ 孩子的解释风格会受到三种因素的影响。<br>　　1. 孩子每天从父母身上学到各种事件的因果分析，尤其是妈妈的。如果你是乐观的，孩子也会是乐观的。<br>　　2. 孩子听到的批评方式也会影响他的解释风格，如果这些批评是永久的、普遍的、内在的，那么他对自己的看法就会转向悲观。<br>　　3. 孩子早期生活经验中的生离死别和巨大变故。如果这些事件好转了，他会比较乐观；如果这个变故是永久的和普遍的，那么绝望的种子将深埋在孩子的心中。</p>
+<h2 id="第-8-章-乐观的孩子成绩好"><a href="#第-8-章-乐观的孩子成绩好" class="headerlink" title="第 8 章　乐观的孩子成绩好"></a>第 8 章　乐观的孩子成绩好</h2><h3 id="好成绩，坏成绩"><a href="#好成绩，坏成绩" class="headerlink" title="好成绩，坏成绩"></a>好成绩，坏成绩</h3><p>　　孩子的解释风格如何影响他在学校里的表现以及学习成绩？<br>　　让我们先回溯一下基本的理论。当我们失败时，我们都会有一阵子觉得无助或抑郁。我们不会像以前那样主动去做一些事，即使勉强做了，可能也不会持久。如你前面所读到的，解释风格是习得性无助的核心。乐观的人能够很快从这个短暂的无助状态中恢复过来。对他们来说，失败仅是个挑战，是走向胜利的道路上的一些障碍。他们把挫折看成是暂时的、特定的。<br>　　悲观的人沉溺在失败中，因为他们把失败看成是永久的、普遍的。他们变得很抑郁，而且停留在无助中。一点小挫折在他们看来就是大失败，而一处失败就认为会满盘皆输，自己先竖白旗投降了。他们可能要几个星期甚至几个月后才能恢复，而且再有一点挫折，他们又会进入无助的深渊里。<br>　　这个理论很明白地预测说，在教室中、在运动场上，聪明的不一定就是成功的。成功属于足够聪明又乐观的人。<br>　　这个预测正确吗？当你的孩子在学校表现不好时，老师或家长很容易作出错误的判断，认为这个孩子不够聪明，甚至是愚笨的。你的孩子可能变得抑郁，而这种状态会让他不去尽力，不去坚持，使他不敢冒险达到他潜能的上限。更糟的是，如果你认为愚笨或是不够聪明是他成绩不好的原因的话，你的孩子会把你的想法纳入他对自己的看法中去，他的解释会越变越糟，而他的坏成绩慢慢就变成了习惯。</p>
+<h3 id="你的孩子抑郁吗"><a href="#你的孩子抑郁吗" class="headerlink" title="你的孩子抑郁吗"></a>你的孩子抑郁吗</h3><p>　　怎么知道孩子是否抑郁？<br>　　除非带他去看心理医生，否则你没办法知道。但是你如果只是想大略了解一下，只要给你的孩子做下面的测验就可以了。这个测验是在第4章测验的基础上修订的，叫做CES–DC（Center for Epidemiological Studies-Depression Child）。修订者为国家心理健康研究所流行病学研究中心的韦斯曼（Myrna Weissman）、奥瓦雪（Helen Orvaschell）和帕迪恩（N.Padian）。<br>　　下面是简单的指导语，请你读给孩子听。<br>　　“我最近在看一本有关儿童如何感觉的书，我很想知道你最近心里在想什么，有的时候小孩很难找到合适的话来描述他的感觉，所以我想给你看一些表达感觉的方法。下面每个句子有4个选择，你要仔细读这些句子，然后从4个答案中选出最能代表你上个星期心情的选项。这些选择没有对错之分。”<br>　　在过去的一个星期（节录部分以供搜索）<br>　　1. 以前不会担心的事现在开始令我忧心。<br>　　一点都没有____偶尔或很少____有时____很多时候____<br>　　…<br>　　20. 开始去做一件事对我来说很困难。<br>　　一点都没有____偶尔或很少____有时____很多时候____</p>
+<p>　　计分很简单，“一点都没有”是 0 分，“偶尔或很少”是 1 分，“有时”是 2 分，“很多时候”是 3 分。把全部的分数加起来，如果你的孩子选了两项，取分数高的那一项。<br>　　下面是分数的意义：如果孩子的分数为 0～9，那他不抑郁；如果他的分数为 10～15，他有轻微的抑郁；如果他的分数在 15 分以上，那他有相当程度的抑郁；16～24 分代表中度抑郁；而 24 分以上就是严重抑郁了。不过这种测验不能等同于心理医生的诊断，因为纸笔测验最容易犯两个错误，你应该小心。第一是很多小孩会隐藏他们真实的感受，尤其不愿在父母面前透露。第二，有些分数高的孩子的问题可能不是来自抑郁。<br>　　如果你的孩子的分数在 10 分以上，而他在学校的成绩很不好的话，那么他功课不好的原因很可能是因为心情不好，而不是因为功课不好引起心情不佳。我们研究四年纪的小学生发现，抑郁分数越高的儿童，他们在做字谜题和智力测验上的表现就越差，学习成绩也越差。<br>　　所以，假如你的孩子连续两个星期的分数都在 15 分以上的话，你应该带他去看医生。假如你孩子的分数在 9 分以上，而且他说他想自杀，你也应该带他去看医生，“认知-行为”派的治疗师应该对他很有帮助。</p>
+<h3 id="为什么会成绩差"><a href="#为什么会成绩差" class="headerlink" title="为什么会成绩差"></a>为什么会成绩差</h3><h4 id="解释风格"><a href="#解释风格" class="headerlink" title="解释风格"></a>解释风格</h4><p>　　悲观的解释风格对儿童非常不利。如果你的孩子在三年级时，儿童归因风格问卷的分数就显示他是悲观的，那他以后得抑郁症的几率就很大。我们将儿童区分为抑郁随着时间变轻和变重的两组，解释风格又将这两组儿童分为下列四种倾向。</p>
+<ul>
+<li>  如果你三年级时有悲观的解释风格，那么即使你当时不抑郁，你也会随着时间的流逝而变得抑郁。</li>
+<li>  如果你三年级时有悲观的解释风格，同时又抑郁，那么你会一直抑郁下去。</li>
+<li>  如果你三年级时有乐观的解释风格，但你抑郁，你的抑郁会逐渐减轻。</li>
+<li>  如果你三年级时是乐观的，你也不抑郁，那你一直都不会抑郁。</li>
+</ul>
+<p>　　在三年级时抑郁会使你在四年级时更悲观，而在三年级时悲观会使你在四年级时更抑郁——这两个因素形成了恶性循环。<br>　　辛蒂就被卷入这种恶性循环中。在辛蒂上三年级的那个冬天，她父母分居了，她父亲搬了出去。在这件事之前，她的解释风格就比平均水平更悲观一点，她现在变得无精打采，成天以泪洗面。她的功课一落千丈，她开始像抑郁症的孩子一样退缩，不再和朋友来往。然后她开始认为自己是没人爱的，很笨，这种想法使她的解释风格变得更悲观。<br>　　做父母很重要的一点是要能意识到你的孩子正陷入这种恶性循环中，并且教孩子打破这种循环。第 13 章会教你如何破解它。</p>
+<h4 id="不幸的遭遇"><a href="#不幸的遭遇" class="headerlink" title="不幸的遭遇"></a>不幸的遭遇</h4><p>　　降临到孩子身上的不幸越多，他就越抑郁。乐观的孩子比悲观的孩子更能去抵挡不幸的遭遇，人缘好的孩子的抵挡能力比人际关系不好的孩子强，不过这并不能保证这些孩子不受这些不幸遭遇的影响，而变得抑郁。<br>　　下面是一些我们要事先提防的不幸事件，如果这些事件发生了，你要尽可能给孩子一些帮助与支持。当然，你也可以练习第 13 章教你的方法。</p>
+<ul>
+<li>  哥哥或姐姐出远门去读大学或就业。</li>
+<li>  宠物死亡。你可能认为这是小事一桩，但它对孩子的打击非常大。</li>
+<li>  跟孩子很亲密的祖父母去世。</li>
+<li>  父母吵架。</li>
+<li>  父母离婚或分居。这个杀伤力最大。</li>
+</ul>
+<h3 id="给孩子一个和谐的家"><a href="#给孩子一个和谐的家" class="headerlink" title="给孩子一个和谐的家"></a>给孩子一个和谐的家</h3><p>　　离婚和父母失和是最容易引起儿童抑郁的事件，而且又是最常见的事件。<br>　　当我们开始这项研究时，大约有 60 个孩子（约 15%）告诉我们，他们的父母离婚或分居了。我们在过去的三年里，仔细观察了这些孩子，将他们与其他孩子对比。我们的发现展示了这一社会现象背后的涵意，也能让你知道万一你离婚了，你该如何去安抚你的孩子。<br>　　第一，也是最重要的，你的孩子会很受伤。我们一年测验孩子两次，发现这些孩子远比幸福家庭里的孩子更抑郁。我们原先预期这个差距会随着时间流逝而缩短，结果却并非如此。三年后，这些离婚家庭的孩子还是比其他孩子抑郁得多。这些离婚家庭的孩子比较哀伤，在课堂上比较不守纪律，他们比较没有热情，自我评价很低，身体常会闹些小毛病，他们也比较忧虑。<br>　　很重要的一点是，不是所有离婚家庭的小孩都会变得抑郁，总的说来，离婚并不会使孩子一辈子都抑郁，离婚只是使孩子更容易变得抑郁。<br>　　第二，许多不幸的遭遇不断发生在离婚家庭的孩子身上。这些不断发生的不幸可能是离婚家庭的孩子患上抑郁症的原因。这些事件可以分成三类，第一类是离婚所引起的，或是说因为离婚带来的抑郁所引起的。下面这些事多半发生在离婚家庭的孩子身上。</p>
+<ul>
+<li>  他们的妈妈开始去外面上班。</li>
+<li>  他们的同学变得不友善。</li>
+<li>  父母亲再婚。</li>
+<li>  父母亲加入新的教会。</li>
+<li>  父母亲住院。</li>
+<li>  孩子考试不及格。</li>
+</ul>
+<p>　　离婚家庭的孩子也可能会经历更多的引发父母离婚的事件。</p>
+<ul>
+<li>  父母时常吵架。</li>
+<li>  父母时常出差。</li>
+<li>  父亲或母亲失业。</li>
+</ul>
+<p>　　到这里为止，还没什么了不起的发现，但令我们很惊讶的是离婚家庭的孩子所遭遇的最后一类不幸事件。我们还不知道原因，但我想你应该知道下面这些事实。</p>
+<ul>
+<li>  离婚家庭的孩子的兄弟姐妹住院的比例是一般家庭孩子的 3.5 倍。</li>
+<li>  离婚家庭的孩子他们自己住院的几率也是别的孩子的 3.5 倍。</li>
+<li>  这些孩子的朋友的死亡率是别的孩子朋友的 2 倍。</li>
+<li>  这些孩子祖父母的死亡率也是别的孩子的 2 倍。</li>
+</ul>
+<p>　　上面这些有的是离婚的原因，有的是离婚的后果。离婚家庭似乎比别的家庭有更多的不幸事件，很多时候，这些事件跟离婚没有关系，但恰巧就发生在他们家。我们实在不能想象孩子好朋友的死亡或是祖父母的死亡会是离婚的后果，或因为它们导致了孩子父母离婚，但统计数字摆在那里，这是不可否认的。<br>　　这些加起来便构成了一幅很阴暗的画面。曾经有人说，两个不快乐的父母离婚比让孩子跟两个相互仇恨的父母住在一起更好，但是我们的研究显示并非如此。这些离婚家庭的孩子的世界是阴暗凄凉的。他们有着无法摆脱的抑郁，学习半途而废的比例比别人高很多，而且很多看起来毫不相干的不幸事件都会落到他们头上。假如你正想离婚的话，我必须提醒你这些阴冷的数据，我有责任告诉你这些事实。<br>　　这个问题的根源可能不在离婚这件事，而在于父母的吵架。在我们这项研究中，有 75 名父母并没有离婚，但吵架吵得很厉害。这些家庭的孩子看起来跟离婚家庭的孩子一样糟，他们也很抑郁，而且他们的抑郁持续到父母停止吵架后很久，同时也承受比别的孩子更多的不幸事件。<br>　　父母吵架可能通过两种方式引起孩子长久性的伤害。一个是父母长久相互不满，吵架，然后分居。这些吵架和分居直接骚扰着孩子，引起长期的抑郁。第二种可能性是吵架的父母是一对非常不快乐的夫妻，吵架和分居虽然没有直接影响到孩子，但孩子可以感受到父母非常不快乐，而这种感受严重影响了孩子，并引起他长期的抑郁。我们的资料无法显示哪一个理论是对的。<br>　　这对你有什么意义呢？<br>　　很多人的婚姻并不美满，他们在结婚几年后就不再相爱，但是他们顾虑到孩子的幸福，勉强维持着婚姻。如果父母吵架和分居是孩子抑郁的原因，而你把孩子的利益而不是你自己的满足放在第一位的话，我会给你非常不同的建议：你是否愿意放弃分居？或是更艰难的挑战——你是否愿意克制自己，不去吵架？<br>　　我还不至于天真到劝你永远不要吵架。吵架有时也是有用的，但很多婚姻中的吵架没有任何收获。我无法告诉你如何吵有收获的架，我所知道的是如何通过吵架来解决问题。如果孩子看到大人吵架后达成了协议，有了清楚的结果，孩子便不会那么震惊不安。这表示当你吵架时，你应该尽力解决引起吵架的原因，在孩子面前让他看到这个吵架得到了清楚的结果。<br>　　此外，在你吵架之前，你要明白吵架可能会伤害到你的孩子，我认为这很重要。你可能觉得吵架是你的权利，很多人认为有话说出来才是健康之道。不知道持这种看法的人对“打不还手”会如何解释？当然未发泄的愤怒会引起血压的暂时升高，长此以往，会引起心理生理上的问题。但大发脾气常会引起夫妻关系变质，到最后，夫妻天天反目，鸡犬不宁。<br>　　吵架不仅会影响你和你的配偶，对孩子也是有百害而无一利，所以如果你把孩子放在第一位的话，在吵架之前，一定要三思再决定吵不吵。<br>　　我们的研究显示：父母吵架或分居会显著增加孩子的抑郁，因此又引起孩子在学校里的问题增加，而他的解释风格也会变得更悲观。学校里的问题加上新出现的悲观使他沉溺于抑郁，恶性循环就此开始。<br>　　父母吵架次数增加或决定分居的时候，正是孩子需要特别关心与帮助的时候。此时，他们特别需要父母和老师的关心，这些关爱可以平衡掉父母吵架的伤害。你也可以考虑找专家来做辅导，婚姻辅导可以帮助夫妻少吵一点，或是彼此伤害得少一点。对孩子的辅导可能会防止他终生的抑郁。</p>
+<h3 id="男孩-VS-女孩"><a href="#男孩-VS-女孩" class="headerlink" title="男孩 VS 女孩"></a>男孩 VS 女孩</h3><p>　　离婚的长期伤害作用并不是唯一使我们感到惊讶的资料。我们一直对性别差异感兴趣，我们一直以为某个性别会更抑郁、更悲观。但当我们看到资料后，我们发现事实正好相反。<br>　　<strong>你</strong>在第 4 章和第 5 章曾读到过女性得抑郁症的比例比男性高很多。我们以为这一定始于儿童期，所以我们预期女孩比男孩更容易抑郁，解释风格更倾向悲观。<br>　　但结果并不是这样，在我们研究的每一个点上，男生都比女生抑郁。一般来说，男生比女生有更多的抑郁症症状。在三年级和四年级的小学生中，35%的男孩曾经得过一次抑郁症，而女孩只有 21%。这个差别主要体现在两个症状上：男孩有比较多的行为障碍，比较多的“快感缺失”（anhedonia）。在哀伤、低自尊和身体症状上，男孩和女孩是一样的。<br>　　在解释风格方面我们很惊奇地发现，女孩比男孩更乐观。女孩对好事件比男孩乐观，对坏事件则比男孩少一点悲观。所以我们的长期研究得到了一个意外的结果：男孩比女孩悲观，并更容易抑郁。这表示不管是什么原因使女性患抑郁症的比例是男性的两倍，它的根源肯定不在儿童期。<br>　　在青春期前后，一定有什么特殊的事情发生，使女性变得更容易抑郁。我们现在只能猜测原因，当这些被试进入青春期，也就是这个研究做完时，我们也许可以知道在青春期发生了什么事，使得抑郁症这个重担从男性转到了女性身上。</p>
+<h3 id="谁是合格的大学生"><a href="#谁是合格的大学生" class="headerlink" title="谁是合格的大学生"></a>谁是合格的大学生</h3><p>　　我们看到了我们想要看的，就跟我们在保险公司业务员和小学四年级学生身上看到的一模一样，入学时测验分数显示为乐观的学生，他们超越了预估的成就；而进来时显示为悲观的学生，则表现得比应有的水平更差。</p>
+<h3 id="只有聪明是不够的"><a href="#只有聪明是不够的" class="headerlink" title="只有聪明是不够的"></a>只有聪明是不够的</h3><p>　　过去 100 年来，能力和才能一直被认为是学业成功的关键。我觉得传统太看重才能了，这些所谓的才能并没有一个准确的测量方法，它也不是预测未来成功与否的好指标，这种传统观点根本就是错的。传统观点完全忽略了一个重要的因素，即解释风格。可以说，成也解释风格，败也解释风格。<br>　　哪一个在先？乐观还是成绩优秀？常识告诉我们有才能的人因为他有才能所以才乐观。但我们的研究清楚地反映出相反的因果关系。我们一再发现乐观者有超出其潜能的表现，而悲观者的表现则在其潜能之下。<br>　　我认为所谓的潜能，若没有乐观的界定，它是没有什么意义的。</p>
+<h3 id="塞利格曼的乐观箴言-7"><a href="#塞利格曼的乐观箴言-7" class="headerlink" title="塞利格曼的乐观箴言"></a>塞利格曼的乐观箴言</h3><p>　　★ 悲观的解释风格和不幸的遭遇是诱发儿童抑郁症的重要因素。<br>　　★ 父母离异或经常争吵是最容易引发儿童抑郁症的事件，而许多不幸的遭遇会连续发生在离婚家庭孩子的身上。<br>　　★ 失去乐观，传统意义的聪明才智对成功没有什么意义。</p>
+<h2 id="第-9-章-乐观造就赛场冠军"><a href="#第-9-章-乐观造就赛场冠军" class="headerlink" title="第 9 章　乐观造就赛场冠军"></a>第 9 章　乐观造就赛场冠军</h2><h3 id="伯克利的游泳队"><a href="#伯克利的游泳队" class="headerlink" title="伯克利的游泳队"></a>伯克利的游泳队</h3><p>　　解释风格是否可以预测人们对失败的反应？<br>　　要验证这一点，我们在控制的情境下模拟了失败。在这一赛季结束时，我们让每位选手用他们最擅长的泳姿游了一次。桑顿夫妇告诉他们，他们所用的时间比他们的纪录慢了 1.5 秒或 0.5 秒（依距离而定）。我们知道这个 0.5～1.5 秒对运动员来说是很大的打击，他们会很失望。然后每位选手必须再游一次，再计时。如我们所预期，悲观者第二次游得比较慢。有两名游泳健将，他们都是悲观者，在游第二次时，100 米竟然慢了 2 秒，这 2 秒在比赛时足以使他们成为最后一名。乐观者要不就是如常，要不就像比昂迪一样，游得更快。<br>　　实验证实了解释风格也可以预测个人的成败，就与团队的研究结果一样。现在我们知道了这个解释风格对个人和团体都有预测功能，乐观的运动员在压力下表现得更好，使他们更努力地去尝试，使他们立刻从失败中站起来。</p>
+<h3 id="教练必须知道的事"><a href="#教练必须知道的事" class="headerlink" title="教练必须知道的事"></a>教练必须知道的事</h3><p>　　假如你是一位教练或是一位很有前途的运动员，你应该注意下面这几件事。</p>
+<ul>
+<li>  乐观并非你可以凭直觉就知道的事。归因风格测验可以测出一些你自己不知道的东西，它的预测能力超过了有经验的教练的判断。</li>
+<li>  乐观告诉你什么时候去用什么样的队员。如果是一个接力赛，你有一个跑得很快的运动员，但他是一个悲观者，而且刚输掉了他的个人项目，在这种情况下，换掉他。只有在他刚刚获胜的情况下，才应启用悲观者。</li>
+<li>  乐观告诉你如何筛选运动员，如果两个运动员体能很相近，挑那个乐观的。因为长远来看，他会表现得更好。</li>
+<li>  你可以将悲观者训练变成乐观者。</li>
+</ul>
+<h3 id="塞利格曼的乐观箴言-8"><a href="#塞利格曼的乐观箴言-8" class="headerlink" title="塞利格曼的乐观箴言"></a>塞利格曼的乐观箴言</h3><p>　　★ 乐观可以预测赛场上的赢，悲观可以预测赛场上的输。这对于团队或个人都是适用的。解释风格在团队或个人面临压力时发挥作用，如，在输掉一场球后，或在最后几局时。<br>　　★ 乐观并非你可以凭直觉就知道的事。归因风格测验可以测出一些连你自己都不知道的东西。</p>
+<h2 id="第-10-章-乐观的身体不生病"><a href="#第-10-章-乐观的身体不生病" class="headerlink" title="第 10 章　乐观的身体不生病"></a>第 10 章　乐观的身体不生病</h2><h3 id="我们都需要控制权"><a href="#我们都需要控制权" class="headerlink" title="我们都需要控制权"></a>我们都需要控制权</h3><p>　　他们根据楼层将老人分组。一楼的老人对自己的生活有一些额外的控制权，有一些额外的选择。管理员对这些老人说：“我现在告诉你们，你们自己可以决定些什么。早饭你们可以选择荷包蛋和炒蛋，不过要在前一天晚上选好。星期三或星期四晚上会放映电影，不过也是要事先登记。这里有一些盆景，选你们自己喜欢的，带回去放在你们的房间里，不过要自己浇水。”<br>　　管理员对二楼的老人说：“我要告诉你们，在这里你们有哪些福利。你们的早饭有荷包蛋或炒蛋，每周一、三、五早上是荷包蛋，二、四、六是炒蛋。星期三和星期四晚上放电影，住左边房间的人星期三看电影，住右边房间的人星期四看。这里有一些盆景，护士会替你们送到房间里，并摆放好，护士会照看这些盆景。”<br>　　这样，一楼和二楼的老人得到的福利一模一样，只是一楼的老人自己有一些控制权，而二楼的老人没有。<br>　　18 个月以后，兰格和罗丁再次回到养老院。他们发现有部分控制权的老人比较有幸福感、比较活泼。这组老人逝世的人数也比较少。这个惊人的事实表明，自主权和控制权可以延年益寿，无助或许会致命。<br>　　维辛坦娜想在实验室中研究这个现象，因为在实验室里她可以精密地控制所有变量，这样她才能知道为什么自主和无助会影响健康。她用三组老鼠做被试：第一组给予轻微电击，但它们可以逃走；第二组给予同样的电击，但逃不掉；第三组则没有任何电击。在开始电击的前一天，她先移植了一些癌细胞到老鼠的肚子里，这种癌如果没被身体的免疫系统消灭掉，最终会是致命的。维辛坦娜移植的癌细胞量正好，在正常的情况下，有 50％ 的老鼠会患上癌症，50％ 的老鼠的免疫系统会杀死这些细胞而不会患上癌症。<br>　　这是一个设计得很完美的实验，每一个变量都得到了控制：电击的强度和次数、食物、居住环境及癌细胞的数量，唯一不同的是三组老鼠的心理状态。第二组有习得性无助感，第一组有控制感，而第三组心理状态无改变。如果这三组在抗癌能力上有差别的话，那差别应该源于心理状态的不同。<br>　　一个月后，第三组没有接受任何电击的老鼠死了一半。这是我们所预期的正常现象，这表示移植的癌细胞的程序和数量是正确的。有控制感的一组老鼠，70％ 都成功战胜了癌症；而无助组的老鼠只有 27％ 战胜了癌症。<br>　　维辛坦娜的另一项发现是有关老鼠断奶期的经历，小时候有自主控制经验的老鼠，长大后比较能抵抗癌细胞。她给予小老鼠可逃避的电击、不可逃避的电击以及无电击，等小老鼠长大后，再将癌细胞移植到它们身上。大多数小时候有习得性无助经验的老鼠，长大后不能抵抗肿瘤的生长；而大多数小时候可以逃避电击的老鼠，长大后则战胜了癌细胞。所以儿童期的经验与长大后对癌症的抵抗力有很重要的关系。</p>
+<h3 id="心身的纠结"><a href="#心身的纠结" class="headerlink" title="心身的纠结"></a>心身的纠结</h3><p>　　心理活动怎么可能影响肉体的疾病呢？这是我所知道的最难解的哲学问题。<br>　　在宇宙中只存在着两种实体：物质实体和心理实体。这是 17 世纪理性主义大师笛卡尔（René Descartes）的观点。那么这两者是如何相互作用的呢？笛卡尔是二元论者，他认为心理可以影响身体。后来出现了另一种持反对观点的思想学派，这一学派的影响力一直持续至今。这就是唯物论，唯物论者坚决反对那些思想和情绪可以影响身体的说法。<br>　　过去的 20 年里我一直被三个有关健康和希望的问题困扰着。每一个问题都可以说是身心问题的现代化身。<br>　　第一个问题是有关“原因”（cause）的。希望真的可以维持生命吗？绝望和无助真的会致命吗？<br>　　第二个问题是有关“机制”（mechanism）的。在这个物质的世界里，希望和无助是怎么运作的？什么样的机制使心理对身体产生了影响？<br>　　第三个问题是有关“治疗”（therapy）的。改变你的想法可以增进健康，使你延年益寿吗？</p>
+<h3 id="为什么乐观者更健康"><a href="#为什么乐观者更健康" class="headerlink" title="为什么乐观者更健康"></a>为什么乐观者更健康</h3><p>　　最近几年，世界上各个实验室都陆续发表研究报告，宣称心理特质，尤其是乐观可以增进健康。这些证据使我们以前听到的许多老生常谈显得更有道理，例如笑口常开、心情开朗或生存意志可以增进健康等。<br>　　习得性无助理论从四个层面来强调乐观对健康有益。<br>　　第一是来自维辛坦娜的研究报告：有习得性无助感的老鼠比较容易患癌症。这个发现很快被更多更详细的免疫系统研究所证实。免疫系统中有一种名为 T 细胞的细胞，它可以辨识入侵者，例如麻疹病毒，然后快速地繁殖自己，进而将这些入侵者消灭掉。另一种天然杀手细胞（NK 细胞）可以扑杀它们遇见的任何入侵异物。<br>　　研究者在无助老鼠身上发现，它们的免疫系统功能减弱了。无助老鼠血液里的T细胞不再快速地繁殖，脾脏内的 NK 细胞也失去了它们杀死入侵者的能力。这些研究显示，习得性无助不只是影响了行为，它深入细胞的层次，使免疫系统变得被动。<br>　　这对解释风格来说又有什么特殊意义呢？解释风格是习得性无助的核心。如前所述，乐观者可以抗拒无助，当他们失败时，他们不容易变得抑郁，也不会轻易放弃。而无助经验越少，免疫系统越强健。所以乐观影响健康的第一个方式就是防止无助的发生，进而使免疫系统强健有力。<br>　　乐观增进健康的第二个方式是使你维持良好的健康习惯，有病及时寻医问药。悲观的人认为生病是永久的、普遍的和人格化的。他会认为，“我怎么做都没用”，“那又何必多此一举？”在一个对 100 名哈佛毕业生、为期 35 年的长期追踪研究中发现，悲观者比乐观者更不容易改掉抽烟的习惯，更容易生病。乐观者习惯于掌握自己的命运，会采取行动来防治疾病。<br>　　乐观促进健康的第三个方式是减少坏事件发生的次数。统计显示一个人在某一段期间内遇到的坏事越多，越容易生病。在 6 个月内经历搬迁、被解雇和离婚的人的患病的几率最高，甚至得心脏病和癌症的比例也比一般人高。所以即使你自己觉得很好，没事，你还是应该在换工作、退休、离婚或亲人死亡时，特别注意你的身体。丧偶的人在头 6 个月的死亡率比平常高出好几倍，所以如果你的母亲去世了，你一定要让你的父亲去做一个彻底的体检。<br>　　<strong>你</strong>可能会想，谁会碰到较多的不幸事件呢？答案是悲观的人。因为他们比较被动，较少主动采取行动来避免不好的事，而且在事情发生之后也较少采取行动来终止这些事。所以悲观的人发生不幸事件的几率就比一般人高，而如果不幸事件容易导致疾病的话，悲观的人就较容易生病了。<br>　　乐观可以促进健康的最后一个原因在于社会支持。拥有一份深厚的友谊和爱情似乎对身体健康很重要。一个中年人如果有一个好朋友，可以在有问题时，半夜打电话去谈心，那么他的健康状况会比没有朋友的人好很多。同时，没结婚的人患抑郁症的比率要比结了婚的人高。即使只是一般的朋友，他们也会对抵抗疾病有所助益。<br>　　悲观者也有同样的问题。遇到挫折时他们比较被动，他们很少去寻求社会支持。社会支持与疾病之间的联系提供了乐观解释风格可以增进健康的第四个理由。</p>
+<h3 id="悲观·不健康·癌症"><a href="#悲观·不健康·癌症" class="headerlink" title="悲观·不健康·癌症"></a>悲观·不健康·癌症</h3><p>　　彼得森追踪了学生一年的健康状况，发现悲观的学生比乐观的学生得传染病的几率高两倍，而且去看医生的次数也多两倍。<br>　　有一项英国的研究追踪了 69 名乳腺癌患者五年，没有复发的妇女多半是有战胜疾病意志的人，而那些死亡或复发的妇女多半是无助地接受医生的诊断，默默忍受的人。<br>　　那些活得较久的人的确是受益于乐观的解释风格和对生命的享受。
+　</p>
+<h3 id="免疫系统"><a href="#免疫系统" class="headerlink" title="免疫系统"></a>免疫系统</h3><p>　　唯物论者把免疫系统从它所驻扎的那个人的心理中分离出来。他们认为乐观、希望这种心理变量会像灵魂一样挥发掉，所以他们不相信乐观、抑郁对免疫系统的影响。他们忘记了免疫系统是与大脑相连的，而心理状态又跟大脑的状态相关，大脑的状态直接反映一个人的心理，大脑的状态又会影响身体状况，所以情绪和思想会影响身体这种观点其实一点也不玄妙。<br>　　大脑和免疫系统不是靠神经连接的，而是靠荷尔蒙，荷尔蒙通过血液流遍全身，它可以将情绪状态从身体的一部分传到另一部分。现在已有很多证据指出当一个人抑郁时，他的大脑也会随之改变。在神经之间传递信息的荷尔蒙，在抑郁时会变得匮乏。另一种神经传导物质叫做儿茶酚胺（catecholamines），它在抑郁时也会变得很稀少。<br>　　但什么样的生理事件会使免疫系统知道它的主人正处于悲观、抑郁，或悲痛的状态呢？当儿茶酚胺变得很少时，另一种化学物质内啡肽（endorphins，即身体自己制造的吗啡）的活动就增加了。免疫系统能探测出内啡肽的水平，当儿茶酚胺很低时，内啡肽就高，免疫系统就会调低自己的活动。<br>　　这只是生物学上的幻想，还是悲伤、抑郁的确可以关掉免疫系统？<br>　　大约 10 年前，澳洲有一些研究者找了 26 名刚刚丧妻的男士作为研究对象，他们为这些被试抽了两次血，第一次是在太太去世后的第一个星期，第二次抽血是在丧妻后第六个星期。研究者检查了这些男士的免疫系统变化。结果发现悲痛时免疫系统的活动减少了，T 细胞没有像原来那样快速地自我繁殖。时间久一点以后，免疫系统又逐渐恢复。美国的学者同样也证实了这项研究的发现，并且把这项发现又往前推进了一些。<br>　　抑郁也会影响免疫系统的反应方式。有一项研究检验了 37 名妇女在经历人生重大变故后或抑郁时，血液中的 T 细胞和 NK 细胞的活动情形。她们血液中的 NK 细胞活动程度都比一般妇女低。她们的抑郁程度越严重，免疫系统的反应就越糟。<br>　　如果抑郁和悲伤会暂时降低免疫系统的功能，那么悲观，这个更长期的心理状态，就应该使免疫系统长期处于低活动状态。如我们在第 5 章中所看到的，悲观的人较容易，而且更经常地沉溺于抑郁，这表示悲观的人免疫系统功能一般比较差。<br>　　为了验证这个假说，宾州大学的研究生卡门（Leslie Kamen）、耶鲁的罗丁和我进行了合作，罗丁已经追踪康涅狄格州纽黑文市一群老人的健康状况很久了。这些老人平均年龄为 71 岁，研究者每年多次去详细调查他们的营养、健康状况，以及他们儿孙的情况。每年这些老人要抽一次血，以检查他们的免疫功能。我们把这些资料拿来进行悲观程度分析，然后分析血液数据，看能否预测免疫活动的强弱。正如我们所预期的，乐观者有比较强的免疫功能。此外，我们还发现调查时老人的健康状况和抑郁程度都不能预测他们的免疫功能，唯有悲观会使免疫系统的活动降低。<br>　　综上所述，这些证据很清楚地指出心理状态可以改变你的免疫反应。丧失亲人的悲痛、抑郁和悲观，都可以降低免疫系统的活动。至于这些心理因素如何作用于生理还没有很完善的解释，不过有一个可能性，就是前面所谈到的，大脑内有一些神经传导物质在这些心理状态下被耗尽了，或是数量变得很少，进而引起内啡肽的增加，人体免疫系统的活动就会降低。<br>　　如果你很悲观，耗尽了你的免疫系统，那么悲观很可能会影响你一生的健康。</p>
+<h3 id="哈佛高材生的生活"><a href="#哈佛高材生的生活" class="headerlink" title="哈佛高材生的生活"></a>哈佛高材生的生活</h3><p>　　20 岁时的财富并不能确保以后的成功和健康。这些哈佛人中有相当多的人失败了，或是不健康，例如婚姻的失败、破产、酗酒、很年轻就得了心脏病、自杀等。这些哈佛人与同时期生长在贫民窟的同龄者所经历的伤心事和打击一样多。<br>　　瓦利恩特主要关注的是防御机制，即这些人对抗不幸事件的特殊方式。有些人还在大学时就能以成熟的方式来面对失败——以<strong>幽默、利他、升华</strong>等方法来自我排解；而有些人就不行，例如当女朋友移情别恋时，他们用否认、投射等不成熟的防御方式来解释这个打击。那些在 20 岁时就已有成熟的防御机制的人以后会比较成功，比较健康。当他们 60 岁时，这些人没有患上心脏病、高血压等这类慢性病，但那些年轻时没有成熟的防御机制的人，有超过 1/3 的人到 60 岁时健康状况很差。<br>　　我们发现，他们 60 岁时的健康状况跟他们 25 岁时的乐观程度有密切的联系。悲观的人比乐观的人更早开始生病，而且更严重，这个差距到 45 岁时已经非常显著。在 45 岁以前，乐观对健康没有影响。在 45 岁以前，男人一般保持着跟 25 岁时一样的健康状况；但到 45 岁以后，男人的身体开始走下坡路。这个坡下得有多快、有多陡，可以从他 25 岁时的悲观程度来预测。</p>
+<h3 id="赶走你的抑郁"><a href="#赶走你的抑郁" class="headerlink" title="赶走你的抑郁"></a>赶走你的抑郁</h3><p>　　现在已有许多证据表明心理状态的确会影响身体健康。抑郁、哀伤、悲观对我们的健康有短期和长期的影响，而且这种影响是如何产生的现在已不再神秘。<br>　　这个影响的每个环节都是可以验证的，失败——悲观——抑郁——儿茶酚胺减少——内啡肽增加——免疫系统被抑制——生病。这里面没有不可测量的过程。此外，如果影响的过程真是如此的话，我们可以在每一个环节上进行治疗和预防。</p>
+<h3 id="塞利格曼的乐观箴言-9"><a href="#塞利格曼的乐观箴言-9" class="headerlink" title="塞利格曼的乐观箴言"></a>塞利格曼的乐观箴言</h3><p>　　★ 抑郁、哀伤会在短期内降低我们免疫系统的功能，而悲观则会长期抑制免疫功能，使我们的健康受损。<br>　　★ 认知疗法可以增强免疫系统的功能，改善病人的健康状况。</p>
+<h2 id="第-11-章-乐观的领袖得民心"><a href="#第-11-章-乐观的领袖得民心" class="headerlink" title="第 11 章　乐观的领袖得民心"></a>第 11 章　乐观的领袖得民心</h2><h3 id="总统大选：1948—1984"><a href="#总统大选：1948—1984" class="headerlink" title="总统大选：1948—1984"></a>总统大选：1948—1984</h3><p>　　选民为什么喜欢乐观的候选人，可能有三个原因：乐观者的竞选造势比较有活力；选民不喜欢悲观者；乐观可以带来希望。对于第二项和第三项我们并没有直接测量的方法。对于第一项，我们计算了 7 次大选中每个候选人竞选时每天所到之处——即他们对选举有多投入。如我们所预测，较乐观的候选人去的地方比较多，他比较热衷、比较投入，竞选更卖力。</p>
+<h1 id="第三部分-如何活出最乐观的自己"><a href="#第三部分-如何活出最乐观的自己" class="headerlink" title="第三部分　如何活出最乐观的自己"></a>第三部分　如何活出最乐观的自己</h1><h2 id="第-12-章-乐活人生的-ABCDE"><a href="#第-12-章-乐活人生的-ABCDE" class="headerlink" title="第 12 章　乐活人生的 ABCDE"></a>第 12 章　乐活人生的 ABCDE</h2><h3 id="身边的悲喜故事-3"><a href="#身边的悲喜故事-3" class="headerlink" title="身边的悲喜故事"></a>身边的悲喜故事</h3><p>　　乐观者的生活跟悲观者的一样，也会有挫折、不如意的事发生，只是乐观者处理得比较好。因为乐观者在遭受打击后能很快复原，所以他们在事业上、学业上、运动场上能表现得更好。乐观者的身体更健康，也更长寿。对悲观者而言，即使事情都如他的意，他还是会为前面不可预知的灾难而忧心。<br>　　现在悲观者们有了一个好消息，那就是他们可以通过学习来变得乐观，永远地改善他们的生活品质。几乎所有的乐观者也会有一段时间觉得心情低落，学习了这个改变悲观的技术后，乐观者也可以在心情低落时拿来帮助自己。<br>　　对某些人来说，他们或许不愿放弃悲观而变得比较乐观，因为很多人心目中的乐观者似乎是讨人厌的夸大者，是把责任推给别人，不为自己的过失负责的人。其实无论是悲观者或乐观者，都不必做没礼貌、没教养的人。在本章中你会看到，习得性乐观并不是教你自私、自大，让别人不能忍受，它要教你在遇到失败挫折时如何与自己对话。你要学习如何在受到打击时，从更具鼓励性的角度来考虑挫折或困境。<br>　　还有另一个理由可能会让你不想去学习乐观的技巧。在第 6 章中，我们谈到了乐观和悲观的好处和坏处，虽然我们列举了许多乐观的好处，但是悲观也有一个好处——它让你对现实有更准确的感知。那么学习乐观会不会牺牲掉这个好处呢？<br>　　我们并不是叫你盲目地、无条件地将乐观应用到所有的情境中，而是给你一个有弹性的乐观，以增强你对不利环境的控制力。本章为你提供了一个看待不幸事件的选择，这个选择并不要求你变成盲目乐观的奴隶。</p>
+<h3 id="什么时候该乐观"><a href="#什么时候该乐观" class="headerlink" title="什么时候该乐观"></a>什么时候该乐观</h3><p>　　<strong>你</strong>在第 3 章的测验分数决定了你要不要学习这些技术。假如你的 G-B 分数（即你的总分）小于 8，那么以下三章对你会有用。如果你的分数在 8 分以上，那么你应该问自己下面的问题，如果有任何一个问题的答案是肯定的，那你也会从这些章节中获益多多。</p>
+<ul>
+<li>  我是否很容易气馁？</li>
+<li>  我是否比我希望的样子更抑郁？</li>
+<li>  我是否比我预想的更常失败？</li>
+</ul>
+<p>　　在什么情况下，你应该使用这些章节中教你的技术呢？首先，问自己你想做到什么。</p>
+<ul>
+<li>  假如你想成功，如升职、推销产品、完成一份困难的报告、赢一场球等，你应该用乐观技术。</li>
+<li>  假如你关心你的感觉，想摆脱抑郁，提高士气等，你应该用乐观技术。</li>
+<li>  假如事情迟滞无进展，而你的健康已有问题时，你应该用乐观技术。</li>
+<li>  假如你想领导别人，假如你想激励别人，假如你想别人投你一票，你应该用乐观技术。<br>　　但是从另一方面看，有时不应该使用乐观技术。</li>
+<li>  假如你要为一件有危险且不确定的事制定计划，不要用乐观技术。</li>
+<li>  假如你要为一个前途黯淡的人出谋划策，不要用乐观技术。</li>
+<li>  假如你想对陷入困境的人表示同情的话，一开始不要用乐观技术，在信赖与共情建立起来后，再用乐观技术。</li>
+</ul>
+<p>　　使用乐观技术的基本原则就是先问，在某一个特定情况下失败的代价是什么。如果失败的代价很高，那么就不应该乐观。在飞机驾驶舱里的驾驶员决定要不要再除一次冰时、在酒会中喝了酒的人决定要不要酒后开车时，或是一个婚姻不如意的人决定要不要搞外遇时，都不应该用乐观。因为这时失败的代价是死亡、车祸和离婚。反过来说，如果失败的代价很低，你就应该采用乐观的态度。推销员在决定是否再打一次电话时，失败的代价只是他的时间；一个害羞的人决定要不要上前与人攀谈时，失败的代价只是被拒绝，有些难堪而已，在这些情况下都应该用乐观技术。<br>　　本章教给你在日常生活中将悲观改变为乐观的基本原则。它不像其他励志方法，它经过了谨慎严密的研究，几千个人已经用过它，并永远地改变了他们的解释风格。</p>
+<h3 id="让自己乐观的-ABC"><a href="#让自己乐观的-ABC" class="headerlink" title="让自己乐观的 ABC"></a>让自己乐观的 ABC</h3><p>　　凯蒂已经节食两个星期了。今天下班后，她和同事出去喝酒，吃了点炸土豆片和鸡翅，吃了以后，她立刻感到自己破坏了节食计划，前功尽弃了。<br>　　她对自己说：“凯蒂，今晚你的节食努力都报销了。你真是不可思议的软弱，只要和朋友去酒吧就会受不了诱惑而大吃大喝。他们一定认为你是个笨蛋，唉！既然过去的节食都毁了，你干脆把冰箱中的蛋糕拿出来，痛快地大吃一顿算了。”<br>　　凯蒂打开一盒巧克力蛋糕把它吃得精光。她的节食计划真的前功尽弃了。<br>　　其实凯蒂吃一点炸土豆片和鸡翅和后来的大吃并没有必然的联系，真正把这两件事联系起来的是她对自己为什么吃炸土豆片的解释。她的解释风格非常悲观——“不可思议的软弱”，她的结论也很悲观——“节食努力都报销了”。事实上她的节食并没有前功尽弃，但是她的永久性、普遍性及人格化的解释使她放弃了。<br>　　如果凯蒂可以反驳她自己的自动化的解释的话，这件事可以有个完全不同的结局。<br>　　她可以对自己说：“等一下，凯蒂，我在酒吧并没有大吃大喝，我喝了两杯淡啤酒，吃了两个鸡翅和一些土豆片，但我没吃晚餐，所以平均起来，我可能只比食谱允许的热量多吃了一点。只有一个晚上多吃一点并不表示我意志薄弱，想想看，我坚持了两个星期，这证明我很坚强。此外，没有人会注意计算我吃了什么，事实上，好几个人都说我看起来瘦了。最重要的是，即使我吃了我不应该吃的东西，我也不应该继续破坏我的节食计划，这样做是没有意义的。最好的方式是不再去想这次犯的错，继续努力节食。”<br>　　这就是所谓的 ABC 模式。在这三章中，我引用了心理学家埃利斯所开发的 ABC 模式：当我们碰到不好的事件（adversity）时，我们最自然的反应就是不断想它，这些思绪很快凝聚成想法（belief），这些思绪会变成习惯，我们不会意识到我们的这些想法。这些想法并不是待在那儿不动的，它们会引起后果（consequence），我们的所作所为就是这些想法直接的后果。它是我们放弃、颓丧或是振作、再尝试的关键。</p>
+<h4 id="确认-ABC"><a href="#确认-ABC" class="headerlink" title="确认 ABC"></a>确认 ABC</h4><p>　　1. A 一个人抢先停进你正要停的车位。<br>　　B 你想________________。<br>　　C 你很生气，摇下车窗，对那个人破口大骂。<br>　　2. A 孩子没有做功课，你大声责骂他。<br>　　B 你想“我是个很差劲的母亲”。<br>　　C 你觉得（或你做了）________________。<br>　　3. A 你最好的朋友没有回你的电话。<br>　　B 你想________________。<br>　　C 你一整天都心情低落。<br>　　4. A 你最好的朋友没有回你的电话。<br>　　B 你想________________。<br>　　C 你没有因此而不快，继续过你的日子。<br>　　5. A 你跟你的配偶吵架了。<br>　　B 你想“我总是做不对”。<br>　　C 你觉得（或你做了）________________。<br>　　6. A 你跟你的配偶吵架了。<br>　　B 你想“他今天脾气真坏”。<br>　　C 你觉得（或你做了）________________。<br>　　7. A 你跟你的配偶吵架了。<br>　　B 你想“我一向可以化解误会”。<br>　　C 你觉得（或你做了）________________。</p>
+<p>　　现在让我们来看一下这 7 个情境，看看这些元素是如何相互影响的。<br>　　在第 1 个例子中，受侵犯的思想使你愤怒：“那个家伙抢了我的位子。”“这真是自私又粗鲁的行为。”<br>　　在第 2 个例子中，当你把你对孩子的态度解释成“我是个很差劲的母亲”时，你会觉得悲伤，不想再去叫他们做功课。当我们把一件不好的事解释成永久性的、普遍性的和人格化的时候，颓丧和放弃就紧跟而来了。<br>　　在第 3 和第 4 个例子中，你最好的朋友不回你的电话时，如果你像第 3 个例子那样有永久性和普遍性的想法（例如我总是有些自私，不替别人着想），那你就会抑郁；但是假如你是像第 4 个例子那样，想“她这两天加班”，或是“她最近心情不好”，你的解释风格就是暂时性、特定性以及外在化的，所以你就不会心情不好。<br>　　在第 5、6 和第 7 个例子中，当你和配偶吵架时又是怎样的情形呢？假如你像第 5 个例子那样，“我总是做不对”（永久性、普遍性及人格化），那你就会抑郁，不会想办法去弥补裂痕。假如你像第 6 个例子，想“他今天脾气真坏”，你会觉得有些愤怒，有些颓丧，但这只是暂时性的，当这种情绪过去后，你可能会去做一些弥补的工作。假如你像第 7 个例子，想“我一向可以化解误会”，你可能会马上去补救，很快你就会觉得心情愉快，充满了活力。</p>
+<h3 id="你的-ABC-记录"><a href="#你的-ABC-记录" class="headerlink" title="你的 ABC 记录"></a>你的 ABC 记录</h3><p>　　要找出这些 ABC 如何在你日常生活中运作，最好的方法是写日记，把每天发生的事记录下来。这个日记不必很长，只要花一两天，记录 5 个 ABC 的案例就可以了。<br>　　要做到这点，第一就是要去注意你平常没有注意的、你对自己说的话。你注意一下一些小事情以及它们所引起的情绪，例如你在电话里跟朋友聊天，她好像等不及要挂掉（一种不愉快的小经验），你发现自己后来心情很不好（引起的情绪结果），这种小事就是你要记录的 ABC 事件。<br>　　<strong>你</strong>的记录要分三个部分。<br>　　第一个部分“不好的事”，几乎可以是任何事情——水管漏了、朋友皱眉头、一直哭的孩子、大额账单、配偶对你的忽视。尽量客观地记录下实际情况，而不是你对这个情况的评估。所以假如你跟你的配偶吵架了，你应该写下他对你说的或做的感到不快，而不是记录“他不公平”，因为这是一个推论，你可以把它记录在第二部分“想法”中，但是不应该记录为“不好的事”。你的“想法”是你对不好的事的解释。请注意要把你的想法跟你的感觉分开（感觉属于第三部分“后果”）。“我刚刚毁了我的节食计划”以及“我觉得自己很无能”是想法，我们可以评估这些想法是否正确。 “我觉得很悲伤”是一种感觉。<br>　　“后果”这个部分要记录你的感觉和行为。大多数时候你的感觉会不只一种，写下你所有的感觉以及你的所作所为。 “我觉得很疲倦，没有力气。”“我要让他向我道歉！”“我又回去睡觉了。”等都是行为。<br>　　在你正式开始之前，下面有些例子来帮助你分类。</p>
+<p>　　<strong>不好的事</strong>：我老公本来应该帮孩子洗澡，带他们睡觉，但是当我开完会回家，却发现他们全都在看电视。<br>　　<strong>想法</strong>：他为什么连这一点小事都做不好？难道给孩子洗澡，带他们上床睡觉有这么困难吗？现在我要让他们立刻关掉电视去睡觉。<br>　　<strong>后果</strong>：我对他非常生气，所以一回家就立刻对他大叫，没给他解释的机会。我连招呼都没打就直接走到电视机前面把它关掉，我看起来像个悍妇。</p>
+<p>　　<strong>不好的事</strong>：我提前下班回来发现我的孩子和他的朋友躲在车库里抽烟。<br>　　<strong>想法</strong>：他在干什么？我真想掐死他！我一点都不能相信他。他一开口就是谎话，一个接一个，我这次不要听他的解释。<br>　　<strong>后果</strong>：我非常、非常愤怒，甚至拒绝讨论这件事。我骂他，整晚都在生气。</p>
+<p>　　<strong>不好的事</strong>：我打电话给一个我喜欢的男士，请他一起去看表演，他说最近不行，因为他要准备开会用的文件，让我下次再找他。<br>　　<strong>想法</strong>：鬼才相信他的话，全是借口，他只是不想伤我的心，他根本就不想跟我一起出去。我真是活该！我以为他对我有意思，我以后再也不想邀请任何人出去了。<br>　　<strong>后果</strong>：我觉得很难堪，觉得自己很笨、很丑，我决定把票送给别人。</p>
+<p>　　<strong>不好的事</strong>：我决定参加一个健身俱乐部，但当我走进去时，我看到的全是健美的身材。<br>　　<strong>想法</strong>：我来这儿干嘛呀！真是丢人现眼，我应该趁别人还没注意到我时赶快离开。<br>　　<strong>后果</strong>：我觉得非常不自在，进去不到 15 分钟就出来了。</p>
+<p>　　现在轮到你了，请记录明天和后天发生在你生活中的 5 件 ABC。<br>　　<strong>不好的事</strong>：______________________________________________<br>　　<strong>想法</strong>：______________________________________________<br>　　<strong>后果</strong>：______________________________________________<br>　　在你记录完后，请仔细再读一遍，找出你的想法和后果之间的关系。你会看到：悲观的解释风格会导致被动和颓丧，而乐观的解释风格会使你振奋。<br>　　如果你改变了平常习惯性的想法，你对不好的事的反应就会改变，下面教你如何去改变它。</p>
+<h3 id="反驳和转移注意"><a href="#反驳和转移注意" class="headerlink" title="反驳和转移注意"></a>反驳和转移注意</h3><p>　　有两种方法可以改变悲观的解释风格。第一是想办法转移自己的注意力，去想些别的事；第二个方法是反驳它。从长远来看，反驳更有效，因为有效的反驳能阻止以前那些想法再次出现。这样，当你遇到同样的情境时，你就不会再抑郁。<br>　　人类对于吸引我们注意力的事情，会一再去思索它，不论这件事是好是坏。这在进化上是有它的意义的，因为如果我们不能认清危险，并立刻思考应对的方法，我们就活不到现在。习惯性的悲观想法不过是把这个有用的方法往前推进了一步：它不但吸引了你的注意力，而且萦绕在你心头，让你久久不能忘怀。在现代，这些提醒我们小心的原始机制会阻碍我们的发展，会降低我们的成就，会破坏我们的生活质量。<br>　　现在让我们来看一下转移注意和反驳的不同。</p>
+<h4 id="转移注意"><a href="#转移注意" class="headerlink" title="转移注意"></a>转移注意</h4><p>　　我现在请你想象面前有一个苹果派，旁边配着香草冰激凌。一冷一热两种美味相得益彰，让人垂涎。你可能发现自己无法一开始就不去想这个派，但是你绝对有能力转移你的注意力。<br>　　再想一次那个苹果派，想到了吗？流口水了吗？现在站起来，用手使劲击打墙壁并大声说：“停止！”<br>　　那个派的影像消失了，对吗？<br>　　这是停止思维的一个简单而有效的方法，许多人都用类似的方法停止或中断他们习惯性的思维。有的人大声摇铃；有的人随身带一张卡片，上面用红笔写着大写的“STOP”；有的人在手腕上戴一条橡皮筋，当他们开始悲观地胡思乱想时，就用橡皮筋弹自己。<br>　　如果你将这种方式与转移注意力的方法结合起来，那么效果会很好而且很持久。当你用橡皮筋或其他方法中断你的消极想法后，为了防止这个想法再回来，你要把你的注意力转移到别的地方去。演员在需要转换情绪时，也用这种方法。试试下面这个方法：拿起一个小物件，仔细地研究它几秒钟，把玩它，尝一尝、闻一闻，用手指弹它，听听它的声音，你会发现这种方式能加强你注意力的转移。<br>　　最后你可以利用消极想法的本质来对付反刍。这种消极想法就是要萦绕在你心头，使你不能忘怀，照它的意思去做。当不好的事发生时，安排一个时间去想它，比如说，当一个念头一直在你心中翻来覆去、阴魂不散时，你可以对自己说，“停住，我不要现在想它，我要等到今晚六点再想”。<br>　　还有就是当消极的想法一出现，就立刻把它写下来。写本身就是一种发泄，“写”加上“以后再去想”会很有效。消极的想法利用反复思虑的特性提醒你它们的存在。如果你把它写下来，以后再去想它，它就失去了萦绕在你心中的目的，没有目的的东西是没有威力的。</p>
+<h4 id="反驳"><a href="#反驳" class="headerlink" title="反驳"></a>反驳</h4><p>　　躲避令我们不安的想法是很好的急救方法，但长远、根本之计是去反驳它，跟它争辩。只有有效地反驳了不合理的想法，你才能改变你的习惯性思维，不再颓丧。</p>
+<p>　　<strong>不好的事</strong>：我最近每晚去上课，想拿一个硕士学位。当我看到我的试卷时，发现成绩不理想。<br>　　<strong>想法</strong>：朱蒂，你考得真烂，绝对是全班最差的。我真是笨死了。我应该面对事实，承认自己不够聪明。我年纪太大了，不能跟那些年轻人拚，即使我拿到学位，谁会放着 20 来岁的年轻人不雇，而去雇用一个 40 岁的女人？我在注册时一定是发疯了吧？怎么会想到重回学校念书？对我来说实在太晚了。<br>　　<strong>后果</strong>：我感到非常颓丧和无助。对自己不自量力，想去念硕士的想法感到难堪、丢脸，我决定退学，安于现在的工作。<br>　　<strong>反驳</strong>：我太小题大作了。我希望全拿 A，结果拿了一个 B，一个 B+ 和一个 B-，这并不是太差。我可能不是班上考得最好的，但我也不是考得最差的。我去查了别人的成绩，坐在我旁边的家伙拿了两个 C，一个 D+。我没有达到理想的标准并不是因为我的年纪，虽然我 40 了，但这不会使我比其他人笨。我考得不好是因为我有太多事要做，没时间看书。我要上班，又要照顾家，在这种情况下，拿到这个成绩算不错了。我现在知道了我要花多少时间复习才能得到好成绩，下次我会更努力。我先不要去想谁会雇用我，从这个学校毕业的人都找到了理想的工作。我现在要想的是好好学，赶快毕业。<br>　　<strong>激发</strong>：我对自己和成绩都很满意。我会继续念下去，我不会让年龄成为绊脚石，我知道年龄对我不利，但是船到桥头自然直，到时候再烦恼也不迟。</p>
+<p>　　朱蒂成功地反驳了不合理的想法，所以她从绝望变成充满希望，她的行为从要退学变为努力向前。茱蒂所用的方法就是下面你要学到的。</p>
+<h4 id="保持距离"><a href="#保持距离" class="headerlink" title="保持距离"></a>保持距离</h4><p>　　有一点很重要，就是你要知道你的想法只是想法，它可能是事实，也可能不是事实。如果一个不怀好意的人对你尖叫“你是个差劲的妈妈，你自私、愚蠢，不替别人着想”，你会如何反应？你可能根本不会理他，更不会去想他指责你的话。你也可能反驳它：“我的孩子很爱我。我在他们身上花了无数的时间和精力，我教他们数学、足球以及如何适应这个复杂的社会。她只是嫉妒我，因为她的孩子都不成材。”<br>　　我们一般都会和别人这些无理的指责保持一个距离。但是要我们与自己的指责保持距离就很困难，因为我们会认为，如果这个指责来自我们内心，那么它一定是真的。<br>　　大错特错！<br>　　我们在遭受挫折时对自己说的话可能和不怀好意的人说的一样毫无根据。<strong>我们的自我解释常常是扭曲的，</strong>它们是我们童年不愉快的经验，如童年的冲突、很严厉的父母、苛刻的棒球教练、姐姐的嫉妒等造成的不合理的思维习惯。就因为它来自我们自己，所以我们就认为它一定是对的。<br>　　它们不过是想法、念头而已。你相信某个想法并不代表这个想法是真实的。所以很重要的一点是退后一步，让自己与自己悲观的解释保持距离，给自己一点时间来验证自己的想法是否正确。反驳最大的作用就是检查自己的反射性想法是否正确。<br>　　第一步是了解自己的想法是可以反驳的；第二步就是去反驳它。</p>
+<h3 id="学习与自己争辩"><a href="#学习与自己争辩" class="headerlink" title="学习与自己争辩"></a>学习与自己争辩</h3><p>　　幸运的是，你已经有了很多反驳的经验，你每次跟人争辩时都要用到反驳。<br>　　下面是四个重要途径，它们可以使你的反驳更令人信服。</p>
+<ul>
+<li>  证据。</li>
+<li>  其他可能性。</li>
+<li>  暗示。</li>
+<li>  用处。</li>
+</ul>
+<h4 id="证据"><a href="#证据" class="headerlink" title="证据"></a>证据</h4><p>　　反驳消极想法最有效的方法就是去举证，证明这些想法是不正确的，不符合实际的。大多数时候，事实站在你这一边，因为对一件不好的事情的悲观反应往往是反应过度。所以你要以一个侦探的姿态问自己：“这种想法的证据在哪儿？”<br>　　朱蒂就是这样做。她认为自己的成绩是全班最烂的，她就去求证这个想法，结果发现坐在她旁边的人考得比她还差。<br>　　凯蒂认为自己的节食努力前功尽弃了，其实她可以计算一下炸土豆片、鸡翅和啤酒的热量，她会发现这些加起来只比晚餐的热量多一点，既然她没吃晚餐，就两两相抵了，其实没多大关系。<br>　　将这种方法与所谓的“积极思维”（positive thinking）相区分是很重要的。积极思维通常意味着尝试去相信乐观的话，例如“每一天，在每一方面，我都越来越好”。这些话没有根据，有时还跟事实相反。大多数受过教育、有批判性思维的人无法相信这种毫无依据的胡说八道。与之相反，习得性乐观是实事求是的。<br>　　我们发现只是对自己重复这些积极的话并不能改善你的心情或增加你的成就。通常挫折后的消极想法是不合理的，大多数人会选择最坏的可能性，把一点小事看成大灾难。最有效的反驳技术就是去搜寻证据来证明你扭曲了事实，通常你都能轻易找到，因为真相就在你身边。<br>　　习得性乐观之所以有效，不是因为那些不合理的积极想法，而是由于“非消极”（non-negative）思维的力量。</p>
+<h4 id="其他可能性"><a href="#其他可能性" class="headerlink" title="其他可能性"></a>其他可能性</h4><p>　　通常一件事情的发生不会只有一个原因，而是由多个原因引起的。如果你考试没考好，下面几项都可能是你没考好的原因之一：试题的难度、你用于复习的时间、你的聪明程度、教师的公平程度、考试那天的身心状态等。悲观者每次都能找出最永久、最普遍、最人格化的原因。<br>　　既然有很多原因，为什么偏要挑杀伤力最强的原因呢？问你自己“可不可以用其他的方式来看这件事”？朱蒂是一位很有经验的反驳者，很容易就找到了“我要上班，又要照顾家”。凯蒂在变成自我反驳者后，也可以从“软弱”变成“坚强”。<br>　　要反驳自己的想法，先要搜寻一下所有可能的原因，把重点放在可以改变的、特定的、非人格化的原因上。记住，悲观思维常是去找最糟、最有杀伤力的理由，并不是因为它有证据支持，而是因为这个理由最阴暗、最恐怖、最让你绝望。你的任务就是要打破这种杀伤力很强的习惯思维，训练自己去找寻各种可能的原因。</p>
+<h4 id="暗示"><a href="#暗示" class="headerlink" title="暗示"></a>暗示</h4><p>　　但有的时候，你所持的消极想法是对的。在这种情况下，就应该使用“非灾难法”（decatastrophizing）。<br>　　<strong>你</strong>要对自己说，即使我的想法是对的，但这个想法的暗示是什么？朱蒂的确比班上其他人年纪大，但是那又怎样？这并不表示朱蒂没有年轻人聪明，也不表示没有人愿意雇用她。凯蒂打破了她的节食戒律，但这不表示她就是贪吃鬼，也不表示她很软弱，更不表示她应该就此破戒，大吃大喝。<br>　　<strong>你</strong>应该问自己，我的消极想法会有多坏的影响？三个B就表示没有人会雇用朱蒂了吗？两个鸡翅、一些炸土豆片就表示凯蒂是个贪吃鬼吗？一旦你问自己，“我的想法会带来多坏的结果？”你就应重复求证的过程。凯蒂记得她曾经严格遵守节食规定两个星期，所以她根本不是贪吃鬼。朱蒂记起很多拿到这个学校硕士学位的人都找到了理想的工作。</p>
+<h4 id="用处"><a href="#用处" class="headerlink" title="用处"></a>用处</h4><p>　　有的时候，这些想法的后果比这些想法是否真实更重要。这些想法是否有破坏性？凯蒂相信自己是个贪吃鬼，这个想法破坏了她的节食计划。<br>　　有些人因为感到世界不公平而非常痛苦。坚持这个想法可能会引起更多的痛苦，它对我有什么好处呢？有的时候，不要去管你的想法是否正确，直接反驳它，甚至干脆不理它，继续过日子。例如一位爆破专家在拆炸弹时，可能会对自己说：“假如现在炸弹爆炸，我就没命了！”这样一想，他的手就会开始发抖。在这种情况下，我建议采用转移注意的方法，而不是反驳。当你必须做一件事时，你不要问自己“这个想法对吗？”而是问<strong>“现在想这个对我有用吗？”</strong>如果答案是否定的，请选用转移注意的方法。<br>　　另外一个方法是详细列出可以改变这种情境的方法。如果这个想法是真的，那么这个情境可以改变吗？如何来改变它？</p>
+<h3 id="你的反驳记录"><a href="#你的反驳记录" class="headerlink" title="你的反驳记录"></a>你的反驳记录</h3><p>　　现在请你练习 ABCDE 模式。你已经知道了 ABC 各代表什么，D 是反驳（disputation），E 是激发（energization）。<br>　　下面在你记录的 5 个不好的事中，找出你的消极想法，观察这些想法带来的后果，再猛烈地攻击这些想法，然后体会自己成功应对悲观想法后所获得的激发，把这些都记下来。这 5 件不好的事可以是微不足道的小事：邮差来晚了，别人没回你的电话等。请在每一个事件中采用四种有效的自我反驳途径。在你开始前，请先阅读以下的例子。</p>
+<p>　　<strong>不好的事</strong>：我向朋友借了一副昂贵的耳环去约会，结果丢了一只。<br>　　<strong>想法</strong>：我真是个不负责任的人，这是凯最心爱的耳环，我偏偏搞丢了一只，她一定会很生气，可能以后都不理我了。<br>　　<strong>后果</strong>：我感到非常难过、羞耻和难堪，我不敢打电话告诉她这件事。我只是坐在那里，骂自己笨，想办法鼓起勇气打电话。<br>　　<strong>反驳</strong>：唉！真是很倒霉，我丢掉了凯最心爱的耳环（找证据），她可能会非常失望（暗示）。不过，她会理解这是一个意外（其他可能性），我不认为她会因此而恨我（暗示），就因为我丢了一只耳环就说自己是个不负责任的人是不公平的（暗示）。<br>　　<strong>激发</strong>：我还是觉得很难过，弄丢了别人的耳环。但是我不像以前那样觉得见不得人或很羞耻。我想她不会因此而与我绝交，所以我可以放松一下心情，再打电话跟她解释。</p>
+<p>　　下面是你之前看过的例子。<br>　　<strong>不好的事</strong>：我提前下班回来发现我的孩子和他的朋友躲在车库里抽烟。<br>　　<strong>想法</strong>：他在干什么？我真想掐死他！我一点都不能相信他。他一开口就是谎话，一个接一个，我这次不要听他的解释。<br>　　<strong>后果</strong>：我非常、非常愤怒，甚至拒绝讨论这件事。我骂他，整晚都在生气。</p>
+<p>　　下面是一个反驳高手会对自己说的话。<br>　　<strong>反驳</strong>：毫无疑问，约瑟在抽烟这件事上说了谎，但这并不表示他完全不负责任，完全不可信赖（暗示）。他从来没逃过学，或深夜不归而不先打电话来说一声，他还帮我做家务（证据）。今天这件事的确很严重，但是怀疑他说的每一句话都是谎话却于事无补（用处）。过去我们的沟通还算可以，我想如果我现在冷静下来，可能对事情会有帮助（用处）。如果我不跟他讨论这件事，问题依然得不到解决（用处）。<br>　　<strong>激发</strong>：我终于可以平静下来处理这个问题了。我先道歉，因为我骂了他。我告诉他我们需要谈一谈。我们的谈话有时的确很火爆，但至少我们在沟通。</p>
+<p>　　再来看看下一个例子。<br>　　<strong>不好的事</strong>：我辛辛苦苦做菜，请一群朋友来吃晚餐，但我发现有个重要客人几乎没吃菜。<br>　　<strong>想法</strong>：菜很难吃，我根本不会做菜。我本来想借此机会让她对我有好印象，现在全泡汤了。她没有吃到一半就站起来离席已经算是给我面子了。<br>　　<strong>后果</strong>：我觉得非常失望，而且恨自己。我觉得很丢脸，这让我一个晚上都在躲避她。显然，事情并没有如我预期的那样进行。<br>　　<strong>反驳</strong>：这真是胡说！我知道晚饭没那么难吃（证据）。她可能没吃什么，但别人吃了很多（证据），她不爱吃我做的菜可能有一百种理由（其他可能性）。她可能在节食，可能身体有点不舒服，也可能是胃口很小（其他可能性）。即使她没吃什么，但她看起来很愉快（证据）。她还说了一些笑话，看起来很开心（证据）。她甚至说要帮我洗碗（证据）。如果她真的很厌恶我的话，她就不会这么说了（其他可能性）。<br>　　<strong>激发</strong>：我没有像刚才那样生气或难堪了，我知道如果我躲避她，我就真的会丧失一个认识她的机会。我可以放松自己，不要让我的想象力破坏我的晚宴。</p>
+<p>　　现在你来试试看，记录下生活中 5 件不好的事情。不要特别去找不好的事，当它们来临时，请注意聆听你对自己说的话。当你听到消极想法时，反驳它，把它踩扁，不让它再露头。然后记录下 ABCDE。<br>　　<strong>不好的事</strong>：________________________________________<br>　　<strong>想法</strong>：________________________________________<br>　　<strong>后果</strong>：________________________________________<br>　　<strong>反驳</strong>：________________________________________<br>　　<strong>激发</strong>：________________________________________</p>
+<h3 id="大声说出你的想法"><a href="#大声说出你的想法" class="headerlink" title="大声说出你的想法"></a>大声说出你的想法</h3><p>　　<strong>你</strong>不需要等到不好的事发生后再去练习反驳，你可以请一位朋友大声说出对你的消极想法，然后你反驳他的指责。这种练习叫做“声音的外化”（externalization of voices）。要做这个练习，首先要选一位朋友（配偶也行），留出 20 分钟的时间。你朋友的任务是批评你，所以你对朋友的选择必须很认真，选一个你可以信赖的、并不会因他的批评而不舒服的朋友。<br>　　告诉你的朋友在这种情况下他可以批评你，你不会在意。把你所记录的ABC给他看，帮他选择最适合你的批评，告诉他哪一类的消极想法一直出现在你的脑海中，影响你的心情和决策。当你和朋友了解了全部情况后，你会发现你不但不会在意朋友对你的批评，而且会因为这个练习而增进了你们的友情。<br>　　<strong>你</strong>的任务是大声地反驳批评，尽力去找所有可以支持你的证据，列出所有其他可能的原因，弱化灾难，强调事情没有你朋友说的那么糟。如果你认为对你的批评是成立的，那么详细列出可以改变这种情境的方法。你的朋友可以反驳你的反驳，你再反驳他。<br>　　在你们开始前，请先读一下下面的例子。每一个例子中，朋友都非常严厉地指责你（你的朋友一定要对你严厉才行，因为在你自己的解释风格中，你对自己就很严厉）。</p>
+<p>　　<strong>情境</strong>：当卡萝给她 15 岁的女儿收拾房间时，她发现一包避孕药藏在衣服下面。<br>　　<strong>指责</strong>（朋友）：这种事情怎么可能在你眼皮底下发生而你不知道呢？她才 15 岁，你在她这个年龄时连男朋友都没有。你怎么可能这么瞎，连你女儿在搞什么都不知道？你跟女儿之间的沟通一定很差，因为你竟然不知道苏珊已经有性生活了。你真是个差劲的母亲！<br>　　<strong>反驳</strong>：将苏珊跟年轻时的我比较是于事无补的（用处），时代不一样了。这年头的小孩什么都敢做（其他可能性），我的确不知道苏珊已经跟人上床了（证据），但这并不表示我们母女之间的关系很糟（暗示），至少她听进去了我跟她讲的有关避孕的话，不然她不会有避孕药（证据）。这还算是一个好迹象。<br>　　<strong>朋友打断你</strong>：你全心地搞你的事业、忙你的生活，你根本不知道你女儿心里在想什么，你真是一个糟糕的母亲。<br>　　<strong>反驳</strong>：我最近工作的确很忙，或许我没有像以前那样与她谈心（其他可能性），但我可以改变这种情况（用处）。与其暴跳如雷或责怪自己，还不如利用这个机会来与她谈避孕或有关性的事情，重新开始我们母女的谈心（用处）。刚开始时可能不容易，我想她会抗拒，但我会让她明白我的用心。</p>
+<p>　　<strong>情境</strong>：道格和女朋友芭芭拉一起去朋友家赴晚宴，席间芭芭拉跟一个他不曾见过的人尼克聊了很长时间的天。在返回的汽车上，道格忍不住酸溜溜地说：“你跟那个家伙似乎很投缘，我很久没见过你这么兴奋了，我希望你记下了他的电话号码，这么难得的友情不继续下去不是太可惜了吗？”芭芭拉很吃惊道格的反应，笑着说他不必这么小心眼，尼克不过是她的同事而已。<br>　　<strong>指责</strong>（朋友）：芭芭拉花那么多时间与别人谈笑对你真是不公平，那些人都是她的朋友，而你在这群人中显得很孤独，她应该多花点时间陪你。<br>　　<strong>反驳</strong>：我想我是反应过度了，她并没有整个晚上都在与尼克聊天，我们的宴会进行了 4 个小时，她大约与尼克聊了 45 分钟（证据）。我不认识宴会中的其他客人并不表示芭芭拉就要一直守在我身边（其他可能性）。头一个小时她介绍我与她的朋友认识，她是在晚饭后才与尼克单独聊天的（证据）。我想她对我跟她之间的关系很放心，觉得她不需要一直黏着我（其他可能性），她知道我会主动找别人交谈，认识新朋友（证据）。<br>　　<strong>朋友打断</strong>：如果她真的对你有意，她就不该去勾引别人。显然你对她比她对你好，既然她对你这样无情，你们还不如趁早分手算了。<br>　　<strong>反驳</strong>：我知道芭芭拉爱我（证据），我们交往很多年了。她从来没有提出分手或另外与别人交往（证据）。她是对的，很可能是因为我遇到这么多陌生人而有些紧张（其他可能性），我应该向她道歉，不应该说话那么尖酸刻薄，我会向她解释为什么我会有这样的反应（用处）。</p>
+<p>　　<strong>情境</strong>：安卓的太太萝瑞曾经是个酗酒者，不过这三年来她没再喝过，但最近她又开始喝了。安卓试了所有的方法想阻止她，但都没效。他试着跟她说理，威胁她、恳求她，但都没用。每天下班回家，安卓都发现萝瑞烂醉如泥。<br>　　<strong>指责</strong>（朋友）：这真是太糟糕了，你应该有办法让萝瑞停止。你应该知道萝瑞心里一定有什么痛苦，所以才借酒消愁，你怎么可能茫然不知呢？你为什么不能让她认识到她在祸害自己？<br>　　<strong>反驳</strong>：我当然想让萝瑞停止喝酒，但这不实际（证据）。上一次我与她谈时，我发现我完全无能为力（证据），除非她自己下决心不喝酒，不然我一点办法都没有。我无法使她面对她不想面对的东西（其他可能性），但这并不表示我在处理自己的感受上是无助的（暗示）。我可以去参加酗酒者家属支援会，这样我就不会掉入自我责怪的陷阱（用处）。<br>　　<strong>朋友打断</strong>：你以为你跟太太的关系很好，你欺骗了自己三年，你们的婚姻对她来说一定一文不值。<br>　　<strong>反驳</strong>：就算萝瑞又开始喝酒也不表示过去三年的婚姻不好（其他可能性）。我们之间的关系很好（证据），而且以后会更好。喝酒是她的问题（其他可能性），我一定要不断地告诉我自己这是她个人的问题（用处），她喝酒并不是因为我做了什么或我没有做什么。我现在能为我们两人做的就是找一个人谈谈酗酒对我的影响以及我的担忧（用处），要熬过来非常不容易，但是我愿意试试。</p>
+<p>　　<strong>情境</strong>：布兰达和她妹妹安德莉一向非常亲密，她们上同样的学校，交往的人也相同，最后在同一个小区买了房。安德莉的儿子上大一了，而布兰达的儿子乔依上高三。在高三开学时，乔依告诉他的父母，他不想上大学，他有其他的打算。当安德莉问布兰达为什么乔依不想上大学时，布兰达失去了控制，“这不关你的事！并不是每个人都要像你儿子一样。”<br>　　<strong>指责</strong>（朋友）：你应该对这种完全没有隐私的生活感到厌倦！安德莉几乎知道你所有的事。她有她自己的家庭，不应该天天来管你的事。<br>　　<strong>反驳</strong>：我想我反应过激了。安德莉只是问为什么乔依不去上大学（证据），这是顺理成章的问题（其他可能性）。如果反过来，是她儿子决定不去上大学，我也会问同样的问题（证据）。<br>　　朋友打断：她认为比你高一等，因为她儿子念大学了而你的儿子没有。你不需要受她的气，尽可以让她少管闲事。<br>　　<strong>反驳</strong>：她并不是想羞辱我，她只是很关心乔依（其他可能原因）。我想我是对乔依的决定感到太伤心了，所以不愿意别人问；同时还很羡慕安德莉的儿子（其他可能性）。其实，我很为安德莉和我的亲密感到骄傲。当然，有的时候我们也会相互比较、竞争，但就算拿世界上所有的财富来换我们之间的友情，我也不换（用处）。<br>　　好了，现在轮到你了。</p>
+<h3 id="练习、练习、再练习"><a href="#练习、练习、再练习" class="headerlink" title="练习、练习、再练习"></a>练习、练习、再练习</h3><p>　　<strong>你</strong>现在应该会用习得性乐观的主要方法了！其实不良的情绪和行为不一定直接跟不好的事有关，它们直接来自你对不好的事的看法。这表示如果你改变了你对不好的事的心理反应，那么你就能更好地应对挫折。<br>　　进行改变的最主要的工具是反驳。从现在起，练习反驳头脑中的自动化解释。一旦你发现自己心情不好、很焦虑或生气时，你就问：“我对自己说了些什么。”有的时候你的想法是对的，在这种情况下，努力思考如何可以改变这种情境，并且防止不好的事恶化成灾难。<br>　　通常情况下，你的消极想法是扭曲、不正确的，这时你要挑战它，不要让它控制了你的情绪生活。习得性乐观不像节食，很容易坚持下去。一旦你养成了反驳消极想法的习惯，你就会觉得快乐了很多。</p>
+<h3 id="塞利格曼的乐观箴言-10"><a href="#塞利格曼的乐观箴言-10" class="headerlink" title="塞利格曼的乐观箴言"></a>塞利格曼的乐观箴言</h3><p>　　★ 要不要使用乐观技术的原则是看在某一个特定情况下失败的代价是什么。如果失败的代价很高，那么就不应该乐观；如果代价很小，那不妨乐观一点。<br>　　★ 改变悲观的解释风格的方法有两种。第一种是转移注意力；第二种方法是去反驳它。从长远来看，反驳更有效。
+　　</p>
+<h2 id="第-14-章-组织需要怎样的乐观"><a href="#第-14-章-组织需要怎样的乐观" class="headerlink" title="第 14 章　组织需要怎样的乐观"></a>第 14 章　组织需要怎样的乐观</h2><h3 id="身边的悲喜故事-4"><a href="#身边的悲喜故事-4" class="headerlink" title="身边的悲喜故事"></a>身边的悲喜故事</h3><p>　　乐观的人在工作上遇到困境时，他们会继续进攻，特别是当他的对手也碰到同样的困境而开始退缩时，他会继续前进，所以他会成功。<br>　　娜咪就采用了这个原则。她知道在这个行业里，平均来说，打 10 个电话才可能得到 1 个面谈机会，而 3 个面谈里只有 1 个有可能卖成保险。所以她的心理战术就是要让自己跃过那个打电话的高墙。她有一些乐观的技术可以使自己保持士气，但史蒂芬不会这些技术。<br>　　乐观不只对竞争性强的工作有利，它对你碰到的任何困境都有帮助。它可能是工作做得好，做得不好，或是根本就没做的主要原因。我们来举一个没有竞争性的例子，比如写作，就以写这一章为例。<br>　　我不像娜咪，我不是天生的乐观者。我必须学习这些技术来跃过那堵高墙。对我来说，写这本书最困难的地方就是找例子，找一个能表达我抽象概念的有血有肉的例子。写抽象的原理对我来说很容易，因为我花了25年来研究它。但每次要举例说明时，我都会头疼，这表示我撞到了那堵墙。我会逃避，我会去做其他事，就是不动手写例子。假如那堵墙真的很高，我会出去打桥牌。我可能打几个小时，甚至几天。这样一来，工作没有任何进展，在打了几天桥牌后，我会很有罪恶感，觉得很沮丧。<br>　　但现在我不会这样了。虽然我还是会撞到那些墙，但现在我有一些技术来帮助自己。在这一章里，你会学到两个你在工作中可以用到的技术：倾听你自己的内心对话，反驳你的消极想法。<br>　　每个人都有自己的一面墙，都会有些事让自己感到沮丧、气馁。你在撞到这面墙后的行为可以决定你会成功还是失败。失败并不一定来自懒惰，但多数时候我们把不能越过这座墙归因为懒惰。失败也不是因为没有才能或没有想象力，它来自对某种重要技术的无知，而任何学校都不曾教过这种技术。<br>　　在你的工作中，什么任务让你止步不前？回想一下工作中最令你气馁的情境。是打电话给你的客户吗？是写企划案吗？是与顾客争论对错吗？是你学生眼中透露出来的冷漠眼神吗？不管你的困境是什么，这一章就是要来帮助你越过你个人的那堵高墙。</p>
+<h3 id="职场中的乐观"><a href="#职场中的乐观" class="headerlink" title="职场中的乐观"></a>职场中的乐观</h3><p>　　习得性乐观帮助人们越过他们心中无形的高墙，而且不仅仅是他们自己的高墙。我们在第 9 章中看到，一个球队的解释风格关系着这个球队的输赢。而对公司来说，不论大小，也都需要乐观主义。它们需要有才能、有高动机，同时又乐观的员工。一个有很多乐观员工的公司比别的公司更有优势。它们可以在三个方面来利用乐观的优势。<br>　　第一是在筛选人才方面。你的公司可以像大都会保险公司一样挑选乐观的员工。乐观员工的绩效比较好，特别是在有压力时，他们的表现比悲观者好。只有能力和动机是不够的，如果没有不可动摇的信念，那也不会有成功的结果。目前全美已有 50 家公司采用了乐观问卷来筛选他们的员工。这种筛选对培训成本很高或员工流动率很高的公司来说是非常有帮助的。选择乐观的人可以减少人力成本的浪费、提高生产率、改善工作满意度。<br>　　乐观在公司中的第二个用途是可以把合适的人放在合适的位置上，做到人尽其才。乐观程度高的人很显然比较适合压力大、失败率高的工作，这种工作需要具有自主性、坚持性以及敢去做梦的人。悲观虽然对任何人都没有好处，但有些工作需要悲观。我们在第 6 章中看到，有许多证据显示，悲观者对世界的看法更准确。每一家成功的公司，每一种成功的生活，都需要对现实有正确的评估以及有超越现实的梦想。一个人很难同时拥有这两种能力。本章要教你一些技术，使你同时拥有乐观和悲观，并根据情境的需要而使用不同的态度。<br>　　在一个大公司里，如何能做到人尽其才？要决定何种心理的人最适合何种工作，你必须问两个问题：第一，这份工作需要多大程度的持久力和主动性？它会带来多少的挫折感、拒绝或失败？对以下工作而言，乐观的解释风格是必需的。</p>
+<ul>
+<li>  推销</li>
+<li>  经纪人</li>
+<li>  公共关系</li>
+<li>  演艺娱乐业</li>
+<li>  筹款、募捐</li>
+<li>  创造性工作</li>
+<li>  高竞争性工作</li>
+<li>  高耗损性工作</li>
+</ul>
+<p>　　与之相对的另一端是需要高度真实感、准确性的工作，这些通常是低失败率的工作，流动率很低，需要特别的技术，工作压力不大。这些工作需要能正确反映现实的人，而不是冲锋陷阵的人。资深经理以及专业性的工作都需要敏锐的现实感。对这类工作而言，轻度的悲观者比乐观者更合适。这些工作需要知道什么时候不应当去冲锋，什么时候应当小心提防错误的人。</p>
+<ul>
+<li>  轻度悲观的人在以下领域中会表现良好。</li>
+<li>  设计工程及安全工程</li>
+<li>  技术和成本预估</li>
+<li>  洽谈合约</li>
+<li>  财务控制及会计</li>
+<li>  法律</li>
+<li>  企业管理</li>
+<li>  统计</li>
+<li>  技术报告的撰写</li>
+<li>  质量控制</li>
+<li>  人事管理</li>
+</ul>
+<p>　　所以除了极端悲观的人外，公司里有一些轻度悲观的人对企业的健康经营会有所贡献。因此测出应聘者的乐观程度，把他安排到合适的位置上，使他能够发挥所长是极为重要的。<br>　　但每家公司都有一些相对于他们的职位来说太悲观的人。幸好他们可以通过学习来变得乐观。</p>
+<h3 id="反驳自己的想法"><a href="#反驳自己的想法" class="headerlink" title="反驳自己的想法"></a>反驳自己的想法</h3><h4 id="跳墙游戏"><a href="#跳墙游戏" class="headerlink" title="跳墙游戏"></a>跳墙游戏</h4><p>　　<strong>不好的事</strong>：今晚第一个电话就被人家挂掉了。<br>　　<strong>想法</strong>：算了，又处理掉了一个拒绝电话，反正每被拒绝10次才会有一个面谈的机会，这个拒绝使我离面谈更进了一步。<br>　　<strong>后果</strong>：我觉很轻松，很有活力，可以接着打电话。</p>
+<h4 id="反驳-1"><a href="#反驳-1" class="headerlink" title="反驳"></a>反驳</h4><p>　　<strong>冷漠电话</strong><br>　　<strong>不好的事</strong>：那个人在听我讲了半天后才把电话挂掉，让我白费了力气。<br>　　<strong>想法</strong>：他至少应该让我说完。我一定是做错了什么才会在最后关头丢了临门一脚，让煮熟的鸭子飞了。<br>　　<strong>后果</strong>：我非常生气，对自己很失望。我很想今晚到此为此，不再继续了。<br>　　<strong>反驳</strong>：或许他正好在干某件事干到一半，急着回去干完它。我已经让一个大忙人听我说这么久话，我真的很有说服力。我无法控制别人要怎么做，但我已经把材料准备得很齐全了，表达得也很得体。显然这个人没时间听我说完，这是他的损失。<br>　　<strong>激发</strong>：我会继续再打下一个电话，我对自己的表达方式感到满意，而且相信会终有所成。</p>
+<p>　　<strong>不好的事</strong>：这个人显然很感兴趣，但他就是不肯跟我定面谈的时间，非要等我跟他太太谈过后再说。<br>　　<strong>想法</strong>：真是浪费时间。现在我必须牺牲本来可以用来说服别人的时间，重新说服这对夫妇。他为什么不能自己决定呢？<br>　　<strong>后果</strong>：我觉得很不耐烦，而且有点生气。<br>　　<strong>反驳</strong>：嘿，至少这不是拒绝，它还有可能变成面谈，所以不是浪费时间。我可以说服他，我就一定也能说服他太太，所以我已经成功了一半了。<br>　　<strong>激发</strong>：我相信只要再多做一点，我就可以完成这笔交易了。</p>
+<p>　　<strong>不好的事</strong>：我先生在我电话打到一半时，打电话进来。<br>　　<strong>想法</strong>：他干嘛现在打进来？浪费了我的时间，还扰乱了我的步调。<br>　　<strong>后果</strong>：我心里很不痛快，在电话里对他很冷淡。<br>　　<strong>反驳</strong>：不要太苛求他，他并不知道他的电话会扰乱我。他或许认为我可以乘机轻松一下。他能想到我、打电话给我，真是很贴心。我很高兴我有这么一个体贴我、支持我的丈夫。<br>　　<strong>激发</strong>：我放松多了，感到婚姻很美满，我打电话给他，跟他解释为什么刚才的电话那么简短。</p>
+<p>　　<strong>不好的事</strong>：我打了 40 个电话却没有得到一个面谈的机会。<br>　　<strong>想法</strong>：我没有半点进展，打这种电话真是蠢死了，根本是浪费时间与精力。<br>　　<strong>后果</strong>：我觉得很挫败，生气自己把时间花在打这种电话上。<br>　　<strong>反驳</strong>：只是一个晚上如此而已。每个人都不喜欢打这种电话，都觉得很困难，像这样一无所获的夜晚以后还会再发生。就把它当做学习经验好了，我起码练习了如何去表达，所以明天晚上我会表现得更好。<br>　　<strong>激发</strong>：我还是有挫折感，但不像刚才那么严重了。不过我不再感到愤怒，明天晚上我应该会有所收获。</p>
+<p>　　<strong>教学</strong><br>　　<strong>不好的事</strong>：到现在我还是无法让一些学生对学习感兴趣。<br>　　<strong>想法</strong>：为什么我总是无法触及这些孩子的内心？假如我更聪明、更有创意、更有活力，说不定我可以让他们对学习感兴趣，主动学习。如果我这样没有成效的话，我根本没有尽到做老师的职责，或许我不适合当老师。<br>　　<strong>后果</strong>：我不想再去尝试新创意，觉得非常沮丧、泄气，提不起劲来。<br>　　<strong>反驳</strong>：以这一小部分学生的反应来判定我适不适合做老师是不对的。事实上，大多学生对我的教学反应都很好，而且我花了很多时间去设计教学内容，尽量让学生参与，我的教材相当有创意。在有空闲时，我可以请教一下其他老师，看他们是如何应付这个问题的。或许通过集思广益，我们可以拟出一个方案来激发这些学生的兴趣。<br>　　<strong>激发</strong>：我对自己的教学工作有信心多了，我希望跟别的老师讨论后可以得出一些新的想法和做法。</p>
+<p>　　<strong>护理工作</strong><br>　　<strong>不好的事</strong>：还有六个小时才能交班，我们今天人手不够，医生刚才嫌我动作太慢。<br>　　<strong>想法</strong>：他是对的，我的确太慢了。我应该更熟练，但我没有。其他护士都能达到医生的要求，只有我不能，我想我实在不是做护士的料。<br>　　<strong>后果</strong>：我心情低落，对自己没能做好份内的工作感到有罪恶感。我很想抛下工作，跑出医院去透透气。<br>　　<strong>反驳</strong>：如果事情能顺利当然最理想，但理想不是现实，特别是在医院中，理想和现实差得很远。无论如何，这并不是我一个人的责任，我跟其他护士做得一样好。我或许有点儿慢，但今天我们人手不足，我必须多做很多其他的事，所以进展得慢。我应该为多做了这么多事感到高兴，而不应该因为额外的工作使得医生觉得我太慢而感到懊丧。<br>　　<strong>激发</strong>：我现在感觉好多了，而且不再有罪恶感。剩下的六个小时似乎不像刚才那样压得我透不过气来了。</p>
+<p>　　<strong>管理工作</strong><br>　　<strong>不好的事</strong>：我的部门生产又落后了，老板铁定要来数落我。<br>　　<strong>想法</strong>：为什么我的工人都不能尽职尽责，做好他们应该做的事？我已经示范给他们看应该怎么做了，他们还是做不好。为什么我不能让他们表现得好一点？老板雇我来就是要我去督促他们的，现在老板一定会认为都是我的错，我是一个差劲的工头。<br>　　<strong>后果</strong>：我对整组工人都不满，很讨厌他们。我想把他们叫进来臭骂一顿。我对自己的表现也不满意，担心老板会解雇我，我想在我们生产赶上进度以前最好回避老板。<br>　　<strong>反驳</strong>：首先，我的部门生产落后是事实，但我的部门来了很多新手，新手当然干得比较慢。我们以前也有过新手，但不像这次这么多。虽然我给他们做了示范，但他们需要时间来练习。我没有做错任何事，因为那些老手干得还是很好的。所以我只需要耐心点，给新手特别的注意。我已经跟老板解释过了，他知道事实就是如此，我想他可能受了他老板的气。他们不会因此而解雇人。我会再跟他谈，直接问他，我是否有什么地方做不好。同时，我要去试试看能不能找些老手来帮忙。<br>　　<strong>激发</strong>：我不想再臭骂工人了。事实上，我现在可以心平气和地跟他们讨论进度。我不再为公司是否会解雇我而紧张，因为我知道我过去的表现一直很好。我现在不但不应回避我的老板，反而应该主动去跟他汇报进度，沟通存在的问题。</p>
+<p>　　<strong>你</strong>现在应该会发现，当你反驳自己的消极想法时，你会从泄气、懒散、无精打采一跃变得充满活力、充满信心。你需要反复练习反驳，下面我带着你来做些练习，以使你更快、更准确地打击那些悲观想法。</p>
+<h3 id="拯救坏心情"><a href="#拯救坏心情" class="headerlink" title="拯救坏心情"></a>拯救坏心情</h3><p>　　<strong>你</strong>一走进办公室，老板就对你皱眉头，你想：“一定是我的报告写得不好，他要解雇我。”你感到很泄气，偷偷溜进自己的办公室，对着那份报告发呆。你甚至不敢重新再读一遍这份报告，你的心情越来越阴郁。<br>　　当这种事情发生在你身上时，你一定要立刻反驳你自动化的消极想法，把你自己从坏心情中拯救出来。在上面两章中，我们已经看到有效地反驳自己的四个主要方法：</p>
+<ul>
+<li>  证据；</li>
+<li>  其他可能性；</li>
+<li>  暗示；</li>
+<li>  用处。</li>
+</ul>
+<h4 id="证据-1"><a href="#证据-1" class="headerlink" title="证据"></a>证据</h4><p>　　学着做一名侦探，问自己：“支持和反对这些想法的证据在哪里？”<br>　　例如：你凭什么认为老板皱眉头是因为你的报告写得不好？你觉得你的报告有什么不对的地方可能会激怒老板吗？你的报告是否很全面？老板读了你的报告吗？还是这份报告还在他秘书的桌子上？<br>　　<strong>你</strong>会发现许多人总是先想到最坏的结果，有时候没有任何证据就自以为大祸临头。</p>
+<h4 id="其他可能性-1"><a href="#其他可能性-1" class="headerlink" title="其他可能性"></a>其他可能性</h4><p>　　可不可以用其他方式来看这件不好的事？<br>　　例如：老板皱眉头是不是因为其他的原因？你有时不能很快找到答案，因为长年来的悲观解释风格已经定型了。一有坏事出现，悲观的想法自然而然就出现了，而且左右着你的行动，所以你要练习去搜寻其他的解释：“他是不是今天心情不好？”“他是不是昨晚为准备国税局的查帐而没睡觉？”“假如是针对我的话，是我的报告写得不好，还是我的领带太花俏？”<br>　　<strong>你</strong>找出其他可能的解释后，你可以回到第一步，逐一搜寻它们的证据。</p>
+<h4 id="暗示-1"><a href="#暗示-1" class="headerlink" title="暗示"></a>暗示</h4><p>　　如果你悲观的解释是对的，那就是世界末日了吗？<br>　　假如是你的报告让老板恼火，难道这就意味着他会解雇你吗？这毕竟只是你第一次犯错，如果他就此对你产生不好的印象，那你能做什么来挽回？再次回到第一步，即使他不喜欢你写的报告，那么他想解雇你的证据是什么？<br>　　令人不快的情境并不意味着大祸临头。你可以通过分析有关情境的最实际的暗示来掌握“非灾难化”技术。</p>
+<h4 id="用处-1"><a href="#用处-1" class="headerlink" title="用处"></a>用处</h4><p>　　有时思考自己的解释是否准确并不重要，重要的是现在想这个问题是否有用。<br>　　现在去想老板皱眉头的问题有用吗？它会不会干扰你下午那场重要的演讲？如果会，你就应该跳离你消极的、破坏性的想法。<br>　　有三种方法可以达到这个目的，每种方法都很简单有效。<br>　　借用外力来打断这个消极想法。例如，用橡皮筋弹你的手腕，说：“停止，不要再这样想了！”或是用冷水洗脸，说：“好了，不要再想了。”<br>　　设定一个时间专门来想这个问题，但现在不要去想它。你可以设定任何方便的时间来想它。当你发现自己又在想这个问题时，你可以对自己说：“打住，我要放到今晚七点半以后再来想它。”这个烦心的想法一再回来干扰你的目的就是，它要提醒你不要忘记或忽略这个问题。如果我们设定了一个时间专门来处理这个问题，那么反复思考这个问题就没有存在的意义了。<br>　　这种想法一出现就立刻把它写下来。这样，当时间合适的时候，你就可以重新认真地考虑这个想法，而不会因此感到无助。这个方法跟上面的方法一样，它使悲观想法不再有反复出现的理由。<br>　　在有了四个反驳悲观解释的武器后，你现在要练习把你的反驳大声说出来。看不见的敌人是无法打败的，把内心的思想引出来就容易收拾多了。下面是我们在乐观训练班中采用的，一个很有效的方法：选一个你信任的同事来帮你练习。假如你在公司找不到合适的人，那么你的配偶或任何一个有耐心的朋友都可以。他们的任务是把你自己内心的悲观批评还给你。请把你的ABCDE记录给他们看，让他们了解你平常是如何批评你自己的。你的任务是将那些严厉的批评大声地反驳回去，用任何你可以想到的论点去封杀那些批评。下面有些例子，你可以先研究一番再开始你的练习。</p>
+<p>　　<strong>同事</strong>（以你攻击自己的方式攻击你）：今天经理在你说话时连看都没看你一眼，她一定是认为你所说的不重要。<br>　　<strong>你</strong>：我说话时，经理大多数时候并没有看着我，这是事实，看起来她并没有很注意地听我说话（证据）。不过，这并不表示我的想法不重要或她认为它们不重要（暗示），或许她心里有许多事（其他可能性）。我知道过去她很看重我的想法，而且有两三次还来征询我的意见（证据）。<br>　　<strong>同事</strong>（打断你的话）：你一定很笨。<br>　　<strong>你</strong>（继续反驳）：即使她不喜欢我的意见也不表示我很笨（暗示）。我头脑好用，每次谈话时我都能说出有意义、有见解的话来（证据）。下次我一定要先问她是否有空再开口说话（暗示），这样我就不会把她的分心误会成不喜欢我的想法（其他可能性）。</p>
+<p>　　<strong>其他老师</strong>（以你攻击自己的方式攻击你）：你的学生根本不听你的话，他们宁可发呆也不想听你的课。<br>　　<strong>你</strong>：我的确不知道有些学生心里在想什么（证据），但是这并不表示我就不是一个好老师（暗示）。我能够让大部分学生对学习感兴趣，而且我对我的创意教材感到很骄傲（证据）。假如我所有的学生都能对学习感到兴趣，那当然最好，但那是理想不是现实（其他可能性）。我已经在努力使这些学生参与学习，并且鼓励他们尽量参加学校的活动（证据）。<br>　　<strong>其他老师</strong>（打断你）：假如你连维持学生50分钟的注意力都做不到，你一定不是一个好老师。<br>　　<strong>你</strong>（继续反驳）：这一小群学生的失败并不足以抹煞我的成功（暗示）。</p>
+<p>　　<strong>同事</strong>：你让她把你骂得体无完肤，你一点骨气都没有，真是个懦夫。<br>　　<strong>你</strong>：跟上司讨论问题本来就是件困难的事，其他人也有这样的感觉（其他可能性）。我跟上司说话时，口气不能像跟同事那样强硬，但我还是把我的想法清楚地、非情绪化地表达了出来（证据）。谨慎并不表示我就是懦夫，她是我的上司，对我有生杀大权（其他可能性），这本来就是一个很微妙、很难处理的情境。我应该多保留一点，以确保自己没有冒犯她，让她生气，因为她一生气我们就没办法再谈了（暗示）。在我继续跟她讨论之前，我可以先花些时间来排练一下我想说的话，我可以以坚决但不具挑战意味的口气来表达我的意见（用处）。</p>
+<p>　　<strong>同事</strong>：人家挂了你的电话说明你的表达方式有错。<br>　　<strong>你</strong>：我虽然不能像主持人那样，但我的口齿清晰、语气肯定，具有权威性，表达的方式也不错（证据）。我今天都是以一样的方式在打电话，而别人都没有挂掉我的电话，我今天打了20个电话，这是第一个被挂掉的电话（证据）。<br>　　我不认为这跟我的表达方式有什么关系，他很可能正在做什么重要的事，被我打断了（其他可能性）。不管怎样，这是一件让人不快的事，不过这件事并不足以反映出我的销售能力（暗示）。<br>　　<strong>护士同事</strong>：不管你怎么做病人都嫌不够，病人永远要求你全部的注意力，而医生还不断责怪你。如果你是比较高明的护士，你应该可以让病人和医生都满意。<br>　　<strong>你</strong>：话是没错，但还有很多其他的事需要我注意（证据）。这些都是护理工作的一部分，这并不表示我不是一个好护士（暗示）。</p>
+<p>　　<strong>护士同事</strong>（打断你）：护理是个压力很大的工作，你没有足够的驱动力来承担这份工作。<br>　　<strong>你</strong>：我并没有这个权力或责任使病人和医生都快乐，这是一个不实际的想法。我尽我所能使病人舒适，帮助医生看护病人，但我不为他们的快乐负责（其他可能性）。<br>　　这是一个压力很大的工作，我很愿意学习如何来应对压力。或许我应该跟那些有经验的护士谈谈，看他们是怎么处理工作中的压力的（用处）。</p>
+<h3 id="练习、练习、再练习-1"><a href="#练习、练习、再练习-1" class="headerlink" title="练习、练习、再练习"></a>练习、练习、再练习</h3><p>　　现在轮到你了。花 20 分钟去反驳你朋友对你的批评，当成功反驳了一个批评之后，你朋友应该继续下一个批评。20 分钟后，你跟你的朋友交换角色，变成你批评，他反驳。<br>　　本章的目的是教你两个可以在工作中使用的基本技巧。第一，你学习倾听你自己内心的消极对话，你可以在不好的事件发生时，写下当时出现在你心里的想法。你会看到当这些想法是悲观的时候，被动、沮丧随之而来；如果你能把这些习惯性的悲观想法变成乐观的，你就会发现虽然是同样的不如意的事，但你现在却觉得充满了活力与希望。<br>　　要达到这个目的，你必须练习反驳自己的悲观看法。你可以把你工作中或想象中的反驳写下来，然后用外化的方式把这些反驳大声地说出来，以此进行练习。<br>　　这些只是开始，能否成功关键还在你自己。现在，每当你遇到不好的事时，仔细倾听你对该事件的解释。如果这个解释是悲观的，那你就以证据、其他可能性、暗示以及用处为工具，尽力去反驳它。必要时，使用转移注意力的方法，使自己跳出悲观的思绪，让这个新的看待事情的方法取代你原有的习惯性的悲观解释。</p>
+<h3 id="塞利格曼的乐观箴言-11"><a href="#塞利格曼的乐观箴言-11" class="headerlink" title="塞利格曼的乐观箴言"></a>塞利格曼的乐观箴言</h3><p>　　★ 除了极端悲观的人外，公司里有一些轻度悲观的人对企业的健康经营会有所贡献。<br>　　★ 由于某些岗位需要轻度的悲观者，所以了解员工的乐观程度，把他们安排到合适的位置上是极为重要的。</p>
+<h2 id="第-15-章-乐观可以有弹性"><a href="#第-15-章-乐观可以有弹性" class="headerlink" title="第 15 章　乐观可以有弹性"></a>第 15 章　乐观可以有弹性</h2><h3 id="身边的悲喜故事-5"><a href="#身边的悲喜故事-5" class="headerlink" title="身边的悲喜故事"></a>身边的悲喜故事</h3><p>　　抑郁如此流行，我们需要怎样的社会才能幸免？<br>　　后面的这个灾难或许有救，习得性乐观在这份解药里将扮演重要的角色。我们在本书中看到，自第二次世界大战以来，抑郁症的数量急剧增加。现在的年轻人比他们的祖父母得严重抑郁症的几率大了10倍，女人和年轻人特别容易受到抑郁症的折磨。目前看不到任何缓解这个流行病的迹象，而我凌晨四点的噩梦告诉我，对娜拉和她这一代人来说，这是一个真实的危机。<br>　　要解释抑郁症现在为什么这么频繁和平常，为什么发达国家中的孩子这么容易受到抑郁症的侵蚀，我先要检视两个令人警觉的趋势：自我意识的膨胀和公共意识（commons）的消失。</p>
+<h3 id="“特大号”的自我"><a href="#“特大号”的自我" class="headerlink" title="“特大号”的自我"></a>“特大号”的自我</h3><p>　　当今社会对自我的重视是前所未有的，它对个人的成功与失败、幸福与痛苦的重视也是前所未有的。社会赋予个人的权利也是前所未有的：你可以改变自我，甚至改变自我思考的方式，因为这是一个强调个人控制（personal control）的时代。目前自我膨胀已经到了危险的地步，个体的无助已经到了需要被治疗的地步。<br>　　20 世纪初，当刚刚出现生产线时，人们只能买到白色的冰箱，因为把生产线上的每一台冰箱都喷上同样的颜色比较省钱。1950 年以后，人们开始有了选择。由于科技的进步，使得工厂可以给冰箱喷上不同的颜色，而依然有利可图。科技打开了巨大的个性化的市场，这个市场可以满足个人特定的需求。现在的牛仔裤已经不一定是蓝色的了，它可以有几十种颜色和款式；每一年汽车公司都推出各式各样的新款汽车；市面上有着成百上千种啤酒和饮料；单单是阿司匹林就有几百种。<br>　　要创造个性化的市场，就需要广告绞尽脑汁地宣扬个人控制。当人们有很多钱来进行消费时，个人主义就变成了一个有利可图的世界观。<br>　　现代的财富跟几百年前的富裕是不一样的。比如说，一个中世纪的王子，他很富有，但他的财富不能转变成购买力，他没办法卖他的领地去买马，就像他没有办法去卖他的爵位一样。但我们今天的财富是建立在五花八门的选择上，我们有了更多的食物、更多的衣服、更多的音乐会、更多的书、更多的知识，甚至有人说我们有了更多的可以去选择的爱。<br>　　物质欲望的大幅提高，也带来了工作和爱情上的期待（或者说可接受的程度）。以往只要工作能维持一家人的温饱，我们就很满意了，但今天却不行。它必须要有点意义才行，同时还要有升迁的途径和空间，同事间要意气相投，还要有良好的退休制度，这样我们才能感到满意。<br>　　人们对婚姻的要求也不一样了，它不再只是为了传宗接代。我们要求配偶性感、苗条，谈吐有风趣，网球要打得好，等等。这些期望的提升来自我们选择性的增加。<br>　　谁来选？所有人。现代人不再像古代人，一生下来就注定是个农民。现在他们有无数的选择，有自己的偏好，其结果就是一个新的自我，一个“特大号”的自我。<br>　　我们现在的财富和科技使自我发展到了顶点。不管好还是不好，我们现在就处在一个特大号自我的文化中。过度膨胀的自我带来了危机，其中最主要的一项就是抑郁症的泛滥，我认为抑郁症的流行跟特大号自我有很大关系。<br>　　如果在一个隔离的情境下，自我的扩张可能有正面的效果，它可以使我们的生活更充实，把潜能发挥出来。但事与愿违。我们这个时代自我的扩张正好与公共意识的消失同时发生，人们失去了生存的高层目的，而生活目的的消失与共同意识的薄弱，为抑郁症的繁殖提供了最佳环境。</p>
+<h3 id="遗失的精神家园"><a href="#遗失的精神家园" class="headerlink" title="遗失的精神家园"></a>遗失的精神家园</h3><p>　　一个人如果只是为他自己而活，那的确是一个很贫乏的生命。人类需要生活在意义和希望中。我们以往的生活充满了意义和希望，当我们遇到失败时，我们可以停下来，在这个意义和希望的精神堡垒中休养一下，重新去思考我是谁。我把这个叫做公共意识，它包括我们对国家、神祗和家庭的看法。<br>　　过去的 25 年里，削弱我们公共意识的事件不断发生。这使得我们几乎要赤裸裸地去面对生活的冲击。总统的被刺、越战、水门事件等，破坏了我们对国家的期望。因此，爱国、对国家忠诚不再能带给我们希望，这使得人们从内心去寻找自我满足，使得人们更加注意他们自己的生活。<br>　　政治事件削弱了人们对国家的期望，社会趋势也减弱人们对神祗和家庭的依赖。本来宗教和家庭是可以取代国家而作为希望和目的的来源的，但不幸的是对国家信心的消失与家庭的破裂、信仰的崩溃几乎同时发生。<br>　　高离婚率、快速的人口流动以及低出生率是家庭瓦解的三大原因。由于离婚频繁，家庭不再是我们的避风港。高流动率严重动摇了家庭的凝聚力。最后，美国大多数家庭只有一两个小孩，这样他们很可能没有兄弟姐妹，非常孤独。虽然父母投到孩子身上的注意力在短期内似乎对孩子非常有利（父母的注意的确使孩子的智商提高了 0.5），但是长远来讲，它使孩子产生一个错觉，以为他自己的快乐与痛苦比什么都重要。<br>　　因此，当你对神祗失去信仰，对国家保护你的力量失去信心，当家庭瓦解时，你还可以去哪里寻找认同？寻找人生的目的？寻找希望？当我们需要一个避风港时，我们发现原来那些舒适的沙发、躺椅都不见了，只剩下一张小小的、摇摇欲坠的小板凳——自我。而这个没有理想、没有目标的特大号自我，对抑郁症可以说是坐以待毙的。<br>　　个人主义的兴盛和公共意识的薄弱都会增加患抑郁症的可能性。而这两者同时发生在美国的现代历史中，依我看，这就是抑郁症在美国泛滥的主要原因，造成泛滥的机制则是习得性无助。<br>　　在本书第 4 章和第 5 章，我们看到当人们面临一个他无法控制的失败时，他就会有无助感。这个无助感越来越强烈时就会变成无望，最后升级成为严重的抑郁症，他们把所有的事情都看成是永久性的失败，把责任都归因为自己的无能。<br>　　人一生中免不了有失意的时候，我们很少能心想事成、万事如意。挫折、失败、闭门羹可以说是家常便饭。在美国这种个人主义的文化中，除了个人，它不再重视其他东西，而当个人遭遇不幸时，他也不能从社会得到任何安慰。一个比较“原始”的社会会对它的成员的损失加以安慰或补偿，使无助不致于升级成无望。一位心理人类学家希弗林（Buck Schieffelin）曾到新几内亚的原始部落卡鲁里（Kaluli）中寻找类似文明世界的抑郁症，结果他一无所获。当卡鲁里人饲养的猪跑掉时，这个人会很伤心，但是族人会再给他一头猪，这个损失会由全族人共同承担，所以他的无助不会升级成无望，他的损失也不会扩大成绝望。<br>　　美国社会抑郁症的泛滥不全然是因为社会不施予我们援手，很多时候其实是极端的个人主义所造成的悲观解释风格使得人们把失败归因于永久性、普遍性以及人格化的原因。个人主义的抬头使人们自然而然地认为失败大概就是我的错。既然没有别人存在，当然好坏都是自己的事。公共意识的丧失意味着失败是永久的、普遍的。由于神祗、国家、家庭都不再重要，因此个人的失败看起来就像是天大的灾难。在个人主义的社会里，时间随着个人的死亡而终止，因此个人的失败似乎就是永久的，而且这个失败得不到任何慰藉，这使他的一生都受到这个失败的影响。如果我们有超越自我的、比较高远、比较宏大的信仰时，个人的失败就会显得微不足道，看起来就不会那么永久，也不会有那么大的杀伤力。</p>
+<h3 id="取舍之间"><a href="#取舍之间" class="headerlink" title="取舍之间"></a>取舍之间</h3><p>　　所以下面就是我的诊断：抑郁症的泛滥来自个人主义的兴起以及公共意识的消失。这表示我们有两个出路：第一就是改变个人与团体之间的关系，寻求新的平衡点；第二就是找出特大号自我的优势。<br>　　特大号的自我会有怎样的未来？我认为如果不对个人主义加以限制和规范，它就会像脱缰野马，不但会毁了我们，也会毁了它自己。因为盛行个人主义的社会都会充满了抑郁症，而当别的社会看出个人主义会使抑郁症增加10倍时，个人主义自然就会衰微。<br>　　第二个原因，也是比较重要的原因就是生命的无意义感。有意义的一个必要条件就是它必须依附到一个比自我更大的东西上去。你可以依附的东西越大，你所拥有的意义就越多。如果年轻人不能正视他和上帝之间的关系，不再在乎他对国家的责任，也不再是一个大的、紧密的家庭的一份子时，他就很难在他的生命中找到任何意义。<br>　　换句话说就是，自我本身是没有什么意义的。<br>　　因此如果我们想减少抑郁症和生命的无意义感的话，我们就一定要放弃一些东西。一个可能性是放弃极端的个人主义，让特大号的自我回归原本的自我。另一个比较可怕的可能性是我们投降，交还个人主义所带给我们的新自由，放弃个人控制和对个人的关心。</p>
+<h3 id="特大号自我的宝藏"><a href="#特大号自我的宝藏" class="headerlink" title="特大号自我的宝藏"></a>特大号自我的宝藏</h3><p>　　另外还有两个比较有希望的可能性。它们都是要发掘特大号自我的优势：第一个是利用增加公共意识来平衡自我和团体的关系；第二是运用习得性乐观。</p>
+<h4 id="道德慢跑"><a href="#道德慢跑" class="headerlink" title="道德慢跑"></a>道德慢跑</h4><p>　　特大号的自我并非一无是处。它可以促使自我取得进步，或许在这个自我改进的过程中，它可以看出自我第一的本位主义虽然在短期内很有利，但长远看来却是有害的。<br>　　这个特大号自我所能做的选择中，有一些是相互矛盾的。或许在了解了抑郁症和无意义感会跟随着过度的自我中心而来后，我们可以降低对自我舒适与否的重视，但仍保持对个人主义重要性的信仰。这样，我们就可以匀出一点空间让我们可以依附到比较宏大的东西上去。<br>　　但即使我们愿意这样做，在美国这个如此个人主义化的社会中，对团体的认同与奉献也并不是一说就能做到的。我们还是有太多的自我存在着，因此必须想一个新办法。<br>　　举一个慢跑的例子。很多人都选择将慢跑作为健身运动，我们每天黎明即起，不论天气如何都坚持去运动。慢跑本身实在不能带给我们什么快乐，即使不痛苦，至少也是不舒服的。那么为什么还要去跑，自找罪受呢？因为它对我们的长远利益有好处。我们相信，只要我们坚持，我们以后一定会从中获益，我们会更长寿、更健康、身材更好。我们用每一天的自我牺牲去换取长远的自我利益。一旦我们能够说服自己缺少运动会让我们赔上健康和幸福，那慢跑就会越来越有吸引力。<br>　　个人主义和自私自利也是一样。我认为抑郁症是来自对自己的过度关怀和对团体的不够关心。缺乏运动和胆固醇过高会危害我们的健康和幸福，同样，过度关心自己的成功与失败，对团体没有认同感与奉献心也会造成我们的危机——抑郁、不健康、生活无意义。<br>　　为了我们自身的利益，我们应该怎样来降低自我的分量而增加团体的重要性呢？答案就是道德慢跑。<br>　　对现在的人来说，花时间、金钱让自己出头、拿第一是很自然的事，但要将这些用到别人身上以实现团体的幸福，就不是一件容易的事了。在一个世纪前，星期天是用来休息和与家人聚在一起大吃一顿的，但现在我们相信这样做对身体不好，所以我们放弃了一家人团聚、吃喝的乐趣，现在我们在星期天进行运动和节食。<br>　　我们如何打破我们自私的习惯呢？运动——不是身体上的而是道德上的，它可能是抵抗抑郁症的良药。看看下面哪一项对你比较适合。</p>
+<ul>
+<li>  把你去年退税金额的 5% 作为慈善基金捐赠出去。不要通过基金会或慈善机构，而是由你亲自把这笔钱发放出去。你可以选你感兴趣的慈善领域，登个广告说你有若干美元要捐献，请符合你条件的人前来申请。你要亲自面谈，把钱给出去，并确定这笔钱能达到你的目的。</li>
+<li>  放弃一些享乐行为，例如一周下一次馆子，每个星期二的晚上租录影带来看，周末去打猎，下班回家打电子游戏，或是周末去逛街等。把这个时间（相当于一周有一个晚上）用于从事一件对团体、社区有利的活动，如帮助志愿者做晚饭给流浪者吃、帮助社区小学做公益宣传、拜访爱滋病患者、清扫街道、为你的母校募款等，把你下馆子、租录影带、逛街的钱和时间省下来去做这些公益活动。</li>
+<li>  当乞丐向你乞讨时，不要塞钱给他就算完事。停下来，跟他聊聊。如果你认为他会好好利用你给他的钱，而不会去买毒品、香烟和啤酒，那你再给他钱（但一次不要超过5美元）。常常去那些乞丐聚集的地方，跟他们聊天，把钱给那些真正需要的人。一个星期花三个小时做这件事。</li>
+<li>  当你在报章杂志上读到某个令你感动的英雄事迹或好人好事时，写信给那个人。写信去鼓励那些值得你尊敬的人，指责、提醒那些有不良行为的人或组织。写信给你选区的议员、立法委员，促动他们采取行动。一个星期花三个小时来写这种信，揭恶扬善。这种信要慢慢地构思才会写得好、写得动人，有说服力。把它当做你的业务报告那样谨慎小心地来写。</li>
+<li>  教导你的孩子如何施舍。叫他们把他们的零用钱的 1/4 留下来准备捐出去，让他们自己去找一个值得捐款的人或事情。</li>
+</ul>
+<p>　　你不一定要因为大公无私才去做这些事，你可以因为这样做对你自己好而去做它。<br>　　或许有人会说，跟这些团体接触会让你更抑郁。如果你是为了逃避抑郁，你应该去跟那些度假圣地的有钱人混在一起，而不应该去收容所看那些比你更可怜的人。不可否认，一定有人会因此而沮丧，但奇怪的是，看到别人在受苦会使你悲伤，但这种悲伤却不是抑郁症的那种没有指望、暗无天日的、永恒的悲伤。这种悲伤是一种悲天悯人的悲伤。许多有经验的志愿者都发现，他们反而从这些工作中发现了自己生命的意义，跟那些垂死的病人接触反而激起了他们自己生命的火花。他们为这些不幸的人感到难过，但他们不抑郁。<br>　　如果你为社区、为团体服务得够久的话，你就会找到生命的意义，你会发现你越来越不容易抑郁，也变得不容易得感冒，你越来越喜欢参加团体的活动而不喜欢关起门来独乐乐。更重要的是，你心灵中的那块空虚，那个个人主义所滋养的无意义感会被填得满满的。<br>　　在这个选择的时代里，这样做的选择权绝对在你自己的手中。</p>
+<h4 id="学会乐观"><a href="#学会乐观" class="headerlink" title="学会乐观"></a>学会乐观</h4><p>　　开发特大号自我的优势的第二个方法就是本书的标题——学习乐观。我们前面已经讲得很清楚，抑郁症是如何跟随着一个对失败或失落的悲观想法而进入你心田的。学习如何用乐观的态度去面对失意是击退抑郁症最好的武器。学会了它，你将终生受用不尽，它可以帮助你获得更高的成就，拥有更健康的身体。<br>　　一个把抑郁症看成是基因问题的社会，会使我们对改变悲观的想法无能为力。一个不重视自我的社会，是不会对自我有什么想法感兴趣的。但当一个社会以自我为中心在运转时，就如同我们现在的这个社会，自我的想法和这个想法所引发的行为后果已经成为了科学研究的题目。<br>　　我希望，我女儿娜拉这一代人会把抑郁症看成是我们思想的衍生物。更重要的是，他们会认为我们的思想是可以改变的。特大号自我最大的防御工事就是自我认为它是可以改变自己的想法的，而这种想法、信心使得改变得以发生。<br>　　我并不认为单独一个习得性乐观就足以抵挡整个社会的抑郁症潮流，乐观只有跟智慧结合在一起时才有用，它单独存在时没有任何意义。乐观是帮助一个人达到他所设定的目标的工具，乐观是否有意义取决于目标的选择。当习得性乐观是与社会奉献相结合时，抑郁症的泛滥和生命的无意义感才会被遏止。</p>
+<h3 id="弹性的乐观主义"><a href="#弹性的乐观主义" class="headerlink" title="弹性的乐观主义"></a>弹性的乐观主义</h3><p>　　乐观对我们有益，这是毫无疑问的。它同时也使生活更有趣，因为我们头脑中每一分钟的念头都是快乐的。但仅仅是乐观并不能阻止抑郁症，乐观并非万灵药，我们前面谈过它的缺点与局限，例如，它在某些文化中效果较好，在某些文化中效果不好；它有时会让我们看不到真实的外界；最后，它也会使有些人去逃避自己失败的责任。但是这些局限不会抹煞乐观的好处。<br>　　在第 1 章里，我们谈到有两种看待世界的方法，一种是乐观的，另一种是悲观的。如果你是个悲观的人，你别无选择，只好住在悲观的世界里，时时忍受抑郁症的折磨。你的工作、你的健康因此要付出代价，你的心境永远是阴暗多雨的。付出了这个代价后，<strong>你所换来的是对世界更精确的认识以及强烈的责任感。</strong><br>　　<strong>但是如果你学会了乐观，你就可以随时因需要而选择性地用它，你不必担心成为乐观的奴隶。</strong><br>　　如果你已经把这个技术学得很好了，当你碰到挫折、失败时，你可以拿出反驳的法宝来打退盘踞在你心里的大祸临头的思想，阻止抑郁症的进攻。让我们假设你的女儿——小梅，正要上小学，她是全班年龄最小的，也是个子最矮的。她的老师希望她再在幼儿园待一年，如果不这样，她可能永远都比她的同学不成熟。但这个留级的想法让你很郁闷。<br>　　现在你可以选择各种各样的反驳来证明她应该进入一年级就读，例如，她的智商很高、她的音乐天分比幼儿园中其他任何小朋友都高、她很漂亮，等等。你也可以选择不去反驳。你可以对自己说这是需要赤裸裸地面对真相的时候，你女儿的前途把握在你的手中，这不应该是击退抑郁的时机，你犯错误的代价远大于找回自信心的好处。这样一来，你可以选择不去反驳你的悲观想法。<br>　　现在你所拥有的其实是更多的自由、更多的选择。你可以在认为乐观对你更有益，乐观会使你获得更高成就或更健康时去用它，你也可以在你认为需要有清晰的判断时不去用它。习得性乐观并不会贬损你的价值观或降低你的判断力。你可以自由地运用它来完成你设定的目标，它使你积累的智慧能得以发挥。<br>　　那么天性就乐观的人又怎么样呢？这些乐观的人一直都是乐观的奴隶，就好像悲观的人一直都受到悲观的控制一样。不过他所享受的好处比较多：他们的身体比较好，成就比较高；他比较容易当选，担任公共职务。但他们都必须为上述的好处付出代价：不切实际的美好幻境，或者薄弱的责任感。<br>　　乐观者现在也可以通过了解乐观的运作机制，从它的掌控下解脱出来。他可以对自己说目前这个情境不适宜采用他以前的习惯，他可以选择不用他惯用的反驳战术，因为他了解了这个战术的利与弊。<br>　　所以，乐观主义的好处并非无限量的，悲观主义在社会和我们个人生活中也都有重要的作用。当情境需要悲观时，我们必须有勇气去接受它。我们所需要的不是盲目的乐观，我们需要的是弹性的乐观，一个审时度势的乐观。<br>　　这种乐观的益处，我认为是没有止境的。</p>
+<h3 id="塞利格曼的乐观箴言-12"><a href="#塞利格曼的乐观箴言-12" class="headerlink" title="塞利格曼的乐观箴言"></a>塞利格曼的乐观箴言</h3><p>　　★ 要遏制抑郁的流行，首先要纠正对自我的过度重视，其次要加强社会、国家、集体、家庭等对个人的慰藉作用。<br>　　★ 乐观不是万灵药。我们需要的是弹性的乐观，即需要乐观的时候乐观，需要适度悲观的时候悲观，这种审时度势的乐观能帮助我们幸福地过一生。</p>
+
+    </div>
+
+    
+    
+    
+      
+
+
+    <footer class="post-footer">
+          
+
+<div class="post-copyright">
+<ul>
+  <li class="post-copyright-author">
+      <strong>本文作者  </strong>千灵夙赋
+  </li>
+  <li class="post-copyright-link">
+      <strong>本文链接 </strong>
+      <a href="https://qianling.pw/learned-optimism" title="《活出最乐观的自己》书摘">https://qianling.pw/learned-optimism</a>
+  </li>
+  <li class="post-copyright-license">
+    <strong>版权声明  </strong>本博客所有文章除特别声明外，均采用 <a href="https://creativecommons.org/licenses/by-nc-sa/4.0/" rel="noopener" target="_blank"><i class="fab fa-fw fa-creative-commons"></i>BY-NC-SA</a> 许可协议。转载请注明出处！
+  </li>
+</ul>
+</div>
+
+          <div class="followme">
+  <span>　</span>
+
+  <div class="social-list">
+
+      <div class="social-item">
+        <a target="_blank" class="social-link" href="/atom.xml">
+          <span class="icon">
+            <i class="fa fa-rss"></i>
+          </span>
+
+          <span class="label">RSS</span>
+        </a>
+      </div>
+  </div>
+</div>
+
+          <div class="post-tags">
+              <a href="/tags/%E4%B9%A6%E6%91%98/" rel="tag"># 书摘</a>
+              <a href="/tags/%E5%BF%83%E7%90%86%E5%AD%A6/" rel="tag"># 心理学</a>
+          </div>
+
+        
+  <div class="post-widgets">
+    <div class="wpac-rating-container">
+      <div id="wpac-rating"></div>
+    </div>
+  </div>
+
+          <div class="post-nav">
+            <div class="post-nav-item">
+                <a href="/lenin's-kisses" rel="prev" title="《受活》书摘">
+                  <i class="fa fa-chevron-left"></i> 《受活》书摘
+                </a>
+            </div>
+            <div class="post-nav-item">
+                <a href="/the-dandelion-girl" rel="next" title="《蒲公英女孩》">
+                  《蒲公英女孩》 <i class="fa fa-chevron-right"></i>
+                </a>
+            </div>
+          </div>
+    </footer>
+  </article>
+</div>
+
+
+
+
+
+
+    <div class="comments" id="valine-comments"></div>
+</div>
+  </main>
+
+  <footer class="footer">
+    <div class="footer-inner">
+
+
+<div class="copyright">
+  &copy; 
+  <span itemprop="copyrightYear">2022</span>
+  <span class="with-love">
+    <i class="fab fa-github-alt"></i>
+  </span>
+  <span class="author" itemprop="copyrightHolder">千灵夙赋</span>
+</div>
+<div class="busuanzi-count">
+    <span class="post-meta-item" id="busuanzi_container_site_uv">
+      <span class="post-meta-item-icon">
+        <i class=""></i>
+      </span>你是第
+      <span class="site-uv" title="总访客量">
+        <span id="busuanzi_value_site_uv"></span>位到访的小伙伴喔
+      </span>
+    </span>
+    <span class="post-meta-item" id="busuanzi_container_site_pv">
+      <span class="post-meta-item-icon">
+        <i class=""></i>
+      </span>本站已被访问
+      <span class="site-pv" title="总访问量">
+        <span id="busuanzi_value_site_pv"></span>次啦
+      </span>
+    </span>
+</div>
+
+    </div>
+  </footer>
+
+  
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/animejs/3.2.1/anime.min.js" integrity="sha256-XL2inqUJaslATFnHdJOi9GfQ60on8Wx1C2H8DYiN1xY=" crossorigin="anonymous"></script>
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/next-theme-pjax/0.5.0/pjax.min.js" integrity="sha256-3NkoLDrmHLTYj7csHIZSr0MHAFTXth7Ua/DDt4MRUAg=" crossorigin="anonymous"></script>
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.6.0/jquery.min.js" integrity="sha256-/xUj+3OJU5yExlq6GSYGSHk7tPXikynS7ogEvDej/m4=" crossorigin="anonymous"></script>
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/fancybox/3.5.7/jquery.fancybox.min.js" integrity="sha256-yt2kYMy0w8AbtF89WXb2P1rfjcP/HTHLT7097U8Y5b8=" crossorigin="anonymous"></script>
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/lozad.js/1.16.0/lozad.min.js" integrity="sha256-mOFREFhqmHeQbXpK2lp4nA3qooVgACfh88fpJftLBbc=" crossorigin="anonymous"></script>
+<script src="/js/comments.js"></script><script src="/js/utils.js"></script><script src="/js/motion.js"></script><script src="/js/schemes/muse.js"></script><script src="/js/next-boot.js"></script><script src="/js/pjax.js"></script>
+
+  
+  <script src="https://embed.widgetpack.com/widget.js" async></script>
+  <script class="next-config" data-name="rating" type="application/json">{"enable":true,"id":8657,"color":"5bc0de"}</script>
+  <script src="/js/third-party/rating.js"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/hexo-generator-searchdb/1.4.0/search.js" integrity="sha256-vXZMYLEqsROAXkEw93GGIvaB2ab+QW6w3+1ahD9nXXA=" crossorigin="anonymous"></script>
+<script src="/js/third-party/search/local-search.js"></script>
+
+
+
+  <script src="/js/third-party/fancybox.js"></script>
+
+  <script src="/js/third-party/pace.js"></script>
+
+  
+  <script data-pjax async src="https://busuanzi.ibruce.info/busuanzi/2.3/busuanzi.pure.mini.js"></script>
+
+
+  <script class="next-config" data-name="leancloud_visitors" type="application/json">{"enable":true,"app_id":"zulMeib4pyC6zB1a65OmVtHz-gzGzoHsz","app_key":"TEjUlOUBz3KwSUmDQ35ROxpw","server_url":null,"security":false}</script>
+  <script src="/js/third-party/statistics/lean-analytics.js"></script>
+
+
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/quicklink/2.2.0/quicklink.umd.js" integrity="sha256-4kQf9z5ntdQrzsBC3YSHnEz02Z9C1UeW/E9OgnvlzSY=" crossorigin="anonymous"></script>
+  <script class="next-config" data-name="quicklink" type="application/json">{"enable":true,"home":false,"archive":false,"delay":true,"timeout":3000,"priority":true,"url":"https://qianling.pw/learned-optimism"}</script>
+  <script src="/js/third-party/quicklink.js"></script>
+
+
+<script class="next-config" data-name="valine" type="application/json">{"enable":true,"appId":"zulMeib4pyC6zB1a65OmVtHz-gzGzoHsz","appKey":"TEjUlOUBz3KwSUmDQ35ROxpw","serverURLs":"https://zulmeib4.lc-cn-n1-shared.com","placeholder":"说点什么好呢~","avatar":"wavatar","meta":["nick","mail","link"],"pageSize":10,"lang":null,"visitor":false,"comment_count":true,"recordIP":false,"enableQQ":true,"requiredFields":[],"emojiCDN":"//i0.hdslb.com/bfs/emote/","emojiMaps":{"团宝":"311f83d568e2fd702b08f40d4c838572a07ebea0.png","少前小剧场-心虚":"61ea3a788ec43241860ed984672eb588963bc98a.png","少前小剧场-打call":"f4b6b513bf4280da6395a40a61d15480ff12f978.png","少前小剧场-卖萌":"bbe8c979922144e667efd63dcce0320437425a00.png","少前小剧场-钱钱":"48ae808b0463e0cde3cc5c8666839776ed7a4cfb.png","泠鸢yousa-awsl":"7663b729161bd4556c2ec318c07791000743eb56.png","泠鸢yousa-打call":"718e9495846db4172eb87d2f7f02015a34d35ea2.png","泠鸢yousa-大哭":"3f757b147b9b1e201470eae7dac9cc0360172569.png","泠鸢yousa-好人卡":"e3907b3bb20b18e7ecb11cd86829c9a4ce5b1b2f.png","泠鸢yousa-加大力度":"a0393a2d4b522f07a319dfd2e91754a3cdff2c48.png","泠鸢yousa-滑稽":"a8057c0e0579b93c16010a270e261fd0a64034af.png","泠鸢yousa-请吃桃":"e92276d9d8c28f85f7dbcc0fbbb6ecb3345ce33e.png","泠鸢yousa-生气":"9e6ba9ff34101e04d3e321cad486f845f892050e.png","泠鸢yousa-真棒":"02ea49543a3ac52feee185c156ab08fb2bfdd89e.png","初音未来-GKD":"44caa7ec800837d8860482c214ac792f4c37c490.png","初音未来-加油":"4943a9be0a3134125c7d585b4dafde79a9a1990a.png","初音未来-哭了":"db9b01e5808967a32ed644b490ab47faf0f29ce3.png","花园Serena-？？？":"42f7ab2a562d000929979976d30669bec042662f.png","花园Serena-安详去世":"cdf595646132b98dcf1d230d351b2738d68f49c3.png","花园Serena-mua":"20319d3948da83f666a643b2c8103e6da0e36721.png","花园Serena-到点了":"af2f6c0dd1155f4aefb610cc6d09c135df9e6752.png","花园Serena-恭喜":"c1d8361755bb135d24b3b4680fe6ba03c086b395.png","花园Serena-喵":"4159859e6c9c2e0476299454b6015c2659149e3c.png","花园Serena-睡":"ae8ad8fd2a8d14e53938ba7dc7ca22681143dc09.png","白上吹雪-不是猫咪":"7524855a584f7ec0f9cf337b1a3554ee5ffd29b9.png","白上吹雪-吃惊":"aa6549e4daba755b5cf6a7031bd37ab9cf378706.png","白上吹雪-大佬喝茶":"9c7f6f0c192d972c27988d7d461477ca8871dcc6.png","白上吹雪-狐狐祟祟":"14f8be6955ee392baccd7d82b4371765a0c18523.png","白上吹雪-摸摸":"218cc0fb954a3dadde61eed03e3a376f277f36ee.png","白上吹雪-围观":"04d66a7b0b7b4f78bf45297cd91c0059de71b8bb.png","白上吹雪-一派狐言":"7d504e583857d68edf4fe0706be0b426f0d3cfb1.png","白上吹雪-emmm":"709bc019cf7960d9dcb40a0d5a444f8a78e376d3.png","原神-哦":"4b8b6f0e451c600abf2d83560125d03cfa97fe28.png","原神-哼哼":"62d09fa482842dabbd4a51176abc0ec20a64a359.png","原神-给我走开":"c0a9f2bea10fdf763b4fbe3874ee254d61916711.png","原神-鸽子":"d03a8f9f490eb007aae2d826f9143e3a29a3be5a.png","原神-干杯":"966f0b307bf4d07e81162dc32bf1e71c83bf997a.png","原神-吃惊":"d8d07498a567ea109a8fc4b58ffccdc33643cd99.png","原神-不要啊":"8ea92be976beb8126adc7cabc2aa7f2b02b9bee2.png","原神-拜托":"2f2817b84caf9d81fdce171d18a3f99983f1ec64.png","2233塔罗牌-撒花":"0d301be888e87aed6cc8e6548fbc74a23421dedc.png","2233塔罗牌-我觉得星":"1aa7391b61aa7be88644db2672cd4603559f1469.png","2233塔罗牌-下次一定":"294690ac14a2adc6ee50b138229aa5c53636e46f.png","洛天依·夜航星-爷青回":"d1202872850a335b357e702adaf3d2a79db72e13.png","洛天依·夜航星-萌妹初醒":"3159931d9afa243c6cf5939753e3c82acb69a554.png","洛天依·夜航星-冲鸭":"659efad4a6aa25ed6a98efe611564c26f497f436.png","洛天依·夜航星-Lucky":"bbeb9d231773a168397697072a11373893d7c01a.png","洛天依·夜航星-锦鲤":"35ab588061c32f07743b07f1ac3f62a16f34438c.png","神乐七奈-变猫猫":"9f699c56da1178079b18be27dc3f219138e4a164.png","神乐七奈-辛苦辣":"7b22908d4afac2c0ad1ba96177ac7a24855f4a2e.png","2021拜年纪-投币":"d2d0a3a4621dede09506264110cefcbfa9561572.png","双鱼座-做白日梦":"ba03f95ebe480106806377024e0c93ddb9c0f836.png","崩坏3-吃饭团":"62173e795139cfaf60b5665165400e99bb8a14ac.png","崩坏3-饿了":"8b6160dfc5f8a8608e88bcb380f4e812b8a165cb.png","崩坏3-干杯":"8de5f3a1cc3dfd9f7be8f12662a489214d3e72fb.png","不问天-大哭":"aea0c17a62f825621a1273f100c17330180b7b01.png","进击的冰糖-探头":"ae834e6efdd568f7e30aec059a8646b75438d896.png","干物妹！小埋-？？？":"d2d0955e6ddf2d3528c6f2364b7002b114907c94.png","干物妹！小埋-抱抱":"f7d5a5150733a15386d98015114630e893f5281b.png","Hiiro-亲亲":"0b54433d978f51a7031a965f2981832129eb8ef5.png","C酱-问号":"4fb6f0d8fcedef1624c5999609036346748b31e2.png","C酱-AWSL":"4b8ac5c1fa7358d949ecfe089e02b252b29d6082.png","C酱-害怕":"f5f777b059df8c40cbc240586aeaf4f63af97f91.png","C酱-嘻嘻":"65cf8762af542e8a72edc466b05bb1a19600dc2d.png","C酱-不要啊":"86994300b58eb3cb91fc99818dd87a691deed564.png","一周年纪念-抱大腿":"0800070155b5dabc3097793c0e086420057a7e2f.png","咩栗-nya":"b8011132b40b4f9807523db3d21581f82c2dce91.png","咩栗-打call":"01b6ee0712d13daa323dbd89217018ea7f6794a5.png","咩栗-聪明":"750542d25fcf1675baf143c2ab7e945445e8b078.png","咩栗-好耶":"9aa9b53211a938c1859c15407cee57cc7519fefd.png","咩栗-惊":"8c4ecf43c895bc9ed23eea9274328ba6cf24481e.png","咩栗-咩？":"bb305147beb88a101061dff54cbcb9062635670b.png","咩栗-咩呀！":"a36a0973f1c9935577db05bc90b602dc61236c0f.png","咩栗-斯米马三":"a46bc117192aa2495c492acca03e27393258c015.png","咩栗-羊名立万":"8fd2b4174f94c1c9b7cf4cf132a54838db40ddff.png","咩栗-羊羊得意":"dd55311765d00d768acb157958e85413ae25578c.png","嘉然-mua":"74ea9b89f8923df6a123cabe6053762b9e776387.png","嘉然-安详":"312359401cc72c34fcea3654cdba42db0f9f3dd0.png","嘉然-暗中观察":"3acf0b43facfd0601f5ab88cca6e401aa4f5a02e.png","嘉然-锤头丧气":"e6342840311ffeba8f2c58d1c360d76644e75dff.png","嘉然-点赞":"7017d90d4ceb9ea042cef8adc70d35eeb1f95e7e.png","嘉然-嘉人们":"d270845c9590da372e9b311cd6d976459acd1087.png","嘉然-嘉速心动":"387035168f40ca81afce8b38303c60ceb0c5dc6c.png","嘉然-流口水":"78bfeff475ad56a6d9379164b099f1ad8ecd7086.png","嘉然-你好":"d1530f972a59bca97bc4b8acf4f7e16f989f37c3.png","嘉然-一眼真":"ff436f5821db8b871517d0e5bb7ade7b64d3d0bf.png","嘉然-绷不住了":"4f0a9ee7708d71083dba4e79768ff0b7c308eaf4.png","嘉然-笔芯":"332a6df0e6def8da77e09310a62f3bffdc397640.png","嘉然-我有嘉心糖":"7579c6085f984f39ff0f6a2cb710301a2b113fac.png","银杏鎏金-幸运喷雾":"89e550f628333fe35f0b010337bdc5c4bf713cfc.png","2022拜年纪-HAHA":"ece69ad87284eb12324572be2a9009c0bc5e65b8.png","2022拜年纪-？？？":"0c5acb46f82cc559e16e542c29ae3bd503b65344.png","2022拜年纪-比心":"5001d623ddbe81d704e0093343ced12e2b38a3db.png","2022拜年纪-不愧是我":"ab807d0265a5c834c0d4d54b676c54da4feb38ce.png","2022拜年纪-不要啊":"80a74addbae8dd5bccc71728181e1d7e11a79d19.png","2022拜年纪-馋":"5012311cfa88687663f636f044f020a611a49848.png","2022拜年纪-打call":"54f99d1e613b42b0241a7f7c9ef5d8f5331fc754.png","2022拜年纪-瞪大双眼":"7def07a3a1829c7e26cfa6a3f1259fe3f9b9d4d3.png","2022拜年纪-放空":"823ea6f47ef1dda2d85317f635dc7d42a58c1545.png","2022拜年纪-干了这杯":"de06e28d6afee561556c6e3cbd199d21f4e4fd09.png","2022拜年纪-哈？":"206ddfebe778cf4f4c2c3f6f87330db32d4e1708.png","2022拜年纪-擦擦":"7b5fb834faccffe090db5ae3406468a306018bfd.png","2022拜年纪-哭哭":"365002e8c6007564b92fe4eb7ab0f815e988995e.png","2022拜年纪-捂脸":"380d5814aa70370f57f990ab68b4cd2a195830a6.png","2022拜年纪-恰柠檬":"5d2e17818c67eaff2de2890d808cc1f7a2bb8232.png","2022拜年纪-无情吃瓜":"3342b9aa0c6fc6f7ddfec0bcc611fa4ea6987c60.png","2022拜年纪-眼前一黑":"9cf5e735e64525c59f26ccbcb4ddf6ba5a29ed11.png","2022拜年纪-星星眼":"ef49e822e72ced75f71950f4c296192dae543486.png","2022拜年纪-晕":"460d02950b4d676604e9d4686fa769a866d21191.png","拜年纪2022-火了":"20ee37d0695247f6f32e71de264fe7e955d74835.png","月隐空夜-咕咕咕":"df59993b9ea4255e8666bd417f75b3857bd67627.png","月隐空夜-回家了":"3c796d34b61c18fd1d03443a4a144c1133859600.png","月隐空夜-欧拉":"36465ab94e113a0557cff76bed5c6266277430f3.png","月隐空夜-欧气满满":"fce384d8ad9dd6ba2b87e6a8c6fec1e3f8576984.png","月隐空夜-天才":"542eaddb1b04f85a04068f31bfe1c133a5270a66.png","月隐空夜-完了":"1289c9f89244342b83f784d3bf6c18dcd548f1e3.png","新月冰冰!-心脏骤停":"04f0e3087d39629079bbfc7f2b2d0e3cdd3eada6.png","新月冰冰!-加油":"46be9e14a41ec1f392240c5c7f3006cbff5b3744.png","新月冰冰!-不可以色色":"116f93998c4c50a8c801103b9037f793f936a896.png","新月冰冰!-大哭":"50a0ad849ffae469cd376f5e4afeb0ab64b74887.png","新月冰冰!-单推":"542fbbc36493831ec98ed64b51d60a1191afa63e.png","新月冰冰!-诶嘿":"dae8436e7042b1440748993da11d5c93e55e0c13.png","新月冰冰!-给花花":"fac1c332932004b3922e19b1d8f20208ddb7ea23.png","新月冰冰!-滑稽":"c2dfb168f43d334ff291042e81ddf80a8a059913.png","新月冰冰!-开车":"83630b278dd62d2dde701021d98be2d5fcbf00f3.png","新月冰冰!-穷醒":"9cc02af9592ceceb795006cf2611b4a423ec4a19.png","新月冰冰!-谢谢老板":"ddc6b7389787bec178ab24eb842ee949d2d79be2.png","新月冰冰!-kira":"f50869288aa706cf9f1aa9e5d3f7274eac558f68.png","Hiiro二周年-吃瓜":"f5dd831cd8dc9fc93a8cf21247f2e1bdbfa65eff.png","Hiiro二周年-大的要来了":"7cb1ccd578c1946ff68cbcf55add6527cc7826e1.png","Hiiro二周年-好耶":"3250844f983fad2e8888a69f9438a925492630b1.png","Hiiro二周年-坏女人":"74f02465c6c057aebb0df5cb3ab785616b5f077b.png","Hiiro二周年-击剑":"3212b33d39221df349dea0695701bbce07971b00.png","Hiiro二周年-寄":"22ce9c662192d858231ffd02190db7338e0b6e8c.png","Hiiro二周年-辣眼睛":"8ea839758e87947326711297ca7c08a9ad3af906.png","Hiiro二周年-流口水":"0648c8bf4f3836de0902b4ab8e9b1c1b68505a5e.png","Hiiro二周年-麻了":"a7b0deef902b639e40c9b4dc3d3a9df5793cf538.png","Hiiro二周年-无语":"5a61e12360c94b413fa6d370829b8d7f4733c897.png","Hiiro二周年-吓":"cbaca277bcc77739abf41bfc5c377b61ff8527d9.png","Hiiro二周年-两眼一黑":"9b6d393c8f9248e9f8ea8e1d075cc88a300972f3.png","崩坏学园2-好耶":"f1fe88c6d201f2b5d91ad70bcad15288d4569f00.png","崩坏学园2-偷瞄":"31406161e268ab3a3ae24befacc64ab9812d478b.png","崩坏学园2-乖巧":"fb397421eaea8f271acfe135a8dc49bffa7605be.png","扶桑大红花-疑惑":"5d3d9164fd05da8a1690d7a1dff210bdf822a64d.png","崩坏3-幸福":"714cc90d3485a003f53eecec336bea8a0b2dc12d.png","扶桑大红花-略略略":"e1fd8c1f6947c94e3227e7f7afe8de61aa277a24.png","扶桑大红花-生气":"6adad591921aa4d51a8399b6efdf18f84e7144f6.png","扶桑大红花-好诶":"1acaf75c1f900e827922169b8512a5c38695f620.png","扶桑大红花-啪":"0f06e1363cbfd72ed411c2385f3c64d098fdac18.png","扶桑大红花-入脑":"6b343b588735140442460054a4b64e81a6ee9dd9.png","扶桑大红花-不行":"b21a234b272c952b012af2cfa097693b126bd445.png","扶桑大红花-rua":"50053d5c3c485fda2c110ed0874a6a5a2d7f1dff.png","暹罗猫小豆泥-抱大腿":"1e309b348e969e7ff1c7d873352799a2005494d5.png","暹罗猫小豆泥-惊讶":"d6024fd52d7e66241062c045559974e2a4c6e87f.png","暹罗猫小豆泥-哭":"9153d549e425cc02eb911695fff29cb59b338da0.png","暹罗猫小豆泥-探头":"4741a1d527c52365850368b2f480d5818b23cb8f.png","小可学妹-老板大气":"f5fadc61fd4da10fca13cc352e9a37663c21daf6.png","小可学妹-好热":"6892a3b67b1968c550fdd110e9ff8f995973a44b.png","小可学妹-两眼一黑":"66b17fa948ce00a66f260b202dff5bb943103c6c.png","Akie秋绘-可爱":"d1e9aeb4fee6a64e1cbc17c6fe129d3b74e41f50.png","Akie秋绘-哭哭":"06fb34e4d4d33477fcbf13cb5d8327c2bd746e76.png","天涯明月刀伙伴-？？？":"6b7815e08667c6fd7905b7c640c5b46b2bc4dec0.png","天涯明月刀伙伴-馋":"0467b117ad55f21d2b13b8230dc28bc06039d842.png","天涯明月刀伙伴-emo":"8b0cf44f7311445e1590391c7a091a664bad353b.png","祖娅纳惜生贺-懒":"97029c26e7b2700dd30f9ac53842e4806872f262.png","祖娅纳惜生贺-泪奔":"1486e90eea32c556b21a8a0c9474cb8b04f04eae.png","祖娅纳惜生贺-恰饭":"780146c9ea1b35d7b8efad3de8a6a153d42d760e.png","祖娅纳惜生贺-生气":"115705216f64896f40b0bab9ee0b127c315e3721.png","祖娅纳惜生贺-晚安":"1e6f9b96f9ed121928e4bbaa27a4263156b48d3d.png","星瞳-星想事成":"23dcbf6168d8befa79856764d1a4036662786063.png","请吃红小豆吧-吃薯片":"35aeeddf6f0c96dec6652e6050e34626d6cfdcbf.png","请吃红小豆吧-发呆":"ffdc8f1ab56c4d9ccc6a35a7a6bb7092df93f231.png","请吃红小豆吧-告辞":"463fb9facfa0d4700b001ef9365e7253f80a0459.png","请吃红小豆吧-害羞":"7e1ae398526c28926767fda86bf41ba6f6d6e7b4.png","请吃红小豆吧-好耶":"905662fe86b316d361a37e64c6d753ee6efb1d2e.png","请吃红小豆吧-坏笑":"9ff8ab26feeb0a7f65c698825192cbbee417dcd3.png","请吃红小豆吧-泪目":"41f2e34af7e0c3cdd726dadbc8933f21f01d1c13.png","请吃红小豆吧-摸摸头":"7fe816a29961559ac6248274087de14b3447f3f2.png","请吃红小豆吧-哇":"be9352ed161a0d0aa222986b5610802bbf18e5a6.png","请吃红小豆吧-我很好":"ad9d73e683990c86e06be15e0187c930826de644.png","请吃红小豆吧-在吗":"865566aa175609d7a018436046407199a4e2b51a.png","请吃红小豆吧-糟糕":"8c8372a8fc9655e1559a764afe3d769fa141c96e.png","请吃红小豆吧-啧":"b033a8a098bb321a6220cd10a534322a7ea94aad.png","最后的召唤师-吃瓜":"72007fc6e0cbc2b2c13b8c3971e333708024785a.png","最后的召唤师-摸摸":"808b65dddecd55c06bde59080823f60030b6be98.png","最后的召唤师-歇歇":"63e50835bad0184129e9382df435efbf6b29a3b0.png","眞白花音-打call":"e3957fbe286f694f215fafdcc6597c9a9cc3a5ae.png","眞白花音-大头":"8cf7b3d9e9b81017d6d616b643373bf57b516ec5.png","眞白花音-对不起":"b12fa885dc14cdc73cdb71f69f70a54350316d92.png","雪绘-比心":"892ec2ea31bae16044c683b68b4744fda62f1eff.png","坎公骑冠剑-YYDS":"207ad2f10f32e138c29761fd3526877e2210c2e2.png","坎公骑冠剑-唱歌":"46dbf43a57841ae840e21e8678b7daa58935a26e.png","坎公骑冠剑-吃鸡腿":"db344ad0fd23621beecb7db3abb7567156bfb8f4.png","坎公骑冠剑-出来玩":"485be2a946e954ba886b50b8ba1033accb056071.png","坎公骑冠剑-干杯":"25cab88e656ea009152ad6364df1b42065d1ffda.png","坎公骑冠剑-乖巧":"c9468c3a6dd02389b2e1364fba39f51efea9f247.png","坎公骑冠剑-惊叹":"30ed9cd688e17cc6c54f7b969b6e89b74580a5db.png","坎公骑冠剑-嗯!":"9d7f7dff618d4fbcb99cfef30141e37105179044.png","坎公骑冠剑-你还好吗":"d48c0e8ef71bc2af28d25ac390c67a9f08533517.png","坎公骑冠剑-你在干嘛":"4521901b073665c42f76a50b07acb19a2d3459bf.png","坎公骑冠剑-欧气传输":"e8f1308e982c818a6d7a6b4ff3ef5d92c24f4fe0.png","坎公骑冠剑-送花":"9fb76616e1cdf524bc254f2b8873b83d43e03b87.png","坎公骑冠剑-哇":"a737de02e1952f2841916cff82e73009f9946dec.png","坎公骑冠剑-晚安":"c223ba1967dd328307f74e2b58f815acb3232cf9.png","坎公骑冠剑-妖妖灵":"2c8eee463117bec38f38d6cf6873d333aa9660a5.png","永雏塔菲-不理你了":"ec38a461c767fd0f4dee7346f82d81e5a88b176c.png","永雏塔菲-嘲笑":"094c321f0829f0894f48195d6671358a1a43b53c.png","永雏塔菲-对呀对呀":"37afa9e099d0c2ca9a4f3ff7d599e86060d6b942.png","永雏塔菲-尴尬":"71a5b730a3c20ddac64f8e7803ffc00da97f7397.png","永雏塔菲-哈哈哈":"b1f89d85b9c9f8553fe021c1e5785bc2995f8751.png","永雏塔菲-累":"889f95e3b36f257cb6b68f420b8238a11c596d19.png","永雏塔菲-摸头":"a826477acfa607224dd4a6771431af3b18ee8f92.png","永雏塔菲-亲嘴":"ce2123ec6b4f15eb8dfc2467f36fa3d69f2f97cd.png","永雏塔菲-闪亮登场":"c7eff8db64b132e6757bacdd51e649e16965f6b9.png","永雏塔菲-生日快乐":"9daed0ba16c89f983c7fcfa38e2bc8d1b80f7957.png","永雏塔菲-太好吃了":"86b760ed0a466b5dc3fa0b1e64b9ba7d6b53b6ed.png","永雏塔菲-嘻嘻喵":"866c99dbf6cb5e054e8e94be60c1b37ff4581eaa.png","永雏塔菲-星星眼":"bf3e961a1c3d4edf5ebdd063418495a1ed4c865f.png","永雏塔菲-嘤嘤嘤":"ba43546b013efffa7821dc21df6c79490cbafe72.png","永雏塔菲-有鬼":"b33d0672a01810a6b26696bf4a56204dadd5ff31.png","永雏塔菲-晕了":"d395fd944642b882a9226db81dcfa2e80307461c.png","永雏塔菲-震惊":"36bea35a3a15b675b2f5f28529582f82cf65b1c9.png","奈姬niki-微笑":"6fdc161f1086c522d90e684639a3bd1c48837507.png","奈姬niki-我超":"8d6d65fa2764084fd17fd18bef5a2bbc58f044f4.png","奈姬niki-无语":"33479daa29101a0846d7735cd5fba0d847be6e51.png","奈姬niki-谢谢":"8eaca252ea780a992261b4f9df7a4e170cfd71f1.png","有栖mana-打call":"0572afd470f86cc73cd5a1dff047cd22b620f336.png","有栖mana-喝可乐":"7788e653641e40f5043267aa6f73afbd73f5dd73.png","有栖mana-嘿嘿嘿嘿":"0500a6063e9828ce5002f0d796b19569db7ea63c.png","有栖mana-你好":"0d1575f7203eaf1705cc1104eaf7c02983cae9f0.png","有栖mana-辛苦了":"1893dad434a59c1f5e9c70e1440a6b323a92c3c6.png","有栖mana-炸毛":"f8d86249f486e3e0eb0b601bdf9994cb76634538.png","有栖mana-做什么？":"eb2eb12a288287b4f46d7a4dbeb71ec645810726.png","幻塔-害羞":"7868841b13f2067418c34becd73fde4be8a8bdfe.png","鹿乃桜帆-早上好":"1b58aba1d2e1372a8c4b7e49cb420db738bce414.png","鹿乃桜帆-恭喜":"584dae2f7faf4ee160c389e4ba0eebfb26aeb910.png","鹿乃桜帆-惊":"b945fc60b60467fc80b1e18ba4ea6d8c7b3ae0f9.png","鹿乃桜帆-期待":"5ae064b9deefdce14129d24659f0ee605a0e341b.png","鹿乃桜帆-神":"863c349b44abb098fecac479772f23ef1edd10f5.png","鹿乃桜帆-3Q":"9bee9ccc87c3ffe392e5572c4f67dae92a031e35.png","尼奈-妙!！":"3c2439d868818711b6c2cee035c4d51818c07c99.png","蕾尔娜Leona-反弹":"bc82f5b4e8525efeac017a1a9a3ea94d811d4463.png","蕾尔娜Leona-好耶":"f5269730d3156ba2a6cbe5c127d65753b3143f81.png","约战4-疑惑":"9174bde1afdde014a1b066c1bbb3027dc8dbb834.png","夏日青春欧皇套装-谢谢老板":"ca607626747f23cf37dbe8bb81397985dcb0ab17.png","夏日限定宅家手册-期待":"aaf3de49543253272e7eaeabff07ef0d162db67a.png","夏日限定宅家手册-重在参与":"aeafdb2f36c2cfde1ff4dadfecde48241ee31f15.png"},"el":"#valine-comments","path":"/learned-optimism"}</script>
+<script>
+document.addEventListener('page:loaded', () => {
+  NexT.utils.loadComments(CONFIG.valine.el)
+    .then(() => NexT.utils.getScript(
+      '/js/custom/Valine.min.js',
+      { condition: window.Valine }
+    ))
+    .then(() => {
+      new Valine(CONFIG.valine);
+    });
+});
+</script>
+
+</body>
+</html>

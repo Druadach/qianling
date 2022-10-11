@@ -1,0 +1,615 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+  <meta charset="UTF-8">
+<meta name="viewport" content="width=device-width">
+<meta name="theme-color" content="#222"><meta name="generator" content="Hexo 5.4.0">
+
+
+  <link rel="apple-touch-icon" sizes="180x180" href="/images/apple-touch-icon-next.png">
+  <link rel="icon" type="image/png" sizes="32x32" href="/images/favicon-32x32.png">
+  <link rel="icon" type="image/png" sizes="16x16" href="/images/favicon-16x16.png">
+  <link rel="mask-icon" href="/images/logo.svg" color="#222">
+
+<link rel="stylesheet" href="/css/main.css">
+
+<link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Noto+Serif+SC:300,300italic,400,400italic,700,700italic%7CZCOOL+XiaoWei:300,300italic,400,400italic,700,700italic&display=swap&subset=latin,latin-ext">
+
+<link rel="stylesheet" href="/fontawesome/all.min.css">
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/animate.css/3.1.1/animate.min.css" integrity="sha256-PR7ttpcvz8qrF57fur/yAx1qXMFJeJFiA6pSzWi0OIE=" crossorigin="anonymous">
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/fancybox/3.5.7/jquery.fancybox.min.css" integrity="sha256-Vzbj7sDDS/woiFS3uNKo8eIuni59rjyNGtXfstRzStA=" crossorigin="anonymous">
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/pace/1.2.4/themes/blue/pace-theme-minimal.css">
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/pace/1.2.4/pace.min.js" integrity="sha256-gqd7YTjg/BtfqWSwsJOvndl0Bxc8gFImLEkXQT8+qj0=" crossorigin="anonymous"></script>
+
+<script class="next-config" data-name="main" type="application/json">{"hostname":"qianling.pw","root":"/","images":"/images","scheme":"Muse","darkmode":false,"version":"8.11.1","exturl":false,"sidebar":{"position":"right","display":"hide","padding":18,"offset":12},"copycode":true,"bookmark":{"enable":false,"color":"#222","save":"auto"},"mediumzoom":false,"lazyload":true,"pangu":false,"comments":{"style":"tabs","active":"valine","storage":true,"lazyload":true,"nav":null,"activeClass":"valine"},"stickytabs":false,"motion":{"enable":true,"async":false,"transition":{"post_block":"fadeIn","post_header":"fadeInDown","post_body":"none","coll_header":"fadeInLeft","sidebar":"fadeInUp"}},"prism":false,"i18n":{"placeholder":"搜索...","empty":"没有找到任何搜索结果：${query}","hits_time":"找到 ${hits} 个搜索结果（用时 ${time} 毫秒）","hits":"找到 ${hits} 个搜索结果"},"path":"/search.xml","localsearch":{"enable":true,"trigger":"auto","top_n_per_article":1,"unescape":false,"preload":true}}</script><script src="/js/config.js"></script>
+
+    <meta property="og:type" content="article">
+<meta property="og:title" content="《赖世雄美语音标》笔记">
+<meta property="og:url" content="https://qianling.pw/kk">
+<meta property="og:site_name" content="千灵">
+<meta property="og:locale" content="zh_CN">
+<meta property="og:image" content="https://qianling.pw/images/covers/153.png">
+<meta property="article:published_time" content="2019-09-15T14:20:03.000Z">
+<meta property="article:modified_time" content="2019-10-06T13:54:26.000Z">
+<meta property="article:author" content="千灵夙赋">
+<meta property="article:tag" content="书摘">
+<meta property="article:tag" content="英语">
+<meta name="twitter:card" content="summary">
+<meta name="twitter:image" content="https://qianling.pw/images/covers/153.png">
+
+
+<link rel="canonical" href="https://qianling.pw/kk">
+
+
+
+<script class="next-config" data-name="page" type="application/json">{"sidebar":"","isHome":false,"isPost":true,"lang":"zh-CN","comments":true,"permalink":"https://qianling.pw/kk","path":"kk","title":"《赖世雄美语音标》笔记"}</script>
+
+<script class="next-config" data-name="calendar" type="application/json">""</script>
+<title>《赖世雄美语音标》笔记 | 千灵</title>
+  
+    <script async src="https://www.googletagmanager.com/gtag/js?id=UA-141264217-1"></script>
+  <script class="next-config" data-name="google_analytics" type="application/json">{"tracking_id":"UA-141264217-1","only_pageview":false}</script>
+  <script src="/js/third-party/analytics/google-analytics.js"></script>
+
+  <script src="/js/third-party/analytics/baidu-analytics.js"></script>
+  <script async src="https://hm.baidu.com/hm.js?b95f636e57f871a4ea1faeae2b4f30e5"></script>
+
+
+
+
+  <noscript>
+    <link rel="stylesheet" href="/css/noscript.css">
+  </noscript>
+<link rel="alternate" href="/atom.xml" title="千灵" type="application/atom+xml">
+</head>
+
+<body itemscope itemtype="http://schema.org/WebPage" class="use-motion">
+  <div class="headband"></div>
+
+  <main class="main">
+    <header class="header" itemscope itemtype="http://schema.org/WPHeader">
+      <div class="header-inner"><div class="site-brand-container">
+  <div class="site-nav-toggle">
+    <div class="toggle" aria-label="切换导航栏" role="button">
+        <span class="toggle-line"></span>
+        <span class="toggle-line"></span>
+        <span class="toggle-line"></span>
+    </div>
+  </div>
+
+  <div class="site-meta">
+
+    <a href="/" class="brand" rel="start">
+      <i class="logo-line"></i>
+      <p class="site-title">千灵</p>
+      <i class="logo-line"></i>
+    </a>
+  </div>
+
+  <div class="site-nav-right">
+    <div class="toggle popup-trigger">
+        <i class="fa fa-search fa-fw fa-lg"></i>
+    </div>
+  </div>
+</div>
+
+
+
+<nav class="site-nav">
+  <ul class="main-menu menu"><li class="menu-item menu-item-home"><a href="/" rel="section"><i class="fas fa-flower fa-fw"></i>首页</a></li><li class="menu-item menu-item-categories"><a href="/categories/" rel="section"><i class="fa fa-cookie fa-fw"></i>分类</a></li><li class="menu-item menu-item-archives"><a href="/archives/" rel="section"><i class="fas fa-acorn fa-fw"></i>归档</a></li><li class="menu-item menu-item-play"><a href="/play/" rel="section"><i class="fa fa-fish fa-fw"></i>游戏</a></li><li class="menu-item menu-item-message"><a href="/message/" rel="section"><i class="fa fa-dog fa-fw"></i>留言</a></li><li class="menu-item menu-item-about"><a href="/about/" rel="section"><i class="fa fa-carrot fa-fw"></i>关于</a></li>
+      <li class="menu-item menu-item-search">
+        <a role="button" class="popup-trigger"><i class="fa fa-search fa-fw"></i>搜索
+        </a>
+      </li>
+  </ul>
+</nav>
+
+
+
+  <div class="search-pop-overlay">
+    <div class="popup search-popup"><div class="search-header">
+  <span class="search-icon">
+    <i class="fa fa-search"></i>
+  </span>
+  <div class="search-input-container">
+    <input autocomplete="off" autocapitalize="off" maxlength="80"
+           placeholder="搜索..." spellcheck="false"
+           type="search" class="search-input">
+  </div>
+  <span class="popup-btn-close" role="button">
+    <i class="fa fa-times-circle"></i>
+  </span>
+</div>
+<div class="search-result-container no-result">
+  <div class="search-result-icon">
+    <i class="fa fa-spinner fa-pulse fa-5x"></i>
+  </div>
+</div>
+
+    </div>
+  </div>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.6.0/jquery.min.js"></script>
+
+<div class="top-scroll-bar"></div>
+
+<canvas class="fireworks" id="canvas" style="position: fixed;left: 0;top: 0;z-index: 1; pointer-events: none;" ></canvas>
+
+<script>
+  document.write('<script type="text/javascript" src="/js/custom/custom.js"><\/script>');
+if( !/Android|webOS|iPhone|iPod|iPad|BlackBerry/i.test(navigator.userAgent)){
+  document.write('<script type="text/javascript" src="//cdn.bootcss.com/animejs/2.2.0/anime.min.js"><\/script> <script type="text/javascript" src="/js/custom/fireworks.js"><\/script>');
+}
+</script>
+
+<!-- 动态背景 -->
+<script>
+if( !/Android|webOS|iPhone|iPod|iPad|BlackBerry/i.test(navigator.userAgent)){
+  document.write('<script type="text/javascript" src="/js/custom/jquery.backstretch.min.js"><\/script>');
+}
+</script>
+<script type="text/javascript">
+  $("body").backstretch([
+    "/images/background/background (1).webp",
+    "/images/background/background (2).webp",
+    "/images/background/background (3).webp",
+    "/images/background/background (4).webp",
+    "/images/background/background (5).webp",
+    "/images/background/background (6).webp",
+    "/images/background/background (7).webp",
+    "/images/background/background (8).webp",
+  ], {duration: 60000, fade: 1000, animateFirst: true});
+</script>
+
+<!-- live2d -->
+<div id="waifu">
+  <div class="waifu-tips" style="opacity: 0;"></div>
+  <canvas id="live2d" width="280" height="250" class="live2d"></canvas>
+</div>
+<script>
+if( !/Android|webOS|iPhone|iPod|iPad|BlackBerry/i.test(navigator.userAgent)){
+  document.write('<script type="text/javascript" src="/live2d/live2d.js"><\/script> <script type="text/javascript" src="/live2d/waifu-tips.js"><\/script>');
+}
+</script>
+
+<!-- 打字礼花及震动特效 -->
+<script>
+if( !/Android|webOS|iPhone|iPod|iPad|BlackBerry/i.test(navigator.userAgent)){
+  document.write('<script type="text/javascript" src="/js/custom/activate-power-mode.js"><\/script>');
+}
+</script>
+<script>
+    POWERMODE.colorful = true; // ture 为启用礼花特效
+    POWERMODE.shake = false; // false 为禁用震动特效
+    document.body.addEventListener('input', POWERMODE);
+</script>
+
+</div>
+        
+  
+  <div class="toggle sidebar-toggle" role="button">
+    <span class="toggle-line"></span>
+    <span class="toggle-line"></span>
+    <span class="toggle-line"></span>
+  </div>
+
+  <aside class="sidebar">
+
+    <div class="sidebar-inner sidebar-nav-active sidebar-toc-active">
+      <ul class="sidebar-nav">
+        <li class="sidebar-nav-toc">
+          文章目录
+        </li>
+        <li class="sidebar-nav-overview">
+          站点概览
+        </li>
+      </ul>
+
+      <div class="sidebar-panel-container">
+        <!--noindex-->
+        <div class="post-toc-wrap sidebar-panel">
+            <div class="post-toc animated"><ol class="nav"><li class="nav-item nav-level-1"><a class="nav-link" href="#KK-%E9%9F%B3%E6%A0%87%E4%B8%8E%E5%9B%BD%E9%99%85%E9%9F%B3%E6%A0%87%E4%B9%8B%E5%BC%82%E5%90%8C"><span class="nav-text">KK 音标与国际音标之异同</span></a></li><li class="nav-item nav-level-1"><a class="nav-link" href="#%E8%AF%8D%E5%B0%BE%E4%B8%BA-l"><span class="nav-text">词尾为 l</span></a></li><li class="nav-item nav-level-1"><a class="nav-link" href="#%E8%AF%8D%E5%B0%BE%E4%B8%BA-tle-%E5%8F%91%E6%88%90%E5%90%AB%E6%B7%B7%E9%9F%B3"><span class="nav-text">词尾为 tle 发成含混音</span></a></li><li class="nav-item nav-level-1"><a class="nav-link" href="#%EF%BC%BBe%EF%BC%BD%E4%B8%8E%EF%BC%BBae%EF%BC%BD%E7%9A%84%E4%B8%8D%E5%90%8C"><span class="nav-text">［ɛ］与［æ］的不同</span></a></li><li class="nav-item nav-level-1"><a class="nav-link" href="#%EF%BC%BBu%EF%BC%BD%E4%B8%8E%EF%BC%BB%CA%8A%EF%BC%BD%E7%9A%84%E4%B8%8D%E5%90%8C"><span class="nav-text">［u］与［ʊ］的不同</span></a></li><li class="nav-item nav-level-1"><a class="nav-link" href="#%EF%BC%BBv%EF%BC%BD%E4%B8%8E%EF%BC%BB%C9%91%EF%BC%BD%E7%9A%84%E4%B8%8D%E5%90%8C"><span class="nav-text">［ʌ］与［ɑ］的不同</span></a></li><li class="nav-item nav-level-1"><a class="nav-link" href="#%EF%BC%BBv%EF%BC%BD%E4%B8%8E%EF%BC%BB%C9%99%EF%BC%BD%E7%9A%84%E5%BC%82%E5%90%8C"><span class="nav-text">［ʌ］与［ə］的异同</span></a></li><li class="nav-item nav-level-1"><a class="nav-link" href="#%E5%86%A0%E8%AF%8D-a-%E6%88%96-an%EF%BC%88%E4%B8%80%E4%B8%AA%EF%BC%8C%E6%9F%90%E4%B8%AA%EF%BC%89%E3%80%81%E4%BB%8B%E8%AF%8D-of%EF%BC%88%E5%B1%9E%E4%BA%8E%EF%BC%89%E3%80%81%E8%BF%9E%E6%8E%A5%E8%AF%8D-and%EF%BC%88%E5%92%8C%EF%BC%89%E7%9A%84%E5%85%83%E9%9F%B3%E9%83%A8%E5%88%86%E4%B9%9F%E9%83%BD%E5%B8%B8%E5%BF%B5%E6%88%90%EF%BC%BB%C9%99%EF%BC%BD%E3%80%82"><span class="nav-text">冠词 a 或 an（一个，某个）、介词 of（属于）、连接词 and（和）的元音部分也都常念成［ə］。</span></a></li><li class="nav-item nav-level-1"><a class="nav-link" href="#%EF%BC%BB%C9%99r%EF%BC%BD%E4%B8%8E%EF%BC%BB%C9%9Cr%EF%BC%BD%E7%9A%84%E5%BC%82%E5%90%8C"><span class="nav-text">［ər］与［ɜr］的异同</span></a></li><li class="nav-item nav-level-1"><a class="nav-link" href="#%E8%BE%85%E9%9F%B3"><span class="nav-text">辅音</span></a></li><li class="nav-item nav-level-1"><a class="nav-link" href="#%E5%AD%97%E5%B0%BE%E4%B8%BA%E8%BE%85%E9%9F%B3%E6%97%B6%EF%BC%8C%E5%8F%AA%E6%9C%89%E5%9C%A8%E6%85%A2%E9%80%9F%E8%8B%B1%E8%AF%AD%E4%B8%AD%E4%B8%BA%E4%BA%86%E5%BC%BA%E8%B0%83%E6%89%8D%E4%BC%9A%E5%8F%91%E5%87%BA%E6%9D%A5%EF%BC%8C%E5%9C%A8%E6%AD%A3%E5%B8%B8%E6%88%96%E5%BF%AB%E9%80%9F%E7%9A%84%E8%8B%B1%E8%AF%AD%E4%BA%A4%E8%B0%88%E4%B8%AD%EF%BC%8C%E5%AE%9E%E9%99%85%E5%B9%B6%E4%B8%8D%E5%8F%91%E5%87%BA%E5%A3%B0%E9%9F%B3%EF%BC%8C%E6%88%90%E9%98%BB%E6%86%8B%E6%B0%94%E5%8D%B3%E5%8F%AF%E3%80%82"><span class="nav-text">字尾为辅音时，只有在慢速英语中为了强调才会发出来，在正常或快速的英语交谈中，实际并不发出声音，成阻憋气即可。</span></a></li><li class="nav-item nav-level-1"><a class="nav-link" href="#%EF%BC%BB%CE%B8%EF%BC%BD%E4%B8%8E%EF%BC%BB%C3%B0%EF%BC%BD%E7%9A%84%E5%BC%82%E5%90%8C"><span class="nav-text">［θ］与［ð］的异同</span></a></li><li class="nav-item nav-level-1"><a class="nav-link" href="#%EF%BC%BBs%EF%BC%BD"><span class="nav-text">［s］</span></a></li><li class="nav-item nav-level-1"><a class="nav-link" href="#%EF%BC%BB%CA%83%EF%BC%BD%E4%B8%8E%EF%BC%BB%CA%92%EF%BC%BD"><span class="nav-text">［ʃ］与［ʒ］</span></a></li><li class="nav-item nav-level-1"><a class="nav-link" href="#%EF%BC%BBl%EF%BC%BD"><span class="nav-text">［l］</span></a></li><li class="nav-item nav-level-1"><a class="nav-link" href="#%EF%BC%BB%C5%8B%EF%BC%BD"><span class="nav-text">［ŋ］</span></a></li><li class="nav-item nav-level-1"><a class="nav-link" href="#%EF%BC%BBj%EF%BC%BD"><span class="nav-text">［j］</span></a></li><li class="nav-item nav-level-1"><a class="nav-link" href="#%EF%BC%BBw%EF%BC%BD"><span class="nav-text">［w］</span></a></li><li class="nav-item nav-level-1"><a class="nav-link" href="#%E8%BF%9E%E9%9F%B3"><span class="nav-text">连音</span></a></li></ol></div>
+        </div>
+        <!--/noindex-->
+
+        <div class="site-overview-wrap sidebar-panel">
+          <div class="site-author site-overview-item animated" itemprop="author" itemscope itemtype="http://schema.org/Person">
+    <img class="site-author-image" itemprop="image" alt="千灵夙赋"
+      src="/images/avatar.png">
+  <p class="site-author-name" itemprop="name">千灵夙赋</p>
+  <div class="site-description" itemprop="description"></div>
+</div>
+<div class="site-state-wrap site-overview-item animated">
+  <nav class="site-state">
+      <div class="site-state-item site-state-posts">
+        <a href="/archives/">
+          <span class="site-state-item-count">194</span>
+          <span class="site-state-item-name">日志</span>
+        </a>
+      </div>
+      <div class="site-state-item site-state-categories">
+          <a href="/categories/">
+        <span class="site-state-item-count">39</span>
+        <span class="site-state-item-name">分类</span></a>
+      </div>
+      <div class="site-state-item site-state-tags">
+          <a href="/tags/">
+        <span class="site-state-item-count">56</span>
+        <span class="site-state-item-name">标签</span></a>
+      </div>
+  </nav>
+</div>
+
+
+  <div class="links-of-blogroll site-overview-item animated">
+    <div class="links-of-blogroll-title"><i class="fa fa-link fa-fw"></i>
+      Friends
+    </div>
+    <ul class="links-of-blogroll-list">
+        <li class="links-of-blogroll-item">
+          <a href="https://meow3.family.blog/" title="https:&#x2F;&#x2F;meow3.family.blog&#x2F;" rel="noopener" target="_blank">恶魔菌の记事簿</a>
+        </li>
+        <li class="links-of-blogroll-item">
+          <a href="https://lanyundev.vercel.app/" title="https:&#x2F;&#x2F;lanyundev.vercel.app&#x2F;" rel="noopener" target="_blank">LanYun</a>
+        </li>
+        <li class="links-of-blogroll-item">
+          <a href="https://www.julydate.com/" title="https:&#x2F;&#x2F;www.julydate.com&#x2F;" rel="noopener" target="_blank">七夏浅笑</a>
+        </li>
+    </ul>
+  </div>
+<div id="aplayer" class="aplayer"></div>
+<script>
+if( !/Android|webOS|iPhone|iPod|iPad|BlackBerry/i.test(navigator.userAgent)){
+  document.write('<script type="text/javascript" src="/js/custom/APlayer.min.js"><\/script>');
+}
+</script>
+<script type="text/javascript">
+var ap = new APlayer({
+    element: document.getElementById('aplayer'),                       // Optional, player element
+    narrow: false,                                                     // Optional, narrow style
+    autoplay: false,                                                    // Optional, autoplay song(s), not supported by mobile browsers
+    showlrc: 0,                                                        // Optional, show lrc, can be 0, 1, 2, see: ###With lrc
+    mutex: true,                                                       // Optional, pause other players when this player playing
+    theme: '#e6d0b2',                                                  // Optional, theme color, default: #b7daff
+    mode: 'random',                                                    // Optional, play mode, can be `random` `single` `circulation`(loop) `order`(no loop), default: `circulation`
+    preload: 'metadata',                                               // Optional, the way to load music, can be 'none' 'metadata' 'auto', default: 'auto'
+    listmaxheight: '513px',                                             // Optional, max height of play list
+    music: [{
+      title: '世末歌者',
+      author: '双笙 囧菌',
+      url: '/music/双笙 囧菌 - 世末歌者（Cover 乐正绫）.mp3',
+      pic: '/images/aplayer/双笙 囧菌 - 世末歌者.webp',
+    }, {
+      title: '幹物女(WeiWei)',
+      author: '封茗囧菌',
+      url: '/music/%E5%B0%81%E8%8C%97%E5%9B%A7%E8%8F%8C%20-%20%E5%B9%B9%E7%89%A9%E5%A5%B3(WeiWei).mp3',
+      pic: '/images/aplayer/封茗囧菌 - 幹物女(WeiWei).webp',
+    }, {
+      title: '东京不太热',
+      author: '封茗囧菌',
+      url: '/music/%E5%B0%81%E8%8C%97%E5%9B%A7%E8%8F%8C%20-%20%E4%B8%9C%E4%BA%AC%E4%B8%8D%E5%A4%AA%E7%83%AD.mp3',
+      pic: '/images/aplayer/封茗囧菌 - 东京不太热.webp',
+    }, {
+      title: '有故事的小仙女（Cover 初音ミク）',
+      author: '井宿',
+      url: '/music/%E4%BA%95%E5%AE%BF%20-%20%E6%9C%89%E6%95%85%E4%BA%8B%E7%9A%84%E5%B0%8F%E4%BB%99%E5%A5%B3%EF%BC%88Cover%20%E5%88%9D%E9%9F%B3%E3%83%9F%E3%82%AF%EF%BC%89.mp3',
+      pic: '/images/aplayer/井宿 - 有故事的小仙女（Cover 初音ミク）.webp',
+    }, {
+      title: '拼凑的断音（Cover 洛天依）',
+      author: '泡泡Hansy',
+      url: '/music/%E6%B3%A1%E6%B3%A1Hansy%20-%20%E6%8B%BC%E5%87%91%E7%9A%84%E6%96%AD%E9%9F%B3%EF%BC%88Cover%20%E6%B4%9B%E5%A4%A9%E4%BE%9D%EF%BC%89.mp3',
+      pic: '/images/aplayer/泡泡Hansy - 拼凑的断音（Cover 洛天依）.webp',
+    }]
+  });
+</script>
+
+        </div>
+      </div>
+    </div>
+  </aside>
+  <div class="sidebar-dimmer"></div>
+
+
+    </header>
+
+    
+  <div class="back-to-top" role="button" aria-label="返回顶部">
+    <i class=" fa fa-chevron-up"></i>
+    <span>0%</span>
+  </div>
+
+<noscript>
+  <div class="noscript-warning">Theme NexT works best with JavaScript enabled</div>
+</noscript>
+
+
+    <div class="main-inner post posts-expand">
+
+
+  
+
+
+<div class="post-block">
+  
+  
+
+  <article itemscope itemtype="http://schema.org/Article" class="post-content" lang="zh-CN">
+    <link itemprop="mainEntityOfPage" href="https://qianling.pw/kk">
+
+    <span hidden itemprop="author" itemscope itemtype="http://schema.org/Person">
+      <meta itemprop="image" content="/images/avatar.png">
+      <meta itemprop="name" content="千灵夙赋">
+    </span>
+
+    <span hidden itemprop="publisher" itemscope itemtype="http://schema.org/Organization">
+      <meta itemprop="name" content="千灵">
+      <meta itemprop="description" content="">
+    </span>
+
+    <span hidden itemprop="post" itemscope itemtype="http://schema.org/CreativeWork">
+      <meta itemprop="name" content="《赖世雄美语音标》笔记 | 千灵">
+      <meta itemprop="description" content="">
+    </span>
+      <header class="post-header">
+        <h1 class="post-title" itemprop="name headline">
+          《赖世雄美语音标》笔记
+        </h1>
+
+        <div class="post-meta-container">
+          <div class="post-meta">
+    <span class="post-meta-item">
+      <span class="post-meta-item-icon">
+        <i class="far fa-calendar"></i>
+      </span>
+      <span class="post-meta-item-text">发表于</span>
+
+      <time title="创建时间 2019-09-15 22:20:03" itemprop="dateCreated datePublished" datetime="2019-09-15T22:20:03+08:00">2019-09-15</time>
+    </span>
+    <span class="post-meta-item">
+      <span class="post-meta-item-icon">
+        <i class="far fa-calendar-check"></i>
+      </span>
+      <span class="post-meta-item-text">更新于</span>
+      <time title="修改时间 2019-10-06 21:54:26" itemprop="dateModified" datetime="2019-10-06T21:54:26+08:00">2019-10-06</time>
+    </span>
+    <span class="post-meta-item">
+      <span class="post-meta-item-icon">
+        <i class="far fa-folder"></i>
+      </span>
+      <span class="post-meta-item-text">分类于</span>
+        <span itemprop="about" itemscope itemtype="http://schema.org/Thing">
+          <a href="/categories/%E8%8B%B1%E8%AF%AD/" itemprop="url" rel="index"><span itemprop="name">英语</span></a>
+        </span>
+    </span>
+
+  
+    <span id="/kk" class="post-meta-item leancloud_visitors" data-flag-title="《赖世雄美语音标》笔记" title="阅读次数">
+      <span class="post-meta-item-icon">
+        <i class="far fa-eye"></i>
+      </span>
+      <span class="post-meta-item-text">阅读次数 </span>
+      <span class="leancloud-visitors-count"></span>
+    </span>
+  
+  <span class="post-meta-item">
+    <a title="valine" href="/kk#valine-comments" itemprop="discussionUrl">
+    
+    <span class="post-meta-item-icon">
+      <i class="far fa-comment"></i>
+    </span>
+    <span class="post-meta-item-text">评论数</span>
+  
+      <span class="post-comments-count valine-comment-count" data-xid="/kk" itemprop="commentCount"></span>
+    </a>
+  </span>
+  
+  
+</div>
+
+        </div>
+      </header>
+
+    
+    
+    
+    <div class="post-body" itemprop="articleBody">
+        <p><img data-src="/images/covers/153.png"></p>
+<span id="more"></span>
+
+<hr>
+<p><strong><div class="center">美语音标 / 赖世雄著. -- 北京 : 外文出版社, 2009<br>（常春藤赖世雄英语）<br>ISBN 978-7-119-06120-7</div></strong></p>
+<div class="center"><a id="download" href="https://qianling.coding.net/api/share/download/ed962ad7-506d-4a94-9ea5-d0feefc0a460"><i class="fa fa-download"></i> 美语音标</a></div>
+
+<br />
+
+<h1 id="KK-音标与国际音标之异同"><a href="#KK-音标与国际音标之异同" class="headerlink" title="KK 音标与国际音标之异同"></a>KK 音标与国际音标之异同</h1><p>　　KK 音标是宽式音标，toe 的长 o 双元音只以一个［o］表示，而不是［oʊ］，may 的长 e 双元音只以一个［e］表示，而不是［eɪ］。</p>
+<p>　　KK音标和IPA有一些违背之处，大多是为了印刷方便：</p>
+<ul>
+<li>  符号［ᴜ］（缩小的大写U）取代IPA的［ʊ］，这是foot的元音和mouth的双元音的后半部分。</li>
+<li>  符号［r］取代 IPA 的［ɹ］，这表示的是美式英语的齿龈近音。</li>
+<li>  冒号［:］取代IPA的长音记号［ː］，但KK通常不标出长音。</li>
+<li>  外来语中用加横杠的g（ǥ）代替IPA的［ɣ］，即浊软颚擦音。</li>
+</ul>
+<p>　　From：<a href="https://zh.wikipedia.org/wiki/KK%E9%9F%B3%E6%A8%99/">维基百科 - KK音标</a></p>
+<h1 id="词尾为-l"><a href="#词尾为-l" class="headerlink" title="词尾为 l"></a>词尾为 l</h1><p>　　词尾为 l 时，舌头上翘碰上齿龈，发 ou 音<br>　　hall［hɔl］大厅<br>　　cool［kul］凉爽的</p>
+<h1 id="词尾为-tle-发成含混音"><a href="#词尾为-tle-发成含混音" class="headerlink" title="词尾为 tle 发成含混音"></a>词尾为 tle 发成含混音</h1><h1 id="［e］与［ae］的不同"><a href="#［e］与［ae］的不同" class="headerlink" title="［ɛ］与［æ］的不同"></a>［ɛ］与［æ］的不同</h1><p>　　［ɛ］发此音时，嘴巴要比发［I］微开。换言之，上下唇和上下齿再张一些，舌头平放，舌尖轻轻抵住下齿，脸部肌肉放松，振动声带。<br>　　［æ］发此音时，嘴形要比发［ɛ］的音时更开。上下唇和上下齿张开，使下巴尽量往下拉，此时嘴角肌肉亦会绷紧。舌头平放，舌尖仍抵住下齿，振动声带。此时嘴形颇像七八个月大的婴儿流着口水咧齿憨笑的样子，傻极了，也可爱极了。<br>　　Contrast：<br>　　发［ɛ］的音时嘴唇微开。但发［æ］的音时嘴唇则要更加张开，脸部肌肉紧张，两眼眼角会有鱼尾纹出现，眼睛会变成眯眯眼。<br>　　bag［bæg］袋子　land［lænd］土地　bad［bæd］坏的<br>　　beg［bɛg］乞求　lend［lɛnd］借给　bed［bɛd］床</p>
+<h1 id="［u］与［ʊ］的不同"><a href="#［u］与［ʊ］的不同" class="headerlink" title="［u］与［ʊ］的不同"></a>［u］与［ʊ］的不同</h1><p>　　［u］是长、紧元音（boot, beat），［ʊ］是短、松元音（book, bit）。<br>　　［u］发此音时，先将嘴形做成像发汉语拼音“u”或汉字“乌”的汉语发音状，<strong>但嘴形略扁，上下唇微微噘起，只留一个小气孔，上下齿则微张，</strong>声带部分的肌肉略为紧张，振动声带即成。<br>　　Notice：<br>　　许多人常将［u］与汉语拼音“u”的发音视为相同，这是不对的。发“u”或“乌”时，双唇是往外凸出来的，形成的小孔较小较圆。而发［u］音时，嘴唇路扁且微微顺起，两唇形成的气孔亦呈扁平状。<br>　　［ʊ］与［u］的发音原理大致相同，念时开口小，结尾稍宽一点，有点像［ul］。<br>　　book［bʊk］书　good［gʊd］好的　would［wʊd］愿意 put［pʊt］放置<br>　　Contrast：<br>　　［u］是长元音，念的时候嘴形较扁，声音可拉长些。［ʊ］是短元音，念的时候声音较短促。不论念［u］或［ʊ］，嘴唇都是微微噘起的，念［u］时嘴形较扁，念［ʊ］时嘴形较开。<br>　　food［fud］食物　fool［ful］傻子　pool［pul］池子<br>　　foot［fʊt］脚　　full［fʊl］充满的　pull［pʊl］拉</p>
+<h1 id="［v］与［ɑ］的不同"><a href="#［v］与［ɑ］的不同" class="headerlink" title="［ʌ］与［ɑ］的不同"></a>［ʌ］与［ɑ］的不同</h1><p>　　［ʌ］发音很像汉字“饿”的汉语发音，只不过发［ʌ］的音时，声音要强而短促。发此音时，上下唇及上下齿微张，脸部肌肉放松，舌头自然垂放，舌尖轻轻抵住下齿龈，振动声带而成。<br>　　［ɑ］本音标符号的发音类似汉字“啊”的汉语发音，但嘴巴张开的幅度要更大。上下唇及上下齿全张，舌头自然平放，舌尖不接触下齿，也不要卷起或翘起，振动声带。<br>　　Contrast：<br>　　［ʌ］与［ɑ］均属强音，唯发［ʌ］时嘴巴微张，但发［ɑ］时嘴巴则要全张。<br>　　cup［kʌp］杯子　color［’kʌlɚ］颜色　hut［hʌt］小木屋<br>　　cop［kɑp］警察　collar［’kɑlɚ］衣领　hot［hɑt］热的</p>
+<h1 id="［v］与［ə］的异同"><a href="#［v］与［ə］的异同" class="headerlink" title="［ʌ］与［ə］的异同"></a>［ʌ］与［ə］的异同</h1><p>　　念起来都很像汉字“额”的汉语发音。惟［ə］的发音要比［ʌ］轻，且多只出现在有两个音节以上非重音节部分的字中，［ʌ］则出现单音节的字或者在重音节的字中。<br>　　兹以“above”（在……之上）为例，这个字正确的重音是第二音节，因此音标为：［ə’bʌv］<br>　　如果将“above”的重音误放在第一音节，则音标就成为［’ʌbəv］，当然［’ʌbəv］是错误的，［ə’bʌv］则是正确的。但这也告诉我们［ə］与［ʌ］的发音是相同的，只有在轻重音方面有区别而已。</p>
+<h1 id="冠词-a-或-an（一个，某个）、介词-of（属于）、连接词-and（和）的元音部分也都常念成［ə］。"><a href="#冠词-a-或-an（一个，某个）、介词-of（属于）、连接词-and（和）的元音部分也都常念成［ə］。" class="headerlink" title="冠词 a 或 an（一个，某个）、介词 of（属于）、连接词 and（和）的元音部分也都常念成［ə］。"></a>冠词 a 或 an（一个，某个）、介词 of（属于）、连接词 and（和）的元音部分也都常念成［ə］。</h1><p>　　He is a teacher.　　他是老师。<br>　　［hi ɪz ə ˈtiʧər］<br>　　Give me a cup of tea，please.　　请给我一杯茶。<br>　　［gɪv mi ə kʌp əv ti，pliz］<br>　　He and she are good friends.　　他和她是好朋友。<br>　　［hi ənd ʃi ɑr gʊd frɛndz］</p>
+<h1 id="［ər］与［ɜr］的异同"><a href="#［ər］与［ɜr］的异同" class="headerlink" title="［ər］与［ɜr］的异同"></a>［ər］与［ɜr］的异同</h1><p>　　［ər］的念法与［ɜr］完全相同，但如同［ə］，［ər］只出现在两个音节以上非重音部分的英文字中；而［ʌ］与［ɜr］则出现在有单音节或有两个以上的音节重音部分的英文字中。<br>　　［ɜr］与［ər］的发音是相同的，［ɜr］发的音较强，［ər］发的音较弱。<br>　　turn［tɜrn］转动　hurdle［’hɜrd(ə)l］赛跑栏架<br>　　word［wɜrd］字　nurse［nɜrs］护士<br>　　mermaid［’mɜr.meɪd］美人鱼　world［wɜrld］世界<br>　　future［’fjutʃər］未来　teacher［’titʃər］老师<br>　　danger［’deɪndʒər］危险　nervous［’nɜrvəs］紧张的<br>　　picture［’pɪktʃər］相片　master［’mæstər］主人</p>
+<h1 id="辅音"><a href="#辅音" class="headerlink" title="辅音"></a>辅音</h1><p>　　辅音又称子音。顾名思义，辅音依元音而存在。辅音与元音配合，产生音节，形成英文字的多样化。辅音包括浊辅音（振动声带）及清辅音（不振动声带）两类。</p>
+<h1 id="字尾为辅音时，只有在慢速英语中为了强调才会发出来，在正常或快速的英语交谈中，实际并不发出声音，成阻憋气即可。"><a href="#字尾为辅音时，只有在慢速英语中为了强调才会发出来，在正常或快速的英语交谈中，实际并不发出声音，成阻憋气即可。" class="headerlink" title="字尾为辅音时，只有在慢速英语中为了强调才会发出来，在正常或快速的英语交谈中，实际并不发出声音，成阻憋气即可。"></a>字尾为辅音时，只有在慢速英语中为了强调才会发出来，在正常或快速的英语交谈中，实际并不发出声音，成阻憋气即可。</h1><h1 id="［θ］与［ð］的异同"><a href="#［θ］与［ð］的异同" class="headerlink" title="［θ］与［ð］的异同"></a>［θ］与［ð］的异同</h1><p>　　［θ］发此音时，双唇微开，舌头伸出，上下齿轻轻咬住舌头，将气息从牙齿缝隙轻轻吹出来，不振动声带。<br>　　［ð］双唇微开，上下齿轻咬住舌头，惟气息尽量被上下齿堵住，只留少量气息从牙齿缝隙吹出来，同时振动声带。<br>　　Contrast：<br>　　发［θ］与［ð］的音时，均应吐舌头。惟［ð］要振动声带，是浊辅音；［θ］则不须振动声带，是清辅音。<br>　　bath［bæθbeɪð brið kloʊð］　breath［brɛθ］　cloth［klɔθ］<br>　　洗澡（名词）　呼吸（名词）　布（名词）<br>　　bathe［beɪð］　breathe［brið］　clothe［kloʊð］<br>　　洗澡（动词）　呼吸（动词）　穿衣（动词）</p>
+<h1 id="［s］"><a href="#［s］" class="headerlink" title="［s］"></a>［s］</h1><p>　　［s］出现在单音节或重音节的字中，之后有［p］、［k］、［t］的等辅音时，［p］、［k］、［t］要分别念成［b］、［g］、［d］的辅音发音。<br>　　单音节　　　　字典列出的音标　　　实际发音<br>　　speak　　　　［spik］说话　　　　［sbik］<br>　　skirt　　　　［skɜrt］裙子　　　　［sgɜrt］<br>　　steak　　　　［stek］牛排　　　　［sdek］<br>　　重音节　　　　字典列出的音标　　　　　实际发音<br>　　spacious　　　［’speɪʃəs］广阔的　　［’sbeɪʃəs］<br>　　skillful　　　［’skɪlfəl］有技巧的　［’sgɪlfəl］<br>　　standard　　　［’stændərd］标准　　［’sdændərd］</p>
+<p>　　［s］出现在非重音节的字中，之后有［p］、［k］、［t］等辅音时，［p］、［k］、［t］仍维持原来念法。<br>　　whisper 　　　whisky　　　sister<br>　　［’wɪspər］　［’wɪski］　　［’sɪstər］<br>　　耳语　　　　　威士忌酒　　妹妹或姐姐<br>　　惟老美见到英文字“s”之后有“p”、“k”、“t”出现时，不论轻重音节均习惯将“p”、k”、t”念成［b］、［g］、［d］的发音。</p>
+<p>　　［s］出现在字尾，之前有［t］的辅音时，［t］与［s］不可分开念，而要将［ts］当作一个音，［ts］念成类似汉语拼音“c”或汉字“刺”汉语发音的无声音。<br>　　bat［bæt］蝙蝠（单数）　→　bats［bæts］蝙蝠（复数）<br>　　seat［sit］座位（单数）　→　seats［sits］座位（复数）</p>
+<h1 id="［ʃ］与［ʒ］"><a href="#［ʃ］与［ʒ］" class="headerlink" title="［ʃ］与［ʒ］"></a>［ʃ］与［ʒ］</h1><p>　　［ʃ］此音类似汉语拼音［sh］或汉字“使”的汉语无声音。发此音时，双唇翘起向前突出，上下齿微闭，舌头上扬，向外吹气，不振动声带。<br>　　［ʒ］与［ʃ］大致相同，有点类似汉语拼音“r”或汉字“日”的汉语发音。发此音时，双唇翘起向前突出，上下齿微闭，舌头上扬，振动声带。</p>
+<h1 id="［l］"><a href="#［l］" class="headerlink" title="［l］"></a>［l］</h1><p>　　［l］在元音后发汉语拼音“ou”或汉字“欧”的汉语发音，但念“ou”或“欧”时，舌尖一定要翘起，抵住上齿龈。</p>
+<h1 id="［ŋ］"><a href="#［ŋ］" class="headerlink" title="［ŋ］"></a>［ŋ］</h1><p>　　［ŋ］与［n］的发音很类似，惟一不同处就是发［n］的音时，舌尖要抵住上齿龈。而发［n］的音时，则无此必要。发［ŋ］的音时，双唇微张，舌头平放，舌后根则上扬，抵住软颚，振动声带，气息由鼻腔出来。发出的声音似拼音“eng”或汉字“嗡”的尾音。<br>　　［ŋ］通常出现在字尾有“-ing”或“-ink”的英文字中。</p>
+<h1 id="［j］"><a href="#［j］" class="headerlink" title="［j］"></a>［j］</h1><p>　　［j］的发音类似汉语拼音“i”与“e”的连音，或汉字“爷”的汉语发音。发此音时，双唇微开，舌尖轻轻抵住下齿龈，舌头中间的部位翘起，振动声带，用力发出像“ye”或“爷”的短促有声音。<br>　　在英式英语中，常有［tju］或［nju］的发音，但在美式英语中，则通常将［j］省路，而念成［tu］或［nu］的音。</p>
+<h1 id="［w］"><a href="#［w］" class="headerlink" title="［w］"></a>［w］</h1><p>　　英文字一些有“wh”起首的字如 where、when、why、what、whether、whale、white 等，英国人都念成［hw］的发音，不过在美式英语中，大多念成［w］。</p>
+<h1 id="连音"><a href="#连音" class="headerlink" title="连音"></a>连音</h1><p>　　熟悉音标可以帮助我们念出英文单词的正确发音，然而当诸多英文单词凑在一起，形成短语或句子时，就要注意连音的念法。<br>　　英美人士对谈时，不可能一个字一个字分别念出来，而是整串字脱口而出，此时就会产生连音的现象。这些连音就是让我们有时听不懂英语的主因。<br>　　往往我们阅读句子时都看得懂，但听句子时，由于连音的作祟，我们便有听没有懂”，因而生气、失望，终至不想再学英文。因此，熟悉连音的念法是不可忽视的一环。<br>　　一般而言，在句子或短语之中的某一字字尾若是辅音，接下来的字字首是元音时，在正常速度的念法中，是要连在一起念的。<br>　　某字字尾是辅音，之后另有一字，而其字首亦有相同的辅音时，通常前者的辅音可省略，只念后者的辅音。这种情形常发生在［p］、［t］、［k］、［d］、［g］等辅音出现的时候。类似的辅音如［t］与［d］、［k］与［g］、［p］与［b］出现时，亦采相同的省略原则。<br>　　在正常速度或快速的对话中，字尾有［t］或［d］时，通常不会把［t］或<br>［d］的发音清楚地念出来，而是快要念出来时，马上憋气顿息，因此字尾<br>［t］或［d］的发音常常是听不到的。<br>　　在正常速度或快速的英语对话中，某字字尾有［t］的辅音，而之后另一字字首是元音时，［t］的发音通常会变成介乎汉语拼音“l”与“t”之间的含糊音，亦即既像“l”又像“t”的音。<br>　　在正常速度或快速的英语对话中，某字字尾有［t］或［d］辅音，而之后另一字字首是［j］时，［t］与［j］就会连成一个音，同化成［tʃ］的音；［d］［j］会连成一个音，同化成［dʒ］的发音。</p>
+
+    </div>
+
+    
+    
+    
+      
+
+
+    <footer class="post-footer">
+          
+
+<div class="post-copyright">
+<ul>
+  <li class="post-copyright-author">
+      <strong>本文作者  </strong>千灵夙赋
+  </li>
+  <li class="post-copyright-link">
+      <strong>本文链接 </strong>
+      <a href="https://qianling.pw/kk" title="《赖世雄美语音标》笔记">https://qianling.pw/kk</a>
+  </li>
+  <li class="post-copyright-license">
+    <strong>版权声明  </strong>本博客所有文章除特别声明外，均采用 <a href="https://creativecommons.org/licenses/by-nc-sa/4.0/" rel="noopener" target="_blank"><i class="fab fa-fw fa-creative-commons"></i>BY-NC-SA</a> 许可协议。转载请注明出处！
+  </li>
+</ul>
+</div>
+
+          <div class="followme">
+  <span>　</span>
+
+  <div class="social-list">
+
+      <div class="social-item">
+        <a target="_blank" class="social-link" href="/atom.xml">
+          <span class="icon">
+            <i class="fa fa-rss"></i>
+          </span>
+
+          <span class="label">RSS</span>
+        </a>
+      </div>
+  </div>
+</div>
+
+          <div class="post-tags">
+              <a href="/tags/%E4%B9%A6%E6%91%98/" rel="tag"># 书摘</a>
+              <a href="/tags/%E8%8B%B1%E8%AF%AD/" rel="tag"># 英语</a>
+          </div>
+
+        
+  <div class="post-widgets">
+    <div class="wpac-rating-container">
+      <div id="wpac-rating"></div>
+    </div>
+  </div>
+
+          <div class="post-nav">
+            <div class="post-nav-item">
+                <a href="/broadcasting-and-hosting-training-methods" rel="prev" title="《播音主持训练280法》书摘">
+                  <i class="fa fa-chevron-left"></i> 《播音主持训练280法》书摘
+                </a>
+            </div>
+            <div class="post-nav-item">
+                <a href="/course-of-phonetics" rel="next" title="《语音学教程》书摘">
+                  《语音学教程》书摘 <i class="fa fa-chevron-right"></i>
+                </a>
+            </div>
+          </div>
+    </footer>
+  </article>
+</div>
+
+
+
+
+
+
+    <div class="comments" id="valine-comments"></div>
+</div>
+  </main>
+
+  <footer class="footer">
+    <div class="footer-inner">
+
+
+<div class="copyright">
+  &copy; 
+  <span itemprop="copyrightYear">2022</span>
+  <span class="with-love">
+    <i class="fab fa-github-alt"></i>
+  </span>
+  <span class="author" itemprop="copyrightHolder">千灵夙赋</span>
+</div>
+<div class="busuanzi-count">
+    <span class="post-meta-item" id="busuanzi_container_site_uv">
+      <span class="post-meta-item-icon">
+        <i class=""></i>
+      </span>你是第
+      <span class="site-uv" title="总访客量">
+        <span id="busuanzi_value_site_uv"></span>位到访的小伙伴喔
+      </span>
+    </span>
+    <span class="post-meta-item" id="busuanzi_container_site_pv">
+      <span class="post-meta-item-icon">
+        <i class=""></i>
+      </span>本站已被访问
+      <span class="site-pv" title="总访问量">
+        <span id="busuanzi_value_site_pv"></span>次啦
+      </span>
+    </span>
+</div>
+
+    </div>
+  </footer>
+
+  
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/animejs/3.2.1/anime.min.js" integrity="sha256-XL2inqUJaslATFnHdJOi9GfQ60on8Wx1C2H8DYiN1xY=" crossorigin="anonymous"></script>
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/next-theme-pjax/0.5.0/pjax.min.js" integrity="sha256-3NkoLDrmHLTYj7csHIZSr0MHAFTXth7Ua/DDt4MRUAg=" crossorigin="anonymous"></script>
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.6.0/jquery.min.js" integrity="sha256-/xUj+3OJU5yExlq6GSYGSHk7tPXikynS7ogEvDej/m4=" crossorigin="anonymous"></script>
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/fancybox/3.5.7/jquery.fancybox.min.js" integrity="sha256-yt2kYMy0w8AbtF89WXb2P1rfjcP/HTHLT7097U8Y5b8=" crossorigin="anonymous"></script>
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/lozad.js/1.16.0/lozad.min.js" integrity="sha256-mOFREFhqmHeQbXpK2lp4nA3qooVgACfh88fpJftLBbc=" crossorigin="anonymous"></script>
+<script src="/js/comments.js"></script><script src="/js/utils.js"></script><script src="/js/motion.js"></script><script src="/js/schemes/muse.js"></script><script src="/js/next-boot.js"></script><script src="/js/pjax.js"></script>
+
+  
+  <script src="https://embed.widgetpack.com/widget.js" async></script>
+  <script class="next-config" data-name="rating" type="application/json">{"enable":true,"id":8657,"color":"5bc0de"}</script>
+  <script src="/js/third-party/rating.js"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/hexo-generator-searchdb/1.4.0/search.js" integrity="sha256-vXZMYLEqsROAXkEw93GGIvaB2ab+QW6w3+1ahD9nXXA=" crossorigin="anonymous"></script>
+<script src="/js/third-party/search/local-search.js"></script>
+
+
+
+  <script src="/js/third-party/fancybox.js"></script>
+
+  <script src="/js/third-party/pace.js"></script>
+
+  
+  <script data-pjax async src="https://busuanzi.ibruce.info/busuanzi/2.3/busuanzi.pure.mini.js"></script>
+
+
+  <script class="next-config" data-name="leancloud_visitors" type="application/json">{"enable":true,"app_id":"zulMeib4pyC6zB1a65OmVtHz-gzGzoHsz","app_key":"TEjUlOUBz3KwSUmDQ35ROxpw","server_url":null,"security":false}</script>
+  <script src="/js/third-party/statistics/lean-analytics.js"></script>
+
+
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/quicklink/2.2.0/quicklink.umd.js" integrity="sha256-4kQf9z5ntdQrzsBC3YSHnEz02Z9C1UeW/E9OgnvlzSY=" crossorigin="anonymous"></script>
+  <script class="next-config" data-name="quicklink" type="application/json">{"enable":true,"home":false,"archive":false,"delay":true,"timeout":3000,"priority":true,"url":"https://qianling.pw/kk"}</script>
+  <script src="/js/third-party/quicklink.js"></script>
+
+
+<script class="next-config" data-name="valine" type="application/json">{"enable":true,"appId":"zulMeib4pyC6zB1a65OmVtHz-gzGzoHsz","appKey":"TEjUlOUBz3KwSUmDQ35ROxpw","serverURLs":"https://zulmeib4.lc-cn-n1-shared.com","placeholder":"说点什么好呢~","avatar":"wavatar","meta":["nick","mail","link"],"pageSize":10,"lang":null,"visitor":false,"comment_count":true,"recordIP":false,"enableQQ":true,"requiredFields":[],"emojiCDN":"//i0.hdslb.com/bfs/emote/","emojiMaps":{"团宝":"311f83d568e2fd702b08f40d4c838572a07ebea0.png","少前小剧场-心虚":"61ea3a788ec43241860ed984672eb588963bc98a.png","少前小剧场-打call":"f4b6b513bf4280da6395a40a61d15480ff12f978.png","少前小剧场-卖萌":"bbe8c979922144e667efd63dcce0320437425a00.png","少前小剧场-钱钱":"48ae808b0463e0cde3cc5c8666839776ed7a4cfb.png","泠鸢yousa-awsl":"7663b729161bd4556c2ec318c07791000743eb56.png","泠鸢yousa-打call":"718e9495846db4172eb87d2f7f02015a34d35ea2.png","泠鸢yousa-大哭":"3f757b147b9b1e201470eae7dac9cc0360172569.png","泠鸢yousa-好人卡":"e3907b3bb20b18e7ecb11cd86829c9a4ce5b1b2f.png","泠鸢yousa-加大力度":"a0393a2d4b522f07a319dfd2e91754a3cdff2c48.png","泠鸢yousa-滑稽":"a8057c0e0579b93c16010a270e261fd0a64034af.png","泠鸢yousa-请吃桃":"e92276d9d8c28f85f7dbcc0fbbb6ecb3345ce33e.png","泠鸢yousa-生气":"9e6ba9ff34101e04d3e321cad486f845f892050e.png","泠鸢yousa-真棒":"02ea49543a3ac52feee185c156ab08fb2bfdd89e.png","初音未来-GKD":"44caa7ec800837d8860482c214ac792f4c37c490.png","初音未来-加油":"4943a9be0a3134125c7d585b4dafde79a9a1990a.png","初音未来-哭了":"db9b01e5808967a32ed644b490ab47faf0f29ce3.png","花园Serena-？？？":"42f7ab2a562d000929979976d30669bec042662f.png","花园Serena-安详去世":"cdf595646132b98dcf1d230d351b2738d68f49c3.png","花园Serena-mua":"20319d3948da83f666a643b2c8103e6da0e36721.png","花园Serena-到点了":"af2f6c0dd1155f4aefb610cc6d09c135df9e6752.png","花园Serena-恭喜":"c1d8361755bb135d24b3b4680fe6ba03c086b395.png","花园Serena-喵":"4159859e6c9c2e0476299454b6015c2659149e3c.png","花园Serena-睡":"ae8ad8fd2a8d14e53938ba7dc7ca22681143dc09.png","白上吹雪-不是猫咪":"7524855a584f7ec0f9cf337b1a3554ee5ffd29b9.png","白上吹雪-吃惊":"aa6549e4daba755b5cf6a7031bd37ab9cf378706.png","白上吹雪-大佬喝茶":"9c7f6f0c192d972c27988d7d461477ca8871dcc6.png","白上吹雪-狐狐祟祟":"14f8be6955ee392baccd7d82b4371765a0c18523.png","白上吹雪-摸摸":"218cc0fb954a3dadde61eed03e3a376f277f36ee.png","白上吹雪-围观":"04d66a7b0b7b4f78bf45297cd91c0059de71b8bb.png","白上吹雪-一派狐言":"7d504e583857d68edf4fe0706be0b426f0d3cfb1.png","白上吹雪-emmm":"709bc019cf7960d9dcb40a0d5a444f8a78e376d3.png","原神-哦":"4b8b6f0e451c600abf2d83560125d03cfa97fe28.png","原神-哼哼":"62d09fa482842dabbd4a51176abc0ec20a64a359.png","原神-给我走开":"c0a9f2bea10fdf763b4fbe3874ee254d61916711.png","原神-鸽子":"d03a8f9f490eb007aae2d826f9143e3a29a3be5a.png","原神-干杯":"966f0b307bf4d07e81162dc32bf1e71c83bf997a.png","原神-吃惊":"d8d07498a567ea109a8fc4b58ffccdc33643cd99.png","原神-不要啊":"8ea92be976beb8126adc7cabc2aa7f2b02b9bee2.png","原神-拜托":"2f2817b84caf9d81fdce171d18a3f99983f1ec64.png","2233塔罗牌-撒花":"0d301be888e87aed6cc8e6548fbc74a23421dedc.png","2233塔罗牌-我觉得星":"1aa7391b61aa7be88644db2672cd4603559f1469.png","2233塔罗牌-下次一定":"294690ac14a2adc6ee50b138229aa5c53636e46f.png","洛天依·夜航星-爷青回":"d1202872850a335b357e702adaf3d2a79db72e13.png","洛天依·夜航星-萌妹初醒":"3159931d9afa243c6cf5939753e3c82acb69a554.png","洛天依·夜航星-冲鸭":"659efad4a6aa25ed6a98efe611564c26f497f436.png","洛天依·夜航星-Lucky":"bbeb9d231773a168397697072a11373893d7c01a.png","洛天依·夜航星-锦鲤":"35ab588061c32f07743b07f1ac3f62a16f34438c.png","神乐七奈-变猫猫":"9f699c56da1178079b18be27dc3f219138e4a164.png","神乐七奈-辛苦辣":"7b22908d4afac2c0ad1ba96177ac7a24855f4a2e.png","2021拜年纪-投币":"d2d0a3a4621dede09506264110cefcbfa9561572.png","双鱼座-做白日梦":"ba03f95ebe480106806377024e0c93ddb9c0f836.png","崩坏3-吃饭团":"62173e795139cfaf60b5665165400e99bb8a14ac.png","崩坏3-饿了":"8b6160dfc5f8a8608e88bcb380f4e812b8a165cb.png","崩坏3-干杯":"8de5f3a1cc3dfd9f7be8f12662a489214d3e72fb.png","不问天-大哭":"aea0c17a62f825621a1273f100c17330180b7b01.png","进击的冰糖-探头":"ae834e6efdd568f7e30aec059a8646b75438d896.png","干物妹！小埋-？？？":"d2d0955e6ddf2d3528c6f2364b7002b114907c94.png","干物妹！小埋-抱抱":"f7d5a5150733a15386d98015114630e893f5281b.png","Hiiro-亲亲":"0b54433d978f51a7031a965f2981832129eb8ef5.png","C酱-问号":"4fb6f0d8fcedef1624c5999609036346748b31e2.png","C酱-AWSL":"4b8ac5c1fa7358d949ecfe089e02b252b29d6082.png","C酱-害怕":"f5f777b059df8c40cbc240586aeaf4f63af97f91.png","C酱-嘻嘻":"65cf8762af542e8a72edc466b05bb1a19600dc2d.png","C酱-不要啊":"86994300b58eb3cb91fc99818dd87a691deed564.png","一周年纪念-抱大腿":"0800070155b5dabc3097793c0e086420057a7e2f.png","咩栗-nya":"b8011132b40b4f9807523db3d21581f82c2dce91.png","咩栗-打call":"01b6ee0712d13daa323dbd89217018ea7f6794a5.png","咩栗-聪明":"750542d25fcf1675baf143c2ab7e945445e8b078.png","咩栗-好耶":"9aa9b53211a938c1859c15407cee57cc7519fefd.png","咩栗-惊":"8c4ecf43c895bc9ed23eea9274328ba6cf24481e.png","咩栗-咩？":"bb305147beb88a101061dff54cbcb9062635670b.png","咩栗-咩呀！":"a36a0973f1c9935577db05bc90b602dc61236c0f.png","咩栗-斯米马三":"a46bc117192aa2495c492acca03e27393258c015.png","咩栗-羊名立万":"8fd2b4174f94c1c9b7cf4cf132a54838db40ddff.png","咩栗-羊羊得意":"dd55311765d00d768acb157958e85413ae25578c.png","嘉然-mua":"74ea9b89f8923df6a123cabe6053762b9e776387.png","嘉然-安详":"312359401cc72c34fcea3654cdba42db0f9f3dd0.png","嘉然-暗中观察":"3acf0b43facfd0601f5ab88cca6e401aa4f5a02e.png","嘉然-锤头丧气":"e6342840311ffeba8f2c58d1c360d76644e75dff.png","嘉然-点赞":"7017d90d4ceb9ea042cef8adc70d35eeb1f95e7e.png","嘉然-嘉人们":"d270845c9590da372e9b311cd6d976459acd1087.png","嘉然-嘉速心动":"387035168f40ca81afce8b38303c60ceb0c5dc6c.png","嘉然-流口水":"78bfeff475ad56a6d9379164b099f1ad8ecd7086.png","嘉然-你好":"d1530f972a59bca97bc4b8acf4f7e16f989f37c3.png","嘉然-一眼真":"ff436f5821db8b871517d0e5bb7ade7b64d3d0bf.png","嘉然-绷不住了":"4f0a9ee7708d71083dba4e79768ff0b7c308eaf4.png","嘉然-笔芯":"332a6df0e6def8da77e09310a62f3bffdc397640.png","嘉然-我有嘉心糖":"7579c6085f984f39ff0f6a2cb710301a2b113fac.png","银杏鎏金-幸运喷雾":"89e550f628333fe35f0b010337bdc5c4bf713cfc.png","2022拜年纪-HAHA":"ece69ad87284eb12324572be2a9009c0bc5e65b8.png","2022拜年纪-？？？":"0c5acb46f82cc559e16e542c29ae3bd503b65344.png","2022拜年纪-比心":"5001d623ddbe81d704e0093343ced12e2b38a3db.png","2022拜年纪-不愧是我":"ab807d0265a5c834c0d4d54b676c54da4feb38ce.png","2022拜年纪-不要啊":"80a74addbae8dd5bccc71728181e1d7e11a79d19.png","2022拜年纪-馋":"5012311cfa88687663f636f044f020a611a49848.png","2022拜年纪-打call":"54f99d1e613b42b0241a7f7c9ef5d8f5331fc754.png","2022拜年纪-瞪大双眼":"7def07a3a1829c7e26cfa6a3f1259fe3f9b9d4d3.png","2022拜年纪-放空":"823ea6f47ef1dda2d85317f635dc7d42a58c1545.png","2022拜年纪-干了这杯":"de06e28d6afee561556c6e3cbd199d21f4e4fd09.png","2022拜年纪-哈？":"206ddfebe778cf4f4c2c3f6f87330db32d4e1708.png","2022拜年纪-擦擦":"7b5fb834faccffe090db5ae3406468a306018bfd.png","2022拜年纪-哭哭":"365002e8c6007564b92fe4eb7ab0f815e988995e.png","2022拜年纪-捂脸":"380d5814aa70370f57f990ab68b4cd2a195830a6.png","2022拜年纪-恰柠檬":"5d2e17818c67eaff2de2890d808cc1f7a2bb8232.png","2022拜年纪-无情吃瓜":"3342b9aa0c6fc6f7ddfec0bcc611fa4ea6987c60.png","2022拜年纪-眼前一黑":"9cf5e735e64525c59f26ccbcb4ddf6ba5a29ed11.png","2022拜年纪-星星眼":"ef49e822e72ced75f71950f4c296192dae543486.png","2022拜年纪-晕":"460d02950b4d676604e9d4686fa769a866d21191.png","拜年纪2022-火了":"20ee37d0695247f6f32e71de264fe7e955d74835.png","月隐空夜-咕咕咕":"df59993b9ea4255e8666bd417f75b3857bd67627.png","月隐空夜-回家了":"3c796d34b61c18fd1d03443a4a144c1133859600.png","月隐空夜-欧拉":"36465ab94e113a0557cff76bed5c6266277430f3.png","月隐空夜-欧气满满":"fce384d8ad9dd6ba2b87e6a8c6fec1e3f8576984.png","月隐空夜-天才":"542eaddb1b04f85a04068f31bfe1c133a5270a66.png","月隐空夜-完了":"1289c9f89244342b83f784d3bf6c18dcd548f1e3.png","新月冰冰!-心脏骤停":"04f0e3087d39629079bbfc7f2b2d0e3cdd3eada6.png","新月冰冰!-加油":"46be9e14a41ec1f392240c5c7f3006cbff5b3744.png","新月冰冰!-不可以色色":"116f93998c4c50a8c801103b9037f793f936a896.png","新月冰冰!-大哭":"50a0ad849ffae469cd376f5e4afeb0ab64b74887.png","新月冰冰!-单推":"542fbbc36493831ec98ed64b51d60a1191afa63e.png","新月冰冰!-诶嘿":"dae8436e7042b1440748993da11d5c93e55e0c13.png","新月冰冰!-给花花":"fac1c332932004b3922e19b1d8f20208ddb7ea23.png","新月冰冰!-滑稽":"c2dfb168f43d334ff291042e81ddf80a8a059913.png","新月冰冰!-开车":"83630b278dd62d2dde701021d98be2d5fcbf00f3.png","新月冰冰!-穷醒":"9cc02af9592ceceb795006cf2611b4a423ec4a19.png","新月冰冰!-谢谢老板":"ddc6b7389787bec178ab24eb842ee949d2d79be2.png","新月冰冰!-kira":"f50869288aa706cf9f1aa9e5d3f7274eac558f68.png","Hiiro二周年-吃瓜":"f5dd831cd8dc9fc93a8cf21247f2e1bdbfa65eff.png","Hiiro二周年-大的要来了":"7cb1ccd578c1946ff68cbcf55add6527cc7826e1.png","Hiiro二周年-好耶":"3250844f983fad2e8888a69f9438a925492630b1.png","Hiiro二周年-坏女人":"74f02465c6c057aebb0df5cb3ab785616b5f077b.png","Hiiro二周年-击剑":"3212b33d39221df349dea0695701bbce07971b00.png","Hiiro二周年-寄":"22ce9c662192d858231ffd02190db7338e0b6e8c.png","Hiiro二周年-辣眼睛":"8ea839758e87947326711297ca7c08a9ad3af906.png","Hiiro二周年-流口水":"0648c8bf4f3836de0902b4ab8e9b1c1b68505a5e.png","Hiiro二周年-麻了":"a7b0deef902b639e40c9b4dc3d3a9df5793cf538.png","Hiiro二周年-无语":"5a61e12360c94b413fa6d370829b8d7f4733c897.png","Hiiro二周年-吓":"cbaca277bcc77739abf41bfc5c377b61ff8527d9.png","Hiiro二周年-两眼一黑":"9b6d393c8f9248e9f8ea8e1d075cc88a300972f3.png","崩坏学园2-好耶":"f1fe88c6d201f2b5d91ad70bcad15288d4569f00.png","崩坏学园2-偷瞄":"31406161e268ab3a3ae24befacc64ab9812d478b.png","崩坏学园2-乖巧":"fb397421eaea8f271acfe135a8dc49bffa7605be.png","扶桑大红花-疑惑":"5d3d9164fd05da8a1690d7a1dff210bdf822a64d.png","崩坏3-幸福":"714cc90d3485a003f53eecec336bea8a0b2dc12d.png","扶桑大红花-略略略":"e1fd8c1f6947c94e3227e7f7afe8de61aa277a24.png","扶桑大红花-生气":"6adad591921aa4d51a8399b6efdf18f84e7144f6.png","扶桑大红花-好诶":"1acaf75c1f900e827922169b8512a5c38695f620.png","扶桑大红花-啪":"0f06e1363cbfd72ed411c2385f3c64d098fdac18.png","扶桑大红花-入脑":"6b343b588735140442460054a4b64e81a6ee9dd9.png","扶桑大红花-不行":"b21a234b272c952b012af2cfa097693b126bd445.png","扶桑大红花-rua":"50053d5c3c485fda2c110ed0874a6a5a2d7f1dff.png","暹罗猫小豆泥-抱大腿":"1e309b348e969e7ff1c7d873352799a2005494d5.png","暹罗猫小豆泥-惊讶":"d6024fd52d7e66241062c045559974e2a4c6e87f.png","暹罗猫小豆泥-哭":"9153d549e425cc02eb911695fff29cb59b338da0.png","暹罗猫小豆泥-探头":"4741a1d527c52365850368b2f480d5818b23cb8f.png","小可学妹-老板大气":"f5fadc61fd4da10fca13cc352e9a37663c21daf6.png","小可学妹-好热":"6892a3b67b1968c550fdd110e9ff8f995973a44b.png","小可学妹-两眼一黑":"66b17fa948ce00a66f260b202dff5bb943103c6c.png","Akie秋绘-可爱":"d1e9aeb4fee6a64e1cbc17c6fe129d3b74e41f50.png","Akie秋绘-哭哭":"06fb34e4d4d33477fcbf13cb5d8327c2bd746e76.png","天涯明月刀伙伴-？？？":"6b7815e08667c6fd7905b7c640c5b46b2bc4dec0.png","天涯明月刀伙伴-馋":"0467b117ad55f21d2b13b8230dc28bc06039d842.png","天涯明月刀伙伴-emo":"8b0cf44f7311445e1590391c7a091a664bad353b.png","祖娅纳惜生贺-懒":"97029c26e7b2700dd30f9ac53842e4806872f262.png","祖娅纳惜生贺-泪奔":"1486e90eea32c556b21a8a0c9474cb8b04f04eae.png","祖娅纳惜生贺-恰饭":"780146c9ea1b35d7b8efad3de8a6a153d42d760e.png","祖娅纳惜生贺-生气":"115705216f64896f40b0bab9ee0b127c315e3721.png","祖娅纳惜生贺-晚安":"1e6f9b96f9ed121928e4bbaa27a4263156b48d3d.png","星瞳-星想事成":"23dcbf6168d8befa79856764d1a4036662786063.png","请吃红小豆吧-吃薯片":"35aeeddf6f0c96dec6652e6050e34626d6cfdcbf.png","请吃红小豆吧-发呆":"ffdc8f1ab56c4d9ccc6a35a7a6bb7092df93f231.png","请吃红小豆吧-告辞":"463fb9facfa0d4700b001ef9365e7253f80a0459.png","请吃红小豆吧-害羞":"7e1ae398526c28926767fda86bf41ba6f6d6e7b4.png","请吃红小豆吧-好耶":"905662fe86b316d361a37e64c6d753ee6efb1d2e.png","请吃红小豆吧-坏笑":"9ff8ab26feeb0a7f65c698825192cbbee417dcd3.png","请吃红小豆吧-泪目":"41f2e34af7e0c3cdd726dadbc8933f21f01d1c13.png","请吃红小豆吧-摸摸头":"7fe816a29961559ac6248274087de14b3447f3f2.png","请吃红小豆吧-哇":"be9352ed161a0d0aa222986b5610802bbf18e5a6.png","请吃红小豆吧-我很好":"ad9d73e683990c86e06be15e0187c930826de644.png","请吃红小豆吧-在吗":"865566aa175609d7a018436046407199a4e2b51a.png","请吃红小豆吧-糟糕":"8c8372a8fc9655e1559a764afe3d769fa141c96e.png","请吃红小豆吧-啧":"b033a8a098bb321a6220cd10a534322a7ea94aad.png","最后的召唤师-吃瓜":"72007fc6e0cbc2b2c13b8c3971e333708024785a.png","最后的召唤师-摸摸":"808b65dddecd55c06bde59080823f60030b6be98.png","最后的召唤师-歇歇":"63e50835bad0184129e9382df435efbf6b29a3b0.png","眞白花音-打call":"e3957fbe286f694f215fafdcc6597c9a9cc3a5ae.png","眞白花音-大头":"8cf7b3d9e9b81017d6d616b643373bf57b516ec5.png","眞白花音-对不起":"b12fa885dc14cdc73cdb71f69f70a54350316d92.png","雪绘-比心":"892ec2ea31bae16044c683b68b4744fda62f1eff.png","坎公骑冠剑-YYDS":"207ad2f10f32e138c29761fd3526877e2210c2e2.png","坎公骑冠剑-唱歌":"46dbf43a57841ae840e21e8678b7daa58935a26e.png","坎公骑冠剑-吃鸡腿":"db344ad0fd23621beecb7db3abb7567156bfb8f4.png","坎公骑冠剑-出来玩":"485be2a946e954ba886b50b8ba1033accb056071.png","坎公骑冠剑-干杯":"25cab88e656ea009152ad6364df1b42065d1ffda.png","坎公骑冠剑-乖巧":"c9468c3a6dd02389b2e1364fba39f51efea9f247.png","坎公骑冠剑-惊叹":"30ed9cd688e17cc6c54f7b969b6e89b74580a5db.png","坎公骑冠剑-嗯!":"9d7f7dff618d4fbcb99cfef30141e37105179044.png","坎公骑冠剑-你还好吗":"d48c0e8ef71bc2af28d25ac390c67a9f08533517.png","坎公骑冠剑-你在干嘛":"4521901b073665c42f76a50b07acb19a2d3459bf.png","坎公骑冠剑-欧气传输":"e8f1308e982c818a6d7a6b4ff3ef5d92c24f4fe0.png","坎公骑冠剑-送花":"9fb76616e1cdf524bc254f2b8873b83d43e03b87.png","坎公骑冠剑-哇":"a737de02e1952f2841916cff82e73009f9946dec.png","坎公骑冠剑-晚安":"c223ba1967dd328307f74e2b58f815acb3232cf9.png","坎公骑冠剑-妖妖灵":"2c8eee463117bec38f38d6cf6873d333aa9660a5.png","永雏塔菲-不理你了":"ec38a461c767fd0f4dee7346f82d81e5a88b176c.png","永雏塔菲-嘲笑":"094c321f0829f0894f48195d6671358a1a43b53c.png","永雏塔菲-对呀对呀":"37afa9e099d0c2ca9a4f3ff7d599e86060d6b942.png","永雏塔菲-尴尬":"71a5b730a3c20ddac64f8e7803ffc00da97f7397.png","永雏塔菲-哈哈哈":"b1f89d85b9c9f8553fe021c1e5785bc2995f8751.png","永雏塔菲-累":"889f95e3b36f257cb6b68f420b8238a11c596d19.png","永雏塔菲-摸头":"a826477acfa607224dd4a6771431af3b18ee8f92.png","永雏塔菲-亲嘴":"ce2123ec6b4f15eb8dfc2467f36fa3d69f2f97cd.png","永雏塔菲-闪亮登场":"c7eff8db64b132e6757bacdd51e649e16965f6b9.png","永雏塔菲-生日快乐":"9daed0ba16c89f983c7fcfa38e2bc8d1b80f7957.png","永雏塔菲-太好吃了":"86b760ed0a466b5dc3fa0b1e64b9ba7d6b53b6ed.png","永雏塔菲-嘻嘻喵":"866c99dbf6cb5e054e8e94be60c1b37ff4581eaa.png","永雏塔菲-星星眼":"bf3e961a1c3d4edf5ebdd063418495a1ed4c865f.png","永雏塔菲-嘤嘤嘤":"ba43546b013efffa7821dc21df6c79490cbafe72.png","永雏塔菲-有鬼":"b33d0672a01810a6b26696bf4a56204dadd5ff31.png","永雏塔菲-晕了":"d395fd944642b882a9226db81dcfa2e80307461c.png","永雏塔菲-震惊":"36bea35a3a15b675b2f5f28529582f82cf65b1c9.png","奈姬niki-微笑":"6fdc161f1086c522d90e684639a3bd1c48837507.png","奈姬niki-我超":"8d6d65fa2764084fd17fd18bef5a2bbc58f044f4.png","奈姬niki-无语":"33479daa29101a0846d7735cd5fba0d847be6e51.png","奈姬niki-谢谢":"8eaca252ea780a992261b4f9df7a4e170cfd71f1.png","有栖mana-打call":"0572afd470f86cc73cd5a1dff047cd22b620f336.png","有栖mana-喝可乐":"7788e653641e40f5043267aa6f73afbd73f5dd73.png","有栖mana-嘿嘿嘿嘿":"0500a6063e9828ce5002f0d796b19569db7ea63c.png","有栖mana-你好":"0d1575f7203eaf1705cc1104eaf7c02983cae9f0.png","有栖mana-辛苦了":"1893dad434a59c1f5e9c70e1440a6b323a92c3c6.png","有栖mana-炸毛":"f8d86249f486e3e0eb0b601bdf9994cb76634538.png","有栖mana-做什么？":"eb2eb12a288287b4f46d7a4dbeb71ec645810726.png","幻塔-害羞":"7868841b13f2067418c34becd73fde4be8a8bdfe.png","鹿乃桜帆-早上好":"1b58aba1d2e1372a8c4b7e49cb420db738bce414.png","鹿乃桜帆-恭喜":"584dae2f7faf4ee160c389e4ba0eebfb26aeb910.png","鹿乃桜帆-惊":"b945fc60b60467fc80b1e18ba4ea6d8c7b3ae0f9.png","鹿乃桜帆-期待":"5ae064b9deefdce14129d24659f0ee605a0e341b.png","鹿乃桜帆-神":"863c349b44abb098fecac479772f23ef1edd10f5.png","鹿乃桜帆-3Q":"9bee9ccc87c3ffe392e5572c4f67dae92a031e35.png","尼奈-妙!！":"3c2439d868818711b6c2cee035c4d51818c07c99.png","蕾尔娜Leona-反弹":"bc82f5b4e8525efeac017a1a9a3ea94d811d4463.png","蕾尔娜Leona-好耶":"f5269730d3156ba2a6cbe5c127d65753b3143f81.png","约战4-疑惑":"9174bde1afdde014a1b066c1bbb3027dc8dbb834.png","夏日青春欧皇套装-谢谢老板":"ca607626747f23cf37dbe8bb81397985dcb0ab17.png","夏日限定宅家手册-期待":"aaf3de49543253272e7eaeabff07ef0d162db67a.png","夏日限定宅家手册-重在参与":"aeafdb2f36c2cfde1ff4dadfecde48241ee31f15.png"},"el":"#valine-comments","path":"/kk"}</script>
+<script>
+document.addEventListener('page:loaded', () => {
+  NexT.utils.loadComments(CONFIG.valine.el)
+    .then(() => NexT.utils.getScript(
+      '/js/custom/Valine.min.js',
+      { condition: window.Valine }
+    ))
+    .then(() => {
+      new Valine(CONFIG.valine);
+    });
+});
+</script>
+
+</body>
+</html>

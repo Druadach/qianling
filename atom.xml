@@ -17,13 +17,13 @@
   <generator uri="https://hexo.io/">Hexo</generator>
   
   <entry>
-    <title>抖音直播日报表数据预处理 VBA 程序分享</title>
-    <link href="https://qianling.pw/douyin-vba/"/>
-    <id>https://qianling.pw/douyin-vba/</id>
+    <title>抖音直播报表数据预处理 VBA 程序分享</title>
+    <link href="https://qianling.pw/douyin-vba"/>
+    <id>https://qianling.pw/douyin-vba</id>
     <published>2022-10-10T10:44:59.000Z</published>
     <updated>2022-10-10T10:44:59.000Z</updated>
     
-    <content type="html"><![CDATA[<p><img data-src="/images/covers/260.jpg"></p><span id="more"></span><hr><p>本程序适用于「抖音电商罗盘-商家视角-直播间明细」所导出报表，所有代码均已模块化标注，便于修改。</p><p>效果如图：<br><img data-src="douyin-vba-1.png"></p><figure class="highlight vb"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br><span class="line">7</span><br><span class="line">8</span><br><span class="line">9</span><br><span class="line">10</span><br><span class="line">11</span><br><span class="line">12</span><br><span class="line">13</span><br><span class="line">14</span><br><span class="line">15</span><br><span class="line">16</span><br><span class="line">17</span><br><span class="line">18</span><br><span class="line">19</span><br><span class="line">20</span><br><span class="line">21</span><br><span class="line">22</span><br><span class="line">23</span><br><span class="line">24</span><br><span class="line">25</span><br><span class="line">26</span><br><span class="line">27</span><br><span class="line">28</span><br><span class="line">29</span><br><span class="line">30</span><br><span class="line">31</span><br><span class="line">32</span><br><span class="line">33</span><br><span class="line">34</span><br><span class="line">35</span><br><span class="line">36</span><br><span class="line">37</span><br><span class="line">38</span><br><span class="line">39</span><br><span class="line">40</span><br><span class="line">41</span><br><span class="line">42</span><br><span class="line">43</span><br><span class="line">44</span><br><span class="line">45</span><br><span class="line">46</span><br><span class="line">47</span><br><span class="line">48</span><br><span class="line">49</span><br><span class="line">50</span><br><span class="line">51</span><br><span class="line">52</span><br><span class="line">53</span><br><span class="line">54</span><br><span class="line">55</span><br><span class="line">56</span><br><span class="line">57</span><br><span class="line">58</span><br><span class="line">59</span><br><span class="line">60</span><br><span class="line">61</span><br><span class="line">62</span><br><span class="line">63</span><br><span class="line">64</span><br><span class="line">65</span><br><span class="line">66</span><br><span class="line">67</span><br><span class="line">68</span><br><span class="line">69</span><br><span class="line">70</span><br><span class="line">71</span><br><span class="line">72</span><br><span class="line">73</span><br><span class="line">74</span><br><span class="line">75</span><br><span class="line">76</span><br><span class="line">77</span><br><span class="line">78</span><br><span class="line">79</span><br><span class="line">80</span><br><span class="line">81</span><br><span class="line">82</span><br><span class="line">83</span><br><span class="line">84</span><br><span class="line">85</span><br><span class="line">86</span><br><span class="line">87</span><br><span class="line">88</span><br><span class="line">89</span><br><span class="line">90</span><br><span class="line">91</span><br><span class="line">92</span><br><span class="line">93</span><br><span class="line">94</span><br><span class="line">95</span><br><span class="line">96</span><br><span class="line">97</span><br><span class="line">98</span><br><span class="line">99</span><br><span class="line">100</span><br><span class="line">101</span><br><span class="line">102</span><br><span class="line">103</span><br><span class="line">104</span><br><span class="line">105</span><br><span class="line">106</span><br><span class="line">107</span><br><span class="line">108</span><br><span class="line">109</span><br><span class="line">110</span><br><span class="line">111</span><br><span class="line">112</span><br><span class="line">113</span><br><span class="line">114</span><br><span class="line">115</span><br><span class="line">116</span><br><span class="line">117</span><br><span class="line">118</span><br><span class="line">119</span><br><span class="line">120</span><br><span class="line">121</span><br><span class="line">122</span><br></pre></td><td class="code"><pre><span class="line"><span class="keyword">Sub</span> 数据预处理()</span><br><span class="line">    <span class="comment">&#x27;&lt;已使用行计数 Begin&gt;</span></span><br><span class="line">    <span class="keyword">Set</span> curRng = Range(<span class="string">&quot;A1&quot;</span>).CurrentRegion</span><br><span class="line">    <span class="comment">&#x27;&lt;已使用行计数 End&gt;</span></span><br><span class="line">    <span class="comment">&#x27;&lt;取消强制文本转换 Begin&gt;</span></span><br><span class="line">    <span class="comment">&#x27;选择列中已使用行</span></span><br><span class="line">    Range(<span class="string">&quot;F:AM&quot;</span>).Resize(ActiveSheet.UsedRange.Rows.Count).<span class="keyword">Select</span></span><br><span class="line">    <span class="keyword">Dim</span> selectRng <span class="keyword">As</span> Range, arr <span class="keyword">As</span> Variant</span><br><span class="line">    <span class="keyword">Set</span> selectRng = Selection</span><br><span class="line">    <span class="comment">&#x27;设置单元格为常规格式</span></span><br><span class="line">    selectRng.NumberFormatLocal = <span class="string">&quot;G/通用格式&quot;</span></span><br><span class="line">    <span class="comment">&#x27;读取单元格数据，Excel根据数据特点自动转换格式</span></span><br><span class="line">    arr = selectRng.Value</span><br><span class="line">    selectRng.Value = arr</span><br><span class="line">    <span class="keyword">Set</span> selectRng = <span class="literal">Nothing</span></span><br><span class="line">    <span class="comment">&#x27;&lt;取消强制文本转换 End&gt;</span></span><br><span class="line">    <span class="comment">&#x27;&lt;筛选-时间顺序排列 Begin&gt;</span></span><br><span class="line">    Cells.<span class="keyword">Select</span></span><br><span class="line">    Selection.AutoFilter</span><br><span class="line">    Application.ActiveSheet.AutoFilter.Sort.SortFields.Add2 <span class="keyword">Key</span>:=Range( _</span><br><span class="line">        <span class="string">&quot;D1&quot;</span>), SortOn:=xlSortOnValues, <span class="keyword">Order</span>:=xlAscending, DataOption:= _</span><br><span class="line">        xlSortNormal</span><br><span class="line">    <span class="keyword">With</span> Application.ActiveSheet.AutoFilter.Sort</span><br><span class="line">        .Header = xlYes</span><br><span class="line">        .MatchCase = <span class="literal">False</span></span><br><span class="line">        .Orientation = xlTopToBottom</span><br><span class="line">        .SortMethod = xlPinYin</span><br><span class="line">        .Apply</span><br><span class="line">    <span class="keyword">End</span> <span class="keyword">With</span></span><br><span class="line">    <span class="comment">&#x27;&lt;筛选-时间顺序排列 End&gt;</span></span><br><span class="line">    <span class="comment">&#x27;&lt;插入列 Begin&gt;</span></span><br><span class="line">    Columns(<span class="string">&quot;E:E&quot;</span>).<span class="keyword">Select</span></span><br><span class="line">    Selection.Insert Shift:=xlToRight, CopyOrigin:=xlFormatFromLeftOrAbove</span><br><span class="line">    Columns(<span class="string">&quot;G:G&quot;</span>).<span class="keyword">Select</span></span><br><span class="line">    Selection.Insert Shift:=xlToRight, CopyOrigin:=xlFormatFromLeftOrAbove</span><br><span class="line">    <span class="comment">&#x27;&lt;插入列 End&gt;</span></span><br><span class="line">    <span class="comment">&#x27;&lt;分列 Begin&gt;</span></span><br><span class="line">    Columns(<span class="string">&quot;D:D&quot;</span>).<span class="keyword">Select</span></span><br><span class="line">    Selection.TextToColumns Destination:=Range(<span class="string">&quot;D1&quot;</span>), DataType:=xlDelimited, _</span><br><span class="line">        TextQualifier:=xlDoubleQuote, ConsecutiveDelimiter:=<span class="literal">True</span>, Tab:=<span class="literal">False</span>, _</span><br><span class="line">        Semicolon:=<span class="literal">False</span>, Comma:=<span class="literal">False</span>, Space:=<span class="literal">True</span>, Other:=<span class="literal">False</span>, FieldInfo _</span><br><span class="line">        :=Array(Array(<span class="number">1</span>, <span class="number">1</span>), Array(<span class="number">2</span>, <span class="number">1</span>)), TrailingMinusNumbers:=<span class="literal">True</span></span><br><span class="line">    Columns(<span class="string">&quot;F:F&quot;</span>).<span class="keyword">Select</span></span><br><span class="line">    Selection.TextToColumns Destination:=Range(<span class="string">&quot;F1&quot;</span>), DataType:=xlDelimited, _</span><br><span class="line">        TextQualifier:=xlDoubleQuote, ConsecutiveDelimiter:=<span class="literal">True</span>, Tab:=<span class="literal">False</span>, _</span><br><span class="line">        Semicolon:=<span class="literal">False</span>, Comma:=<span class="literal">False</span>, Space:=<span class="literal">True</span>, Other:=<span class="literal">False</span>, FieldInfo _</span><br><span class="line">        :=Array(Array(<span class="number">1</span>, <span class="number">1</span>), Array(<span class="number">2</span>, <span class="number">1</span>)), TrailingMinusNumbers:=<span class="literal">True</span></span><br><span class="line">    <span class="comment">&#x27;&lt;分列 End&gt;</span></span><br><span class="line">    <span class="comment">&#x27;&lt;直播日期、开始时间、结束时间列列头修改 Begin&gt;</span></span><br><span class="line">    Range(<span class="string">&quot;D1&quot;</span>).<span class="keyword">Select</span></span><br><span class="line">    ActiveCell.FormulaR1C1 = <span class="string">&quot;直播日期&quot;</span></span><br><span class="line">    Range(<span class="string">&quot;E1&quot;</span>).<span class="keyword">Select</span></span><br><span class="line">    ActiveCell.FormulaR1C1 = <span class="string">&quot;开始时间&quot;</span></span><br><span class="line">    Range(<span class="string">&quot;G1&quot;</span>).<span class="keyword">Select</span></span><br><span class="line">    ActiveCell.FormulaR1C1 = <span class="string">&quot;结束时间&quot;</span></span><br><span class="line">    <span class="comment">&#x27;&lt;直播日期、开始时间、结束时间列列头修改 End&gt;</span></span><br><span class="line">    <span class="comment">&#x27;&lt;直播时长(小时)列插入、计算 Begin&gt;</span></span><br><span class="line">    Columns(<span class="string">&quot;I:I&quot;</span>).<span class="keyword">Select</span></span><br><span class="line">    Selection.Insert Shift:=xlToRight, CopyOrigin:=xlFormatFromLeftOrAbove</span><br><span class="line">    Range(<span class="string">&quot;I1&quot;</span>).<span class="keyword">Select</span></span><br><span class="line">    ActiveCell.FormulaR1C1 = <span class="string">&quot;直播时长(小时)&quot;</span></span><br><span class="line">    Range(<span class="string">&quot;I2&quot;</span>).<span class="keyword">Select</span></span><br><span class="line">    ActiveCell.FormulaR1C1 = <span class="string">&quot;=RC[-1]/60&quot;</span></span><br><span class="line">    <span class="comment">&#x27;Resize拓展选中区域</span></span><br><span class="line">    <span class="keyword">Set</span> fillRng = Range(<span class="string">&quot;I2&quot;</span>).Resize(curRng.Rows.Count - <span class="number">1</span>, <span class="number">1</span>)</span><br><span class="line">    Selection.AutoFill Destination:=fillRng</span><br><span class="line">    <span class="comment">&#x27;&lt;直播时长列插入、计算 End&gt;</span></span><br><span class="line">    <span class="comment">&#x27;&lt;人均观看时长(秒)列插入、计算 Begin&gt;</span></span><br><span class="line">    Columns(<span class="string">&quot;Q:Q&quot;</span>).<span class="keyword">Select</span></span><br><span class="line">    Selection.Insert Shift:=xlToRight, CopyOrigin:=xlFormatFromLeftOrAbove</span><br><span class="line">    Range(<span class="string">&quot;Q1&quot;</span>).<span class="keyword">Select</span></span><br><span class="line">    ActiveCell.FormulaR1C1 = <span class="string">&quot;人均观看时长(秒)&quot;</span></span><br><span class="line">    Range(<span class="string">&quot;Q2&quot;</span>).<span class="keyword">Select</span></span><br><span class="line">    ActiveCell.FormulaR1C1 = <span class="string">&quot;=RC[-1]*60&quot;</span></span><br><span class="line">    <span class="comment">&#x27;Resize拓展选中区域</span></span><br><span class="line">    <span class="keyword">Set</span> fillRng = Range(<span class="string">&quot;Q2&quot;</span>).Resize(curRng.Rows.Count - <span class="number">1</span>, <span class="number">1</span>)</span><br><span class="line">    Selection.AutoFill Destination:=fillRng</span><br><span class="line">    <span class="comment">&#x27;&lt;直播时长列插入、计算 End&gt;</span></span><br><span class="line">    <span class="comment">&#x27;&lt;自动调整行高、列宽 Begin&gt;</span></span><br><span class="line">    Cells.<span class="keyword">Select</span></span><br><span class="line">    Cells.EntireColumn.AutoFit</span><br><span class="line">    Cells.EntireRow.AutoFit</span><br><span class="line">    <span class="comment">&#x27;&lt;自动调整行高、列宽 End&gt;</span></span><br><span class="line">    <span class="comment">&#x27;&lt;清除公式 Begin&gt;</span></span><br><span class="line">    Columns(<span class="string">&quot;I:I&quot;</span>).<span class="keyword">Select</span></span><br><span class="line">    Selection.Copy</span><br><span class="line">    Selection.PasteSpecial Paste:=xlPasteValues, Operation:=xlNone, SkipBlanks:=<span class="literal">False</span>, Transpose:=<span class="literal">False</span></span><br><span class="line">    Columns(<span class="string">&quot;Q:Q&quot;</span>).<span class="keyword">Select</span></span><br><span class="line">    Selection.Copy</span><br><span class="line">    Selection.PasteSpecial Paste:=xlPasteValues, Operation:=xlNone, SkipBlanks:=<span class="literal">False</span>, Transpose:=<span class="literal">False</span></span><br><span class="line">    <span class="comment">&#x27;&lt;清除公式 End&gt;</span></span><br><span class="line">    <span class="comment">&#x27;&lt;删除无关列 Begin&gt;</span></span><br><span class="line">    Range(<span class="string">&quot;A:C,F:F,H:H,P:P,S:S,U:U,W:W,Z:Z,AA:AB,AD:AD,AF:AF,AH:AP&quot;</span>).Delete Shift:=xlToLeft</span><br><span class="line">    <span class="comment">&#x27;&lt;删除无关列 End&gt;</span></span><br><span class="line">    <span class="comment">&#x27;&lt;冻结窗格 Begin&gt;</span></span><br><span class="line">    Range(<span class="string">&quot;B2&quot;</span>).<span class="keyword">Select</span></span><br><span class="line">    ActiveWindow.FreezePanes = <span class="literal">True</span></span><br><span class="line">    <span class="comment">&#x27;&lt;冻结窗格 End&gt;</span></span><br><span class="line">    <span class="comment">&#x27;&lt;列调序 Begin&gt;</span></span><br><span class="line">    Columns(<span class="string">&quot;Q:Q&quot;</span>).Cut</span><br><span class="line">    Columns(<span class="string">&quot;E:E&quot;</span>).Insert Shift:=xlToRight</span><br><span class="line">    Columns(<span class="string">&quot;H:H&quot;</span>).Cut</span><br><span class="line">    Columns(<span class="string">&quot;F:F&quot;</span>).Insert Shift:=xlToRight</span><br><span class="line">    Columns(<span class="string">&quot;S:S&quot;</span>).Cut</span><br><span class="line">    Columns(<span class="string">&quot;H:H&quot;</span>).Insert Shift:=xlToRight</span><br><span class="line">    Columns(<span class="string">&quot;S:S&quot;</span>).Cut</span><br><span class="line">    Columns(<span class="string">&quot;H:H&quot;</span>).Insert Shift:=xlToRight</span><br><span class="line">    Columns(<span class="string">&quot;L:M&quot;</span>).Cut</span><br><span class="line">    Columns(<span class="string">&quot;K:L&quot;</span>).Insert Shift:=xlToRight</span><br><span class="line">    Columns(<span class="string">&quot;G:G&quot;</span>).Cut</span><br><span class="line">    Columns(<span class="string">&quot;N:N&quot;</span>).Insert Shift:=xlToRight</span><br><span class="line">    Columns(<span class="string">&quot;R:R&quot;</span>).Cut</span><br><span class="line">    Columns(<span class="string">&quot;N:N&quot;</span>).Insert Shift:=xlToRight</span><br><span class="line">    Columns(<span class="string">&quot;S:S&quot;</span>).Cut</span><br><span class="line">    Columns(<span class="string">&quot;O:O&quot;</span>).Insert Shift:=xlToRight</span><br><span class="line">    Columns(<span class="string">&quot;R:R&quot;</span>).Cut</span><br><span class="line">    Columns(<span class="string">&quot;Q:Q&quot;</span>).Insert Shift:=xlToRight</span><br><span class="line">    <span class="comment">&#x27;&lt;列调序 End&gt;</span></span><br><span class="line">    <span class="comment">&#x27;&lt;复位 Begin&gt;</span></span><br><span class="line">    Range(<span class="string">&quot;A1&quot;</span>).<span class="keyword">Select</span></span><br><span class="line">    <span class="comment">&#x27;&lt;复位 End&gt;</span></span><br><span class="line"><span class="keyword">End</span> <span class="keyword">Sub</span></span><br></pre></td></tr></table></figure>]]></content>
+    <content type="html"><![CDATA[<p><img data-src="/images/covers/260.jpg"></p><span id="more"></span><hr><p>本程序适用于「抖音电商罗盘-商家视角-直播间明细」所导出报表，所有代码均已模块化标注，便于修改。</p><p>效果如图：<br><img data-src="douyin-vba/douyin-vba-1.png">  </p><figure class="highlight vb"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br><span class="line">7</span><br><span class="line">8</span><br><span class="line">9</span><br><span class="line">10</span><br><span class="line">11</span><br><span class="line">12</span><br><span class="line">13</span><br><span class="line">14</span><br><span class="line">15</span><br><span class="line">16</span><br><span class="line">17</span><br><span class="line">18</span><br><span class="line">19</span><br><span class="line">20</span><br><span class="line">21</span><br><span class="line">22</span><br><span class="line">23</span><br><span class="line">24</span><br><span class="line">25</span><br><span class="line">26</span><br><span class="line">27</span><br><span class="line">28</span><br><span class="line">29</span><br><span class="line">30</span><br><span class="line">31</span><br><span class="line">32</span><br><span class="line">33</span><br><span class="line">34</span><br><span class="line">35</span><br><span class="line">36</span><br><span class="line">37</span><br><span class="line">38</span><br><span class="line">39</span><br><span class="line">40</span><br><span class="line">41</span><br><span class="line">42</span><br><span class="line">43</span><br><span class="line">44</span><br><span class="line">45</span><br><span class="line">46</span><br><span class="line">47</span><br><span class="line">48</span><br><span class="line">49</span><br><span class="line">50</span><br><span class="line">51</span><br><span class="line">52</span><br><span class="line">53</span><br><span class="line">54</span><br><span class="line">55</span><br><span class="line">56</span><br><span class="line">57</span><br><span class="line">58</span><br><span class="line">59</span><br><span class="line">60</span><br><span class="line">61</span><br><span class="line">62</span><br><span class="line">63</span><br><span class="line">64</span><br><span class="line">65</span><br><span class="line">66</span><br><span class="line">67</span><br><span class="line">68</span><br><span class="line">69</span><br><span class="line">70</span><br><span class="line">71</span><br><span class="line">72</span><br><span class="line">73</span><br><span class="line">74</span><br><span class="line">75</span><br><span class="line">76</span><br><span class="line">77</span><br><span class="line">78</span><br><span class="line">79</span><br><span class="line">80</span><br><span class="line">81</span><br><span class="line">82</span><br><span class="line">83</span><br><span class="line">84</span><br><span class="line">85</span><br><span class="line">86</span><br><span class="line">87</span><br><span class="line">88</span><br><span class="line">89</span><br><span class="line">90</span><br><span class="line">91</span><br><span class="line">92</span><br><span class="line">93</span><br><span class="line">94</span><br><span class="line">95</span><br><span class="line">96</span><br><span class="line">97</span><br><span class="line">98</span><br><span class="line">99</span><br><span class="line">100</span><br><span class="line">101</span><br><span class="line">102</span><br><span class="line">103</span><br><span class="line">104</span><br><span class="line">105</span><br><span class="line">106</span><br><span class="line">107</span><br><span class="line">108</span><br><span class="line">109</span><br><span class="line">110</span><br><span class="line">111</span><br><span class="line">112</span><br><span class="line">113</span><br><span class="line">114</span><br><span class="line">115</span><br><span class="line">116</span><br><span class="line">117</span><br><span class="line">118</span><br><span class="line">119</span><br><span class="line">120</span><br><span class="line">121</span><br><span class="line">122</span><br></pre></td><td class="code"><pre><span class="line"><span class="keyword">Sub</span> 数据预处理()</span><br><span class="line">    <span class="comment">&#x27;&lt;已使用行计数 Begin&gt;</span></span><br><span class="line">    <span class="keyword">Set</span> curRng = Range(<span class="string">&quot;A1&quot;</span>).CurrentRegion</span><br><span class="line">    <span class="comment">&#x27;&lt;已使用行计数 End&gt;</span></span><br><span class="line">    <span class="comment">&#x27;&lt;取消强制文本转换 Begin&gt;</span></span><br><span class="line">    <span class="comment">&#x27;选择列中已使用行</span></span><br><span class="line">    Range(<span class="string">&quot;F:AM&quot;</span>).Resize(ActiveSheet.UsedRange.Rows.Count).<span class="keyword">Select</span></span><br><span class="line">    <span class="keyword">Dim</span> selectRng <span class="keyword">As</span> Range, arr <span class="keyword">As</span> Variant</span><br><span class="line">    <span class="keyword">Set</span> selectRng = Selection</span><br><span class="line">    <span class="comment">&#x27;设置单元格为常规格式</span></span><br><span class="line">    selectRng.NumberFormatLocal = <span class="string">&quot;G/通用格式&quot;</span></span><br><span class="line">    <span class="comment">&#x27;读取单元格数据，Excel根据数据特点自动转换格式</span></span><br><span class="line">    arr = selectRng.Value</span><br><span class="line">    selectRng.Value = arr</span><br><span class="line">    <span class="keyword">Set</span> selectRng = <span class="literal">Nothing</span></span><br><span class="line">    <span class="comment">&#x27;&lt;取消强制文本转换 End&gt;</span></span><br><span class="line">    <span class="comment">&#x27;&lt;筛选-时间顺序排列 Begin&gt;</span></span><br><span class="line">    Cells.<span class="keyword">Select</span></span><br><span class="line">    Selection.AutoFilter</span><br><span class="line">    Application.ActiveSheet.AutoFilter.Sort.SortFields.Add2 <span class="keyword">Key</span>:=Range( _</span><br><span class="line">        <span class="string">&quot;D1&quot;</span>), SortOn:=xlSortOnValues, <span class="keyword">Order</span>:=xlAscending, DataOption:= _</span><br><span class="line">        xlSortNormal</span><br><span class="line">    <span class="keyword">With</span> Application.ActiveSheet.AutoFilter.Sort</span><br><span class="line">        .Header = xlYes</span><br><span class="line">        .MatchCase = <span class="literal">False</span></span><br><span class="line">        .Orientation = xlTopToBottom</span><br><span class="line">        .SortMethod = xlPinYin</span><br><span class="line">        .Apply</span><br><span class="line">    <span class="keyword">End</span> <span class="keyword">With</span></span><br><span class="line">    <span class="comment">&#x27;&lt;筛选-时间顺序排列 End&gt;</span></span><br><span class="line">    <span class="comment">&#x27;&lt;插入列 Begin&gt;</span></span><br><span class="line">    Columns(<span class="string">&quot;E:E&quot;</span>).<span class="keyword">Select</span></span><br><span class="line">    Selection.Insert Shift:=xlToRight, CopyOrigin:=xlFormatFromLeftOrAbove</span><br><span class="line">    Columns(<span class="string">&quot;G:G&quot;</span>).<span class="keyword">Select</span></span><br><span class="line">    Selection.Insert Shift:=xlToRight, CopyOrigin:=xlFormatFromLeftOrAbove</span><br><span class="line">    <span class="comment">&#x27;&lt;插入列 End&gt;</span></span><br><span class="line">    <span class="comment">&#x27;&lt;分列 Begin&gt;</span></span><br><span class="line">    Columns(<span class="string">&quot;D:D&quot;</span>).<span class="keyword">Select</span></span><br><span class="line">    Selection.TextToColumns Destination:=Range(<span class="string">&quot;D1&quot;</span>), DataType:=xlDelimited, _</span><br><span class="line">        TextQualifier:=xlDoubleQuote, ConsecutiveDelimiter:=<span class="literal">True</span>, Tab:=<span class="literal">False</span>, _</span><br><span class="line">        Semicolon:=<span class="literal">False</span>, Comma:=<span class="literal">False</span>, Space:=<span class="literal">True</span>, Other:=<span class="literal">False</span>, FieldInfo _</span><br><span class="line">        :=Array(Array(<span class="number">1</span>, <span class="number">1</span>), Array(<span class="number">2</span>, <span class="number">1</span>)), TrailingMinusNumbers:=<span class="literal">True</span></span><br><span class="line">    Columns(<span class="string">&quot;F:F&quot;</span>).<span class="keyword">Select</span></span><br><span class="line">    Selection.TextToColumns Destination:=Range(<span class="string">&quot;F1&quot;</span>), DataType:=xlDelimited, _</span><br><span class="line">        TextQualifier:=xlDoubleQuote, ConsecutiveDelimiter:=<span class="literal">True</span>, Tab:=<span class="literal">False</span>, _</span><br><span class="line">        Semicolon:=<span class="literal">False</span>, Comma:=<span class="literal">False</span>, Space:=<span class="literal">True</span>, Other:=<span class="literal">False</span>, FieldInfo _</span><br><span class="line">        :=Array(Array(<span class="number">1</span>, <span class="number">1</span>), Array(<span class="number">2</span>, <span class="number">1</span>)), TrailingMinusNumbers:=<span class="literal">True</span></span><br><span class="line">    <span class="comment">&#x27;&lt;分列 End&gt;</span></span><br><span class="line">    <span class="comment">&#x27;&lt;直播日期、开始时间、结束时间列列头修改 Begin&gt;</span></span><br><span class="line">    Range(<span class="string">&quot;D1&quot;</span>).<span class="keyword">Select</span></span><br><span class="line">    ActiveCell.FormulaR1C1 = <span class="string">&quot;直播日期&quot;</span></span><br><span class="line">    Range(<span class="string">&quot;E1&quot;</span>).<span class="keyword">Select</span></span><br><span class="line">    ActiveCell.FormulaR1C1 = <span class="string">&quot;开始时间&quot;</span></span><br><span class="line">    Range(<span class="string">&quot;G1&quot;</span>).<span class="keyword">Select</span></span><br><span class="line">    ActiveCell.FormulaR1C1 = <span class="string">&quot;结束时间&quot;</span></span><br><span class="line">    <span class="comment">&#x27;&lt;直播日期、开始时间、结束时间列列头修改 End&gt;</span></span><br><span class="line">    <span class="comment">&#x27;&lt;直播时长(小时)列插入、计算 Begin&gt;</span></span><br><span class="line">    Columns(<span class="string">&quot;I:I&quot;</span>).<span class="keyword">Select</span></span><br><span class="line">    Selection.Insert Shift:=xlToRight, CopyOrigin:=xlFormatFromLeftOrAbove</span><br><span class="line">    Range(<span class="string">&quot;I1&quot;</span>).<span class="keyword">Select</span></span><br><span class="line">    ActiveCell.FormulaR1C1 = <span class="string">&quot;直播时长(小时)&quot;</span></span><br><span class="line">    Range(<span class="string">&quot;I2&quot;</span>).<span class="keyword">Select</span></span><br><span class="line">    ActiveCell.FormulaR1C1 = <span class="string">&quot;=RC[-1]/60&quot;</span></span><br><span class="line">    <span class="comment">&#x27;Resize拓展选中区域</span></span><br><span class="line">    <span class="keyword">Set</span> fillRng = Range(<span class="string">&quot;I2&quot;</span>).Resize(curRng.Rows.Count - <span class="number">1</span>, <span class="number">1</span>)</span><br><span class="line">    Selection.AutoFill Destination:=fillRng</span><br><span class="line">    <span class="comment">&#x27;&lt;直播时长列插入、计算 End&gt;</span></span><br><span class="line">    <span class="comment">&#x27;&lt;人均观看时长(秒)列插入、计算 Begin&gt;</span></span><br><span class="line">    Columns(<span class="string">&quot;Q:Q&quot;</span>).<span class="keyword">Select</span></span><br><span class="line">    Selection.Insert Shift:=xlToRight, CopyOrigin:=xlFormatFromLeftOrAbove</span><br><span class="line">    Range(<span class="string">&quot;Q1&quot;</span>).<span class="keyword">Select</span></span><br><span class="line">    ActiveCell.FormulaR1C1 = <span class="string">&quot;人均观看时长(秒)&quot;</span></span><br><span class="line">    Range(<span class="string">&quot;Q2&quot;</span>).<span class="keyword">Select</span></span><br><span class="line">    ActiveCell.FormulaR1C1 = <span class="string">&quot;=RC[-1]*60&quot;</span></span><br><span class="line">    <span class="comment">&#x27;Resize拓展选中区域</span></span><br><span class="line">    <span class="keyword">Set</span> fillRng = Range(<span class="string">&quot;Q2&quot;</span>).Resize(curRng.Rows.Count - <span class="number">1</span>, <span class="number">1</span>)</span><br><span class="line">    Selection.AutoFill Destination:=fillRng</span><br><span class="line">    <span class="comment">&#x27;&lt;直播时长列插入、计算 End&gt;</span></span><br><span class="line">    <span class="comment">&#x27;&lt;自动调整行高、列宽 Begin&gt;</span></span><br><span class="line">    Cells.<span class="keyword">Select</span></span><br><span class="line">    Cells.EntireColumn.AutoFit</span><br><span class="line">    Cells.EntireRow.AutoFit</span><br><span class="line">    <span class="comment">&#x27;&lt;自动调整行高、列宽 End&gt;</span></span><br><span class="line">    <span class="comment">&#x27;&lt;清除公式 Begin&gt;</span></span><br><span class="line">    Columns(<span class="string">&quot;I:I&quot;</span>).<span class="keyword">Select</span></span><br><span class="line">    Selection.Copy</span><br><span class="line">    Selection.PasteSpecial Paste:=xlPasteValues, Operation:=xlNone, SkipBlanks:=<span class="literal">False</span>, Transpose:=<span class="literal">False</span></span><br><span class="line">    Columns(<span class="string">&quot;Q:Q&quot;</span>).<span class="keyword">Select</span></span><br><span class="line">    Selection.Copy</span><br><span class="line">    Selection.PasteSpecial Paste:=xlPasteValues, Operation:=xlNone, SkipBlanks:=<span class="literal">False</span>, Transpose:=<span class="literal">False</span></span><br><span class="line">    <span class="comment">&#x27;&lt;清除公式 End&gt;</span></span><br><span class="line">    <span class="comment">&#x27;&lt;删除无关列 Begin&gt;</span></span><br><span class="line">    Range(<span class="string">&quot;A:C,F:F,H:H,P:P,S:S,U:U,W:W,Z:Z,AA:AB,AD:AD,AF:AF,AH:AP&quot;</span>).Delete Shift:=xlToLeft</span><br><span class="line">    <span class="comment">&#x27;&lt;删除无关列 End&gt;</span></span><br><span class="line">    <span class="comment">&#x27;&lt;冻结窗格 Begin&gt;</span></span><br><span class="line">    Range(<span class="string">&quot;B2&quot;</span>).<span class="keyword">Select</span></span><br><span class="line">    ActiveWindow.FreezePanes = <span class="literal">True</span></span><br><span class="line">    <span class="comment">&#x27;&lt;冻结窗格 End&gt;</span></span><br><span class="line">    <span class="comment">&#x27;&lt;列调序 Begin&gt;</span></span><br><span class="line">    Columns(<span class="string">&quot;Q:Q&quot;</span>).Cut</span><br><span class="line">    Columns(<span class="string">&quot;E:E&quot;</span>).Insert Shift:=xlToRight</span><br><span class="line">    Columns(<span class="string">&quot;H:H&quot;</span>).Cut</span><br><span class="line">    Columns(<span class="string">&quot;F:F&quot;</span>).Insert Shift:=xlToRight</span><br><span class="line">    Columns(<span class="string">&quot;S:S&quot;</span>).Cut</span><br><span class="line">    Columns(<span class="string">&quot;H:H&quot;</span>).Insert Shift:=xlToRight</span><br><span class="line">    Columns(<span class="string">&quot;S:S&quot;</span>).Cut</span><br><span class="line">    Columns(<span class="string">&quot;H:H&quot;</span>).Insert Shift:=xlToRight</span><br><span class="line">    Columns(<span class="string">&quot;L:M&quot;</span>).Cut</span><br><span class="line">    Columns(<span class="string">&quot;K:L&quot;</span>).Insert Shift:=xlToRight</span><br><span class="line">    Columns(<span class="string">&quot;G:G&quot;</span>).Cut</span><br><span class="line">    Columns(<span class="string">&quot;N:N&quot;</span>).Insert Shift:=xlToRight</span><br><span class="line">    Columns(<span class="string">&quot;R:R&quot;</span>).Cut</span><br><span class="line">    Columns(<span class="string">&quot;N:N&quot;</span>).Insert Shift:=xlToRight</span><br><span class="line">    Columns(<span class="string">&quot;S:S&quot;</span>).Cut</span><br><span class="line">    Columns(<span class="string">&quot;O:O&quot;</span>).Insert Shift:=xlToRight</span><br><span class="line">    Columns(<span class="string">&quot;R:R&quot;</span>).Cut</span><br><span class="line">    Columns(<span class="string">&quot;Q:Q&quot;</span>).Insert Shift:=xlToRight</span><br><span class="line">    <span class="comment">&#x27;&lt;列调序 End&gt;</span></span><br><span class="line">    <span class="comment">&#x27;&lt;复位 Begin&gt;</span></span><br><span class="line">    Range(<span class="string">&quot;A1&quot;</span>).<span class="keyword">Select</span></span><br><span class="line">    <span class="comment">&#x27;&lt;复位 End&gt;</span></span><br><span class="line"><span class="keyword">End</span> <span class="keyword">Sub</span></span><br></pre></td></tr></table></figure>]]></content>
     
     
     <summary type="html">&lt;p&gt;&lt;img src=&quot;/images/covers/260.jpg&quot;&gt;&lt;/p&gt;</summary>
@@ -39,8 +39,8 @@
   
   <entry>
     <title>《浪潮之巅》笔记</title>
-    <link href="https://qianling.pw/on-top-of-tides/"/>
-    <id>https://qianling.pw/on-top-of-tides/</id>
+    <link href="https://qianling.pw/on-top-of-tides"/>
+    <id>https://qianling.pw/on-top-of-tides</id>
     <published>2022-08-09T10:43:16.000Z</published>
     <updated>2022-08-09T12:40:33.000Z</updated>
     
@@ -62,8 +62,8 @@
   
   <entry>
     <title>配音作品集</title>
-    <link href="https://qianling.pw/dubbing-works/"/>
-    <id>https://qianling.pw/dubbing-works/</id>
+    <link href="https://qianling.pw/dubbing-works"/>
+    <id>https://qianling.pw/dubbing-works</id>
     <published>2022-04-01T05:07:59.000Z</published>
     <updated>2022-04-01T05:11:33.000Z</updated>
     
@@ -83,8 +83,8 @@
   
   <entry>
     <title>支付宝「设备不支持刷脸」解决办法</title>
-    <link href="https://qianling.pw/alipay/"/>
-    <id>https://qianling.pw/alipay/</id>
+    <link href="https://qianling.pw/alipay"/>
+    <id>https://qianling.pw/alipay</id>
     <published>2022-03-25T13:26:27.000Z</published>
     <updated>2022-03-25T13:40:53.000Z</updated>
     
@@ -104,8 +104,8 @@
   
   <entry>
     <title>Safari UA 修改</title>
-    <link href="https://qianling.pw/safari-ua/"/>
-    <id>https://qianling.pw/safari-ua/</id>
+    <link href="https://qianling.pw/safari-ua"/>
+    <id>https://qianling.pw/safari-ua</id>
     <published>2022-03-24T04:25:16.000Z</published>
     <updated>2022-03-25T13:40:49.000Z</updated>
     
@@ -125,8 +125,8 @@
   
   <entry>
     <title>iOS 微信不推送解决方法</title>
-    <link href="https://qianling.pw/wechat-push/"/>
-    <id>https://qianling.pw/wechat-push/</id>
+    <link href="https://qianling.pw/wechat-push"/>
+    <id>https://qianling.pw/wechat-push</id>
     <published>2022-03-21T14:16:42.000Z</published>
     <updated>2022-03-23T15:25:03.000Z</updated>
     
@@ -146,8 +146,8 @@
   
   <entry>
     <title>iOS 修改多开应用跳转目标</title>
-    <link href="https://qianling.pw/urlschemes/"/>
-    <id>https://qianling.pw/urlschemes/</id>
+    <link href="https://qianling.pw/urlschemes"/>
+    <id>https://qianling.pw/urlschemes</id>
     <published>2022-02-25T14:17:35.000Z</published>
     <updated>2022-02-25T15:20:22.000Z</updated>
     
@@ -167,8 +167,8 @@
   
   <entry>
     <title>微信空白地区、性别、昵称教程</title>
-    <link href="https://qianling.pw/wechat-blank/"/>
-    <id>https://qianling.pw/wechat-blank/</id>
+    <link href="https://qianling.pw/wechat-blank"/>
+    <id>https://qianling.pw/wechat-blank</id>
     <published>2022-02-05T05:05:03.000Z</published>
     <updated>2022-02-06T14:47:19.000Z</updated>
     
@@ -188,8 +188,8 @@
   
   <entry>
     <title>解决 Kindle 无法修改字体、显示封面的问题</title>
-    <link href="https://qianling.pw/calibre/"/>
-    <id>https://qianling.pw/calibre/</id>
+    <link href="https://qianling.pw/calibre"/>
+    <id>https://qianling.pw/calibre</id>
     <published>2021-12-03T13:53:51.000Z</published>
     <updated>2021-12-10T11:08:02.000Z</updated>
     
@@ -209,8 +209,8 @@
   
   <entry>
     <title>《网络、群体与市场》书摘</title>
-    <link href="https://qianling.pw/networks-crowds-and-markets/"/>
-    <id>https://qianling.pw/networks-crowds-and-markets/</id>
+    <link href="https://qianling.pw/networks-crowds-and-markets"/>
+    <id>https://qianling.pw/networks-crowds-and-markets</id>
     <published>2021-10-30T14:23:24.000Z</published>
     <updated>2022-01-08T01:46:05.784Z</updated>
     
@@ -230,8 +230,8 @@
   
   <entry>
     <title>《六度分隔》书摘</title>
-    <link href="https://qianling.pw/six-degrees/"/>
-    <id>https://qianling.pw/six-degrees/</id>
+    <link href="https://qianling.pw/six-degrees"/>
+    <id>https://qianling.pw/six-degrees</id>
     <published>2021-10-25T13:54:43.000Z</published>
     <updated>2021-10-30T14:18:24.000Z</updated>
     
@@ -251,8 +251,8 @@
   
   <entry>
     <title>《创新的扩散》书摘</title>
-    <link href="https://qianling.pw/diffusion-of-innovations/"/>
-    <id>https://qianling.pw/diffusion-of-innovations/</id>
+    <link href="https://qianling.pw/diffusion-of-innovations"/>
+    <id>https://qianling.pw/diffusion-of-innovations</id>
     <published>2021-10-19T03:53:17.000Z</published>
     <updated>2021-10-24T13:17:39.000Z</updated>
     
@@ -272,8 +272,8 @@
   
   <entry>
     <title>《结构洞》笔记</title>
-    <link href="https://qianling.pw/structural-holes/"/>
-    <id>https://qianling.pw/structural-holes/</id>
+    <link href="https://qianling.pw/structural-holes"/>
+    <id>https://qianling.pw/structural-holes</id>
     <published>2021-10-18T02:26:27.000Z</published>
     <updated>2021-10-19T02:12:49.000Z</updated>
     
@@ -293,8 +293,8 @@
   
   <entry>
     <title>《找工作》笔记</title>
-    <link href="https://qianling.pw/getting-a-job/"/>
-    <id>https://qianling.pw/getting-a-job/</id>
+    <link href="https://qianling.pw/getting-a-job"/>
+    <id>https://qianling.pw/getting-a-job</id>
     <published>2021-10-17T07:39:35.000Z</published>
     <updated>2021-10-17T09:29:12.000Z</updated>
     
@@ -314,8 +314,8 @@
   
   <entry>
     <title>《隐秩序》书摘</title>
-    <link href="https://qianling.pw/hidden-order/"/>
-    <id>https://qianling.pw/hidden-order/</id>
+    <link href="https://qianling.pw/hidden-order"/>
+    <id>https://qianling.pw/hidden-order</id>
     <published>2021-10-17T06:23:35.000Z</published>
     <updated>2021-10-17T07:20:08.000Z</updated>
     
@@ -335,8 +335,8 @@
   
   <entry>
     <title>《大自然如何工作》书摘</title>
-    <link href="https://qianling.pw/how-nature-works/"/>
-    <id>https://qianling.pw/how-nature-works/</id>
+    <link href="https://qianling.pw/how-nature-works"/>
+    <id>https://qianling.pw/how-nature-works</id>
     <published>2021-09-26T14:56:55.000Z</published>
     <updated>2021-10-17T03:24:59.000Z</updated>
     
@@ -356,8 +356,8 @@
   
   <entry>
     <title>Microsoft Store 网络问题解决</title>
-    <link href="https://qianling.pw/mircrosoft-store/"/>
-    <id>https://qianling.pw/mircrosoft-store/</id>
+    <link href="https://qianling.pw/mircrosoft-store"/>
+    <id>https://qianling.pw/mircrosoft-store</id>
     <published>2021-08-13T10:55:55.000Z</published>
     <updated>2021-08-14T03:01:09.000Z</updated>
     
@@ -377,8 +377,8 @@
   
   <entry>
     <title>《面试加分项》笔记</title>
-    <link href="https://qianling.pw/interview-skills/"/>
-    <id>https://qianling.pw/interview-skills/</id>
+    <link href="https://qianling.pw/interview-skills"/>
+    <id>https://qianling.pw/interview-skills</id>
     <published>2021-08-08T05:19:35.000Z</published>
     <updated>2021-08-08T07:03:12.000Z</updated>
     
@@ -398,8 +398,8 @@
   
   <entry>
     <title>《生活的藝術》笔记</title>
-    <link href="https://qianling.pw/the-art-of-the-good-life/"/>
-    <id>https://qianling.pw/the-art-of-the-good-life/</id>
+    <link href="https://qianling.pw/the-art-of-the-good-life"/>
+    <id>https://qianling.pw/the-art-of-the-good-life</id>
     <published>2021-08-05T13:08:04.000Z</published>
     <updated>2021-08-05T13:23:09.000Z</updated>
     
@@ -419,8 +419,8 @@
   
   <entry>
     <title>iOS 星露谷物语汉化教程</title>
-    <link href="https://qianling.pw/stardew-valley/"/>
-    <id>https://qianling.pw/stardew-valley/</id>
+    <link href="https://qianling.pw/stardew-valley"/>
+    <id>https://qianling.pw/stardew-valley</id>
     <published>2021-07-14T15:17:25.000Z</published>
     <updated>2021-07-26T12:11:25.000Z</updated>
     

@@ -1,0 +1,1186 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+  <meta charset="UTF-8">
+<meta name="viewport" content="width=device-width">
+<meta name="theme-color" content="#222"><meta name="generator" content="Hexo 5.4.0">
+
+
+  <link rel="apple-touch-icon" sizes="180x180" href="/images/apple-touch-icon-next.png">
+  <link rel="icon" type="image/png" sizes="32x32" href="/images/favicon-32x32.png">
+  <link rel="icon" type="image/png" sizes="16x16" href="/images/favicon-16x16.png">
+  <link rel="mask-icon" href="/images/logo.svg" color="#222">
+
+<link rel="stylesheet" href="/css/main.css">
+
+<link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Noto+Serif+SC:300,300italic,400,400italic,700,700italic%7CZCOOL+XiaoWei:300,300italic,400,400italic,700,700italic&display=swap&subset=latin,latin-ext">
+
+<link rel="stylesheet" href="/fontawesome/all.min.css">
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/animate.css/3.1.1/animate.min.css" integrity="sha256-PR7ttpcvz8qrF57fur/yAx1qXMFJeJFiA6pSzWi0OIE=" crossorigin="anonymous">
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/fancybox/3.5.7/jquery.fancybox.min.css" integrity="sha256-Vzbj7sDDS/woiFS3uNKo8eIuni59rjyNGtXfstRzStA=" crossorigin="anonymous">
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/pace/1.2.4/themes/blue/pace-theme-minimal.css">
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/pace/1.2.4/pace.min.js" integrity="sha256-gqd7YTjg/BtfqWSwsJOvndl0Bxc8gFImLEkXQT8+qj0=" crossorigin="anonymous"></script>
+
+<script class="next-config" data-name="main" type="application/json">{"hostname":"qianling.pw","root":"/","images":"/images","scheme":"Muse","darkmode":false,"version":"8.11.1","exturl":false,"sidebar":{"position":"right","display":"hide","padding":18,"offset":12},"copycode":true,"bookmark":{"enable":false,"color":"#222","save":"auto"},"mediumzoom":false,"lazyload":true,"pangu":false,"comments":{"style":"tabs","active":"valine","storage":true,"lazyload":true,"nav":null,"activeClass":"valine"},"stickytabs":false,"motion":{"enable":true,"async":false,"transition":{"post_block":"fadeIn","post_header":"fadeInDown","post_body":"none","coll_header":"fadeInLeft","sidebar":"fadeInUp"}},"prism":false,"i18n":{"placeholder":"搜索...","empty":"没有找到任何搜索结果：${query}","hits_time":"找到 ${hits} 个搜索结果（用时 ${time} 毫秒）","hits":"找到 ${hits} 个搜索结果"},"path":"/search.xml","localsearch":{"enable":true,"trigger":"auto","top_n_per_article":1,"unescape":false,"preload":true}}</script><script src="/js/config.js"></script>
+
+    <meta property="og:type" content="article">
+<meta property="og:title" content="《广告配音教程》书摘">
+<meta property="og:url" content="https://qianling.pw/advertisement-narrating-textbook">
+<meta property="og:site_name" content="千灵">
+<meta property="og:locale" content="zh_CN">
+<meta property="og:image" content="https://qianling.pw/images/covers/169.png">
+<meta property="article:published_time" content="2019-11-07T10:11:11.000Z">
+<meta property="article:modified_time" content="2019-12-01T07:29:33.000Z">
+<meta property="article:author" content="千灵夙赋">
+<meta property="article:tag" content="书摘">
+<meta property="article:tag" content="配音">
+<meta name="twitter:card" content="summary">
+<meta name="twitter:image" content="https://qianling.pw/images/covers/169.png">
+
+
+<link rel="canonical" href="https://qianling.pw/advertisement-narrating-textbook">
+
+
+
+<script class="next-config" data-name="page" type="application/json">{"sidebar":"","isHome":false,"isPost":true,"lang":"zh-CN","comments":true,"permalink":"https://qianling.pw/advertisement-narrating-textbook","path":"advertisement-narrating-textbook","title":"《广告配音教程》书摘"}</script>
+
+<script class="next-config" data-name="calendar" type="application/json">""</script>
+<title>《广告配音教程》书摘 | 千灵</title>
+  
+    <script async src="https://www.googletagmanager.com/gtag/js?id=UA-141264217-1"></script>
+  <script class="next-config" data-name="google_analytics" type="application/json">{"tracking_id":"UA-141264217-1","only_pageview":false}</script>
+  <script src="/js/third-party/analytics/google-analytics.js"></script>
+
+  <script src="/js/third-party/analytics/baidu-analytics.js"></script>
+  <script async src="https://hm.baidu.com/hm.js?b95f636e57f871a4ea1faeae2b4f30e5"></script>
+
+
+
+
+  <noscript>
+    <link rel="stylesheet" href="/css/noscript.css">
+  </noscript>
+<link rel="alternate" href="/atom.xml" title="千灵" type="application/atom+xml">
+</head>
+
+<body itemscope itemtype="http://schema.org/WebPage" class="use-motion">
+  <div class="headband"></div>
+
+  <main class="main">
+    <header class="header" itemscope itemtype="http://schema.org/WPHeader">
+      <div class="header-inner"><div class="site-brand-container">
+  <div class="site-nav-toggle">
+    <div class="toggle" aria-label="切换导航栏" role="button">
+        <span class="toggle-line"></span>
+        <span class="toggle-line"></span>
+        <span class="toggle-line"></span>
+    </div>
+  </div>
+
+  <div class="site-meta">
+
+    <a href="/" class="brand" rel="start">
+      <i class="logo-line"></i>
+      <p class="site-title">千灵</p>
+      <i class="logo-line"></i>
+    </a>
+  </div>
+
+  <div class="site-nav-right">
+    <div class="toggle popup-trigger">
+        <i class="fa fa-search fa-fw fa-lg"></i>
+    </div>
+  </div>
+</div>
+
+
+
+<nav class="site-nav">
+  <ul class="main-menu menu"><li class="menu-item menu-item-home"><a href="/" rel="section"><i class="fas fa-flower fa-fw"></i>首页</a></li><li class="menu-item menu-item-categories"><a href="/categories/" rel="section"><i class="fa fa-cookie fa-fw"></i>分类</a></li><li class="menu-item menu-item-archives"><a href="/archives/" rel="section"><i class="fas fa-acorn fa-fw"></i>归档</a></li><li class="menu-item menu-item-play"><a href="/play/" rel="section"><i class="fa fa-fish fa-fw"></i>游戏</a></li><li class="menu-item menu-item-message"><a href="/message/" rel="section"><i class="fa fa-dog fa-fw"></i>留言</a></li><li class="menu-item menu-item-about"><a href="/about/" rel="section"><i class="fa fa-carrot fa-fw"></i>关于</a></li>
+      <li class="menu-item menu-item-search">
+        <a role="button" class="popup-trigger"><i class="fa fa-search fa-fw"></i>搜索
+        </a>
+      </li>
+  </ul>
+</nav>
+
+
+
+  <div class="search-pop-overlay">
+    <div class="popup search-popup"><div class="search-header">
+  <span class="search-icon">
+    <i class="fa fa-search"></i>
+  </span>
+  <div class="search-input-container">
+    <input autocomplete="off" autocapitalize="off" maxlength="80"
+           placeholder="搜索..." spellcheck="false"
+           type="search" class="search-input">
+  </div>
+  <span class="popup-btn-close" role="button">
+    <i class="fa fa-times-circle"></i>
+  </span>
+</div>
+<div class="search-result-container no-result">
+  <div class="search-result-icon">
+    <i class="fa fa-spinner fa-pulse fa-5x"></i>
+  </div>
+</div>
+
+    </div>
+  </div>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.6.0/jquery.min.js"></script>
+
+<div class="top-scroll-bar"></div>
+
+<canvas class="fireworks" id="canvas" style="position: fixed;left: 0;top: 0;z-index: 1; pointer-events: none;" ></canvas>
+
+<script>
+  document.write('<script type="text/javascript" src="/js/custom/custom.js"><\/script>');
+if( !/Android|webOS|iPhone|iPod|iPad|BlackBerry/i.test(navigator.userAgent)){
+  document.write('<script type="text/javascript" src="//cdn.bootcss.com/animejs/2.2.0/anime.min.js"><\/script> <script type="text/javascript" src="/js/custom/fireworks.js"><\/script>');
+}
+</script>
+
+<!-- 动态背景 -->
+<script>
+if( !/Android|webOS|iPhone|iPod|iPad|BlackBerry/i.test(navigator.userAgent)){
+  document.write('<script type="text/javascript" src="/js/custom/jquery.backstretch.min.js"><\/script>');
+}
+</script>
+<script type="text/javascript">
+  $("body").backstretch([
+    "/images/background/background (1).webp",
+    "/images/background/background (2).webp",
+    "/images/background/background (3).webp",
+    "/images/background/background (4).webp",
+    "/images/background/background (5).webp",
+    "/images/background/background (6).webp",
+    "/images/background/background (7).webp",
+    "/images/background/background (8).webp",
+  ], {duration: 60000, fade: 1000, animateFirst: true});
+</script>
+
+<!-- live2d -->
+<div id="waifu">
+  <div class="waifu-tips" style="opacity: 0;"></div>
+  <canvas id="live2d" width="280" height="250" class="live2d"></canvas>
+</div>
+<script>
+if( !/Android|webOS|iPhone|iPod|iPad|BlackBerry/i.test(navigator.userAgent)){
+  document.write('<script type="text/javascript" src="/live2d/live2d.js"><\/script> <script type="text/javascript" src="/live2d/waifu-tips.js"><\/script>');
+}
+</script>
+
+<!-- 打字礼花及震动特效 -->
+<script>
+if( !/Android|webOS|iPhone|iPod|iPad|BlackBerry/i.test(navigator.userAgent)){
+  document.write('<script type="text/javascript" src="/js/custom/activate-power-mode.js"><\/script>');
+}
+</script>
+<script>
+    POWERMODE.colorful = true; // ture 为启用礼花特效
+    POWERMODE.shake = false; // false 为禁用震动特效
+    document.body.addEventListener('input', POWERMODE);
+</script>
+
+</div>
+        
+  
+  <div class="toggle sidebar-toggle" role="button">
+    <span class="toggle-line"></span>
+    <span class="toggle-line"></span>
+    <span class="toggle-line"></span>
+  </div>
+
+  <aside class="sidebar">
+
+    <div class="sidebar-inner sidebar-nav-active sidebar-toc-active">
+      <ul class="sidebar-nav">
+        <li class="sidebar-nav-toc">
+          文章目录
+        </li>
+        <li class="sidebar-nav-overview">
+          站点概览
+        </li>
+      </ul>
+
+      <div class="sidebar-panel-container">
+        <!--noindex-->
+        <div class="post-toc-wrap sidebar-panel">
+            <div class="post-toc animated"><ol class="nav"><li class="nav-item nav-level-1"><a class="nav-link" href="#%E5%BA%8F%E8%A8%80"><span class="nav-text">序言</span></a></li><li class="nav-item nav-level-1"><a class="nav-link" href="#%E7%AC%AC%E4%B8%80%E7%AB%A0-%E5%B9%BF%E5%91%8A%E9%85%8D%E9%9F%B3%E7%9A%84%E6%AF%8D%E4%BD%93%E2%80%94%E2%80%94%E5%B9%BF%E5%91%8A%E6%A6%82%E8%AF%B4"><span class="nav-text">第一章　广告配音的母体——广告概说</span></a><ol class="nav-child"><li class="nav-item nav-level-2"><a class="nav-link" href="#%E7%AC%AC%E4%B8%80%E8%8A%82-%E5%B9%BF%E5%91%8A%E7%9A%84%E4%BA%A7%E7%94%9F%E5%92%8C%E5%8F%91%E5%B1%95"><span class="nav-text">第一节　广告的产生和发展</span></a></li><li class="nav-item nav-level-2"><a class="nav-link" href="#%E7%AC%AC%E4%BA%8C%E8%8A%82-%E5%B9%BF%E5%91%8A%E7%9A%84%E6%A6%82%E5%BF%B5"><span class="nav-text">第二节　广告的概念</span></a></li></ol></li><li class="nav-item nav-level-1"><a class="nav-link" href="#%E7%AC%AC%E4%BA%8C%E7%AB%A0-%E5%B9%BF%E5%91%8A%E9%85%8D%E9%9F%B3%E7%9A%84%E5%9C%9F%E5%A3%A4%E2%80%94%E2%80%94%E7%94%B5%E6%B3%A2%E5%B9%BF%E5%91%8A"><span class="nav-text">第二章　广告配音的土壤——电波广告</span></a><ol class="nav-child"><li class="nav-item nav-level-2"><a class="nav-link" href="#%E7%AC%AC%E4%B8%89%E8%8A%82-%E7%94%B5%E8%A7%86%E5%B9%BF%E5%91%8A%E8%BD%AC%E6%92%AD"><span class="nav-text">第三节　电视广告转播</span></a></li></ol></li><li class="nav-item nav-level-1"><a class="nav-link" href="#%E7%AC%AC%E4%B8%89%E7%AB%A0-%E5%B9%BF%E5%91%8A%E9%85%8D%E9%9F%B3%E7%9A%84%E4%B8%BB%E4%BD%93%E2%80%94%E2%80%94%E5%A3%B0%E9%9F%B3%E8%AF%B4%EF%BC%88%E4%B8%8A%EF%BC%89"><span class="nav-text">第三章　广告配音的主体——声音说（上）</span></a><ol class="nav-child"><li class="nav-item nav-level-2"><a class="nav-link" href="#%E7%AC%AC%E4%BA%8C%E8%8A%82-%E4%BD%9C%E4%B8%BA%E7%94%B5%E8%A7%86%E5%B9%BF%E5%91%8A%E7%9A%84%E5%A3%B0%E9%9F%B3"><span class="nav-text">第二节　作为电视广告的声音</span></a></li><li class="nav-item nav-level-2"><a class="nav-link" href="#%E7%AC%AC%E4%B8%89%E8%8A%82-%E5%B9%BF%E5%91%8A%E9%85%8D%E9%9F%B3%E7%9A%84%E5%A3%B0%E9%9F%B3%E6%8C%87%E5%90%91"><span class="nav-text">第三节　广告配音的声音指向</span></a></li></ol></li><li class="nav-item nav-level-1"><a class="nav-link" href="#%E7%AC%AC%E5%9B%9B%E7%AB%A0-%E5%B9%BF%E5%91%8A%E9%85%8D%E9%9F%B3%E7%9A%84%E4%B8%BB%E4%BD%93%E2%80%94%E2%80%94%E5%A3%B0%E9%9F%B3%E8%AF%B4%EF%BC%88%E4%B8%8B%EF%BC%89"><span class="nav-text">第四章　广告配音的主体——声音说（下）</span></a><ol class="nav-child"><li class="nav-item nav-level-2"><a class="nav-link" href="#%E7%AC%AC%E4%B8%80%E8%8A%82-%E5%B9%BF%E5%91%8A%E9%85%8D%E9%9F%B3%E7%9A%84%E5%A3%B0%E9%9F%B3%E9%80%89%E6%8B%A9"><span class="nav-text">第一节　广告配音的声音选择</span></a><ol class="nav-child"><li class="nav-item nav-level-3"><a class="nav-link" href="#%E4%B8%80%E3%80%81%E6%80%A7%E5%88%AB%E5%B7%AE%E5%BC%82%E4%B8%8E%E5%A3%B0%E9%9F%B3%E9%80%89%E6%8B%A9"><span class="nav-text">一、性别差异与声音选择</span></a><ol class="nav-child"><li class="nav-item nav-level-4"><a class="nav-link" href="#1-%E7%94%B7%E6%80%A7%E7%9A%84%E5%A3%B0%E9%9F%B3%E5%BD%A2%E8%B1%A1"><span class="nav-text">1. 男性的声音形象</span></a></li><li class="nav-item nav-level-4"><a class="nav-link" href="#2-%E5%A5%B3%E6%80%A7%E7%9A%84%E5%A3%B0%E9%9F%B3%E5%BD%A2%E8%B1%A1"><span class="nav-text">2. 女性的声音形象</span></a></li></ol></li><li class="nav-item nav-level-3"><a class="nav-link" href="#%E4%BA%8C%E3%80%81%E5%B9%B4%E9%BE%84%E5%B7%AE%E5%BC%82%E4%B8%8E%E5%A3%B0%E9%9F%B3%E9%80%89%E6%8B%A9"><span class="nav-text">二、年龄差异与声音选择</span></a><ol class="nav-child"><li class="nav-item nav-level-4"><a class="nav-link" href="#1-%E5%B0%91%E5%84%BF%E7%9A%84%E5%A3%B0%E9%9F%B3%E5%BD%A2%E8%B1%A1"><span class="nav-text">1. 少儿的声音形象</span></a></li><li class="nav-item nav-level-4"><a class="nav-link" href="#2-%E9%9D%92%E5%B9%B4%E7%9A%84%E5%A3%B0%E9%9F%B3%E5%BD%A2%E8%B1%A1"><span class="nav-text">2. 青年的声音形象</span></a></li><li class="nav-item nav-level-4"><a class="nav-link" href="#3-%E4%B8%AD%E5%B9%B4%E7%9A%84%E5%A3%B0%E9%9F%B3%E5%BD%A2%E8%B1%A1"><span class="nav-text">3. 中年的声音形象</span></a></li><li class="nav-item nav-level-4"><a class="nav-link" href="#4-%E8%80%81%E5%B9%B4%E7%9A%84%E5%A3%B0%E9%9F%B3%E5%BD%A2%E8%B1%A1"><span class="nav-text">4. 老年的声音形象</span></a></li></ol></li></ol></li><li class="nav-item nav-level-2"><a class="nav-link" href="#%E7%AC%AC%E4%BA%8C%E8%8A%82-%E5%B9%BF%E5%91%8A%E9%85%8D%E9%9F%B3%E7%9A%84%E5%A3%B0%E9%9F%B3%E8%AE%BE%E8%AE%A1"><span class="nav-text">第二节　广告配音的声音设计</span></a><ol class="nav-child"><li class="nav-item nav-level-3"><a class="nav-link" href="#%E4%B8%80%E3%80%81%E5%AF%B9%E4%BA%8E%E5%A3%B0%E9%9F%B3%E7%89%A9%E7%90%86%E5%B1%9E%E6%80%A7%E5%B1%82%E9%9D%A2%E7%9A%84%E8%AE%BE%E8%AE%A1"><span class="nav-text">一、对于声音物理属性层面的设计</span></a><ol class="nav-child"><li class="nav-item nav-level-4"><a class="nav-link" href="#1-%E9%9F%B3%E8%89%B2"><span class="nav-text">1. 音色</span></a></li><li class="nav-item nav-level-4"><a class="nav-link" href="#2-%E9%9F%B3%E9%87%8F"><span class="nav-text">2. 音量</span></a></li></ol></li><li class="nav-item nav-level-3"><a class="nav-link" href="#%E4%BA%8C%E3%80%81%E5%AF%B9%E4%BA%8E%E5%A3%B0%E9%9F%B3%E5%A4%96%E9%83%A8%E6%8A%80%E5%B7%A7%E5%B1%82%E9%9D%A2%E7%9A%84%E8%AE%BE%E8%AE%A1"><span class="nav-text">二、对于声音外部技巧层面的设计</span></a><ol class="nav-child"><li class="nav-item nav-level-4"><a class="nav-link" href="#1-%E9%87%8D%E9%9F%B3"><span class="nav-text">1. 重音</span></a></li><li class="nav-item nav-level-4"><a class="nav-link" href="#2-%E5%81%9C%E8%BF%9E"><span class="nav-text">2. 停连</span></a></li><li class="nav-item nav-level-4"><a class="nav-link" href="#3-%E8%AF%AD%E6%B0%94"><span class="nav-text">3. 语气</span></a></li><li class="nav-item nav-level-4"><a class="nav-link" href="#4-%E8%8A%82%E5%A5%8F"><span class="nav-text">4. 节奏</span></a></li></ol></li></ol></li><li class="nav-item nav-level-2"><a class="nav-link" href="#%E7%AC%AC%E4%B8%89%E8%8A%82-%E5%B9%BF%E5%91%8A%E9%85%8D%E9%9F%B3%E7%9A%84%E5%A3%B0%E9%9F%B3%E9%80%A0%E5%9E%8B"><span class="nav-text">第三节　广告配音的声音造型</span></a><ol class="nav-child"><li class="nav-item nav-level-3"><a class="nav-link" href="#%E4%B8%80%E3%80%81%E5%A3%B0%E9%9F%B3%E9%80%A0%E5%9E%8B%E7%9A%84%E4%B8%8D%E5%90%8C%E5%9B%A0%E7%B4%A0"><span class="nav-text">一、声音造型的不同因素</span></a></li><li class="nav-item nav-level-3"><a class="nav-link" href="#%E4%BA%8C%E3%80%81%E5%A3%B0%E9%9F%B3%E9%80%A0%E5%9E%8B%E4%B8%8E%E5%A3%B0%E9%9F%B3%E9%80%A0%E5%BD%A2"><span class="nav-text">二、声音造型与声音造形</span></a><ol class="nav-child"><li class="nav-item nav-level-4"><a class="nav-link" href="#1-%E5%85%B8%E9%9B%85%E5%9E%8B"><span class="nav-text">1. 典雅型</span></a></li><li class="nav-item nav-level-4"><a class="nav-link" href="#2-%E5%8A%9B%E9%87%8F%E5%9E%8B"><span class="nav-text">2. 力量型</span></a></li><li class="nav-item nav-level-4"><a class="nav-link" href="#3-%E6%B8%A9%E6%9F%94%E5%9E%8B"><span class="nav-text">3. 温柔型</span></a></li><li class="nav-item nav-level-4"><a class="nav-link" href="#4-%E4%BA%B2%E5%88%87%E5%9E%8B"><span class="nav-text">4. 亲切型</span></a></li><li class="nav-item nav-level-4"><a class="nav-link" href="#5-%E5%B9%BD%E9%BB%98%E5%9E%8B"><span class="nav-text">5. 幽默型</span></a></li></ol></li></ol></li></ol></li><li class="nav-item nav-level-1"><a class="nav-link" href="#%E7%AC%AC%E4%BA%94%E7%AB%A0-%E5%B9%BF%E5%91%8A%E9%85%8D%E9%9F%B3%E7%9A%84%E6%9C%AC%E4%BD%93%E2%80%94%E2%80%94%E8%89%BA%E6%9C%AF%E8%AF%B4%EF%BC%88%E4%B8%8A%EF%BC%89"><span class="nav-text">第五章　广告配音的本体——艺术说（上）</span></a><ol class="nav-child"><li class="nav-item nav-level-2"><a class="nav-link" href="#%E7%AC%AC%E4%B8%80%E8%8A%82-%E5%B9%BF%E5%91%8A%E9%85%8D%E9%9F%B3%E7%9A%84%E7%89%B9%E6%AE%8A%E6%80%A7"><span class="nav-text">第一节　广告配音的特殊性</span></a><ol class="nav-child"><li class="nav-item nav-level-3"><a class="nav-link" href="#%E4%B8%80%E3%80%81%E5%B9%BF%E5%91%8A%E9%85%8D%E9%9F%B3%E4%B8%8E%E5%85%B6%E4%BB%96%E6%96%87%E4%BD%93%E4%B9%8B%E4%B8%8D%E5%90%8C"><span class="nav-text">一、广告配音与其他文体之不同</span></a></li><li class="nav-item nav-level-3"><a class="nav-link" href="#%E4%BA%8C%E3%80%81%E5%B9%BF%E5%91%8A%E9%85%8D%E9%9F%B3%E7%9A%84%E5%A4%8D%E6%9D%82%E6%80%A7%E5%92%8C%E7%89%B9%E6%AE%8A%E6%80%A7"><span class="nav-text">二、广告配音的复杂性和特殊性</span></a><ol class="nav-child"><li class="nav-item nav-level-4"><a class="nav-link" href="#1-%E8%AF%AD%E6%80%81%E4%B8%8A%E7%9A%84%E8%89%BA%E6%9C%AF%E5%8C%96"><span class="nav-text">1. 语态上的艺术化</span></a></li><li class="nav-item nav-level-4"><a class="nav-link" href="#2-%E8%AF%AD%E6%B0%94%E4%B8%8A%E7%9A%84%E8%A7%92%E8%89%B2%E5%8C%96"><span class="nav-text">2. 语气上的角色化</span></a></li><li class="nav-item nav-level-4"><a class="nav-link" href="#3-%E8%AF%AD%E5%8A%9B%E4%B8%8A%E7%9A%84%E4%B8%AA%E6%80%A7%E5%8C%96"><span class="nav-text">3. 语力上的个性化</span></a></li><li class="nav-item nav-level-4"><a class="nav-link" href="#4-%E8%AF%AD%E9%9F%B3%E4%B8%8A%E7%9A%84%E9%99%8C%E7%94%9F%E5%8C%96"><span class="nav-text">4. 语音上的陌生化</span></a></li></ol></li></ol></li><li class="nav-item nav-level-2"><a class="nav-link" href="#%E7%AC%AC%E4%BA%8C%E8%8A%82-%E7%94%B5%E8%A7%86%E5%B9%BF%E5%91%8A%E7%9A%84%E9%85%8D%E9%9F%B3"><span class="nav-text">第二节　电视广告的配音</span></a></li><li class="nav-item nav-level-2"><a class="nav-link" href="#%E7%AC%AC%E4%B8%89%E8%8A%82-%E7%94%B5%E8%A7%86%E5%B9%BF%E5%91%8A%E9%85%8D%E9%9F%B3%E4%B8%AD%E4%B8%8D%E5%90%8C%E8%A1%A8%E7%8E%B0%E7%B1%BB%E5%9E%8B%E7%9A%84%E5%88%9B%E4%BD%9C%E6%96%B9%E6%B3%95"><span class="nav-text">第三节　电视广告配音中不同表现类型的创作方法</span></a><ol class="nav-child"><li class="nav-item nav-level-3"><a class="nav-link" href="#%E4%B8%80%E3%80%81%E6%95%85%E4%BA%8B%E5%9E%8B"><span class="nav-text">一、故事型</span></a></li><li class="nav-item nav-level-3"><a class="nav-link" href="#%E4%BA%8C%E3%80%81%E7%94%9F%E6%B4%BB%E7%89%87%E6%AE%B5%E5%9E%8B"><span class="nav-text">二、生活片段型</span></a></li><li class="nav-item nav-level-3"><a class="nav-link" href="#%E4%B8%89%E3%80%81%E8%A7%A3%E5%86%B3%E9%97%AE%E9%A2%98%E5%9E%8B"><span class="nav-text">三、解决问题型</span></a></li><li class="nav-item nav-level-3"><a class="nav-link" href="#%E5%9B%9B%E3%80%81%E4%BA%BA%E7%89%A9%E4%BD%90%E8%AF%81%E5%9E%8B"><span class="nav-text">四、人物佐证型</span></a><ol class="nav-child"><li class="nav-item nav-level-4"><a class="nav-link" href="#1-%E5%90%8D%E4%BA%BA%E4%BD%90%E8%AF%81%E5%9E%8B"><span class="nav-text">1. 名人佐证型</span></a></li><li class="nav-item nav-level-4"><a class="nav-link" href="#2-%E4%B8%93%E5%AE%B6%E4%BD%90%E8%AF%81%E5%9E%8B"><span class="nav-text">2. 专家佐证型</span></a></li><li class="nav-item nav-level-4"><a class="nav-link" href="#3-%E6%99%AE%E9%80%9A%E6%B6%88%E8%B4%B9%E8%80%85%E4%BD%90%E8%AF%81%E5%9E%8B"><span class="nav-text">3. 普通消费者佐证型</span></a></li></ol></li><li class="nav-item nav-level-3"><a class="nav-link" href="#%E4%BA%94%E3%80%81%E7%A4%BA%E8%8C%83%E8%A7%A3%E8%AF%B4%E5%9E%8B"><span class="nav-text">五、示范解说型</span></a></li><li class="nav-item nav-level-3"><a class="nav-link" href="#%E5%85%AD%E3%80%81%E5%B9%BD%E9%BB%98%E5%9E%8B"><span class="nav-text">六、幽默型</span></a></li></ol></li><li class="nav-item nav-level-2"><a class="nav-link" href="#%E7%AC%AC%E5%9B%9B%E8%8A%82-%E7%94%B5%E8%A7%86%E5%B9%BF%E5%91%8A%E9%85%8D%E9%9F%B3%E5%BA%94%E6%B3%A8%E6%84%8F%E7%9A%84%E9%97%AE%E9%A2%98"><span class="nav-text">第四节　电视广告配音应注意的问题</span></a></li></ol></li><li class="nav-item nav-level-1"><a class="nav-link" href="#%E7%AC%AC%E5%85%AD%E7%AB%A0-%E5%B9%BF%E5%91%8A%E9%85%8D%E9%9F%B3%E7%9A%84%E6%9C%AC%E4%BD%93%E2%80%94%E2%80%94%E8%89%BA%E6%9C%AF%E8%AF%B4%EF%BC%88%E4%B8%8B%EF%BC%89"><span class="nav-text">第六章　广告配音的本体——艺术说（下）</span></a><ol class="nav-child"><li class="nav-item nav-level-2"><a class="nav-link" href="#%E7%AC%AC%E4%B8%80%E8%8A%82-%E5%B9%BF%E6%92%AD%E5%B9%BF%E5%91%8A%E7%9A%84%E9%85%8D%E9%9F%B3"><span class="nav-text">第一节　广播广告的配音</span></a></li><li class="nav-item nav-level-2"><a class="nav-link" href="#%E7%AC%AC%E4%BA%8C%E8%8A%82-%E5%B9%BF%E6%92%AD%E5%B9%BF%E5%91%8A%E4%B8%8D%E5%90%8C%E8%A1%A8%E7%8E%B0%E7%B1%BB%E5%9E%8B%E7%9A%84%E5%88%9B%E4%BD%9C%E6%96%B9%E6%B3%95"><span class="nav-text">第二节　广播广告不同表现类型的创作方法</span></a><ol class="nav-child"><li class="nav-item nav-level-3"><a class="nav-link" href="#%E4%B8%80%E3%80%81%E5%8D%95%E5%88%80%E7%9B%B4%E5%85%A5%E5%9E%8B"><span class="nav-text">一、单刀直入型</span></a></li><li class="nav-item nav-level-3"><a class="nav-link" href="#%E5%9B%9B%E3%80%81%E6%88%8F%E5%89%A7%E5%AE%8C%E6%95%B4%E5%9E%8B"><span class="nav-text">四、戏剧完整型</span></a></li><li class="nav-item nav-level-3"><a class="nav-link" href="#%E4%B8%83%E3%80%81%E7%8E%B0%E8%BA%AB%E8%AF%B4%E6%B3%95%E5%9E%8B"><span class="nav-text">七、现身说法型</span></a></li></ol></li><li class="nav-item nav-level-2"><a class="nav-link" href="#%E7%AC%AC%E5%9B%9B%E8%8A%82-%E5%B9%BF%E6%92%AD%E5%B9%BF%E5%91%8A%E9%85%8D%E9%9F%B3%E5%BA%94%E6%B3%A8%E6%84%8F%E7%9A%84%E9%97%AE%E9%A2%98"><span class="nav-text">第四节　广播广告配音应注意的问题</span></a><ol class="nav-child"><li class="nav-item nav-level-3"><a class="nav-link" href="#%E4%B8%80%E3%80%81%E2%80%9C%E5%AF%B9%E8%AF%9D%E2%80%9D%E6%97%B6%EF%BC%8C%E6%B1%82%E5%BE%97%E7%94%9F%E5%8A%A8"><span class="nav-text">一、“对话”时，求得生动</span></a></li><li class="nav-item nav-level-3"><a class="nav-link" href="#%E4%BA%8C%E3%80%81%E2%80%9C%E6%A0%87%E9%A2%98%E2%80%9D%E6%97%B6%EF%BC%8C%E6%B1%82%E5%BE%97%E4%B8%AA%E6%80%A7"><span class="nav-text">二、“标题”时，求得个性</span></a></li><li class="nav-item nav-level-3"><a class="nav-link" href="#%E4%B8%89%E3%80%81%E2%80%9C%E5%8F%8D%E5%A4%8D%E2%80%9D%E6%97%B6%EF%BC%8C%E6%B1%82%E5%BE%97%E5%8F%98%E5%8C%96"><span class="nav-text">三、“反复”时，求得变化</span></a></li><li class="nav-item nav-level-3"><a class="nav-link" href="#%E4%B8%89%E3%80%81%E2%80%9C%E5%8F%8D%E5%A4%8D%E2%80%9D%E6%97%B6%EF%BC%8C%E6%B1%82%E5%BE%97%E5%8F%98%E5%8C%96-1"><span class="nav-text">三、“反复”时，求得变化</span></a></li><li class="nav-item nav-level-3"><a class="nav-link" href="#%E5%9B%9B%E3%80%81%E5%BB%BA%E7%AB%8B%E7%AB%8B%E4%BD%93%E5%8C%96"><span class="nav-text">四、建立立体化</span></a></li><li class="nav-item nav-level-3"><a class="nav-link" href="#%E4%BA%94%E3%80%81%E6%8A%8A%E6%8F%A1%E5%88%86%E5%AF%B8%E6%84%9F"><span class="nav-text">五、把握分寸感</span></a></li></ol></li></ol></li><li class="nav-item nav-level-1"><a class="nav-link" href="#%E7%AC%AC%E4%B8%83%E7%AB%A0-%E5%B9%BF%E5%91%8A%E9%85%8D%E9%9F%B3%E7%9A%84%E6%84%8F%E8%95%B4%E2%80%94%E2%80%94%E5%85%B3%E7%B3%BB%E8%AF%B4"><span class="nav-text">第七章　广告配音的意蕴——关系说</span></a><ol class="nav-child"><li class="nav-item nav-level-2"><a class="nav-link" href="#%E7%AC%AC%E4%B8%80%E8%8A%82-%E5%B9%BF%E5%91%8A%E9%85%8D%E9%9F%B3%E4%B8%8E%E5%B9%BF%E5%91%8A%E5%88%9B%E6%84%8F%E7%9A%84%E5%85%B3%E7%B3%BB"><span class="nav-text">第一节　广告配音与广告创意的关系</span></a><ol class="nav-child"><li class="nav-item nav-level-3"><a class="nav-link" href="#%E4%B8%80%E3%80%81%E7%8B%AC%E7%89%B9%E7%9A%84%E5%A3%B0%E9%9F%B3%E6%8F%AA%E4%BD%8F%E5%A4%A7%E4%BC%97%E7%9A%84%E8%80%B3%E6%9C%B5"><span class="nav-text">一、独特的声音揪住大众的耳朵</span></a></li><li class="nav-item nav-level-3"><a class="nav-link" href="#%E4%B8%89%E3%80%81%E7%BB%9F%E4%B8%80%E7%9A%84%E5%A3%B0%E9%9F%B3%E6%88%90%E4%B8%BA%E5%93%81%E7%89%8C%E7%9A%84%E4%BB%A3%E8%A1%A8"><span class="nav-text">三、统一的声音成为品牌的代表</span></a></li></ol></li><li class="nav-item nav-level-2"><a class="nav-link" href="#%E7%AC%AC%E4%BA%8C%E8%8A%82-%E5%B9%BF%E5%91%8A%E9%85%8D%E9%9F%B3%E4%B8%8E%E5%B9%BF%E5%91%8A%E8%AF%AD%E8%A8%80%E7%9A%84%E5%85%B3%E7%B3%BB"><span class="nav-text">第二节　广告配音与广告语言的关系</span></a><ol class="nav-child"><li class="nav-item nav-level-3"><a class="nav-link" href="#%E4%BA%8C%E3%80%81%E5%B9%BF%E5%91%8A%E9%85%8D%E9%9F%B3%E8%AF%AD%E6%B0%94%E4%B8%8E%E5%B9%BF%E5%91%8A%E8%AF%AD%E8%A8%80%E5%8F%A5%E5%BC%8F"><span class="nav-text">二、广告配音语气与广告语言句式</span></a><ol class="nav-child"><li class="nav-item nav-level-4"><a class="nav-link" href="#1-%E9%99%88%E8%BF%B0%E7%9A%84%E5%8F%A5%E5%BC%8F%E2%80%94%E2%80%94%E9%99%88%E8%BF%B0%E7%9A%84%E8%AF%AD%E6%B0%94"><span class="nav-text">1. 陈述的句式——陈述的语气</span></a></li></ol></li><li class="nav-item nav-level-3"><a class="nav-link" href="#%E4%B8%89%E3%80%81%E7%94%B5%E8%A7%86%E5%B9%BF%E5%91%8A%E9%85%8D%E9%9F%B3%E4%B8%8E%E5%B9%BF%E5%91%8A%E8%AF%AD%E8%A8%80"><span class="nav-text">三、电视广告配音与广告语言</span></a><ol class="nav-child"><li class="nav-item nav-level-4"><a class="nav-link" href="#3-%E7%94%B5%E8%A7%86%E5%B9%BF%E5%91%8A%E9%85%8D%E9%9F%B3%E2%80%9C%E7%82%B9%E8%AF%91%E2%80%9D%E7%94%BB%E9%9D%A2"><span class="nav-text">3. 电视广告配音“点译”画面</span></a></li><li class="nav-item nav-level-4"><a class="nav-link" href="#4-%E7%94%B5%E8%A7%86%E5%B9%BF%E5%91%8A%E9%85%8D%E9%9F%B3%E7%9A%84%E6%A3%80%E6%A0%B8%E6%A0%87%E5%87%86"><span class="nav-text">4. 电视广告配音的检核标准</span></a></li></ol></li><li class="nav-item nav-level-3"><a class="nav-link" href="#%E5%9B%9B%E3%80%81%E5%B9%BF%E6%92%AD%E5%B9%BF%E5%91%8A%E9%85%8D%E9%9F%B3%E4%B8%8E%E5%B9%BF%E5%91%8A%E8%AF%AD%E8%A8%80%E7%9A%84%E5%85%B3%E7%B3%BB"><span class="nav-text">四、广播广告配音与广告语言的关系</span></a><ol class="nav-child"><li class="nav-item nav-level-4"><a class="nav-link" href="#1-%E5%B9%BF%E6%92%AD%E5%B9%BF%E5%91%8A%E8%AF%8D%E4%B8%BA%E2%80%9C%E5%90%AC%E2%80%9D%E8%80%8C%E5%86%99"><span class="nav-text">1. 广播广告词为“听”而写</span></a></li><li class="nav-item nav-level-4"><a class="nav-link" href="#3-%E5%B9%BF%E6%92%AD%E5%B9%BF%E5%91%8A%E9%85%8D%E9%9F%B3%E7%9A%84%E6%A3%80%E6%A0%B8%E6%A0%87%E5%87%86"><span class="nav-text">3. 广播广告配音的检核标准</span></a></li></ol></li></ol></li><li class="nav-item nav-level-2"><a class="nav-link" href="#%E7%AC%AC%E4%B8%89%E8%8A%82-%E5%B9%BF%E5%91%8A%E9%85%8D%E9%9F%B3%E4%B8%8E%E5%9C%B0%E5%9F%9F%E6%96%87%E5%8C%96%E7%9A%84%E5%85%B3%E7%B3%BB"><span class="nav-text">第三节　广告配音与地域文化的关系</span></a><ol class="nav-child"><li class="nav-item nav-level-3"><a class="nav-link" href="#%E4%B8%80%E3%80%81%E5%9C%B0%E5%9F%9F%E6%96%87%E5%8C%96%E4%BA%8E%E5%B9%BF%E5%91%8A%E6%96%87%E5%8C%96%E7%9A%84%E5%88%B6%E7%BA%A6%E5%92%8C%E5%BD%B1%E5%93%8D"><span class="nav-text">一、地域文化于广告文化的制约和影响</span></a></li></ol></li><li class="nav-item nav-level-2"><a class="nav-link" href="#%E7%AC%AC%E5%9B%9B%E8%8A%82-%E5%B9%BF%E5%91%8A%E9%85%8D%E9%9F%B3%E4%B8%8E%E5%B9%BF%E5%91%8A%E5%AE%A2%E6%88%B7%E7%9A%84%E5%85%B3%E7%B3%BB"><span class="nav-text">第四节　广告配音与广告客户的关系</span></a></li></ol></li></ol></div>
+        </div>
+        <!--/noindex-->
+
+        <div class="site-overview-wrap sidebar-panel">
+          <div class="site-author site-overview-item animated" itemprop="author" itemscope itemtype="http://schema.org/Person">
+    <img class="site-author-image" itemprop="image" alt="千灵夙赋"
+      src="/images/avatar.png">
+  <p class="site-author-name" itemprop="name">千灵夙赋</p>
+  <div class="site-description" itemprop="description"></div>
+</div>
+<div class="site-state-wrap site-overview-item animated">
+  <nav class="site-state">
+      <div class="site-state-item site-state-posts">
+        <a href="/archives/">
+          <span class="site-state-item-count">194</span>
+          <span class="site-state-item-name">日志</span>
+        </a>
+      </div>
+      <div class="site-state-item site-state-categories">
+          <a href="/categories/">
+        <span class="site-state-item-count">39</span>
+        <span class="site-state-item-name">分类</span></a>
+      </div>
+      <div class="site-state-item site-state-tags">
+          <a href="/tags/">
+        <span class="site-state-item-count">56</span>
+        <span class="site-state-item-name">标签</span></a>
+      </div>
+  </nav>
+</div>
+
+
+  <div class="links-of-blogroll site-overview-item animated">
+    <div class="links-of-blogroll-title"><i class="fa fa-link fa-fw"></i>
+      Friends
+    </div>
+    <ul class="links-of-blogroll-list">
+        <li class="links-of-blogroll-item">
+          <a href="https://meow3.family.blog/" title="https:&#x2F;&#x2F;meow3.family.blog&#x2F;" rel="noopener" target="_blank">恶魔菌の记事簿</a>
+        </li>
+        <li class="links-of-blogroll-item">
+          <a href="https://lanyundev.vercel.app/" title="https:&#x2F;&#x2F;lanyundev.vercel.app&#x2F;" rel="noopener" target="_blank">LanYun</a>
+        </li>
+        <li class="links-of-blogroll-item">
+          <a href="https://www.julydate.com/" title="https:&#x2F;&#x2F;www.julydate.com&#x2F;" rel="noopener" target="_blank">七夏浅笑</a>
+        </li>
+    </ul>
+  </div>
+<div id="aplayer" class="aplayer"></div>
+<script>
+if( !/Android|webOS|iPhone|iPod|iPad|BlackBerry/i.test(navigator.userAgent)){
+  document.write('<script type="text/javascript" src="/js/custom/APlayer.min.js"><\/script>');
+}
+</script>
+<script type="text/javascript">
+var ap = new APlayer({
+    element: document.getElementById('aplayer'),                       // Optional, player element
+    narrow: false,                                                     // Optional, narrow style
+    autoplay: false,                                                    // Optional, autoplay song(s), not supported by mobile browsers
+    showlrc: 0,                                                        // Optional, show lrc, can be 0, 1, 2, see: ###With lrc
+    mutex: true,                                                       // Optional, pause other players when this player playing
+    theme: '#e6d0b2',                                                  // Optional, theme color, default: #b7daff
+    mode: 'random',                                                    // Optional, play mode, can be `random` `single` `circulation`(loop) `order`(no loop), default: `circulation`
+    preload: 'metadata',                                               // Optional, the way to load music, can be 'none' 'metadata' 'auto', default: 'auto'
+    listmaxheight: '513px',                                             // Optional, max height of play list
+    music: [{
+      title: '世末歌者',
+      author: '双笙 囧菌',
+      url: '/music/双笙 囧菌 - 世末歌者（Cover 乐正绫）.mp3',
+      pic: '/images/aplayer/双笙 囧菌 - 世末歌者.webp',
+    }, {
+      title: '幹物女(WeiWei)',
+      author: '封茗囧菌',
+      url: '/music/%E5%B0%81%E8%8C%97%E5%9B%A7%E8%8F%8C%20-%20%E5%B9%B9%E7%89%A9%E5%A5%B3(WeiWei).mp3',
+      pic: '/images/aplayer/封茗囧菌 - 幹物女(WeiWei).webp',
+    }, {
+      title: '东京不太热',
+      author: '封茗囧菌',
+      url: '/music/%E5%B0%81%E8%8C%97%E5%9B%A7%E8%8F%8C%20-%20%E4%B8%9C%E4%BA%AC%E4%B8%8D%E5%A4%AA%E7%83%AD.mp3',
+      pic: '/images/aplayer/封茗囧菌 - 东京不太热.webp',
+    }, {
+      title: '有故事的小仙女（Cover 初音ミク）',
+      author: '井宿',
+      url: '/music/%E4%BA%95%E5%AE%BF%20-%20%E6%9C%89%E6%95%85%E4%BA%8B%E7%9A%84%E5%B0%8F%E4%BB%99%E5%A5%B3%EF%BC%88Cover%20%E5%88%9D%E9%9F%B3%E3%83%9F%E3%82%AF%EF%BC%89.mp3',
+      pic: '/images/aplayer/井宿 - 有故事的小仙女（Cover 初音ミク）.webp',
+    }, {
+      title: '拼凑的断音（Cover 洛天依）',
+      author: '泡泡Hansy',
+      url: '/music/%E6%B3%A1%E6%B3%A1Hansy%20-%20%E6%8B%BC%E5%87%91%E7%9A%84%E6%96%AD%E9%9F%B3%EF%BC%88Cover%20%E6%B4%9B%E5%A4%A9%E4%BE%9D%EF%BC%89.mp3',
+      pic: '/images/aplayer/泡泡Hansy - 拼凑的断音（Cover 洛天依）.webp',
+    }]
+  });
+</script>
+
+        </div>
+      </div>
+    </div>
+  </aside>
+  <div class="sidebar-dimmer"></div>
+
+
+    </header>
+
+    
+  <div class="back-to-top" role="button" aria-label="返回顶部">
+    <i class=" fa fa-chevron-up"></i>
+    <span>0%</span>
+  </div>
+
+<noscript>
+  <div class="noscript-warning">Theme NexT works best with JavaScript enabled</div>
+</noscript>
+
+
+    <div class="main-inner post posts-expand">
+
+
+  
+
+
+<div class="post-block">
+  
+  
+
+  <article itemscope itemtype="http://schema.org/Article" class="post-content" lang="zh-CN">
+    <link itemprop="mainEntityOfPage" href="https://qianling.pw/advertisement-narrating-textbook">
+
+    <span hidden itemprop="author" itemscope itemtype="http://schema.org/Person">
+      <meta itemprop="image" content="/images/avatar.png">
+      <meta itemprop="name" content="千灵夙赋">
+    </span>
+
+    <span hidden itemprop="publisher" itemscope itemtype="http://schema.org/Organization">
+      <meta itemprop="name" content="千灵">
+      <meta itemprop="description" content="">
+    </span>
+
+    <span hidden itemprop="post" itemscope itemtype="http://schema.org/CreativeWork">
+      <meta itemprop="name" content="《广告配音教程》书摘 | 千灵">
+      <meta itemprop="description" content="">
+    </span>
+      <header class="post-header">
+        <h1 class="post-title" itemprop="name headline">
+          《广告配音教程》书摘
+        </h1>
+
+        <div class="post-meta-container">
+          <div class="post-meta">
+    <span class="post-meta-item">
+      <span class="post-meta-item-icon">
+        <i class="far fa-calendar"></i>
+      </span>
+      <span class="post-meta-item-text">发表于</span>
+
+      <time title="创建时间 2019-11-07 18:11:11" itemprop="dateCreated datePublished" datetime="2019-11-07T18:11:11+08:00">2019-11-07</time>
+    </span>
+    <span class="post-meta-item">
+      <span class="post-meta-item-icon">
+        <i class="far fa-calendar-check"></i>
+      </span>
+      <span class="post-meta-item-text">更新于</span>
+      <time title="修改时间 2019-12-01 15:29:33" itemprop="dateModified" datetime="2019-12-01T15:29:33+08:00">2019-12-01</time>
+    </span>
+    <span class="post-meta-item">
+      <span class="post-meta-item-icon">
+        <i class="far fa-folder"></i>
+      </span>
+      <span class="post-meta-item-text">分类于</span>
+        <span itemprop="about" itemscope itemtype="http://schema.org/Thing">
+          <a href="/categories/%E9%85%8D%E9%9F%B3/" itemprop="url" rel="index"><span itemprop="name">配音</span></a>
+        </span>
+    </span>
+
+  
+    <span id="/advertisement-narrating-textbook" class="post-meta-item leancloud_visitors" data-flag-title="《广告配音教程》书摘" title="阅读次数">
+      <span class="post-meta-item-icon">
+        <i class="far fa-eye"></i>
+      </span>
+      <span class="post-meta-item-text">阅读次数 </span>
+      <span class="leancloud-visitors-count"></span>
+    </span>
+  
+  <span class="post-meta-item">
+    <a title="valine" href="/advertisement-narrating-textbook#valine-comments" itemprop="discussionUrl">
+    
+    <span class="post-meta-item-icon">
+      <i class="far fa-comment"></i>
+    </span>
+    <span class="post-meta-item-text">评论数</span>
+  
+      <span class="post-comments-count valine-comment-count" data-xid="/advertisement-narrating-textbook" itemprop="commentCount"></span>
+    </a>
+  </span>
+  
+  
+</div>
+
+        </div>
+      </header>
+
+    
+    
+    
+    <div class="post-body" itemprop="articleBody">
+        <p><img data-src="/images/covers/169.png"></p>
+<span id="more"></span>
+
+<hr>
+<p><strong><div class="center">广告配音教程 / 曾志华编著. -- 北京 : 北京大学出版社, 2007.10<br>（中国播音学系列教材）<br>ISBN 978-7-301-12270-9/G · 2104</div></strong></p>
+<hr>
+<br />
+
+<h1 id="序言"><a href="#序言" class="headerlink" title="序言"></a>序言</h1><p>　　目前，在广告配音的创作过程中，仍然存在着重气势、轻内涵，重形式、轻意义的明显倾向。问题的根源，就是忽视了“人文精神的音声化”这一语言的本质。<br>　　广告的播出，最主要的目的是达到“信息共享、认知共识、愉悦共鸣”。如果受众听不清词语序列、语法关系、名称范围、优点益处，那在数秒间便稍纵即逝的视听中，所获无几，甚至不知所云，还有什么效果呢？“听清”之外，还要“明理”，了解是什么、怎么样，更要“享美”——产生美感享受。</p>
+<h1 id="第一章-广告配音的母体——广告概说"><a href="#第一章-广告配音的母体——广告概说" class="headerlink" title="第一章　广告配音的母体——广告概说"></a>第一章　广告配音的母体——广告概说</h1><h2 id="第一节-广告的产生和发展"><a href="#第一节-广告的产生和发展" class="headerlink" title="第一节　广告的产生和发展"></a>第一节　广告的产生和发展</h2><p>　　报纸在我国的问世则较早。早在唐代初期，便有最早的官报《邸报》。清朝将《邸报》改为《京报》。这种报纸只在宫廷和官僚中流传，不准刊登广告。</p>
+<h2 id="第二节-广告的概念"><a href="#第二节-广告的概念" class="headerlink" title="第二节　广告的概念"></a>第二节　广告的概念</h2><p>　　广告是付费的信息传播形式，是广告主有计划地通过媒体传递商品或劳务信息，影响消费者的态度和行为，以促进销售的大众传播手段。</p>
+<p>　　广告是广告主向目标市场的信息传播活动。在广告信息不足的时候，消费者希望能多收到一些商品信息，这时，广告主占主导地位；而在信息爆炸的时代，消费者的信息接受能力远远赶不上信息发送能力，此时，消费者占主导地位，他们的“注意力资源”成为稀缺资源。在这种情况下，广告传达的信息必须是准确的，精挑细选的。若是进行欺骗性广告，无异于“自杀”，更何况现在的消费者已经十分挑剔，“你说什么我听什么的”时代已经一去不复返了。</p>
+<h1 id="第二章-广告配音的土壤——电波广告"><a href="#第二章-广告配音的土壤——电波广告" class="headerlink" title="第二章　广告配音的土壤——电波广告"></a>第二章　广告配音的土壤——电波广告</h1><h2 id="第三节-电视广告转播"><a href="#第三节-电视广告转播" class="headerlink" title="第三节　电视广告转播"></a>第三节　电视广告转播</h2><p>　　有资料表明，图画，尤其是活动着的图画，比语言文字在表达上更具卓越的力量。另一种说法是，视觉冲击力比文字强 85%。</p>
+<h1 id="第三章-广告配音的主体——声音说（上）"><a href="#第三章-广告配音的主体——声音说（上）" class="headerlink" title="第三章　广告配音的主体——声音说（上）"></a>第三章　广告配音的主体——声音说（上）</h1><h2 id="第二节-作为电视广告的声音"><a href="#第二节-作为电视广告的声音" class="headerlink" title="第二节　作为电视广告的声音"></a>第二节　作为电视广告的声音</h2><p>　　人们通过视觉获得的信息占所获得信息总量的 83%，来自听觉渠道的占 11%。<br>　　看电视新闻明显要比听广播新闻多掌握 900 倍以上的信息。<br>　　利用没有声音的视听教具教学，只能吸引人们 35% 的注意力，但若配上声音，则可以使人们的注意力提高到 55%，并且容易记住所教授的内容。<br>　　广告中如果没有图片，将减少 75% 的效果，广告词中如果没有声音的配合说明，效果将减少25%。电视之所以受到人们的欢迎，是因为它同时满足了人生理上视、听两方面的需求。<br>　　马尔丹在《电影语言》中指出了声音的重要性：“音响也是画面的一个决定性的构成部分，因为它在再现我们在现实生活里感觉到的人和事物的环境时起了重要的作用。我们的听觉范围实际上任何时候都包括周围的全部空间，而我们的视觉却不能同时看到 60° 以上的空间，甚至在专心观察时也只能勉强看到 30°。”<br>　　声音是 360° 的，它在传达讯息、塑造形象方面有着不可估量的作用。声音和光一样，是塑造空间的手段，特别是在塑造画外空间方面更有着不可替代的作用。<br>　　声音，尤其是人声则不受时间、空间的限制，它可以讲述过去，也可以描述现在和未来；可以说此地的事，也可以说彼地的人。因此，声音在电视广告中往往弥补着画面传播的局限性。<br>　　斗转星移，日月更迭，在汹涌如潮、层出不穷的新广告中，人们的“注意力资源”是有限的，人们的记忆力也是有限的，因此，聪明的广告人必须给受众提供一种值得记忆的重要因素，而一个独特的声音是可以在人们的记忆当中占据一席之地的。<br>　　五彩缤纷的画面，亲切自然的话语，电视广告调动了所有艺术手段——音乐、舞蹈、绘画、雕塑、时装、摄影和有声语言，为受众营造出一个温馨的氛围，唤醒了人们心底的潜在需求，展示了一个“原来生活可以更美的”的超前消费方式，使人们更加渴望享有更新更好的生活，更加渴望拥有更新更好的服务。<br>　　电视不仅与人们的生活密切相关，更在很多方面改变着人们原有的生活观念，影响力十分强大。比如，曾经头皮屑给人的也许只是个人化的感受，并没有含有不尊重他人、有损个人形象的意味。但就在电视屏幕上出现了一支洗发水的广告之后，人们开始重新认识头皮屑的问题。</p>
+<div class="fangsong">
+
+<p>　　“海飞丝”电视广告：<br>　　画　面：一间明朗又温馨的屋子。<br>　　　　香港著名歌星叶倩文坐在沙发上，不时甩动着她那乌黑柔顺的头发。<br>　　叶倩文：朋友都说，以前莎丽怪极了，演唱会人再多也不怕，就怕单独面对歌迷。<br>　　　　　　其实……其实我不是怕歌迷，我是怕他们看到了我的一一头皮屑。<br>　　　　　　所以，我经常用“海飞丝”，头屑的烦恼没有了，头发变得更出色了，就算和歌迷靠得再近，嘿嘿，我也不怕喽！<br>　　画　外：常用海飞丝——<br>　　　　　　头屑去无踪，<br>　　叶倩文：秀发更出众！</p>
+</div>
+
+<p>　　——这支广告的出现是在改革开放后不久，叶倩文是当时进入内地较早的香港歌星，人们熟悉她，不少人还是她的歌迷。歌星的神秘化使得人们的注意立刻被吸引。但人们却有些震惊了：什么？头屑会叫人害羞？头屑是不该出现在社交场合的？这实在与从前的观点大不一样。<br>　　但电视上，叶倩文那很不标准的港味普通话，那真真切切的叙述，让人不得不学着接受一个新的观点。于是，这个在从前，在我们的生活中，似乎从来不算是个问题的问题竟一下子摆在了一个令众人瞩目的位置上，人们开始意识到了什么。于是，有越来越多的人会为自己肩头上的头皮屑不好意思，觉得不大礼貌；于是，人们开始到商店点着名买这种能够去头皮屑的“海飞丝”。<br>　　就这样，一支广告转变了人们从前的生活观念，同时也为自己的产品打开了市场。</p>
+<h2 id="第三节-广告配音的声音指向"><a href="#第三节-广告配音的声音指向" class="headerlink" title="第三节　广告配音的声音指向"></a>第三节　广告配音的声音指向</h2><p>　　广告配音应该热情耐心，具有新意，给人春风扑面、耳目一新的感觉。要让消费者对新推出的品牌从认识一认知一认同，最终达到购买的目的。<br>　　有一种治疗感冒的药叫“白加黑”。<br>　　在“白加黑”诞生之前，市场上的感冒药已经数以百计，在消费者心中扎了根的著名品牌也有十来种，并且都已经具有了相当的知名度。<br>　　在这种情况下，“盖天力”开发“白加黑”无疑是搭了末班车。再说感冒药的市场增量毕竟是有限的，这就意味着“白加黑”的主要出路是挤占别人在同类产品都过多过剩的环境中，一个公司怎样才能利用广告来打通进入人心之途径呢？行销策略的根本出路就在于必须“重新定位，以利竞争”。换句话说，只有先把一个新观念、新产品搬进人们的心智中，才有可能将一个旧的东西搬出去。<br>　　盖天力人认为最重要的是要创立起治疗感冒的新概念，以这种新概念作为“白加黑”飞跃当代时空的支点。<br>　　为了拿出一套比较完整的产品创意方案，公司总经理率领一班精兵强将，南下广州，北上北京，进行了广泛的市场调研，借鉴名牌广告公司的广告创意经验。经过去粗取精，优胜劣汰，盖天力终于筛选出了一套完整的产品创意方案。<br>　　这套独特的产品创意方案以黑、白两色为基础，产品以“白加黑”命名，极富新意：</p>
+<div class="fangsong">
+
+<p>　　白天吃白片，不瞌睡；<br>　　晚上服黑片，睡得香。<br>　　清除感冒，黑白分明。</p>
+</div>
+
+<p>　　——从前，有些药品广告，声音上透着权威，语气中蕴含吓唬。<br>　　然而，这支广告选用的声音，没有教训，没有严厉，温和的男声简直有点儿像小时候生病时父亲的哄弄：“乖孩子，这药一点儿不苦，还挺好玩儿，瞧，有白色的，还有黑色的。来，吃了它病就好了，就可以出去玩儿了。”在这种类似内在语的暗示之下，三分试探心理和七分恋旧情结使得不少人点着名买来了这种治感冒的新药。</p>
+<p>　　我们常说，播音需要备稿，备稿中需要联系背景，联系背景需要具体，不可空泛。因此，适当了解广告客户的创意思路、筹划设计，才可能把握广告主题，在诉求点上做足功课，以期广告配音上体现出成熟企业的大气。</p>
+<p>　　广告配音应该兼顾多方，注意整体。在表达技巧上就是句子“要抱团”，语气的承接要和谐统一；在与画面的关系上，要记住自己配角的身份，不必抢“戏”。</p>
+<p>　　《似水年华》电视剧广告宣传片，声音与画面、剧情都很贴合，表现出较好的整体性。</p>
+<div class="fangsong">
+
+<p>　　不同寻常的一次相遇，绽放 20 世纪里最美的恋情。<br>　　一个远离尘器的男人，执著守望在宁静的小镇，只为等待再次心动的邂适；<br>　　一个才华横溢的台湾女子，被他深深吸引，从此把彼岸当作心灵的故乡；<br>　　一个邻家女孩儿，悄然体验初恋的欢乐与忧伤。<br>　　黄磊、刘若英、李心洁、朱旭精彩联袂，苏慧伦、黄舒骏倾情加盟，演绎 20 集电视连续剧《似水年华》。<br>　　中央电视台电视剧频道黄金强档 7 月播出。</p>
+</div>
+
+<p>　　——为这支广告配音的是孙悦斌，他一改惯常的胸腔加鼻腔共鸣，以口腔共鸣为主，年轻又不显幼稚，深沉却不失流畅，与画面水墨般的情调与略带伤感的音乐完全贴合，很好地诠释了剧情。</p>
+<p>　　收听广告、收看广告，受众没有选择的余地，思维要紧紧跟上话语的进度，被动地听着配音员传递信息的连续话语。另外，广告时间是非预见性的，又非常短促，自然容不得充裕的时间去反复思考、推理判断。<br>　　因此，电波广告要让受众每个字都听得清，每个词都听得懂，每句话都听得明白，广告词的写作自然要生活化、口语化，而广告配音则必须遵循“平行规律”，即让声音的播出和收听平行、同步，让语言表达的程度和信息量的传递与受众的言语感知能力和接受程度相适应。<br>　　为了减少声音播出与言语感知的“时间差”，声音指向的准确性就显得不可缺少。<br>　　准确性包括正确的重音、恰当的节奏、合理的夸张以及与广告文字风格相吻合的语气，还包括字音的清晰，也就是在吐字归音上必须功力到位。<br>　　“农夫山泉”矿泉水电视广告的广告词是这样的：</p>
+<div class="fangsong">
+
+<p>　　这就是我小时候喝过的味道……<br>　　农夫山泉，千岛湖的源头活水<br>　　养生堂出品</p>
+</div>
+
+<p>　　——配音时的处理是，第一句话中强调的是“味道”。在我们的大自然饱受污染的今天，水的洁净、水的清醇已成为人们尤其是都市里人们的渴望。将原本是重中格式的“味道”，换成中重格式，并且将“道”字延长，略带虚声，既突出了“农夫山泉”水质的不同一般，清冽甘甜，那稍带粤语普通话的语音又暗合了画面主人公的华侨身份。接下来的两句则为解说式，节奏舒缓，语气诚恳，加上“养生堂”这个较为著名的商标，可信度高，给人一种值得信任之感觉。原本就极生活化的广告词，加上朴实、醇厚的播音，受众的理解自然也就在瞬间得以完成。</p>
+<h1 id="第四章-广告配音的主体——声音说（下）"><a href="#第四章-广告配音的主体——声音说（下）" class="headerlink" title="第四章　广告配音的主体——声音说（下）"></a>第四章　广告配音的主体——声音说（下）</h1><h2 id="第一节-广告配音的声音选择"><a href="#第一节-广告配音的声音选择" class="headerlink" title="第一节　广告配音的声音选择"></a>第一节　广告配音的声音选择</h2><h3 id="一、性别差异与声音选择"><a href="#一、性别差异与声音选择" class="headerlink" title="一、性别差异与声音选择"></a>一、性别差异与声音选择</h3><h4 id="1-男性的声音形象"><a href="#1-男性的声音形象" class="headerlink" title="1. 男性的声音形象"></a>1. 男性的声音形象</h4><p>　　充满阳刚，力度感强，这是由男性的特点所决定的，运用得当，自然与广告相得益彰；但有些时候棱角不必过于分明，勾勒出线条即可。<br>　　例如，“红牛”饮料一上市，便以电视、报纸、杂志和路牌等多种媒体为依托，展开了广告的全面又立体的“轰炸”。<br>　　其中，犹以电视广告的强度为最——</p>
+<div class="fangsong">
+
+<p>　　“渴了，喝红牛；累了、困了，更要喝红牛！”</p>
+</div>
+
+<p>　　客观地说，这句话很符合广告语的写作规矩：第一，它准确、清晰地告知消费者“红牛”是一种饮料——“渴了，喝红牛”，从而使消费者对其有一个初步的认识；第二，它强调了“红牛”具有其他饮料所没有的提神、醒脑之特点，从而使消费者感受到“红牛”的不同一般。<br>　　但是，这句话用词生硬，既无琅琅上口之感，也无趣味性可言，缺少的是一份亲切之感。更为遗憾的是，广告配音选用的男声，声音靠后，喉头发挤。也许是想表现“红牛”的提神、醒脑功能，走的是“孔武有力”的路子，但语气上硬邦邦的，棱角太分明，阳刚过了头。“更”字的愣劲儿容易给人带来一种心理上的压迫感，极易引起消费者的逆反心理。<br>　　男性的声音形象，依据广告内容、广告诉求的不同，有时也可体现为醇和、温柔。<br>　　例如：</p>
+<div class="fangsong">
+
+<p>　　农夫山泉有点儿甜。</p>
+<p>　　要想皮肤好，早晚用大宝。</p>
+<p>　　孔府家酒，让人想家。</p>
+<p>　　一股浓香，一缕温暖<br>　　——南方黑芝麻糊</p>
+</div>
+
+
+<h4 id="2-女性的声音形象"><a href="#2-女性的声音形象" class="headerlink" title="2. 女性的声音形象"></a>2. 女性的声音形象</h4><p>　　尽管关于广告中的女性性别歧视问题，在广告界一直存在两种意见，但是，女性美的确能给画面带来美感和吸引力。充满青春活力的身姿，健康细腻的肌肤，乌黑亮丽的秀发，顾盼流波的眼神和勤快利索的手脚，贤妻良母的品德……无不诉说着化妆品的功效、洗发水的功能、洗衣机的先进等等，直接传达的是商品的信息和使用的心得。<br>　　女性的声音形象，应该是文雅轻柔、温和柔弱、亮丽清纯；应该是甜而不腻、美而不妖。<br>　　女性凭其特有的温柔细腻、浪漫多情的声音形象，烘托出一种梦幻意境，帮助塑造广告商品的品牌形象。<br>　　女性形象在情感表现上大多求美求柔，这也许与人们的普通审美心理有关。生活中，对于男人的“丑”、“脏”、“糙”，似乎都可以容纳，但却难以接受“丑女”、“厉妇”。于是，女性的声音形象更显细腻温柔、一往情深。</p>
+<p>　　台标的播出几乎清一色都是选用男声。</p>
+<h3 id="二、年龄差异与声音选择"><a href="#二、年龄差异与声音选择" class="headerlink" title="二、年龄差异与声音选择"></a>二、年龄差异与声音选择</h3><h4 id="1-少儿的声音形象"><a href="#1-少儿的声音形象" class="headerlink" title="1. 少儿的声音形象"></a>1. 少儿的声音形象</h4><p>　　画面中出现孩子形象的广告，除非是特别具有童音的配音员，一般都应该选用孩子来演播，更显真实。那种用声靠前、努力装出来的“老小孩”声音怕是只会削减广告的播出效果。<br>　　大人装扮小孩，音色还不是主要的问题，主要的问题是对逻辑链条的感受。孩子说话往往缺乏逻辑的感受或是感受不准确。恰恰这一点是很多成人忽略了的，或是难以“学”会的。<br>　　孩子的声音形象自然是天真烂漫、活泼可爱，多带些稚气、娇气，少带些霸气、骄气。广告对孩子也有着潜移默化的教育意义。<br>　　有一支雪糕冷饮的电视广告，画面上是一位虎头虎脑的男童，正津津有味地吃着一支雪糕。画外音：“兵兵，吃什么呢？”只见那男童一扬脖子一瞪眼：“哼！”神情分明是不情愿，不给。这个听似自我，实则自私的语气词，给电视机前的小观众带来的怕是负面效应。</p>
+<h4 id="2-青年的声音形象"><a href="#2-青年的声音形象" class="headerlink" title="2. 青年的声音形象"></a>2. 青年的声音形象</h4><p>　　在广告配音中，青年的声音形象朝气蓬勃、充满活力，像银铃般脆响，像溪水般欢快，像朝阳般蓬勃，具有鲜明的时代感和强烈的动作感。<br>　　由年轻的声音说出，更容易让年轻人认同。</p>
+<h4 id="3-中年的声音形象"><a href="#3-中年的声音形象" class="headerlink" title="3. 中年的声音形象"></a>3. 中年的声音形象</h4><p>　　台湾作家董桥有一句很经典的话：“中年是下午茶。”中年是承上启下的年龄段，生活的阅历和机遇给了中年人稳健，上有老下有小给了中年人责任。<br>　　中年的声音形象是沉稳的、醇厚的，少了从前的那一份浮躁但并不缺乏朝气，多了几分成熟和自信但并不张扬自大。对他人持一种宽容，对自己抱一份责任。</p>
+<h4 id="4-老年的声音形象"><a href="#4-老年的声音形象" class="headerlink" title="4. 老年的声音形象"></a>4. 老年的声音形象</h4><p>　　老年人的声音形象，应该注重精气神儿，稳重、厚实、醇和、老成，犹如陈年老窖，回味绵长。又因为老年人大都饱经沧桑，不事雕琢，所以说话通俗易懂，大白话多。</p>
+<p>　　对于带有个人感情色彩的主观解说，配音时，无论是强音量的、宣示式的，还是弱音量的、亲切型的，最重要的是感情真挚，只有由衷说出的话方能打动受众的心。另外，重音的选择应该遵循“每一句广告词只能有一个重音”的原则。</p>
+<h2 id="第二节-广告配音的声音设计"><a href="#第二节-广告配音的声音设计" class="headerlink" title="第二节　广告配音的声音设计"></a>第二节　广告配音的声音设计</h2><p>　　在对广告配音进行声音的选择之后，便开始进行声音的设计。<br>　　声音的设计指的是对声音的设定与调整。它既包括对于声音在物理属性层面，也就是对音高、音强、音长、音色的设定，也包括在对产品特质了解、对广告语情感把握基础上的关于重音、停连、语气、节奏的设定。<br>　　因为电波广告的时间受到极严格的控制，所以短时间里给人最大冲击的往往是配音者的音色和音量。而不同的音色和音量带给人的心理感受是相去甚远的。因此，对于声音物理属性层面的设定，很大程度上来源于对广告配音中音色与音量的设定。</p>
+<h3 id="一、对于声音物理属性层面的设计"><a href="#一、对于声音物理属性层面的设计" class="headerlink" title="一、对于声音物理属性层面的设计"></a>一、对于声音物理属性层面的设计</h3><h4 id="1-音色"><a href="#1-音色" class="headerlink" title="1. 音色"></a>1. 音色</h4><p>　　音色是指声音的特色。<br>　　音色的不同是由发音体、发音方式、共鸣器形状的不同所决定的。<br>　　因为广告产品、广告形象以及广告创意的不同，广告客户常常选择不同的音色加以表现。由不同性别、年龄的发音体，不同的发音方式形成的不同音色，往往是广告客户最为重视的因素。因为可以利用这些不同的音色进行商品暗示和消费者暗示，这直接关系着受众对广告产品的印象，也是广告配音的最重要的手段。<br>　　由不同的性别发音体形成的不同音色包括：男声、女声；<br>　　由不同的年龄发音体形成的不同音色包括：童声、青年声、中年声、老年声等；<br>　　由不同的发音方式形成的不同的音色包括：醇和音、宽厚音、稳健音、果决音、兴奋音、沉静音、轻柔音、圆润音、活泼音、沙哑音、脆亮音等等。<br>　　首先我们来看看男性音色与女性音色在广告中的表现。<br>　　有人对中央电视台一个晚上的一百余例广告进行了有声语言音色统计，得出的结果是：成年男声占了整个音色统计总数的 79.86%，是女性音色的 6 倍多。之所以会出现这种音色分配上的选择，有专家分析，一方面是因为具体的广告内容与音色对应有所要求，另一方面是由男性音色的主要特征所决定的。<br>　　男性音色的主要特征是宽厚、稳健、果决、坚定、沉着，并有一种外张力，这些恰恰是千百年来人们对声音听觉的感受。而这种感受又与安全、力量、成功、可靠、信任、保护等若干男性的行为特征联系在一起。<br>　　不过，广告内容与音色对应的规律，现在似乎已经越来越难以做到条分缕析了。在美国，曾经有一个卧室用品公司的广告，最初由一个年轻的女声担任配音，广告效果不明显；后来改用了一个男声，以较低的嗓音解说，结果销量大增。调查后发现，是因为男性音色更能给人以忠实、安全的感觉。<br>　　有资料显示，最近广告人有一个意外的发现：除非是女性专用消费品，在一般情况下，有男性在广告中使用包括各种家庭日常用品的广告，似更能投合女性消费者之心。原因是女性看到男人使用洗涤剂、洗衣粉、吸尘器做各项工作，或是替婴儿冲奶粉、换尿布时，就自然而然地对该广告的产品产生好感。因为现如今大部分家务仍由女性操持，使女性感到很不满，所以当许多女性在广告里看到“男人做家务”的镜头时，会感到温馨和感动。另有专家说，用男声去叙述一个产品功能，听众只会感觉这是一个人在说话，不会注意这是一个男性；如果用女声，可能就很容易令人意识到这是一个女性。因此，广告中出现的男声有时代表无性别，而女声总是会有倾向性。<br>　　当然，男性音色在广告配音中占有绝对的优势并不等于可以忽略女性音色，在有的商品上，如化妆品、饮料、特殊的卫生用品等，广告客户仍倾向于选择女性音色。<br>　　“长篇广告”配音时，要注意各层次之间的逻辑链条，注意语气的转换，即使是和缓的节奏中也要有稍快稍慢之分别，否则容易造成听觉上的疲劳而降低信息接受量。<br>　　在电波广告配音音色的选择上，更为常规的是男声音色与女声音色的交叉运用。一般来说，女声承担的多是对使用产品亲身感受的陈述，男声承担的多是对产品功能的介绍。</p>
+<p>　　《博士伦抛弃型隐形眼镜》</p>
+<div class="fangsong">
+
+<p>　　女声：我关心眼睛的健康卫生，<br>　　　　　所以每月给眼睛换干净的新镜片，<br>　　　　　就像常换干净的新衣，<br>　　　　　令我清爽舒服。<br>　　男声旁白：博士伦清朗 66 抛弃型隐形眼镜，<br>　　　　　　　含水量高达 66%，透氧性更好。<br>　　女声：让眼睛呼吸得更舒畅。<br>　　男声旁白：博士伦清朗 66 抛弃型隐形眼镜，<br>　　　　　　　每月更新，<br>　　　　　　　健康明眸有保障。</p>
+</div>
+
+<p>　　——对于这种形式的配音，需要注意的是：女声音色应在叙述时多带感性的色彩，并且在“使用过的感觉”基础上让语势多些起伏变化；男声音色应在对产品功能和品牌的阐述时多带理性的成分，语势上可平稳、客观。<br>　　当然，既是两人对话或对播，双方在接送的快慢、虚实和高低的对比等方面应该事先设计，做到心中有数。</p>
+<h4 id="2-音量"><a href="#2-音量" class="headerlink" title="2. 音量"></a>2. 音量</h4><p>　　音量是指声音的强弱、轻重、大小。<br>　　音量基本上相当于“音强”，但有时也和音高有一定的联系。通常，音量强的、重的、大的，声音表现就高一些；音量弱的、轻的、小的，声音表现也就低一些。<br>　　广告配音中的音量受到广告内容的不同以及同一广告中信息地位和语义内容不同等因素的制约。统计发现，中强音量是广告配音音量的主要体现形式。而决定整体音量强弱的，是具体的广告产品、主体和创意，这些与广告词密切相关。<br>　　创意以特写镜头表现酒的晶莹流动、酒瓶的光感以及移动的瓶贴等，这时的配音一般用低强音量，语速也较缓，有点儿像低声诉说，语气中应给人一种梦幻般神秘的色彩。<br>　　例如：</p>
+<p>　　《雷诺XO白兰地》</p>
+<div class="fangsong">
+
+<p>　　男声：一份法国独特的浪漫，<br>　　　　　一份艺术独有的灵感，<br>　　　　　一种历史悠久的造诣。<br>　　　　　——红颜知己，鹏程万里。</p>
+</div>
+
+<p>　　这里的男声应选用中低声区，出字较软，音色纯正，气息运用上采用松气的方式，并用丹田气顶住声音；配合画面和音乐的节奏，呈现出一种梦幻般的情调，表现出广告商品卓尔不凡的气质，同时也标榜出雷诺酒的高档品位。</p>
+<p>　　同一条广告中，由于广告语言自身的信息地位、语义内容的不同，在音量上会呈现出不同的变化。那些信息地位高、语义内容重要的，其音量选择就可能趋强，或者趋弱，无论趋强还是趋弱都是为了营造一种变化，通过变化来表示一种强调。<br>　　例如：<br>　　《盖中盖口服液》</p>
+<div class="fangsong">
+
+<p>　　男声：要补足钙，补好钙。［音量强］<br>　　　　　我的孩子正在喝哈尔滨制药六厂生产的——［弱］<br>　　　　　“盖中盖”口服液。［渐强］<br>　　　　　它含钙高吸收快，能使钙沉积到骨骼上，无激素，<br>　　　　　口味儿也不错。［强］<br>　　　　　给孩子补钙，我还是信任［弱］<br>　　　　　哈尔滨制药六厂生产的“盖中盖”口服液。［渐强］</p>
+</div>
+
+<p>　　——显然，这里的音量是一个由强一弱一渐强一强一弱一渐强的变化过程。<br>　　开头一句带有提醒、警示的意味，用的是强音量；第二句说的是相关个人资料，用的是弱音量；接下来用的是渐强一强的音量，突出的是信息地位最高的部分：品牌的名称和产品的特色；最后又是由弱一渐强的音量变化，再次突出品牌名称。<br>　　可见，信息地位高用强音量表现，弱音量表现出其相应的信息地位要低一些。<br>　　其实，在一支广告的配音当中，就某一句而言，音量的选用也会随着词语语义内容的不同而有所分别。比如，“给孩子补钙，我还是信任——”是弱音量，但“补钙”、“我”可以稍稍加重音量，既表现出弱中有强的变化，又突出了名人（广告代言人濮存昕）佐证的可信度。<br>　　第三，在广告配音中，正确处理好“听起来很大，但不乍；听起来很小，但清晰”的关系。比如，在声音设计中的“悄悄话”与生活中的“耳语”有着很大的不同，广告配音中的处理应该是利用稍虚、稍飘的气息状态，在音量的递送上带有适度的“打远儿”，以达到诉求清晰的目的；而在声音设计上类似“呐喊”的表现方式，也不能一味地在物理上推高音量电平，而应该选取大幅度口腔运动、拓宽发声通道以及偏实的声音形式进行表达，不惊不乍。<br>　　在广告配音中，除了品牌宣示的“大力丸式”，一般来说，因为女声的音高选择多在中音区到高音区，男声的音高选择多在低音区和中音区，所以，音量上都很少显现高强音量。这是因为，现在的人们受到的环境污染日益严重，其中强音量高分贝的噪音污染也成为人们头痛的问题。生活在这种环境中，久而久之，人们对高强音的音感评价自然就得不了高分，甚至还极易引起反感。<br>　　在铺天盖地、汹涌如潮的广告世界，受众对广告尤其是电波广告有了更高的要求，要求独特，要求个性，要求适合商品内容的表现。因此，无论从广告心理，还是从播音心理的角度来分析，广告配音的音量选择都应当尽量少用一些高强音量，多使用一些中强音量和低强音量，以期获得更好的广告传播效果。<br>　　注意：少用高强音量的尖吆喝型；<br>　　　　　少用公式化、概念化的声音；<br>　　　　　少用板起面孔教训人的“训导腔”。</p>
+<h3 id="二、对于声音外部技巧层面的设计"><a href="#二、对于声音外部技巧层面的设计" class="headerlink" title="二、对于声音外部技巧层面的设计"></a>二、对于声音外部技巧层面的设计</h3><h4 id="1-重音"><a href="#1-重音" class="headerlink" title="1. 重音"></a>1. 重音</h4><p>　　《舍得酒》</p>
+<div class="fangsong">
+
+<p>　　舍清溪之幽，得江海之博；<br>　　舍方寸之美，得苍穹之大；<br>　　舍举目之望，得天地之志。</p>
+</div>
+
+<p>　　——第一句，为了突出首次出现的酒名，应该把重音放在“舍”、“得”两字上；第二句，重音可以选择放在“方寸”、“苍穹”两词上，通过两个词义有着强烈反差的对比凸显“舍得酒”所要表现的一种文化情怀；第三句，“望”、“志”是重音之所在，表现“舍得酒”追求的远大目标，同时也寓意“有舍有得”乃人生之大智慧。错落有致的重音表现，方可增加广告配音的吸引力和感染力。<br>　　重音的强调未必就是重读，依据广告创意，广告配音中的重音可以有多种表现形式：</p>
+<div class="fangsong">
+
+<p>　　重音重读：我们<span class="emphasize">一直</span>在努力。<br>　　　　　　　沟通从<span class="emphasize">心</span>开始。<br>　　重音虚化：做女人<span class="emphasize">挺</span>好。<br>　　重音延长：静心，<br>　　　　　　　让女人<span class="emphasize">一直</span>美下去。<br>　　　　　　　蒙牛纯<span class="emphasize">牛</span>奶。<br>　　重音弹发：在你的脸上<span class="emphasize">弹钢琴</span>&#12290;<br>　　　　　　　巧克力——<span class="emphasize">YO</span>（哟）！</p>
+</div>
+
+
+<h4 id="2-停连"><a href="#2-停连" class="headerlink" title="2. 停连"></a>2. 停连</h4><p>　　呼应性停连：</p>
+<div class="fangsong">
+
+<p>　　有头屑<br>　　当然用海飞丝。</p>
+<p>　　玉兰油<br>　　全身的每一处都不再干燥。</p>
+<p>　　全家的保护<br>　　高露洁。</p>
+<p>　　人头马一开，<br>　　好事自然来。</p>
+</div>
+
+<p>　　并列性停连：</p>
+<div class="fangsong">
+
+<p>　　晶晶亮<br>　　透心凉。</p>
+<p>　　喜欢做女人<br>　　稀有铂金，<br>　　永恒纯净。</p>
+</div>
+
+<p>　　强调性停连：</p>
+<div class="fangsong">
+
+<p>　　中国动力，<br>　　玉柴机器。</p>
+<p>　　科技以人为本。</p>
+<p>　　天上彩虹，<br>　　人间长虹。</p>
+</div>
+
+<p>　　转换型停连：</p>
+<div class="fangsong">
+
+<p>　　我不认识你，<br>　　但我谢谢你！</p>
+<p>　　新飞广告做得好，<br>　　不如新飞冰箱好。</p>
+<p>　　人人都为礼品愁；<br>　　我送北极海狗油。</p>
+</div>
+
+
+<h4 id="3-语气"><a href="#3-语气" class="headerlink" title="3. 语气"></a>3. 语气</h4><p>　　语气，是指在一定的具体思想感情支配下具体语句的声音形式。<br>　　这种声音形式的设计在广告配音中的作用尤为重要，它既是对目标消费群认定的一种对象感的外化，又明确了产品定位，树立了产品形象。</p>
+<p>例一：</p>
+<div class="fangsong">
+
+<p>　　有头屑，<br>　　不可以；<br>　　不顺滑，<br>　　不可以——<br>　　我要清逸！</p>
+</div>
+
+<p>　　——这里，应该选用少女声线的中上音区，吐字时嘴角微微上翘，以倔强、不服输的语气表示出对于发质的追求。少女的声音选择，预示着目标消费群为年轻人；倔强、任性的语气则暗示着产品的品质：去屑、顺滑。</p>
+<div class="fangsong">
+
+<p>　　传统的保暖内衣，保暖却臃肿。<br>　　猫人热力卡，贴身保暖新时尚。<br>　　今年流行贴身的，冬天不做企鹅人！<br>　　——猫人热力卡贴身型抗寒内衣。</p>
+</div>
+
+<p>　　——广告语突出的是“冬天不做企鹅人”的创意概念，用了比喻的手法也有着对比的效果。语气的设计上，第一句为不满、烦闷的语气；“今年流行贴身的，冬天不做企鹅人”则转为轻快、流畅的语气，与画面上的产品代言人——香港演员舒淇曼妙的身姿相贴合，在声音里强化品牌的时尚感。</p>
+<h4 id="4-节奏"><a href="#4-节奏" class="headerlink" title="4. 节奏"></a>4. 节奏</h4><p>　　节奏是在思想感情运动支配下声音形式回环往复的一种变化。<br>　　在播音中，节奏以全篇为单位，是由全篇稿件生发出来的声音的抑扬顿挫、轻重缓急。在广告配音中，节奏是以整个广告文案，或是广告语为单位产生的。它既要与广告的产品特性相贴合，又要与广告的音乐、画面相则合，只有在多种元素的相互融合中，才能真正体现节奏给人带来的美感。<br>　　例如：</p>
+<div class="fangsong">
+
+<p>　　品质源于科技，<br>　　感受融于自然。<br>　　传递和谐动力——<br>　　八千里路，<br>　　天地相随。<br>　　——昆仑润滑油<br>　　　源自中国石油。</p>
+</div>
+
+<p>　　——这里的关键词是“动力”，而与广告的整体节奏相匹配的，是画面的节奏也随之转换较快。这就要求配音员的声音，既不能过于厚重，又不可过于轻巧，应当在沉稳的节奏中显露一种流畅，一种一泻千里的“润滑”动力。<br>　　节奏的类型，大致可以分为六类：高亢型、紧张型、轻快型、低沉型、舒缓型、凝重型。<br>　　例如：<br>　　高亢型：</p>
+<div class="fangsong">
+
+<p>　　心有多野，<br>　　未来就有多远！</p>
+<p>　　玉柴机器，<br>　　王牌动力。</p>
+</div>
+
+<p>　　紧张型：</p>
+<div class="fangsong">
+
+<p>　　蚁力，神<br>　　——谁用谁知道！</p>
+<p>　　风影止痒新配方，<br>　　72 小时无屑无痒。</p>
+</div>
+
+<p>　　轻快型：</p>
+<div class="fangsong">
+
+<p>　　有声有色，<br>　　随时随地，<br>　　长虹移动DVD。</p>
+<p>　　小改变，<br>　　大改善。<br>　　宜家家具，<br>　　宜家有妙法。</p>
+</div>
+
+<p>　　低沉型：</p>
+<div class="fangsong">
+
+<p>　　境由心生，<br>　　自在娇子。</p>
+<p>　　情系中国结，<br>　　联通四海心。</p>
+</div>
+
+<p>　　舒缓型：</p>
+<div class="fangsong">
+
+<p>　　往事越千年，<br>　　陈酿白云边。<br>　　——白云边酒。</p>
+<p>　　在褐色的蓝山里，<br>　　看见轻狂的自己；<br>　　用波尔多的酒红，<br>　　沉淀相知。<br>　　高处不知寒<br>　　——鄂尔多斯羊绒男装。</p>
+</div>
+
+<p>　　凝重型：</p>
+<div class="fangsong">
+
+<p>　　心静<br>　　思远<br>　　志在千里<br>　　——别克</p>
+<p>　　一切皆有可能。</p>
+</div>
+
+
+<h2 id="第三节-广告配音的声音造型"><a href="#第三节-广告配音的声音造型" class="headerlink" title="第三节　广告配音的声音造型"></a>第三节　广告配音的声音造型</h2><h3 id="一、声音造型的不同因素"><a href="#一、声音造型的不同因素" class="headerlink" title="一、声音造型的不同因素"></a>一、声音造型的不同因素</h3><p>　　影响声音造型的主要因素有：<br>　　1. 共鸣腔运用之不同<br>　　共鸣腔主要分为喉腔共鸣、咽腔共鸣、口腔共鸣、鼻腔共鸣和胸腔共鸣。<br>　　人的共鸣控制是通过骨骼、肌肉的运动改变各共鸣腔的形状、容积的大小、腔壁的软硬度和弹性以及气息的调节来实现的。<br>　　2. 气息运用之不同<br>　　气息运用有提气、送气、托气、撒气、颤气之分，还有气息的强弱、深浅、长短等的不同。<br>　　3. 咬字方法之不同<br>　　咬字方法有前咬、后咬、松咬、紧咬、横咬、竖咬等；造成字形有长形、圆形、扁形和饱满与否之分。<br>　　4. 语流走势之不同<br>　　语势可分为波峰类、波谷类、起潮类、落潮类、半起类五种基本形态。<br>　　不同的用气、发声，不同的咬字方法、语流走势，再加上不同的语气色彩，便构筑成相应的声音造型，形成完整的听觉形象。</p>
+<p>　　上述种种同样是构筑广告配音声音造型的主要因素。<br>　　不同的共鸣腔运用、不同的咬字方式、不同的气息运用和不同的语势形态构筑成广告配音的不同声音造型。也有人称之为“声音的化妆”，不无道理。<br>　　在广告配音中，对有声语言进行有意识、有分寸的修饰，或是掩盖声音条件的不足，如使较暗的声音变得较明亮些、发窄的声音变得较宽厚些；或是因为广告语言内容和形式的需要，使声音的高低、强弱、刚柔、明暗、厚薄、虚实、粗细、前后等的声音形式对广告产品的表达产生良好的适应力。<br>　　需要强调的是，声音造型使广告语言带有一定程度的渲染和夸张，并使其明显区别于新闻报道性的播音语言。只是这份“化妆”，有时是淡妆，有时是浓妆，不论是淡是浓，掌握一定的分寸仍是值得重视</p>
+<h3 id="二、声音造型与声音造形"><a href="#二、声音造型与声音造形" class="headerlink" title="二、声音造型与声音造形"></a>二、声音造型与声音造形</h3><p>　　广告配音的声音造型一般包括两个方面的内容：<br>　　一是广告产品的广告形象，即产品在消费者面前的产品定位；<br>　　二是广告中不同的人物角色，即作为广告商品代言人的性格特征。<br>　　因为人物角色的性格特征，往往从属于广告的产品定位，所以这两方面的内容经常是合而为一，难以完全区别开来。<br>　　广告产品的广告形象，在声音造型上，可以分为：典雅型、力量型、温柔型、亲切型、幽默型。</p>
+<h4 id="1-典雅型"><a href="#1-典雅型" class="headerlink" title="1. 典雅型"></a>1. 典雅型</h4><p>　　典雅：优雅而不粗俗。<br>　　典雅型广告配音，气松声缓，声轻不着力，语势多平稳。它显露的是一份优雅的气质，语气中颇有些超凡脱俗的意味。<br>　　例一：</p>
+<div class="fangsong">
+
+<p>　　在法国近郊马爹利干邑世家一望无际的酒库上空，散发着一股醉人芳香，流传着一个动人故事。<br>　　每年，有超过 100 万公升的上等干邑白兰地在漫长的酝酿过程中不断升华到空气中，成为对天使的奉献。<br>　　大约三百年前，这种芳香将一只燕子深深吸引，依恋不舍。最后，她终于化身金黄，超越平凡。<br>　　每年初春，数以千计的燕子都在这里悠然翱翔，而今燕子也依然不断出现在每一瓶马爹利干邑白兰地之上，标志着法国马爹利。<br>　　干邑世家，经典无价。</p>
+</div>
+
+<p>　　——生产历史和贮存年代通常被作为评判洋酒的标准。<br>　　“马爹利”则通过诗一般的语言，一种遥远的童话故事的讲述，将酒的历<br>史诠释得分外动人。<br>　　纯正的男声以口腔共鸣为主，语速平缓，娓娓道来。最后一句广告语<br>“干邑世家，经典无价”，可以选用低沉的语势以及虚实结合的声音，更加显<br>示出卓尔不凡的高贵气质。</p>
+<p>　　例二：</p>
+<div class="fangsong">
+
+<p>　　男声：我喜欢<br>　　　　　它那简洁单纯的风格<br>　　　　　细腻柔滑的感觉<br>　　　　　接触时<br>　　　　　总让我怦然心动<br>　　　　　高贵非凡的气质<br>　　　　　瞬间的决定<br>　　　　　它才是我一生一世<br>　　　　　——北欧风情</p>
+</div>
+
+<p>　　——画面上是一幅幅丹麦家具的实景图，柔和的灯光里家具的线条简<br>洁流畅，高雅华贵，其问间或飘过一个婀娜的身影。<br>　　画外传来的男声语势下行，声轻气松，近乎对着恋人说着悄悄情话，优<br>雅中更显深情。</p>
+<p>　　例三：</p>
+<div class="fangsong">
+
+<p>　　男声：突破传统制表工艺，<br>　　　　　高科技与艺术的结晶，<br>　　　　　蓝宝石及精密陶瓷的完美结合，<br>　　　　　创制出飞亚达永不磨损君王健情侣表。<br>　　　　　——飞亚达表，<br>　　　　　一旦拥有，别无所求。</p>
+</div>
+
+<p>　　——与画面上那一幅对飞亚达表不同角度的高贵呈现呼应的，是一个语速平缓、多用气声的男声（配音），显示着广告产品的名贵与光耀。</p>
+<h4 id="2-力量型"><a href="#2-力量型" class="headerlink" title="2. 力量型"></a>2. 力量型</h4><p>　　力量：力气、能力。<br>　　力量型，从字面上解释，即气魄大，孔武有力，感情豪迈。在广告配音中，力量的输出、传达和鼓动只是感情的出发点，而非归结点，它弘扬的是一种积极向上的、乐观坚韧的精神，树立的是恢弘的企业形象或产品形象。<br>　　例一：</p>
+<div class="fangsong">
+
+<p>　　男声：三百年的历史，悠远流长；<br>　　　　　三百年的文化，灿烂辉煌；<br>　　　　　三百年的牛栏山二锅头酒<br>　　　　　醇厚芳香——<br>　　　　　牛栏山二锅头酒。</p>
+</div>
+
+<p>　　例二：</p>
+<div class="fangsong">
+
+<p>　　男声：来自大兴安岭的真材实料，<br>　　　　　来自黑土地的诚实可靠。<br>　　　　　丁是丁，卯是卯，<br>　　　　　华鹤家具好！</p>
+</div>
+
+<p>　　例三：</p>
+<div class="fangsong">
+
+<p>　　画面：著名影星成龙领着众人在风雨中前行。<br>　　　　　衬着由成龙演唱的《真心英雄》。<br>　　歌词：把握生命里的每一分钟，<br>　　　　　全力以赴我们心中的梦，<br>　　　　　不经历风雨怎么见彩虹，<br>　　　　　没有人能随随便便成功。<br>　　　　　让真心的话和开心的泪，<br>　　　　　在你我的心里流动。<br>　　男声：我们一直在努力<br>　　　　　——爱多 VCD。</p>
+</div>
+
+<p>　　例四：</p>
+<div class="fangsong">
+
+<p>　　画面：次第出现众多厂家产品的商标或厂家名称<br>　　男声：热烈庆祝建国 57 周年<br>　　梦洁床上用品公司<br>　　宁波唐人锅业有限公司<br>　　扬子汽车总厂<br>　　伊春光明家具有限公司<br>　　河南新飞电器有限公司<br>　　——祝祖国更富强！</p>
+</div>
+
+<p>　　力量型广告，在广告画面上通常多为大制作，场面宏大，人员众多，制作费用自然也相对较高。<br>　　配音时，应注意情景再现，声润气足，发声靠后些，并注意加大口腔的吐字力度。<br>　　力量型属阳刚系列，基本上选用的是男声，果敢、宽厚的嗓音加上深沉的气息表现出刚毅、豪迈、勇往直前、自强不息的奋斗气概。</p>
+<h4 id="3-温柔型"><a href="#3-温柔型" class="headerlink" title="3. 温柔型"></a>3. 温柔型</h4><p>　　温柔：温和柔顺，多形容女性。<br>　　广告创意中显现的温柔型广告，在广告诉求上往往蕴含着温和之情、柔和之意，从某种角度上起到了贴近消费者、软化情感的效应。广告配音时应选取轻柔的声音，语气上予以温馨，节奏上予以舒缓。<br>　　例一：</p>
+<div class="fangsong">
+
+<p>　　（华姿曲：华姿华姿，比花还香馨……）<br>　　（压混）<br>　　父：这回你走了很久，小时候，你俏皮的羊角辫又在爸爸眼前晃啊晃的<br>……孩子，还记得临别时爸爸送你的“华姿”吗？<br>　　（华姿曲：……使你的秀发更加迷人……）<br>　　女：人们说，在舞台上，我乌黑飘逸的秀发，仿佛是一个东方的梦。爸<br>爸，每当掌声响起来，我心里知道，这份成功来自您带给我的“华姿”和深深<br>的关怀……<br>　　男白：拥有华姿，拥有爱!<br>　　（华姿曲渐弱……）<br>　　——这则广告以思念为主线，把华姿发用化妆品设计成这种情绪的寄托物，由父女两人的心理交流展开，表现的是父女间的温情。<br>　　这里，两人均采用的是心声独自的方式，低强音量。不同的空间，也许还是不同的时间，父亲和女儿在相互牵挂着，而连接其中的正是广告产品——“华姿”。</p>
+</div>
+
+<p>　　例二：</p>
+<div class="fangsong">
+
+<p>　　画面：父母对小女儿的关爱之举。<br>　　　　　母亲牙疼的愁苦面容。<br>　　　　　小女儿从存钱罐中取钱，买来一支“佳洁士”。<br>　　女童：爸妈把好的都给了我。<br>　　　　　最近，妈妈吃不下。<br>　　　　　原来大人也会有蛀牙。<br>　　　　　我要送佳洁士给她。<br>　　男声旁白：蛀牙的初期是小蛀斑，<br>　　　　　　　佳洁士特有氟泰防止小蛀斑扩大，<br>　　　　　　　并与钙结合修复小蛀斑。<br>　　女童：我们现在都没新蛀牙了。<br>　　男声旁白：两大权威第一次共同论证佳洁士。</p>
+</div>
+
+<p>　　——孩子用自己的零花钱为妈妈买了一支牙膏，这本身也许很平常、很普通，但却很感人。因为这是身为独生子女的一代，因为这是孩子自己发现了妈妈的病痛，还因为小女孩用的是自己存钱罐里的积蓄。<br>　　女童的配音很轻柔，尽管声音细小、稚嫩，却盛满纯真的童心。“原来大人也会有蛀牙”的“大”字拉得很长，表现出恍然大悟的意味——其实是提醒受众，无论小孩和大人都会有蛀牙，都应该选择“佳洁士”。<br>　　男声旁白保有了与女童一样的基调，温和、轻柔，像是在小女孩购买牙膏时对小女孩的介绍，耐心至极。<br>　　在一些本身就给人温馨、宁静、优雅的产品做广告时，也多采用温柔型。</p>
+<h4 id="4-亲切型"><a href="#4-亲切型" class="headerlink" title="4. 亲切型"></a>4. 亲切型</h4><p>　　亲切：亲近，亲密；形容热情而关心。<br>　　亲切是一种语气，语气中透着关心。亲切拉近距离，拉近产品与消费者之间的距离。<br>　　亲切的情感因素在广告中的突出作用就在于调剂人际关系，使广告（配音）产品深深介入人们的精神领域，并使人们从中体味到种种人间的温暖、人情和关怀。</p>
+<p>　　例一：</p>
+<div class="fangsong">
+
+<p>　　（古代）　　　　　　女声：哎，你吃饭了吗？<br>　　（二三十年代）　　　男声：哎哟您呐，吃饭了吗？<br>　　（抗美援朝时）　　　女声：吃饭了吗？<br>　　（“文革”时期）　　男女声：你好，吃饭了吗？<br>　　（现在）　　　　　　女声：吃饭了吗？<br>　　男声：　　　　　　吃饭了吗？<br>　　画外音：　　　　　中国人最亲切的问候是，你吃饭了吗？<br>　　电饭锅卡通声：　　你吃饭了吗？<br>　　画外音：　　　　　爱德电饭锅向你问候——爱德电饭锅。</p>
+</div>
+
+<p>　　——从古至今，中国人见面时，问得最多的是：“你吃饭了吗？”这简直成了一句带有中国特色的问候语。这条广告，选取不同年代的人说着的同样一句话，反反复复中宣传的是广告的产品——电饭锅。<br>　　配音时，要特别注意生活化，气息和口腔控制都可以呈生活中的“随意”状态，不矫饰，甚至语音上也可以不那么规范，带着各种地方味儿（比如京味儿、沪味儿等），带着时代色彩（古时、今时、抗美援朝时、“文化大革命”时）。这样，尽管一条广告中“吃饭了吗？”出现了八次，但并不感觉多余、累赘，反而给人一种格外的亲切感、认同感，进而对也会说这句问候语的“爱德电饭锅”印象深刻，青睐有加。</p>
+<p>　　例二：</p>
+<div class="fangsong">
+
+<p>　　画面：空中小姐在飞机上的工作场景。<br>　　　　　为旅客倒饮料、关行李舱门；<br>　　　　　照顾老人和孩子。<br>　　　　　反复出现的是空中小姐的双手。<br>　　女声：手，就像我的第二张脸，<br>　　　　　需要细心地呵护它。<br>　　　　　丹芭碧润手霜真的很好，<br>　　　　　非常滋润，而且完全吸收。<br>　　　　　即使在干燥寒冷的环境里，<br>　　　　　双手一样可以保证娇嫩柔美。<br>　　　　　真的很滑，很柔软。<br>　　男声旁白：呵护双手，<br>　　　　　　　呵护你的第二张脸。<br>　　　　　　　丹芭碧润手霜<br>　　　　　　　——TOBABY！</p>
+</div>
+
+<p>　　——从前国外有一个航空运输的平面广告，画面上是一只怕摔怕碰的鸡蛋，广告（配音）的含义很明显：对待客户的东西，我们会像对待鸡蛋似的呵护它。航空服务似乎从来都是运输业的楷模，而空中小姐也从来都是以微笑、亲切的形象为人们所知。这支广告以飞机上“空姐”的服务为背景，以“空姐”对乘客的无微不至暗喻润手霜对手的呵护。女声的配音很有些空中小姐的韵味，用声细腻，不娇不躁，节奏舒缓，语势平稳，尽显温柔与亲切。男声的一句英文“TOBABY”，音色低沉、富有磁性，魅力倍增。</p>
+<p>　　例三：</p>
+<div class="fangsong">
+
+<p>　　画面：清晨，曙色微显，一辆辆车身标有“三元”的汽车开出。一位男士喝着新鲜的牛奶，脸上露出喜悦的笑容。<br>　　男声：嘿嘿，真够新鲜的。<br>　　　　　“三元”天不亮就出发，<br>　　　　　一车车“三元”新鲜屋保证你一睁眼，<br>　　　　　就喝到当天的鲜奶。<br>　　旁白：当天鲜奶当天到，<br>　　　　　三元牛奶新鲜屋。</p>
+</div>
+
+<p>　　一生活中的轻松、随意带来的一份亲切是这支广告文案的基调，但仅仅是亲切与随意至多让人觉得没了距离，像是说着身边的故事；然而，三元牛奶的与众不同在哪里呢？<br>　　配音时应在看似随意的表述中，着意做些处理：<br>　　“保证你一睁眼就喝到当天的鲜奶。”这里，强调的是“当天”；而在“当天鲜奶当天到，三元牛奶新鲜屋”时，则不再强调“当天”而将重音放在“新鲜”二字上。<br>　　因为是“当天”的牛奶，所以“新鲜”；<br>　　因为“新鲜”，所以“三元”与众不同。<br>　　这是一根清晰又准确的逻辑链条，也应该是这支广告的诉求重点，同时也是吸引消费者在同类产品中能够对此青睐有加的亮点。<br>　　不少的广告语也多选用亲切型，为自己的企业或产品树立良好的形象。</p>
+<p>　　需要注意的是，亲切是有声语言表达上一种外在的感觉，广告配音时用它，是为了拉近与受众的距离，平添产品的亲和力，目的当然是为了产品促销。千万不可一味追求亲切，让亲切淹没了广告诉求。</p>
+<h4 id="5-幽默型"><a href="#5-幽默型" class="headerlink" title="5. 幽默型"></a>5. 幽默型</h4><p>　　幽默：有趣或可笑而意味深长。<br>　　“文似看山不喜平。”幽默是人类的特产，是人类智慧的灵光。电波广告最忌平淡，也怕无味，幽默是最好的帮手。幽默作为一种中介物和调和剂，使广告在一定程度上超离功利性和直白感，让受众更容易地接受。换言之，广告是传播商品及劳务信息的艺术，幽默介入广告就演化为“艺术地传播相关信息”，它为广告的艺术化推波助澜，使广告的内涵更加丰富，品位不断上升。</p>
+<div class="fangsong">
+
+<p>　　画面：葛优托腮，若有所思。<br>　　冯巩：冬宝（葛优在电视剧《编辑部的故事》中饰演的角色名），想什么呢？<br>　　葛优：想戈玲。<br>　　冯巩：我给你介绍一位新朋友。<br>　　画面：双汇火腿肠出现。<br>　　冯巩：……还想戈玲吗？<br>　　葛优：戈玲是谁？</p>
+</div>
+
+<p>　　——夸张、俏皮是广告幽默生成的重要因素。没有夸张，便显平淡；缺少俏皮，便觉无味。葛优与冯巩对这一点掌握得很好。“冬宝，想什么呢？”“……还想戈玲吗？”冯巩的语势上挑，咬字靠前，语气中颇有些不怀好意，一个“还”字音量低强，却有意拉长，显示出以“双汇”“收买”葛优之后的得意。而葛优的“想戈玲”、“戈玲是谁？”两句则完全像是下意识地脱口而出，那份夸张加上他那张天然的喜剧面孔，不能不产生幽默效果。<br>　　如前所述，遗憾的是，这支广告虽然称得上是幽默广告之佳作，也深入人心，但也许正是幽默的成分太浓烈了，以至淹没了广告产品的品牌，让人只记住了：“葛优”，忘记了“省优、部优的双汇”。</p>
+<p>　　例二：</p>
+<div class="fangsong">
+
+<p>　　画面：潘长江一路小跑上楼梯，口里快速地念叨着——<br>　　潘长江：小芳妈妈咳嗽不断小芳脸上自然难看。<br>　　　　　　瞧我的!<br>　　　　　　芳——看!<br>　　画面：潘举起手里的玫瑰花，花却一下折断了。<br>　　芳：哼——!<br>　　画面：潘围绕着芳，做出各种夸张的动作，并以“唱说”的形式，介绍着他刚才出去觅得的好药。<br>　　潘长江：小芳莫心焦，哥哥有绝招。<br>　　　　　　我有一件宝，畅销知名高。<br>　　　　　　止咳疗效好，天然中草药。<br>　　　　　　清热、化痰、宣肺、止咳，<br>　　　　　　四大功能显真效。<br>　　　　　　消炎、止咳——急支糖浆。<br>　　男声旁白：——太极集团。</p>
+</div>
+
+<p>　　——东北的“二人转”很受人们的喜爱，“二人转”中的说词很讲究押韵。这支广告在写作上就注意到了这点，又找来本是东北人的小品演员潘长江，立刻抓住了受众的视线。<br>　　潘长江拿出了他一边动作一边“唱说”的绝活，演绎着广告诉求。遗憾的是，开头的一句话因为语速过快，让人很难听清说的什么，只知道是在嘟囔。后面“唱说”中的“畅销知名高”也因为与平常生活中的习惯说法“知名度高”不同，使人费解。<br>　　看来，选用大家熟悉的喜剧演员出演产品广告，是能够带来一定的幽默、喜剧效果，但也容易淹没主题，影响广告信息的传达。<br>　　另外，“选用快节奏说快词儿时，要特别注意唇、齿、舌部位的弹性，吐字要清晰，个别字不能含混过去”。应当做到快而不乱，快而清晰。<br>　　成语，是人们长期以来习用的、简洁精辟的、具有书面语色彩的固定短语。它的基本格式是“四字格”。由于成语结构凝固精短，意义完整深刻，表达效果强，所以使用得当，可使语句简洁明快。<br>　　在广告文案的创作过程中，恰当地使用成语同样可以使得广告内容迅速引起受众的注意，加强识记和理解。<br>　　对于这种类型的广告，配音时要把重点放在对原有成语格式的语音或是形式加以改变的部分，表达上可以夸张一点儿，强调一点儿，使广告语突出广告产品、张扬服务个性、强调品质和声誉，将受众的注意力吸引到被用成语的“篡改”上，这样往往可以收到较好的幽默效果。</p>
+<p>例如：</p>
+<div class="fangsong">
+
+<p>　　“烧”胜一筹。<br>　　华素片，“快”治人口。<br>　　默默无“蚊”的奉献。<br>　　六神有主，全家无忧。<br>　　美加净养发灵，“聪明不必绝顶”。<br>　　四方牌胃药，“治”在四方。<br>　　中意空调，终身无“汗”的选择。<br>　　虎威皮鞋，令您虎步生威。<br>　　千里“江铃”一日还。</p>
+</div>
+
+<p>　　成语或是诗文大都炼字严谨，讲究一定的意境和韵味，轻易改动往往会破坏原有的美感，所以在选用这些诗文或是成语时不能牵强附会，也不可随意篡改，更忌滥用乱用。应当结合广告产品的特点、消费者心理以及选择刊发的媒介特质等因素，做到贴切、自然、得体。<br>　　需要特别加以强调的是，那种牵强附会或是随意篡改成语的现象，往往造成广告内容令人费解、误解甚至反感，更有可能对青少年产生误导。据说，在课堂上，一学生当堂背诵唐诗：“床前明月光”卡住了，想了一下后又大声背道：“疑是“高果糖，”，底下一片哄笑。又如，语文老师在批改学生成语练习时，见到“得”芯，应手”、“译’气风发”这样的成语时，只能是哭笑不得，摇头叹息。<br>　　有专家说，有文化的改造是明智的，没文化的篡改是糊涂的。因此，广告创意人员和广告配音者都应该清楚：不可劲吹“成语新编”，真正要借用成语必须慎之又慎。</p>
+<h1 id="第五章-广告配音的本体——艺术说（上）"><a href="#第五章-广告配音的本体——艺术说（上）" class="headerlink" title="第五章　广告配音的本体——艺术说（上）"></a>第五章　广告配音的本体——艺术说（上）</h1><p>　　心理学研究表明：把说服性信息与一些强化刺激联系起来，可以提高信息的作用效果。1965 年，美国一项心理实验表明，如果在信息传达中给信息接收者一种积极的刺激，就能够加强信息的说服性，尽管这一刺激很可能与信息本身完全无关。<br>　　实验是这样的：心理学家给受试者读一份广告，其中一些受试者一边听广告一边喝可乐，另一些受试者则什么也没得到。结果发现，得到可乐的受试者更容易被广告说服。于是，心理学上将这一现象叫做“凡事最好佐以可乐”。</p>
+<h2 id="第一节-广告配音的特殊性"><a href="#第一节-广告配音的特殊性" class="headerlink" title="第一节　广告配音的特殊性"></a>第一节　广告配音的特殊性</h2><h3 id="一、广告配音与其他文体之不同"><a href="#一、广告配音与其他文体之不同" class="headerlink" title="一、广告配音与其他文体之不同"></a>一、广告配音与其他文体之不同</h3><p>　　在传统的播音文体中，新闻播音，讲求清新明快，庄重大方，吐字清晰准确，气息控制得当；专题播音，注重叙述的从容、流畅，情感的真挚、朴实，用声形式变化趋多，用气技巧则成为辅助表达的手段；少儿节目主持，必须具有强烈的亲和力和感染力；诗歌的朗诵，首先要有鲜明的节奏；等等。可以说，每一种文体的播音都有着自己的要求与特点，每一类节目都有着有别于其他节目的不同之处。<br>　　广告配音亦然。<br>　　只是，相对来说，因为广告的内容是各种各样的产品，广告的创意是各种备样的风格，广告的语言是各种各样的节奏，还有各种各样的客户，各种各样的传播范围和传播时段，所以，广告的配音显示出它自身独有的复杂性和特殊性。它往往要在短时间内进行大幅度的时空跨越：它往往要融合多种文体的表达方式；它甚至还要突破一般播音的“规章制度”，向戏剧语言靠扰……一句话，广告配音需要“广告味儿”。<br>　　什么是“广告味儿”？我们认为，在充分理解广告文案的基础上，在充分把握广告主创人员创作意图的基础上，用有声语言将广告词本身所蕴含的广告意味准确、生动、贴切地表达出来，这就是“广告味儿”。<br>　　众所周知，每一种文体的播音，一般都有一个共同的规律可循，而与这规律相匹配的往往是一个相对固定的模式。这种模式最容易被人所接受，也最容易为人所反感，所谓有利有弊，“广告味儿”也是一样。</p>
+<h3 id="二、广告配音的复杂性和特殊性"><a href="#二、广告配音的复杂性和特殊性" class="headerlink" title="二、广告配音的复杂性和特殊性"></a>二、广告配音的复杂性和特殊性</h3><p>　　如果说，“新闻的真实性原则使得播音创作中播音员情感的表达与演员表演中情感的表达有了质的区别”，那么，广告的商业性因素使得广告配音在语言表达上允许适度夸张，广告的艺术性信息也使得广告配音与演员表演中的情感表达有了一定的联系，表现出它自身特有的色彩。<br>　　广告配音的特殊性表现在：</p>
+<h4 id="1-语态上的艺术化"><a href="#1-语态上的艺术化" class="headerlink" title="1. 语态上的艺术化"></a>1. 语态上的艺术化</h4><p>　　语态指的是语言中内含的情态。语态上的艺术化，指的是通过有声语言展示出产品或观念的形象特征。<br>　　广告文案中，词语、词组、句子，几乎都有其性格、性别以及形象特征。语态上的艺术化，就是要让受众闭上眼睛也能感觉到它是稚嫩的还是老成的、诙谐的还是庄重的、浪漫的还是严谨的、热情奔放的还是细腻温柔的、新潮前卫的还是规矩正统的……其实，每支广告都有它完整的形象。<br>　　语态上的艺术化，主要通过吐字发声和语言处理这两方面来加以实现。<br>　　在吐字归音上，不必都那么字正腔圆，尤其是在情节型广告中，应该根据广告中人物的身份、性格和语言情状等不同情况加以调适。<br>　　在用声上，自然是经过训练的、有所控制的，但有时为了需要，往往打破一般播音的规范，例如用假声、挤压声带、压喉等等。<br>　　在语言处理上，有时应讲求自然化、生活化，但又不是纯自然的生活状态和生活语言，它是具有一定控制的吐字发声、用气技巧与生活中的语言情态及语言样式的有机结合。有时又要注重吐字的力度，甚至在表达方式上需要类似戏剧语言的夸张。总之，广告配音在语言处理上，往往用声幅度大，语势变化也大。<br>　　例如，“海尔，真诚到永远”，传达出的是一种企业的理念，一种真诚的心地，用意犹未尽的余音处理方式，还可以营造出一种博爱的形象空间，塑造出海尔稳健、从容、大气、成熟的品牌形象。配音应不事张扬，无雕琢痕迹，很好地表现出企业及其产品的形象特征。</p>
+<h4 id="2-语气上的角色化"><a href="#2-语气上的角色化" class="headerlink" title="2. 语气上的角色化"></a>2. 语气上的角色化</h4><p>　　电波广告中的人，男女老少、黑白丑俊、雅俗贫富、工农商学、天南地北。电波广告中的人已经不是一个概念，而是“人物”；不是抽象的，而是具体的，是由各种条件制约和界定的“社会人”，集结在一个由各种社会关系构成的网中。<br>　　“人物”一开口，或是独白，或是对白，便会显露出鲜明的性格特征，便会展示出人物之间的关系。与专题播音中人物语言求“神似”不求“形似”不同的是，这时候的广告配音其实更像影视配音，需要为“人物”的语言角色化配音，有时还需要在不同程度上为声音化妆。<br>　　需要注意的是，广播广告的“人物”语言角色化，需要的是体现性；电视广告的“人物”语言角色化，需要的则是再现性。<br>　　在语气的角色化处理上，应该注意以下几点：<br>　　（1）与人物的口型开合相贴合；<br>　　（2）与人物的形体动作相贴合；<br>　　（3）与人物的情绪状态相贴合；<br>　　（4）与人物的身份气质相贴合；<br>　　（5）与对手搭档的状态相贴合。<br>　　另外，还有两点也需要注意：一是掌握好人物身份与人物之间的关系，二是具备良好的声音造型能力。比如，对于“我有新妈妈了，可我一点也不喜欢她”——“原来，她也没那么讨厌”这样两句广告语（雕牌牙膏），既要揣摩孩子的内心表现出特有的角色语气，又要在前后人物关系的微妙变化中，展示出特定身份的情绪变化。</p>
+<h4 id="3-语力上的个性化"><a href="#3-语力上的个性化" class="headerlink" title="3. 语力上的个性化"></a>3. 语力上的个性化</h4><p>　　语力指的是语言的筋骨，有声语言的力道、劲道。这是最能体现广告配音个性化的标识。<br>　　对于宣示广告、标版广告，声音上要表现出品牌的特定个性。有时为了保证系列广告中品牌的统一性，有的广告客户甚至希望专门“买断”一位广告配音者的声音。不过，现实情况往往不大可能。因此，我们寄希望于广告配音员在语力上的个性化处理。<br>　　个性化的声音与广告产品相结合，让受众在视听上将它们融为一体，让声音成为产品个性的代表从而产生独特的魅力。<br>　　依据产品、依据创意、依据诉求点，我们可以让声音如洪钟大吕般阳刚、气势恢弘，也可以让声音如小桥流水般阴柔、余音缭绕。总之，声音的个性化应该是独具一格、令人心动的。声音的个性化应该是语言表达的一种高境界。</p>
+<h4 id="4-语音上的陌生化"><a href="#4-语音上的陌生化" class="headerlink" title="4. 语音上的陌生化"></a>4. 语音上的陌生化</h4><p>　　陌生化是指在广告语言的设计中突破语言的常规建构，在句法、词汇、语音等方面进行陌生化处理。广告配音的陌生化，多是指在语音上的处理。<br>　　一般情况下，人们对各种常规语言建构早已形成了一种习惯性或“自动化”的感觉倾向，这种习惯性或“自动化”的感觉倾向往往会导致人们对一些普通的语言事实视而不见、察而不觉；换句话说，也就是感觉趋向迟钝，反映在广告传播中，则必然会使信息衰减，减弱广告的诉求力量。<br>　　因此，与一般播音文体不同的是，广告配音需要陌生化，需要通过对声音要素进行一定程度的改造和设计，改变受众的习惯性和“自动化”，以新鲜、新奇、新颖的声音形式刺激受众的感觉神经，以期引起新鲜感和时代感，让受众再以一种批判、挑剔、审视的眼光去感知广告声音，从而接受广告信息。<br>　　广告配音的陌生化表现在：<br>　　（1）与方言词汇和语法有关的陌生化。<br>　　（2）与方言语音有关的陌生化。<br>　　在广告配音时适当偏离普通话语音规范，或在音色、音强、音长、音高等方面作出一些特别处理。</p>
+<h2 id="第二节-电视广告的配音"><a href="#第二节-电视广告的配音" class="headerlink" title="第二节　电视广告的配音"></a>第二节　电视广告的配音</h2><p>　　实验研究证明，一条 30 秒钟的电视广告开头的 5 秒特别重要，因为观众的注意力最为集中，如果不在三五秒钟内牵住观众的视线，如果缺少冲击的力量，那么无论后面的内容多么精彩也很难再把观众的注意力拉回来。<br>　　人们对外部世界的感知，70% 来自于视觉器官。</p>
+<h2 id="第三节-电视广告配音中不同表现类型的创作方法"><a href="#第三节-电视广告配音中不同表现类型的创作方法" class="headerlink" title="第三节　电视广告配音中不同表现类型的创作方法"></a>第三节　电视广告配音中不同表现类型的创作方法</h2><p>　　广告主题句中使用商标一般使用呼叫形式，要求商标称谓简洁上口，最好以爆破音结尾，以求响亮。比如，柯达、健力宝、步步高、康佳、金利来等。<br>　　播读商标时，要给以重音，给以强调，让其他的词语都呈众星捧月之势，以衬托商标、突出商标。<br>　　配音时，要仔细琢磨修辞的方法、修辞的句式，反复推敲，要在语气的样式上和语势的走向上多下工夫，以表达出新、奇、真。</p>
+<h3 id="一、故事型"><a href="#一、故事型" class="headerlink" title="一、故事型"></a>一、故事型</h3><p>　　例一：</p>
+<div class="fangsong">
+
+<p>　　画面：一只手将飞利浦 GENIE828 手机往桌上一扣，男青年甲一脸的沮丧。<br>　　男青年甲：唉……<br>　　男青年乙：哎，你怎么这副德行呀？<br>　　画面：乙给甲倒茶水。<br>　　男青年甲：唉，刚和女朋友闹翻，她叫我别再找她。<br>　　画面：附近传来茶杯落地碎裂的声响，甲下意识地偏过头去，显得若有所思。<br>　　　　　乙悄悄按下手机上的一个键。<br>　　男青年乙：你说的是谁呀？<br>　　手机显示：现请说话<br>　　男青年甲：Amy 嘛！<br>　　手机显示：已接通<br>　　男青年甲：唉，说真的，是我不对，我不该发脾气。<br>　　手机中的 Amy：彼特对不起啊，其实我也有错……<br>　　画面：甲一愣，立即抓起手机——<br>　　男青年甲：Amy 吗？好，我马上过去。<br>　　画面：乙得意的眼神<br>　　画面：（字幕）飞利浦 GENIE828 声控移动电话<br>　　　　　飞利浦<br>　　　　　让我们做得更好</p>
+</div>
+
+<p>　　——这是一个恋人间吵嘴又和好的故事，也是一个朋友间“助人为乐”的故事。而这所有的一切都与最新推出的声控电话有关：是声控电话帮了朋友的忙，是声控电话使恋人和好。<br>　　短短 30 秒，故事讲完了，新型飞利浦声控电话特别又新奇的功能也深植观众的心里。<br>　　这支广告的配音，因为画面人物角色化的缘故，更像是为影视配音。<br>　　这里的人物对话应该生活些、自然些、情绪些，特别要注意的是人物前后情绪的对比、人物间的关系以及最后意想不到的结果。<br>　　两个好友在咖啡室里碰面了，一个满脸沮丧，一个半是关心半是调侃。<br>　　“哎，你怎么这副德行呀？”男青年乙音量不大，语气随意。而男青年甲的一番话语气生硬，语势上扬，显得气鼓鼓的。<br>　　按说，听了好友的这番话，接下来应该是一大堆的劝慰、开导。但是这个故事不是这样讲的，倘若真是这样的“老套”，也就无新意可言。<br>　　乙没有多说话，他灵机一动。乙在决定以声控电话做文章时，问了一句：“你说的是谁呀？”这里，为了引出甲说出女友的名字，在“你说的”之后作了一个稍稍的停顿，既是给手机显示“现请说话”一个时间，又为的是强调后面的“是谁呀”，重音放在“谁”字上。整句语气显得别有用心，同时也给电视机前的观众留下一个悬念：乙在干嘛？既是好友怎会不知道对方女友是谁？刚才动了一下手机，又为什么？<br>　　甲并不知道乙的良苦用心，自顾自地说着话：“Amy 嘛！”音量高强，内在语似在问：“今天你怎么了，我女朋友你都不知道是谁？”可一声叹气之后，音量立即降低，语气也柔和了许多，虽是面对好友，更像是自言自语：“唉，说真的，是我不对，我不该发脾气。”满是后悔，满是歉意。<br>　　让甲意想不到的是，他的话音刚落，搁在桌上的手机忽然开口说话，传来的竟是Amy的声音，并且也是后悔，也是道歉。<br>　　甲的音量顿时提高，语势上行：“Amy 吗？好，我马上过来。”语气里转而满是惊喜，满是兴奋。<br>　　同样，这个结局也是电视观众意想不到的，但当这个戏剧化的结果出现在观众面前的时候，故事发展中间存有的疑惑，一下化为乌有，换来的是会心的一笑。<br>　　故事型的电视广告，其表现方法几乎都是以感性为出发点，解决的问题也大多是心理层面的，比如挫折感、失败感、孤独、忧郁、失恋、优伤、懊恼等等。<br>　　而借由商品带来的感受，或会心一笑，或友情的流露，或温情的拥抱，这一切非商品功能性的介绍，往往更能够打动人心，所谓“感人心者，莫乎于情”。</p>
+<h3 id="二、生活片段型"><a href="#二、生活片段型" class="headerlink" title="二、生活片段型"></a>二、生活片段型</h3><p>　　例一：</p>
+<div class="fangsong">
+
+<p>　　妈妈：日式咖喱怎么煮？<br>　　儿子：妈妈今天吃什么？<br>　　妈妈：不要进来哦！<br>　　旁白：肉和蔬菜，炒一炒，煮一煮，把咖喱块放进去，煮一下就行了。<br>　　旁白、字幕：日式咖喱，好侍百梦多咖喱。</p>
+</div>
+
+<p>　　——这里选择的是一家三口晚上回到家后等待妈妈做饭的生活场景。“儿子”的声音选用的是孩子的声音，声音脆亮，语气中带着急切与期待。<br>　　“妈妈”的话语则应带有几分俏皮，关上厨房门，仔细研究“广告产品”的认真劲儿，又让人感觉到年轻主妇的贤惠。<br>　　“旁白”的加盟起到的是对产品具体做法的解释作用，“炒一炒，煮一煮，把咖喱块放进去，煮一下就行了”，语气干脆利索，含有“保准成功”的自信，凸显的则是产品简单方便的特点。</p>
+<h3 id="三、解决问题型"><a href="#三、解决问题型" class="headerlink" title="三、解决问题型"></a>三、解决问题型</h3><p>　　例二：</p>
+<div class="fangsong">
+
+<p>　　画面：书堆里的小学生、高考生，打哈欠，一脸的疲惫状。<br>　　小学生：唉，我记不住了！<br>　　高考生：脑子不够用了！<br>　　面面：一位年轻的女广告模特手举智强核桃粉，说着……<br>　　女声：智强核桃粉是国家批准的保健食品，能改善记忆，特别适合青少年儿童。<br>　　　　　——智强核桃粉<br>　　小学生：喝了忘不了！</p>
+</div>
+
+<p>　　——解决问题型广告，大多都在广告开始的前 5 秒钟将生活中遭遇的问题亮在观众的面前，以期引起电视机前观众对片中人物的关心，对提出问题的认同。<br>　　一般说来，人们对与自己生活中有着切身关系的问题尤为关切，所以问题一经提出，很容易抓住观众。<br>　　一旦将问题提出，便要不生涩地、巧妙地引向产品的介绍，将产品的功能、特色表达清楚。诉求的重点是解决开篇提出的问题，以加强观众对产品的了解，并增进观众对产品的信任程度。<br>　　《智强核桃粉》中也在开篇提出了“记不住了”、“脑子不够用了”的同题，这时的配音语气应强调出学生沮丧、懊恼、“怎么办？”的焦虑情绪。<br>　　紧接着的产品介绍，语势不宜过高，以免引起观众的反感，尽量地平易些、通俗些，在平和中说服人。<br>　　最后的广告主题句，要在介绍的平和中找起，音量加强，语势升高。“喝了忘不了”由孩子说出，带着冲劲儿，音量也大。“忘不了”既与先前提出的问题“记不住了”形成对比，也是对产品名称记忆深刻的暗喻。<br>　　为解决问题型广告配音：<br>　　1. 要特别注意问题提出前后音色、语气、情绪的对比反差。提出问题前，音色暗淡，语速较缓，情绪低落；提出间题后，音色明亮，语速较快，情绪欣喜、兴奋。<br>　　例如：</p>
+<div class="fangsong">
+
+<p>　　画面：一个两口之家，正在送走客人。妻子回到餐桌，眼见着油腻腻的杯盘狼藉，皱起了眉头。<br>　　妻子：先生好客我没意见，可是——<br>　　丈夫：还是让“金鱼”来帮忙吧。<br>　　画外音：新品质金鱼洗涤灵，含有更高的 HPOE，它深入物体和油污之间，把它们完全隔离开。<br>　　丈夫：有金鱼，油污全没了！<br>　　画外音：新品质金鱼洗涤灵<br>　　　　——更新、更快、更洁净。</p>
+</div>
+
+<p>　　——客人来家很是热闹，客人离去可就要辛苦自己了。广告中的“妻子”面对着一大堆油腻腻的碗盘，怎么也掩饰不住情绪的低落。“先生好客我没意见，可是——”一个拉长音的“可是”，表现出一种不耐烦的情绪。<br>　　“丈夫”的话充满自信，语气洒脱，还有些得意。<br>　　两种音色、两种色彩，对比鲜明，反差强烈，才能达到对广告主题的推出助一臂之力之功效。<br>　　2. 对于产品的介绍，不要过于夸张，语气上变化也不宜过大。因为耳提面命式的教诲早已为人们所厌恶，和风细雨式的介绍更能够深入人心。<br>　　例如：</p>
+<div class="fangsong">
+
+<p>　　画面：一位女性模特的面部近景，不断展示面部肌肤，不断变换表情。<br>　　画外音：虽然我们不想，<br>　　　　　　年龄却越来越清楚地写在脸上，<br>　　　　　　肌肤出现皱纹和失去光彩，<br>　　　　　　可怎么办呢？<br>　　　　　　实验证明，<br>　　　　　　这突破性的护肤品，<br>　　　　　　能有效去除暗淡干枯的死皮，<br>　　　　　　并充分滋润新生肌肤，<br>　　　　　　明显减少皱纹，<br>　　　　　　写在脸上的只有青春光彩。<br>　　　　　　它的名字<br>　　　　　　——全新玉兰油 活肤菁华系列</p>
+</div>
+
+<p>　　配音时可以选用女声，为的是更能引起观众尤其是年过三十越来越害怕衰老——其实，但凡女性都怕老—的女性观众的注意。音色轻柔，提气，偏娇嫩，但语势较平。这样造出的氛围很适合女性的心理特点：大声嚷嚷叫卖的一般档次较低，轻言细语告诉你的往往总是秘密。<br>　　3. 对于设计了一定情节的广告，要清楚其侧重的因素。因为构成情节的因素很多，如环境、事件、人物以及动作、表情、语言、心理活动等等。</p>
+<h3 id="四、人物佐证型"><a href="#四、人物佐证型" class="headerlink" title="四、人物佐证型"></a>四、人物佐证型</h3><h4 id="1-名人佐证型"><a href="#1-名人佐证型" class="headerlink" title="1. 名人佐证型"></a>1. 名人佐证型</h4><p>　　名人推荐型广告，名人的话自然由名人说了，真正让配音员说的已经不多了，有时甚至不需要了。然而，说“已经不多了”的话，关键在于与名人说话语气的衔接，要水到渠成，顺理成章。</p>
+<p>　　例如：<br>　　《保护森林资源》（公益广告）</p>
+<div class="fangsong">
+
+<p>　　画面：光头葛优，一件立领上装，讲台上搁了一个外套塑料套的罐头瓶。后面的大屏幕上是一片森林，画外有电锯的声音传来。<br>　　葛优：今天，我们讨论头发的问题（一本正经）<br>　　头发当然有很多根儿<br>　　可这东西一多就不当一回事（重音：不当）<br>　　经常有人在伐木（严肃地）<br>　　所以头发一天比一天少（紧接下句）<br>　　脑门儿一天比一天秃（重音：秃，且拉长音）<br>　　一到雨天就怕水堵<br>　　闹个泥石流之类的局部灾害还好（渐强）<br>　　万一要是发了洪水外人含苹数<br>　　可就对不起全国人民了（最强，愤怒地）<br>　　所以一定要保护好头发（音量骤弱，缓）<br>　　画面：保护森林资源<br>　　画面：葛优抬起脑袋，脸上是“葛优式”的笑意<br>　　葛优：还是有头发好（幽默、带点儿自嘲地）</p>
+</div>
+
+<p>　　——这是一支公益广告，然而，再粗心的人也不难发现，在画面的右下方，有着两行小字：荷丝防脱发洗发露厂　中央电视台广告部。<br>　　将森林比作人的头发，将毁林伐木当成头发稀少的原因，应该说这个比喻很是贴切。但是最让人击掌称好的是，这么一则保护森林资源，保护我们“头发”的公益广告，是由生产防止脱发洗发露的企业赞助制作的。真正称得上是独具慧眼，独具匠心。<br>　　可以说，它既是一则创意不俗的公益广告，又是一支品位不凡的产品广告。<br>　　当然，广告中最为引人注意的还是名人葛优，他有着不俗的口碑，社会公信度良好，这样的个人形象与公益广告的定位是贴合的，也带来较好的权威性和可信度，而他的秃头与整个广告语的内容也可谓“相得益彰”、“相映成趣”。他的一段长篇独白，说得有张有弛，有时一本正经，有时也滑稽可爱；愤怒中有着正义，幽默中带些自嘲，将广告的主题表述得生动形象。</p>
+<h4 id="2-专家佐证型"><a href="#2-专家佐证型" class="headerlink" title="2. 专家佐证型"></a>2. 专家佐证型</h4><p>　　例如：</p>
+<div class="fangsong">
+
+<p>　　画面：历史镜头，萧条景象。<br>　　男声旁白：1890 年开始，因流行病毒的爆发，造成全球数百万生命的死亡。<br>　　画面：场面宏大的报告厅，一位戴眼镜的中年学者正在讲坛上作学术报告。<br>　　学者：医学研究证明，感冒是病毒引起的，并能导致多种并发症。<br>　　画面：报告厅响起热烈的掌声。<br>　　实验室，身穿白大褂的药品研究员说——<br>　　研究员：新型抗病毒感冒药的出现，再次引起世人的瞩目。<br>　　男声旁白：感康对普通及流行感冒都有显著疗效，<br>　　　　　　　服用 8 分钟即可完全溶出起效。感康，消除病毒，医治感冒。<br>　　　　　　　一一感康。</p>
+</div>
+
+<p>　　——这里，专家的话是产品宣传之关键所在，“替”专家说话时，语气中不能有丝毫犹疑，要果断、干脆，透出自信和权威。<br>　　为专家佐证型广告配音，要注意以下几个方面：<br>　　（1）明确身份。这时的“我”是广告产品这一领域的专家，所说的话代表这一领域的最新信息、最新建议、最新效果。<br>　　（2）注意语气。因为有科学道理、相关数据做依托，语气自然便显得沉静、自信、果决，同时又不乏亲切和耐心。<br>　　（3）掌握节奏。严谨的治学精神和公认的权威性带来的是节奏上的健稳、中速。</p>
+<h4 id="3-普通消费者佐证型"><a href="#3-普通消费者佐证型" class="headerlink" title="3. 普通消费者佐证型"></a>3. 普通消费者佐证型</h4><p>　　例二：</p>
+<div class="fangsong">
+
+<p>　　京剧演员：上妆卸妆容易起色斑，<br>　　　　　　　用晚霜就好多了。<br>　　　　　　　大宝，挺适合我的。<br>　　摄影记者：干我们这行，风吹日晒，<br>　　　　　　　用了日霜，嘿——<br>　　　　　　　还真对得起咱这张脸。<br>　　男声旁白：要想皮肤好，<br>　　　　　　　早晚用大宝。</p>
+</div>
+
+<p>　　广告词是由广告配音员表现的，从音色选择的角度看都不华丽，也不特别，女声音色娇柔，男声音色豪爽，一个尽显阴柔之美，一个展示阳刚之气，表现出“大宝”晚霜与日霜的不同功效，同时表明一早一晚的完美组合。<br>　　“上妆卸妆容易起色斑”——音量较弱，语气里含有懊恼；<br>　　“用晚霜就好多了”——情绪扬起，加大音量，有了惊喜；<br>　　“大宝，挺适合我的”——完全是用过产品之后的感觉。<br>　　与女声相比，男声则显得洒脱、幽默，刻意强调了“日霜”的“日”字，一声拉长音的“嘿——”一下子就将人物个性凸显了出来，也极具生活气息。</p>
+<h3 id="五、示范解说型"><a href="#五、示范解说型" class="headerlink" title="五、示范解说型"></a>五、示范解说型</h3><p>　　例如：</p>
+<div class="fangsong">
+
+<p>　　画面：整个制作薄饼的工艺流程。<br>　　　　　画面色彩明丽，特写镜头、特技手法多，具有极大的诱惑性。<br>　　画外音：片片追求完美，<br>　　　　　　嘉顿香葱薄饼当然有所坚持。<br>　　　　　　要有适当的厚度，才能够薄够脆；<br>　　　　　　要有精选的香葱和芝麻，<br>　　　　　　味道才能恰恰好；<br>　　　　　　要有恰到好处的烘烤过程，<br>　　　　　　才能金黄香脆。<br>　　　　　　嘉顿香葱薄饼坚守上述原则，<br>　　　　　　片片干香松脆，<br>　　　　　　带来优质享受。<br>　　　　　　——嘉顿薄饼<br>　　　　　　片片讲究，<br>　　　　　　薄饼典范。</p>
+</div>
+
+<p>　　——全片没有广告模特，主角就是嘉顿薄饼。衬着圆舞曲的优美旋律，主角薄饼以及作料香葱、芝麻都在翩翩起舞。<br>　　可以选用醇和的男声音色，节奏不紧不慢，紧扣画面；尤其在解说嘉顿薄饼所坚持的几条原则时，不温不火，语气中自有一种大家风范，也与整支广告明丽、典雅的风格相吻合。<br>　　为示范解说型广告配音，要特别注重广告词中有关产品性能的介绍。<br>　　性能中有的是在原有基础上改良的，有的是最新开发的，更多的很可能强调的是独一无二的特性，等等，这些都应在事先了解清楚。只有这样，配音时才能够清楚强调什么、突出什么。</p>
+<p>　　例如：</p>
+<div class="fangsong">
+
+<p>　　画面：一大滴水经过一层层“过滤网”逐渐由大变小，经过27层，最终成为乐百氏”纯净水。<br>　　　　　“过滤网”则由一行行说明生产纯净水工序的文字构成。<br>　　画外音：为了您可以喝到更纯净的水，<br>　　　　　　乐百氏人不厌其烦。<br>　　　　　　每一项都经过严格争化，<br>　　　　　　二十七层净化，<br>　　　　　　您会喝得更放心。<br>　　　　　　——乐百氏纯净水<br>　　　　　　真正纯净，品质保证。</p>
+</div>
+
+<p>　　——如今，水的世界真是五花八门，除了矿泉水之外，还有太空水、蒸馏水、纯净水等，这种纷繁的局面，实际是在消费者的头脑中制造着混乱。其实，不论是什么水，其内在的品质才是消费者最为关心的焦点，他们会用理性的眼光来看待这个问题。<br>　　“乐百氏纯净水”广告恰好抓住了消费者的这一心理特征，采用了理性的诉求方式，将产品的品质用画面加声音的形式“示范解说”了出来。<br>　　画外音选用了男声，音色朴实，语速舒缓，表达准确，说服力强，将具有较强说服力的“27 层净化”这一广告主题清晰地表现了出来。<br>　　最后一句是广告口号“真正纯净，品质保证”，没有提高嗓门，也没有加强音量，而是稍稍加强了吐字的力度，语气中蕴含的是一种坚定的保证。</p>
+<h3 id="六、幽默型"><a href="#六、幽默型" class="headerlink" title="六、幽默型"></a>六、幽默型</h3><p>　　适宜采用幽默戏剧化策略的受众是年轻的、受过高等教育的、处于上层社会的以及广告专业的人士。</p>
+<div class="fangsong">
+
+<p>　　老痒痒挠：凡事不求人。你痒吗?找我好了，包你满意。<br>　　小痒痒挠：我叫老头儿乐，人们都喜欢我……<br>　　(三九皮炎平软膏出现了)<br>　　老痒痒挠：瞧你那愁眉苦脸的样子，出什么事了?<br>　　小痒痒挠：我、我乐不起来了!<br>　　画外音：三九皮炎平软膏。</p>
+</div>
+
+<p>　　为“卡通”人物配音，需要声音上的化妆，需要表达上的夸张。<br>　　“老痒痒挠”用声选择偏后，咬字发瘪，语气中是傲视一切又“古道热肠”的口吻；“小痒痒挠”选择撅着嘴唇、一字一顿的说话方式，充满童趣、奶声奶气的自白，都能够营造出一个浓郁的幽默氛围，极具感染力。<br>　　传神的动画加上声音的变速处理，产生的是极其别致的幽默效果。</p>
+<p>　　为幽默型广告配音，应该注意：<br>　　（1）选取与画面形式相吻合的语言基调；<br>　　（2）找准可以产生效果的句子、词组或字眼儿；<br>　　（3）在语言外部形态上寻求放大与突出，以求得夸张的效果；<br>　　（4）在画面情态的发展上寻求“包袱”的设计和抖落，以求得气氛的渲染。</p>
+<h2 id="第四节-电视广告配音应注意的问题"><a href="#第四节-电视广告配音应注意的问题" class="headerlink" title="第四节　电视广告配音应注意的问题"></a>第四节　电视广告配音应注意的问题</h2><p>　　实验证明，刺激兴奋的渠道越多，传播内容所给人的印象就越发深刻。</p>
+<p>　　对口型，可以说是一项技术性的工作，熟练者也许一遍即过，生疏者也许就得几遍、十几遍。应该完全避免那种画面上人物口型开着，声音却没起来，或是画面上人物口型闭着，声音却还响着的失误。<br>　　当然，对口型不仅仅指的是对上人物口型的开合状态，更为重要的是应该与画面上人物的年龄、身份、性格以及说话时肌肉的松紧状态相吻合。</p>
+<h1 id="第六章-广告配音的本体——艺术说（下）"><a href="#第六章-广告配音的本体——艺术说（下）" class="headerlink" title="第六章　广告配音的本体——艺术说（下）"></a>第六章　广告配音的本体——艺术说（下）</h1><h2 id="第一节-广播广告的配音"><a href="#第一节-广播广告的配音" class="headerlink" title="第一节　广播广告的配音"></a>第一节　广播广告的配音</h2><p>　　声音可以塑造听觉形象，这个听觉形象能够给人的想象以更大的空间。但是，听觉形象最终是要转化为视觉形象的，并且视听结合才能给受众更直接的刺激、更完整的形象。声音转瞬即逝，在今天这个信息时代，现代人需要强迫记忆的信息已经到了令人精神压抑的程度，很多人为此患上了“现代疲劳综合症”，即便在听朋友倾诉时也常常心不在焉，更何况与他无关或者说关系不大的广告中的声音。<br>　　因此，广播广告要力求在纷繁的尘器中脱颖而出，给听众一个新鲜的、深刻的印象，就必须在声音形式上简洁、明快、独特、有个性。</p>
+<h2 id="第二节-广播广告不同表现类型的创作方法"><a href="#第二节-广播广告不同表现类型的创作方法" class="headerlink" title="第二节　广播广告不同表现类型的创作方法"></a>第二节　广播广告不同表现类型的创作方法</h2><h3 id="一、单刀直入型"><a href="#一、单刀直入型" class="headerlink" title="一、单刀直入型"></a>一、单刀直入型</h3><p>　　这种方式对广告的配音要求较高，看似不加装饰，实则字字到位，清晰有力，诉求点非常明确。<br>　　例一：</p>
+<div class="fangsong">
+
+<p>　　（电子音响效果，电子音乐节奏混合）<br>　　“菊花牌”电视机瞄准世界新潮流，最先推出 37、49、50 厘米，高品质多功能豪华彩色电视机，平面直角、立式遥控、电脑选台，还有定时自动开、关机，AV 端子等独特功能。<br>　　称心如意——菊花电视<br>　　菊花电视一称心如意</p>
+</div>
+
+<p>　　广告词在创意上注重突出其新、独、特的优点，在播音时，声可高些，语势呈上行；节奏欢快，带点儿跳跃感；重点强调“平面直角、立式遥控、电脑选台、自动开关、AV 端子”，以表现出“菊花”电视在全国同行业中领先的地位。<br>　　最后在广告的结尾处，采用的是修辞手法中的“回环”，也就是将两个词语相同而排列顺序不同的语言片断连用在一起，给人一种循环往复的情趣。<br>　　菊花电视——称心如意，称心如意——菊花电视”，配音时，要抓住其简短押韵的特点，语势呈爬山类，后一句比前一句高，既强化了广告内容，又使广告便于听众的记忆。</p>
+<h3 id="四、戏剧完整型"><a href="#四、戏剧完整型" class="headerlink" title="四、戏剧完整型"></a>四、戏剧完整型</h3><p>　　例二：</p>
+<div class="fangsong">
+　　（效果声：汽车鸣笛、鸡叫、停车声）
+　　孙女：（高喊）奶奶！
+　　奶奶：哎！
+　　孙女：奶奶，奶奶，快来看哪，我爸买来汽车啦，双马牌 130 的。
+　　奶奶：呦，这汽车可真好哇，锂亮锂亮的，能照进人去呀……
+　　大叔：（高声地）老嫂子，还是你们家富贵能干哪！
+　　奶奶：可不是。
+　　富贵妻：大叔，瞧您说的，要不是落实了党的富民政策，他再能耐，还能
+买得起汽车？
+　　大叔：还是他媳妇说得对。
+　　富贵：大叔，您看我这车怎样？
+　　大叔：嗯，样子嘛，不错。（发现什么似的）嗬，这驾驶楼子还两排座呢。
+　　富贵：大叔，这是客货两用车。
+　　大叔：客货两用车？哎，是哪儿出产的？
+　　富贵：这车呀，是沈阳农用汽车制造厂生产的，是专门为城乡摘运输设
+计的。大叔您看，这车可抗造啦，车座坐着也得劲儿。
+　　大叔：嗯。
+　　富贵：这车在全国农用汽车行业评比中还获得第一哪。
+　　大叔：好哇，回头，让你老兄弟也来看看，让他铆铆劲儿，秋后也买上它
+一台。到时候，还得请你帮忙哪。
+　　富贵：大叔，您放心吧，这忙，我一定帮。
+　　大叔：好咧。
+</div>
+
+<p>　　——这两则广告，都是将广告的产品放在农村的环境中来推介的，出场的人物较多，生活气息浓郁，像超短广播剧。”<br>　　广告配音时，应该注意口语化、生活化、农村化，还得注意略带乡音的表达；语气上是活泼的，音强上选中、高音量；不同人物的音色应该有所区分，人物对话应该真实、亲切；用形象、逼真的角色化语言营造出性格鲜明的对话，构建出形象、生动的生活场景。</p>
+<h3 id="七、现身说法型"><a href="#七、现身说法型" class="headerlink" title="七、现身说法型"></a>七、现身说法型</h3><p>　　例二：</p>
+<div class="fangsong">
+
+<p>　　哎，我说朋友，您喝过衡水老白干吗？说起这衡水老白干啊，那可是有年头了。过去走亲访友少不了拎上两瓶，就连电影里头，不是也常出现咱老白干的台词吗！如今哪，衡水酒厂酿造的老白干又进了一大步，国际上还拿了金奖！怪不得会喝酒的都夸咱衡水老白干好喝呢！不信？您尝尝，喝着那才叫过瘾，还不上头。我说朋友，您可记住了，要说喝酒呀，那还得是衡水老白干！</p>
+</div>
+
+<p>　　——现身说法型广告的配音，尽量以说的方式，生活些、自然些。像是对着老朋友的叙述，节奏快慢自如，音量时强时弱，语气中一定要有一种亲身用过、经历过的使用感，饶有兴致，有滋有味。另外，适当地加些“水词儿”，可以更显生活气息，也才可能将产品的特色真正传达出来，使受众在“你”的“言传身教”中真正信服。</p>
+<h2 id="第四节-广播广告配音应注意的问题"><a href="#第四节-广播广告配音应注意的问题" class="headerlink" title="第四节　广播广告配音应注意的问题"></a>第四节　广播广告配音应注意的问题</h2><h3 id="一、“对话”时，求得生动"><a href="#一、“对话”时，求得生动" class="headerlink" title="一、“对话”时，求得生动"></a>一、“对话”时，求得生动</h3><p>　　广播没有电视的画面，人长得什么模样，听众看不见，只能全凭声音塑造了。倘若配音时平板、单调，缺乏热情，人物角色必定是毫无光彩可言。<br>　　播“对话”，类似广播剧的演播。<br>　　首先要明确自己所扮演角色的身份，找出角色的性格特征。因为性格是一个人思想和行为方式特点的折射。有了角色的性格特征做依据，再找准人物的语言基调。即使广告不过一分钟，即使人物语言不过几句话，它也有一种相对稳定和统一的语气节奏。<br>　　广播广告篇幅短小，不可能像广播剧那样交代出人物的来龙去脉，用情节铺陈与性格有关的特点。因此，必须在广告词所提供的极其有限的线索信息中去用心寻找，再加上自己的人生经验、社会阅历和想象及联想，将角色的外貌、内心、行为和动作活化于心。<br>　　知晓与对手之间的关系是选取表达方式的必要条件。尽管没有广播剧中那么复杂的关系结构，但是，同事关系、邻里关系、父母与子女关系、姊妹、夫妻关系等这样一些客观存在的人物关系，有时同样也会在短小的广告词中表现出与主观因素有关的亲密或疏远。清楚关系、明晰亲疏，才能够找准对话基调，选准表达方式，这样的“对话”才可能让人物生动起来、鲜活起来，也才能够胜任传达产品信息的重任。<br>　　例一：</p>
+<div class="fangsong">
+
+<p>　　（荷兰风格的音乐起，压混）<br>　　男孩：爷爷，您怎么了？<br>　　老人：（从沉思中惊醒，感慨地）哦，这是爷爷当年在荷兰留学的时候最喜欢听的曲子，那时候，我用的是荷兰飞利浦音响，它伴随着我度过了多少思乡之夜啊！<br>　　女儿：爸爸您说的荷兰飞利浦音响已经在北京安家落户了，咱们现在听的就是北京飞利浦音响。<br>　　男声：北京飞利浦，唤起您温馨的回忆！</p>
+</div>
+
+<p>　　——这则广告，采用了情感诉求的方法。通过“爷爷”对留学荷兰听“飞利浦音响”排解乡愁的回忆以及女儿的旁白，使听众对世界名牌音响产生了特殊的感情，较好地传达了产品历史悠久、品质优良的特点。<br>　　广告中的人物共有三位：小孩、爷爷、女儿。这里的人物关系是有着血缘关系的父女、母子和爷孙。爷爷是位知识型的老者，曾经出国留学，应该是饱经沧桑；女儿的职业不详，但在众多的音响品牌中单单选择了与父亲经历有关的“荷兰飞利浦”，足以见得她对父亲的细心和体贴。<br>　　一条全部由对话组成的广告，对话在三代人之间展开：<br>　　孩子的问话，天真、稚嫩，语气中有些小心翼翼。给人的感觉是，爷爷正坐在客厅里听着音响，神态有些凝滞。孩子的好奇心让他上前询问，但又唯恐惊扰了爷爷，所以音量较轻。<br>　　爷爷的回答，有一种正沉浸在曲子中的感觉，语速舒缓，语气中带着对过去生活的深深回忆，音色沉稳、成熟。<br>　　最后女儿的一番话，看似是对爸爸伤感情绪的安慰，实际上点出了广告的主题，音色偏亮，语气中透着高兴。</p>
+<h3 id="二、“标题”时，求得个性"><a href="#二、“标题”时，求得个性" class="headerlink" title="二、“标题”时，求得个性"></a>二、“标题”时，求得个性</h3><p>　　调查表明，一般读者阅读标题的概率是读正文的 5 倍，报刊广告文稿作用的 50%-70% 取决于标题。<br>　　为广告口号配音，最为重要的是要有个性，要有分别。在音色上、音量上、语气上、节奏上以及用声状态上：<br>　　或形成对比——高低、明暗、强弱、宽窄；<br>　　或造成变化——松紧、厚薄、提沉、前后；<br>　　或水到渠成——语气节奏上衔接自然；<br>　　或画龙点睛——重音停顿精心设计；等等。<br>　　总之，要与前面的配音有所区别，有所变化，要有些“跳”的感觉。只有这样方可“抓住”听众的耳朵，引起听众的注意，使得听众即使记不住广告内容，也能够记住广告口号，一如阅读报刊广告时正文记不住却记住了标题。</p>
+<h3 id="三、“反复”时，求得变化"><a href="#三、“反复”时，求得变化" class="headerlink" title="三、“反复”时，求得变化"></a>三、“反复”时，求得变化</h3><p>　　例如：</p>
+<div class="fangsong">
+
+<p>　　北京飞利浦，<br>　　唤起您温馨的回忆。</p>
+</div>
+
+<p>　　——深情地、回忆地</p>
+<div class="fangsong">
+
+<p>　　飘洒中华芳香，<br>　　深藏民族自豪，<br>　　孔府家酒。</p>
+</div>
+
+<p>　　——深沉地、浑厚地、凝重地</p>
+<div class="fangsong">
+
+<p>　　凤凰牌纯羊毛毯，<br>　　少男少女的梦幻。</p>
+</div>
+
+<p>　　——温馨地、柔和地</p>
+<div class="fangsong">
+
+<p>　　长城风雨衣，<br>　　风雨相伴。<br>　　风——雨——相——伴</p>
+</div>
+
+<p>　　——有力地、雄壮地</p>
+<div class="fangsong">
+
+<p>　　缱绻故乡水，<br>　　美丽白天鹅。</p>
+</div>
+
+<p>　　——深情地、温馨地</p>
+<div class="fangsong">
+
+<p>　　神龙富康送您常回家看看。</p>
+</div>
+
+<p>　　——亲切地、温情地</p>
+<div class="fangsong">
+
+<p>　　哪里有不平那里有红心，<br>　　红心电熨斗。</p>
+</div>
+
+<p>　　——风趣地、轻松地</p>
+<div class="fangsong">
+
+<p>泸州大曲酒，<br>您的好朋友。</p>
+</div>
+
+<p>　　一热情、豪爽地</p>
+<div class="fangsong">
+
+<p>　　晶晶亮，<br>　　透心凉。</p>
+</div>
+
+<p>　　———圆润、活泼地</p>
+<div class="fangsong">
+
+<p>　　路漫漫其修远兮，<br>　　银箭表将伴您上下求索。</p>
+</div>
+
+<p>　　——果决地、稳健地</p>
+<div class="fangsong">
+
+<p>　　海尔健康型无绳电话，<br>　　让你无牵无挂。</p>
+</div>
+
+<p>　　——醇和、轻柔地</p>
+<div class="fangsong">
+
+<p>　　北京青年报，<br>　　每天的一份惦念。</p>
+</div>
+
+<p>　　——宽厚、亲切地</p>
+<h3 id="三、“反复”时，求得变化-1"><a href="#三、“反复”时，求得变化-1" class="headerlink" title="三、“反复”时，求得变化"></a>三、“反复”时，求得变化</h3><p>　　对于印刷媒体来说，文字的重复往往等于多余的信息，成了累赘。广播广告却是个例外。广播广告的时间短，听众一般又处于非专注状态，要想使他们记住有关产品或服务的讯息不容易。有研究表明，在广播中，对诉求重点的重复，能够使所谓的“多余信息”转化为受众的“实得信息”。所以，恰当地运用重复，让重复使听众形成记忆，是广播广告配音的一项重要技巧。<br>　　广播广告对品牌诉求有着特殊的要求。尤其是当新产品刚刚推出，品牌处在市场导入期时，若是一分钟广告，品牌播报不应少于三次，30 秒广告一般不应少于两次。<br>　　反复，一般是对关键句子的反复，多用在广告结尾处。<br>　　反复，一般是反复品牌名称、企业名称、联系方法等。<br>　　反复一定要适度，这个适度还需要技巧，以使得反复有所变化。<br>　　这个技巧表现在配音创作上：反复时，一定要有所变化，否则，用一种声调、一种音量、一种语气反复说着一句话或一个词，岂不单调？也必定会给人多余、累赘之感。<br>　　反复的变化，主要从语势上和音高、音量上入手。在语势的高低、升降、曲直上变化；在音量的强弱、轻重、大小上变化；还可以在情感程度的浓淡上加以变化。<br>　　再如：</p>
+<div class="fangsong">
+
+<p>　　（音乐起，压混……）<br>　　男声：钱江碧水酿美酒，<br>　　女声：钱江啤酒沁心头。<br>　　男声：钱江啤酒选用国内外优质原料，<br>　　女声：钱江啤酒配以虎跑泉系矿泉水，<br>　　男声：钱江啤酒采用当今第一流生产设备，<br>　　女声：钱江啤酒生产工艺也属一流。<br>　　男声：钱江啤酒酒色淡黄、清亮透明，<br>　　女声：钱江啤酒泡沫持久、酒香爽口。<br>　　（唱：钱江啤酒迎客来，<br>　　　　　新朋老友诚相待，<br>　　　　　一杯开怀情不尽，<br>　　　　　友谊信誉春常在。）<br>　　男声：请。<br>　　女声：请。<br>　　合：钱江啤酒<br>　　　　祝君长寿。</p>
+</div>
+
+<p>　　——几乎每一句话里都带有广告诉求的重点，产品名称“钱江啤酒”，从广告词的创作角度，应该说是为了将所谓的“多余信息”转化为受众的“实得信息”。<br>　　这样高密度的“反复”给广告配音带来了一定的难度，处理不好，往往给人的不是信息，而是噪音。因此，必须有所设计、有所变化：<br>　　“钱江啤酒”的第一次出现，因为是开篇，第一次与听众接触，应该缓入，语速上慢些，深情些；紧接着的四句“钱江啤酒”由男女声对播，应该在语势上产生一高一低的起伏变化，相互衔接，呼应紧密，表现出生动、活泼、快节奏的动感；随后的两句“钱江啤酒”节奏趋缓，音量上也比前几句明显降低，舒展、悠扬；最后的合声，音量最大，语势也最高，热情、奔放。</p>
+<h3 id="四、建立立体化"><a href="#四、建立立体化" class="headerlink" title="四、建立立体化"></a>四、建立立体化</h3><p>　　《列子》上说：“眼如耳，耳如鼻，鼻如口，无不同也。”这话说的是七窍可以相通。心理学上把这种“通感”叫做“联觉”，就是一种感觉会引起另一种感觉，然后联合成为一种比较完整的感觉。广播广告如果能够发挥视听联觉的作用，利用通感的规律，充分发挥各种语言表达技巧，把广告语中的叙述、描写、议论、抒情等交错在一起，将产品的外貌、色调、场景、形象等，绘声绘色地表达出来，便可以使听众从听觉的感受中获得视觉感受、触觉感受、嗅觉感受以及味觉感受。<br>　　这可以叫做有声语言的立体化。<br>　　有声语言的立体化，能使听众有一种“身临其境”的带入感，好像被带入到了现场。耳边听到的是声音，脑子里获得的是产品信息的视觉形象，是一幅幅运动着的画面。有专家认为，一个好的广播广告应该能够帮助听众认出说话者，并且“看到”他的长相、他的穿着，知道他是站着还是坐着。<br>　　那么，配音时，怎样建立有声语言的立体化呢？对于广告语中的有些关键词，比如动词、数词、形容词、感叹词等，一定要精雕细刻，寻求每个字的真正目的，并在声音的外在形式上描摹出原词汇所蕴含的形状、色调、质地以及内涵等。</p>
+<p>　　《古汉养生精》</p>
+<div class="fangsong">
+
+<p>　　（音乐：中国古代音乐起，筝箫合奏，琵琶、笙等伴奏）<br>　　女声：1973 年，湖南马王堆古汉《养生方》出土。<br>　　　　　1986 年，衡阳中药厂“古汉养生精”问世。<br>　　男声：人参　　　四钱二分<br>　　　　　黄芪　　　一两四钱<br>　　　　　金樱子　　七钱五分<br>　　　　　白芍　　　六钱<br>　　　　　枸杞<br>　　　　　黄精　　　（压混：心血九斗<br>　　　　　　　　　　　　　　白发三千丈<br>　　　　　　　　　　　　　　智慧十二分<br>　　　　　　　　　　　　　　无数春秋造就）<br>　　　　　淫羊藿<br>　　　　　（渐隐）<br>　　　　　（音乐止）<br>　　　　　男声：古汉养生精。</p>
+</div>
+
+<p>　　选用一个成熟、干净、略显沧桑的男声说着这些原本枯燥的数字，因为语气中有着传道授业的意味，还显现着中药铺老药师的一份权威，再混以拨打算盘的效果声，于是，便产生了一定的空间感，使听众在心理上创造出视觉想象；紧接着在念读药方声中压混入主观意象的广告主题词：“心血九斗，白发三千丈，智慧十二分，无数春秋造就”，并且在语言结构上与药方类同，声音形式上更显深沉、沧桑，于是，又形成一个时间上的纵深跨度。<br>　　就这样，枯燥的数字因为声音的再现，形成了一种层层递进的情绪渲染，传达出广告产品“古汉养生精”历经沧桑的传奇色彩和深刻的文化内涵。<br>　　当然，这则广告的音乐和音响都运用得很好，音乐采用的是中国古乐器演奏的古曲，与产品的形象合拍，同时也平添了一种历史的凝重感；音响用的是拨打算盘的声响，营造的是环境感和空间感。可以说，人声、音乐、音响三者有机的整合，张弛有度、雍容大方的气势，坚定地树立起了“古汉养生精”的形象，有效地完成了广告创意。</p>
+<h3 id="五、把握分寸感"><a href="#五、把握分寸感" class="headerlink" title="五、把握分寸感"></a>五、把握分寸感</h3><p>　　广告配音不同于消息和评论播音，也不同于专题播音，在表达上，它的技巧更丰富，它的声音更生动，它的创作空间更为自由。从严格意义上说，它更接近于演播。没情绪、缺情感、少情境，只会在声音形式上造成刻板、呆板、死板的效果。有专家评委在《中国广告协会广播委员会第11次全国优秀广播广告节目评选报告》中指出：“有的演播人员没有好好领会创作意图，找不到感觉，当任务播完了事；有的明显是在念稿。”<br>　　但也要防止这么一种情况，情绪过于饱满，情感过于泛滥，播音成了街边小贩的吆喝，几近声嘶力竭。这样的声音无疑给听众的只是一种噪音，令人反感。<br>　　在广告配音的创作过程中，在调动情绪、激发情感、营造情境的过程中，这个“情”字一定要把握一定的分寸感，与广告的主题相吻合，与广告的表现形式相贴切。</p>
+<h1 id="第七章-广告配音的意蕴——关系说"><a href="#第七章-广告配音的意蕴——关系说" class="headerlink" title="第七章　广告配音的意蕴——关系说"></a>第七章　广告配音的意蕴——关系说</h1><h2 id="第一节-广告配音与广告创意的关系"><a href="#第一节-广告配音与广告创意的关系" class="headerlink" title="第一节　广告配音与广告创意的关系"></a>第一节　广告配音与广告创意的关系</h2><h3 id="一、独特的声音揪住大众的耳朵"><a href="#一、独特的声音揪住大众的耳朵" class="headerlink" title="一、独特的声音揪住大众的耳朵"></a>一、独特的声音揪住大众的耳朵</h3><p>　　引起消费者注意是广告创意成功的基础。据美国广告学家鲍尔和格雷瑟指出，在美国每人平均每天要受到 1500 个广告的包围，而实际感受到的广告只有 70 个，而有意识地注意到的广告仅有 12个！为了使广告创意能够引起受众的注意，广告专家们提出了一个名叫“独特销售主张”（简称 USP）的理论。<br>　　洗洁用品，一般被广告界看成是消费者“低关心”的“软性”商品，即人们购买此类商品凭的多是感觉，不像买汽车、电脑等“硬性”商品，购买前会多方研究商品信息。因此，流行的观点是，“软性”的商品广告一般使用情感诉求的方式。而宝洁公司采用的是“独特的销售主张”，加上卓越的创意表现，使得它生产的洗洁用品狂潮般地占领了中国的洗洁用品市场。仅仅在洗发水中，它各个品牌的 USP 就有：</p>
+<div class="fangsong">
+
+<p>　　海飞丝：去头屑；<br>　　飘柔：洗发、护发二合一，令头发飘逸柔顺；<br>　　潘婷：含有维他命原 B5，兼含护发素，令头发健康、加倍亮泽；<br>　　沙宣：去头屑更柔顺。</p>
+</div>
+
+<p>　　这样的结果便使得人们可以按照广告词中的诉求，去商场买到适合自己的品牌，或去头屑，或养护头发，或令头发飘逸柔顺。也正因为这样，号称“没有打不响的品牌”的宝洁公司，一次又一次在中国争取到了消费者，打响了它一个又一个牌子。<br>　　国外的广告专家还提出了广告“要捉住大众的眼睛和耳朵”。换句话说，要使人们注意，使产品品牌能够脱颖而出，要么是独特的画面，要么是独特的声音。因此，在广告配音的创作活动中，选取一个独特的声音自然也属于广告创意的范畴，应该有广告配音中的“独特的销售主张”。<br>　　“南方黑芝麻糊”电视广告，开篇有一句“黑芝麻糊哎——”，选用的是一个女声，虽是吆喝，但音色不尖不乍，温和中带着一种年代久远的意味，而略带南方口音的“哎——”字拉长音，更是极易将受众带回到自己的童年小镇、故士家园。这样的一声吆喝，自然能够在短时间内一下抓住受众的心，吸引受众的注意。</p>
+<h3 id="三、统一的声音成为品牌的代表"><a href="#三、统一的声音成为品牌的代表" class="headerlink" title="三、统一的声音成为品牌的代表"></a>三、统一的声音成为品牌的代表</h3><p>　　凤凰卫视的“台声”，只选取张妙阳先生一人的声音，起到了“听声便知是凤凰”的广告效应。所谓“台声”，即频道之声音，它是一个频道（电台或电视台）为自己做的声音识别广告。</p>
+<h2 id="第二节-广告配音与广告语言的关系"><a href="#第二节-广告配音与广告语言的关系" class="headerlink" title="第二节　广告配音与广告语言的关系"></a>第二节　广告配音与广告语言的关系</h2><h3 id="二、广告配音语气与广告语言句式"><a href="#二、广告配音语气与广告语言句式" class="headerlink" title="二、广告配音语气与广告语言句式"></a>二、广告配音语气与广告语言句式</h3><p>　　有专家说，如果说人们对于语言本身的含义的理解是建立在一定的知识和理解力的基础之上的话，那么，人们对于语气的敏感则几乎是与生俱来的，即使是刚出生不久的婴儿也不例外。然而，语气从哪里衍生而来？<br>　　如果说，语气从我们脑中无形的文字而来，从我们手中有形的文字而来，那么，广告配音时，面对着为数不多的有形的文字，我们究竟应该用一种什么样的语气去表达它呢？作为配音创作依据的广告语言，其本身对于语气又有怎样的限定呢？<br>　　生活中，我们总有这样的体会，通常，我们对平等的、协商式的语气很容易接近，而对居高临下的、命令式的语气却比较反感；我们对生硬的语气难以接受，却对柔和的语气容易缩短距离；反问式的语气常常会使我们感到困窘，而设问的语气却使我们感到自然。<br>　　广告配音，针对具体的广告，在语气上，同样应注意受众在人际交流时共同的态度取向。当然，表现形式很可能是千变万化甚至干奇百怪的。</p>
+<h4 id="1-陈述的句式——陈述的语气"><a href="#1-陈述的句式——陈述的语气" class="headerlink" title="1. 陈述的句式——陈述的语气"></a>1. 陈述的句式——陈述的语气</h4><p>　　这是我们在生活中最为常用的一种句式、一种语气。它直接陈述事实，直接回答问题。广告语言中常常使用的就是这种生活中的基本语气。<br>　　陈述式的，语气肯定、自信，语调虽平直，但仍蕴含着配音者的态度与感情。</p>
+<h3 id="三、电视广告配音与广告语言"><a href="#三、电视广告配音与广告语言" class="headerlink" title="三、电视广告配音与广告语言"></a>三、电视广告配音与广告语言</h3><h4 id="3-电视广告配音“点译”画面"><a href="#3-电视广告配音“点译”画面" class="headerlink" title="3. 电视广告配音“点译”画面"></a>3. 电视广告配音“点译”画面</h4><p>　　旁白解说包括广告词中的“正文”部分和“标版”部分，它的配音方式为解说式。特别需要强调的是“标版”的播音。<br>　　在文字上，“标版”多表现为一句话，字数最少，精炼程度最高。而在整个广告配音的创作活动中，“标版”是最难处理的，因为短短的一句话代表的是品牌的形象、企业的形象。目前在广告配音圈内，能否播录“标版”似已成为衡量一位配音员是否为真正全面广告配音手的标准。<br>　　“标版”的配音一般应注意这么几点：<br>　　第一，平稳但不平淡。<br>　　“稳”，气息要调配匀称；<br>　　“稳”，吐字要饱满圆润；<br>　　“稳”，语气与品牌形象相吻合；<br>　　“稳”，准确落在画面的最后时刻。<br>　　不过，平稳不等于平淡，它同样需要情绪的渲染，需要感知到达内心的感觉，需要广告配音所特有的震撼力、感染力和说服力。<br>　　第二，少重音，少顿挫。<br>　　“标版”配音既要求每个字饱满圆润，又必须做到字与字的圆润相连，不生硬、不突兀，流畅、丰满。于是，少重音甚至有时没有重音；少波澜起伏甚至不希望抑扬顿挫，以一种沉稳、自信的语气透露出广告企业、广告产品的泱泱大气或是与众不同。<br>　　例如：标版是“上海家化”。起初，配音员将“上海”二字稍加重读，但广告客户不同意，要求没有重音，既不强调“上海”也不强调“家化”。<br>　　再如，标版是“中国电信”。在录制前，广告客户就提出，不希望抑扬顿挫，表现在字音上就是“国”、“电”二字的上声都不必播得太曲折。<br>　　在“正文”到“标版”的过渡中，一般有两种情况：一种是“标版”承接“正文”的语气；一种是“标版”与“正文”相区别，但保持“标版”的统一风格，这种情况多出现在产品的系列广告中。</p>
+<h4 id="4-电视广告配音的检核标准"><a href="#4-电视广告配音的检核标准" class="headerlink" title="4. 电视广告配音的检核标准"></a>4. 电视广告配音的检核标准</h4><p>　　电视广告配音又以什么标准来衡量呢？<br>　　广告词是广告文案中的一部分，有专家针对电视广告文案的撰写提出了检核的方法，这方法对于广告配音也不无帮助。</p>
+<ul>
+<li>  你撰写的文案所需要的时间是否超过了电视广告本身所允许的时间？一般说来，在 30 秒的电视广告中包含 65 个字的广告文案最有效果，电视广告中每一秒钟的字数不应该超过两个字。</li>
+<li>  开场白是否提纲挈领？</li>
+<li>  是否包含了容易引起受众反感的强迫性内容和语气？</li>
+<li>  文案内容和语气的转变是否过于突兀，是否会使受众感到过于吃惊和不习惯？</li>
+<li>  文案的句子是否足够简短？</li>
+<li>  是否足够口语化？</li>
+<li>  是否过于像纯粹的广告辞令？</li>
+<li>  是否在对画面的描述上花费了过多的时间？</li>
+<li>  是否对有些画面进行了必要的解释，使受众没有任何困难地看下去？</li>
+<li>  文案是否超出画面的节奏去描述下一个画面的内容？</li>
+<li>  是否还有多余的转折词汇、虚词、感叹词和过于修饰的词汇没有被删除？</li>
+<li>  是否对商品名称作了必要的、明确的表述和重复？</li>
+<li>  是否使用了说教式的句式和语气？</li>
+<li>  是否使用了不真实的夸张？</li>
+<li>  是否使用了做作的语气？</li>
+</ul>
+<p>　　据此，电视广告配音的检核应该从以下几方面入手：</p>
+<ul>
+<li>  是否在开口第一句话时就情绪饱满？</li>
+<li>  是否在语气中包含了容易引起受众反感的居高临下的因素？</li>
+<li>  是否在由正文到标版时语气衔接既自然顺畅又有所区别？</li>
+<li>  是否与画面中的人物表情、形体动作相吻合？</li>
+<li>  是否与画面中人物的口型开合相贴切？</li>
+<li>  是否与画面以及音乐的节奏合拍？ </li>
+<li>  是否做到了声画对位？</li>
+<li>  是否做到了音色与产品的匹配？</li>
+<li>  是否使用了不真实的夸张？</li>
+<li>  是否使用了做作的语气？</li>
+</ul>
+<h3 id="四、广播广告配音与广告语言的关系"><a href="#四、广播广告配音与广告语言的关系" class="headerlink" title="四、广播广告配音与广告语言的关系"></a>四、广播广告配音与广告语言的关系</h3><h4 id="1-广播广告词为“听”而写"><a href="#1-广播广告词为“听”而写" class="headerlink" title="1. 广播广告词为“听”而写"></a>1. 广播广告词为“听”而写</h4><p>　　而口头语言容易因同音或多意产生歧义，容易受到语气的影响，容易受到方言的干扰，所以，在广播广告中，为了受众听觉上的方便和需要，一般不使用复杂的句式，最好不用生僻的词语。<br>　　具体说来，广播广告语言：<br>　　（1）不能使用常见的同音字和有多种含义的字词，以免听众在听觉上对广告内容产生误解；<br>　　（2）应当充分注重广播广告语言口语化的特点，不要使用过长的、复杂的句式和生僻的字词，以免影响听众对广告信息的理解；<br>　　（3）除非在方言区域内的播出，否则广播广告应尽量不使用方言或方言词句；<br>　　（4）要特别注意广告语言的语气和断句，有些语气和断句在文字稿中很明确，但是变成口头语言却很可能不合常理或是难于理解。<br>　　这些无疑对广播广告的配音也是一种限定、一种约束。是有这样一则印刷广告：“高品位 宜价格 大批量”（宜兴产胡风牌果胶片）。<br>　　如果说“宜价格”在印刷广告中尚能够读懂，那么，放在广播广告里，通过听觉给听众以刺激，势必造成听不清的混乱。显然，广播广告不同于印刷广告，它不能在第一位置上凸现广告标题、广告口号，它需要用口语化的形式、用人们容易接受的话语结构来吸引听众。<br>　　例如，</p>
+<div class="fangsong">
+
+<p>　　女声：什么？灰指甲？真难看。那脚上呢？也是？怎么都有哇？<br>　　男声：灰指甲多发于脚上。<br>　　女声：哦，相互传染。怎么治呀？<br>　　男声：先把病甲剪掉，再用药水涂抹。<br>　　女声：什么药？<br>　　男声：神奇的帕特药盒，迅速去掉病甲，斩断手足癣的病源。<br>　　女声：怎么样？<br>　　男声：神啦！<br>　　旁白：——贵州神奇。</p>
+</div>
+
+<p>　　——这里，句式短小、平实的口语化特点体现得较为充分。开篇的女声问话实际上是两问两答：“这是什么？”、“那脚上呢？”都将回答省略。一贯而下的语言链条显示出浓郁的口语色彩和简洁的句式结构。这种排列的方式正好与一般的印刷广告的语项顺序相反。</p>
+<h4 id="3-广播广告配音的检核标准"><a href="#3-广播广告配音的检核标准" class="headerlink" title="3. 广播广告配音的检核标准"></a>3. 广播广告配音的检核标准</h4><p>　　专家们对广播广告的文案以及广播广告的特殊性，也制定了一些检核的标准：</p>
+<ul>
+<li>  文案是否有助于延伸受众的想象力？受众能否通过文案的介绍想到产品？</li>
+<li>  文案有没有及早提出品牌的名称和对受众的承诺？</li>
+<li>  文案是简明扼要还是喋喋不休？</li>
+<li>  有没有将重要的广告信息淹没在过多的人物对话中？</li>
+<li>  有没有为音乐和音响留下足够的时间？文案能否和音乐、音响完美地配合？</li>
+<li>  有没有使用过于书面化的语言？</li>
+<li>  有没有容易产生歧义的字句？</li>
+<li>  有没有不真实的对话？</li>
+<li>  有没有包括具体的语言环境？</li>
+</ul>
+<p>　　据此，广播广告配音的检核标准是：</p>
+<ul>
+<li>  是否在音色上有较大的、鲜明的区别？是否不致使听众对角色产生混淆？</li>
+<li>  是否在“对话”中表现生动却又不淹没广告信息？</li>
+<li>  是否在话语上体现了人物的情态性与动作性？</li>
+<li>  是否有容易产生歧义的字句？</li>
+<li>  是否有过于夸张的语气？</li>
+<li>  是否有独树一帜的语言个性？</li>
+<li>  是否与音乐、音响的基调、节奏合拍？</li>
+<li>  是否与音乐、音响有一个完美的配合？</li>
+</ul>
+<h2 id="第三节-广告配音与地域文化的关系"><a href="#第三节-广告配音与地域文化的关系" class="headerlink" title="第三节　广告配音与地域文化的关系"></a>第三节　广告配音与地域文化的关系</h2><h3 id="一、地域文化于广告文化的制约和影响"><a href="#一、地域文化于广告文化的制约和影响" class="headerlink" title="一、地域文化于广告文化的制约和影响"></a>一、地域文化于广告文化的制约和影响</h3><p>　　汉民族思维模式中的一个特点是模糊性、意会性，所谓“弦外之音”、“言外之意”、“只可意会，不可言传”等等，正是我们对语言文字的特殊体验。反映在广告语言上，便是在不违背语言文字正常规范的前提下，用恰如其分的模糊性和意会性使广告语言富于想象和回味的余地，以增强广告的艺术效果。<br>　　强调群体、贬抑个体是传统文化中另一个重要特征。反映在语言上，便是从大到小的排列顺序，姓和名、时间表示法，甚至信封上地址的写法也是如此，这与西方语言的表达顺序恰恰相反。这种排列模式给广告表达带来的往往是不利的危害，广告开头语多是“某某厂生产的某某牌……”、“国家二级企业某某厂”，这在无意中贬抑了商标或企业的名称，忽略了对所宣传的商品或企业主要信息的突出和强调。“中国有华意，华意在瓷都”，第一句是从大到小，第二句便从小到大了，效果就有了改良。<br>　　含而不露、严肃深沉是中国人的行为准则，但由于受到简明、醒目要求的制约，我国广告语言的含蓄性表现得不很突出，广告中幽默诙谐的语言并不常见，“两片儿”的话语在中国人看来已经是挺幽默的了，而西方广告语言的幽默则要大胆离奇得多，例如，“除了钞票，承印一切”（法国一印刷公司广告）。</p>
+<h2 id="第四节-广告配音与广告客户的关系"><a href="#第四节-广告配音与广告客户的关系" class="headerlink" title="第四节　广告配音与广告客户的关系"></a>第四节　广告配音与广告客户的关系</h2><p>　　广告是以现代经济社会的“生产与消费之间的分离”为契机而产生的。在现代社会中，生产与消费，不论在人、地、时上，莫不逐渐分离。</p>
+<p>　　“冰茶旭日升”电视广告的广告词是：“渴了累了就要喝冰茶旭日升！”配音员按照一般意义上的理解，将这句话处理为：“渴了——累了——就要喝冰茶旭日升！”客户不同意，提出了他的处理方式：“渴了累了就要喝——冰茶旭日升！”仔细推敲一下，发现客户的意见其实是对的，他所强调的是品牌，在“冰茶旭日升”之前来一个停顿，为的就是突出产品的名称，加深受众对品牌的印象。还有“喜之郎”果冻，客户要求广告词的配音处理是“果冻我要——喜之郎！”为的也是强调品牌印象。</p>
+
+    </div>
+
+    
+    
+    
+      
+
+
+    <footer class="post-footer">
+          
+
+<div class="post-copyright">
+<ul>
+  <li class="post-copyright-author">
+      <strong>本文作者  </strong>千灵夙赋
+  </li>
+  <li class="post-copyright-link">
+      <strong>本文链接 </strong>
+      <a href="https://qianling.pw/advertisement-narrating-textbook" title="《广告配音教程》书摘">https://qianling.pw/advertisement-narrating-textbook</a>
+  </li>
+  <li class="post-copyright-license">
+    <strong>版权声明  </strong>本博客所有文章除特别声明外，均采用 <a href="https://creativecommons.org/licenses/by-nc-sa/4.0/" rel="noopener" target="_blank"><i class="fab fa-fw fa-creative-commons"></i>BY-NC-SA</a> 许可协议。转载请注明出处！
+  </li>
+</ul>
+</div>
+
+          <div class="followme">
+  <span>　</span>
+
+  <div class="social-list">
+
+      <div class="social-item">
+        <a target="_blank" class="social-link" href="/atom.xml">
+          <span class="icon">
+            <i class="fa fa-rss"></i>
+          </span>
+
+          <span class="label">RSS</span>
+        </a>
+      </div>
+  </div>
+</div>
+
+          <div class="post-tags">
+              <a href="/tags/%E4%B9%A6%E6%91%98/" rel="tag"># 书摘</a>
+              <a href="/tags/%E9%85%8D%E9%9F%B3/" rel="tag"># 配音</a>
+          </div>
+
+        
+  <div class="post-widgets">
+    <div class="wpac-rating-container">
+      <div id="wpac-rating"></div>
+    </div>
+  </div>
+
+          <div class="post-nav">
+            <div class="post-nav-item">
+                <a href="/reading" rel="prev" title="《朗读学（第三版）》书摘">
+                  <i class="fa fa-chevron-left"></i> 《朗读学（第三版）》书摘
+                </a>
+            </div>
+            <div class="post-nav-item">
+                <a href="/printed-letter" rel="next" title="汉语标号的实现形式探究">
+                  汉语标号的实现形式探究 <i class="fa fa-chevron-right"></i>
+                </a>
+            </div>
+          </div>
+    </footer>
+  </article>
+</div>
+
+
+
+
+
+
+    <div class="comments" id="valine-comments"></div>
+</div>
+  </main>
+
+  <footer class="footer">
+    <div class="footer-inner">
+
+
+<div class="copyright">
+  &copy; 
+  <span itemprop="copyrightYear">2022</span>
+  <span class="with-love">
+    <i class="fab fa-github-alt"></i>
+  </span>
+  <span class="author" itemprop="copyrightHolder">千灵夙赋</span>
+</div>
+<div class="busuanzi-count">
+    <span class="post-meta-item" id="busuanzi_container_site_uv">
+      <span class="post-meta-item-icon">
+        <i class=""></i>
+      </span>你是第
+      <span class="site-uv" title="总访客量">
+        <span id="busuanzi_value_site_uv"></span>位到访的小伙伴喔
+      </span>
+    </span>
+    <span class="post-meta-item" id="busuanzi_container_site_pv">
+      <span class="post-meta-item-icon">
+        <i class=""></i>
+      </span>本站已被访问
+      <span class="site-pv" title="总访问量">
+        <span id="busuanzi_value_site_pv"></span>次啦
+      </span>
+    </span>
+</div>
+
+    </div>
+  </footer>
+
+  
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/animejs/3.2.1/anime.min.js" integrity="sha256-XL2inqUJaslATFnHdJOi9GfQ60on8Wx1C2H8DYiN1xY=" crossorigin="anonymous"></script>
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/next-theme-pjax/0.5.0/pjax.min.js" integrity="sha256-3NkoLDrmHLTYj7csHIZSr0MHAFTXth7Ua/DDt4MRUAg=" crossorigin="anonymous"></script>
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.6.0/jquery.min.js" integrity="sha256-/xUj+3OJU5yExlq6GSYGSHk7tPXikynS7ogEvDej/m4=" crossorigin="anonymous"></script>
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/fancybox/3.5.7/jquery.fancybox.min.js" integrity="sha256-yt2kYMy0w8AbtF89WXb2P1rfjcP/HTHLT7097U8Y5b8=" crossorigin="anonymous"></script>
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/lozad.js/1.16.0/lozad.min.js" integrity="sha256-mOFREFhqmHeQbXpK2lp4nA3qooVgACfh88fpJftLBbc=" crossorigin="anonymous"></script>
+<script src="/js/comments.js"></script><script src="/js/utils.js"></script><script src="/js/motion.js"></script><script src="/js/schemes/muse.js"></script><script src="/js/next-boot.js"></script><script src="/js/pjax.js"></script>
+
+  
+  <script src="https://embed.widgetpack.com/widget.js" async></script>
+  <script class="next-config" data-name="rating" type="application/json">{"enable":true,"id":8657,"color":"5bc0de"}</script>
+  <script src="/js/third-party/rating.js"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/hexo-generator-searchdb/1.4.0/search.js" integrity="sha256-vXZMYLEqsROAXkEw93GGIvaB2ab+QW6w3+1ahD9nXXA=" crossorigin="anonymous"></script>
+<script src="/js/third-party/search/local-search.js"></script>
+
+
+
+  <script src="/js/third-party/fancybox.js"></script>
+
+  <script src="/js/third-party/pace.js"></script>
+
+  
+  <script data-pjax async src="https://busuanzi.ibruce.info/busuanzi/2.3/busuanzi.pure.mini.js"></script>
+
+
+  <script class="next-config" data-name="leancloud_visitors" type="application/json">{"enable":true,"app_id":"zulMeib4pyC6zB1a65OmVtHz-gzGzoHsz","app_key":"TEjUlOUBz3KwSUmDQ35ROxpw","server_url":null,"security":false}</script>
+  <script src="/js/third-party/statistics/lean-analytics.js"></script>
+
+
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/quicklink/2.2.0/quicklink.umd.js" integrity="sha256-4kQf9z5ntdQrzsBC3YSHnEz02Z9C1UeW/E9OgnvlzSY=" crossorigin="anonymous"></script>
+  <script class="next-config" data-name="quicklink" type="application/json">{"enable":true,"home":false,"archive":false,"delay":true,"timeout":3000,"priority":true,"url":"https://qianling.pw/advertisement-narrating-textbook"}</script>
+  <script src="/js/third-party/quicklink.js"></script>
+
+
+<script class="next-config" data-name="valine" type="application/json">{"enable":true,"appId":"zulMeib4pyC6zB1a65OmVtHz-gzGzoHsz","appKey":"TEjUlOUBz3KwSUmDQ35ROxpw","serverURLs":"https://zulmeib4.lc-cn-n1-shared.com","placeholder":"说点什么好呢~","avatar":"wavatar","meta":["nick","mail","link"],"pageSize":10,"lang":null,"visitor":false,"comment_count":true,"recordIP":false,"enableQQ":true,"requiredFields":[],"emojiCDN":"//i0.hdslb.com/bfs/emote/","emojiMaps":{"团宝":"311f83d568e2fd702b08f40d4c838572a07ebea0.png","少前小剧场-心虚":"61ea3a788ec43241860ed984672eb588963bc98a.png","少前小剧场-打call":"f4b6b513bf4280da6395a40a61d15480ff12f978.png","少前小剧场-卖萌":"bbe8c979922144e667efd63dcce0320437425a00.png","少前小剧场-钱钱":"48ae808b0463e0cde3cc5c8666839776ed7a4cfb.png","泠鸢yousa-awsl":"7663b729161bd4556c2ec318c07791000743eb56.png","泠鸢yousa-打call":"718e9495846db4172eb87d2f7f02015a34d35ea2.png","泠鸢yousa-大哭":"3f757b147b9b1e201470eae7dac9cc0360172569.png","泠鸢yousa-好人卡":"e3907b3bb20b18e7ecb11cd86829c9a4ce5b1b2f.png","泠鸢yousa-加大力度":"a0393a2d4b522f07a319dfd2e91754a3cdff2c48.png","泠鸢yousa-滑稽":"a8057c0e0579b93c16010a270e261fd0a64034af.png","泠鸢yousa-请吃桃":"e92276d9d8c28f85f7dbcc0fbbb6ecb3345ce33e.png","泠鸢yousa-生气":"9e6ba9ff34101e04d3e321cad486f845f892050e.png","泠鸢yousa-真棒":"02ea49543a3ac52feee185c156ab08fb2bfdd89e.png","初音未来-GKD":"44caa7ec800837d8860482c214ac792f4c37c490.png","初音未来-加油":"4943a9be0a3134125c7d585b4dafde79a9a1990a.png","初音未来-哭了":"db9b01e5808967a32ed644b490ab47faf0f29ce3.png","花园Serena-？？？":"42f7ab2a562d000929979976d30669bec042662f.png","花园Serena-安详去世":"cdf595646132b98dcf1d230d351b2738d68f49c3.png","花园Serena-mua":"20319d3948da83f666a643b2c8103e6da0e36721.png","花园Serena-到点了":"af2f6c0dd1155f4aefb610cc6d09c135df9e6752.png","花园Serena-恭喜":"c1d8361755bb135d24b3b4680fe6ba03c086b395.png","花园Serena-喵":"4159859e6c9c2e0476299454b6015c2659149e3c.png","花园Serena-睡":"ae8ad8fd2a8d14e53938ba7dc7ca22681143dc09.png","白上吹雪-不是猫咪":"7524855a584f7ec0f9cf337b1a3554ee5ffd29b9.png","白上吹雪-吃惊":"aa6549e4daba755b5cf6a7031bd37ab9cf378706.png","白上吹雪-大佬喝茶":"9c7f6f0c192d972c27988d7d461477ca8871dcc6.png","白上吹雪-狐狐祟祟":"14f8be6955ee392baccd7d82b4371765a0c18523.png","白上吹雪-摸摸":"218cc0fb954a3dadde61eed03e3a376f277f36ee.png","白上吹雪-围观":"04d66a7b0b7b4f78bf45297cd91c0059de71b8bb.png","白上吹雪-一派狐言":"7d504e583857d68edf4fe0706be0b426f0d3cfb1.png","白上吹雪-emmm":"709bc019cf7960d9dcb40a0d5a444f8a78e376d3.png","原神-哦":"4b8b6f0e451c600abf2d83560125d03cfa97fe28.png","原神-哼哼":"62d09fa482842dabbd4a51176abc0ec20a64a359.png","原神-给我走开":"c0a9f2bea10fdf763b4fbe3874ee254d61916711.png","原神-鸽子":"d03a8f9f490eb007aae2d826f9143e3a29a3be5a.png","原神-干杯":"966f0b307bf4d07e81162dc32bf1e71c83bf997a.png","原神-吃惊":"d8d07498a567ea109a8fc4b58ffccdc33643cd99.png","原神-不要啊":"8ea92be976beb8126adc7cabc2aa7f2b02b9bee2.png","原神-拜托":"2f2817b84caf9d81fdce171d18a3f99983f1ec64.png","2233塔罗牌-撒花":"0d301be888e87aed6cc8e6548fbc74a23421dedc.png","2233塔罗牌-我觉得星":"1aa7391b61aa7be88644db2672cd4603559f1469.png","2233塔罗牌-下次一定":"294690ac14a2adc6ee50b138229aa5c53636e46f.png","洛天依·夜航星-爷青回":"d1202872850a335b357e702adaf3d2a79db72e13.png","洛天依·夜航星-萌妹初醒":"3159931d9afa243c6cf5939753e3c82acb69a554.png","洛天依·夜航星-冲鸭":"659efad4a6aa25ed6a98efe611564c26f497f436.png","洛天依·夜航星-Lucky":"bbeb9d231773a168397697072a11373893d7c01a.png","洛天依·夜航星-锦鲤":"35ab588061c32f07743b07f1ac3f62a16f34438c.png","神乐七奈-变猫猫":"9f699c56da1178079b18be27dc3f219138e4a164.png","神乐七奈-辛苦辣":"7b22908d4afac2c0ad1ba96177ac7a24855f4a2e.png","2021拜年纪-投币":"d2d0a3a4621dede09506264110cefcbfa9561572.png","双鱼座-做白日梦":"ba03f95ebe480106806377024e0c93ddb9c0f836.png","崩坏3-吃饭团":"62173e795139cfaf60b5665165400e99bb8a14ac.png","崩坏3-饿了":"8b6160dfc5f8a8608e88bcb380f4e812b8a165cb.png","崩坏3-干杯":"8de5f3a1cc3dfd9f7be8f12662a489214d3e72fb.png","不问天-大哭":"aea0c17a62f825621a1273f100c17330180b7b01.png","进击的冰糖-探头":"ae834e6efdd568f7e30aec059a8646b75438d896.png","干物妹！小埋-？？？":"d2d0955e6ddf2d3528c6f2364b7002b114907c94.png","干物妹！小埋-抱抱":"f7d5a5150733a15386d98015114630e893f5281b.png","Hiiro-亲亲":"0b54433d978f51a7031a965f2981832129eb8ef5.png","C酱-问号":"4fb6f0d8fcedef1624c5999609036346748b31e2.png","C酱-AWSL":"4b8ac5c1fa7358d949ecfe089e02b252b29d6082.png","C酱-害怕":"f5f777b059df8c40cbc240586aeaf4f63af97f91.png","C酱-嘻嘻":"65cf8762af542e8a72edc466b05bb1a19600dc2d.png","C酱-不要啊":"86994300b58eb3cb91fc99818dd87a691deed564.png","一周年纪念-抱大腿":"0800070155b5dabc3097793c0e086420057a7e2f.png","咩栗-nya":"b8011132b40b4f9807523db3d21581f82c2dce91.png","咩栗-打call":"01b6ee0712d13daa323dbd89217018ea7f6794a5.png","咩栗-聪明":"750542d25fcf1675baf143c2ab7e945445e8b078.png","咩栗-好耶":"9aa9b53211a938c1859c15407cee57cc7519fefd.png","咩栗-惊":"8c4ecf43c895bc9ed23eea9274328ba6cf24481e.png","咩栗-咩？":"bb305147beb88a101061dff54cbcb9062635670b.png","咩栗-咩呀！":"a36a0973f1c9935577db05bc90b602dc61236c0f.png","咩栗-斯米马三":"a46bc117192aa2495c492acca03e27393258c015.png","咩栗-羊名立万":"8fd2b4174f94c1c9b7cf4cf132a54838db40ddff.png","咩栗-羊羊得意":"dd55311765d00d768acb157958e85413ae25578c.png","嘉然-mua":"74ea9b89f8923df6a123cabe6053762b9e776387.png","嘉然-安详":"312359401cc72c34fcea3654cdba42db0f9f3dd0.png","嘉然-暗中观察":"3acf0b43facfd0601f5ab88cca6e401aa4f5a02e.png","嘉然-锤头丧气":"e6342840311ffeba8f2c58d1c360d76644e75dff.png","嘉然-点赞":"7017d90d4ceb9ea042cef8adc70d35eeb1f95e7e.png","嘉然-嘉人们":"d270845c9590da372e9b311cd6d976459acd1087.png","嘉然-嘉速心动":"387035168f40ca81afce8b38303c60ceb0c5dc6c.png","嘉然-流口水":"78bfeff475ad56a6d9379164b099f1ad8ecd7086.png","嘉然-你好":"d1530f972a59bca97bc4b8acf4f7e16f989f37c3.png","嘉然-一眼真":"ff436f5821db8b871517d0e5bb7ade7b64d3d0bf.png","嘉然-绷不住了":"4f0a9ee7708d71083dba4e79768ff0b7c308eaf4.png","嘉然-笔芯":"332a6df0e6def8da77e09310a62f3bffdc397640.png","嘉然-我有嘉心糖":"7579c6085f984f39ff0f6a2cb710301a2b113fac.png","银杏鎏金-幸运喷雾":"89e550f628333fe35f0b010337bdc5c4bf713cfc.png","2022拜年纪-HAHA":"ece69ad87284eb12324572be2a9009c0bc5e65b8.png","2022拜年纪-？？？":"0c5acb46f82cc559e16e542c29ae3bd503b65344.png","2022拜年纪-比心":"5001d623ddbe81d704e0093343ced12e2b38a3db.png","2022拜年纪-不愧是我":"ab807d0265a5c834c0d4d54b676c54da4feb38ce.png","2022拜年纪-不要啊":"80a74addbae8dd5bccc71728181e1d7e11a79d19.png","2022拜年纪-馋":"5012311cfa88687663f636f044f020a611a49848.png","2022拜年纪-打call":"54f99d1e613b42b0241a7f7c9ef5d8f5331fc754.png","2022拜年纪-瞪大双眼":"7def07a3a1829c7e26cfa6a3f1259fe3f9b9d4d3.png","2022拜年纪-放空":"823ea6f47ef1dda2d85317f635dc7d42a58c1545.png","2022拜年纪-干了这杯":"de06e28d6afee561556c6e3cbd199d21f4e4fd09.png","2022拜年纪-哈？":"206ddfebe778cf4f4c2c3f6f87330db32d4e1708.png","2022拜年纪-擦擦":"7b5fb834faccffe090db5ae3406468a306018bfd.png","2022拜年纪-哭哭":"365002e8c6007564b92fe4eb7ab0f815e988995e.png","2022拜年纪-捂脸":"380d5814aa70370f57f990ab68b4cd2a195830a6.png","2022拜年纪-恰柠檬":"5d2e17818c67eaff2de2890d808cc1f7a2bb8232.png","2022拜年纪-无情吃瓜":"3342b9aa0c6fc6f7ddfec0bcc611fa4ea6987c60.png","2022拜年纪-眼前一黑":"9cf5e735e64525c59f26ccbcb4ddf6ba5a29ed11.png","2022拜年纪-星星眼":"ef49e822e72ced75f71950f4c296192dae543486.png","2022拜年纪-晕":"460d02950b4d676604e9d4686fa769a866d21191.png","拜年纪2022-火了":"20ee37d0695247f6f32e71de264fe7e955d74835.png","月隐空夜-咕咕咕":"df59993b9ea4255e8666bd417f75b3857bd67627.png","月隐空夜-回家了":"3c796d34b61c18fd1d03443a4a144c1133859600.png","月隐空夜-欧拉":"36465ab94e113a0557cff76bed5c6266277430f3.png","月隐空夜-欧气满满":"fce384d8ad9dd6ba2b87e6a8c6fec1e3f8576984.png","月隐空夜-天才":"542eaddb1b04f85a04068f31bfe1c133a5270a66.png","月隐空夜-完了":"1289c9f89244342b83f784d3bf6c18dcd548f1e3.png","新月冰冰!-心脏骤停":"04f0e3087d39629079bbfc7f2b2d0e3cdd3eada6.png","新月冰冰!-加油":"46be9e14a41ec1f392240c5c7f3006cbff5b3744.png","新月冰冰!-不可以色色":"116f93998c4c50a8c801103b9037f793f936a896.png","新月冰冰!-大哭":"50a0ad849ffae469cd376f5e4afeb0ab64b74887.png","新月冰冰!-单推":"542fbbc36493831ec98ed64b51d60a1191afa63e.png","新月冰冰!-诶嘿":"dae8436e7042b1440748993da11d5c93e55e0c13.png","新月冰冰!-给花花":"fac1c332932004b3922e19b1d8f20208ddb7ea23.png","新月冰冰!-滑稽":"c2dfb168f43d334ff291042e81ddf80a8a059913.png","新月冰冰!-开车":"83630b278dd62d2dde701021d98be2d5fcbf00f3.png","新月冰冰!-穷醒":"9cc02af9592ceceb795006cf2611b4a423ec4a19.png","新月冰冰!-谢谢老板":"ddc6b7389787bec178ab24eb842ee949d2d79be2.png","新月冰冰!-kira":"f50869288aa706cf9f1aa9e5d3f7274eac558f68.png","Hiiro二周年-吃瓜":"f5dd831cd8dc9fc93a8cf21247f2e1bdbfa65eff.png","Hiiro二周年-大的要来了":"7cb1ccd578c1946ff68cbcf55add6527cc7826e1.png","Hiiro二周年-好耶":"3250844f983fad2e8888a69f9438a925492630b1.png","Hiiro二周年-坏女人":"74f02465c6c057aebb0df5cb3ab785616b5f077b.png","Hiiro二周年-击剑":"3212b33d39221df349dea0695701bbce07971b00.png","Hiiro二周年-寄":"22ce9c662192d858231ffd02190db7338e0b6e8c.png","Hiiro二周年-辣眼睛":"8ea839758e87947326711297ca7c08a9ad3af906.png","Hiiro二周年-流口水":"0648c8bf4f3836de0902b4ab8e9b1c1b68505a5e.png","Hiiro二周年-麻了":"a7b0deef902b639e40c9b4dc3d3a9df5793cf538.png","Hiiro二周年-无语":"5a61e12360c94b413fa6d370829b8d7f4733c897.png","Hiiro二周年-吓":"cbaca277bcc77739abf41bfc5c377b61ff8527d9.png","Hiiro二周年-两眼一黑":"9b6d393c8f9248e9f8ea8e1d075cc88a300972f3.png","崩坏学园2-好耶":"f1fe88c6d201f2b5d91ad70bcad15288d4569f00.png","崩坏学园2-偷瞄":"31406161e268ab3a3ae24befacc64ab9812d478b.png","崩坏学园2-乖巧":"fb397421eaea8f271acfe135a8dc49bffa7605be.png","扶桑大红花-疑惑":"5d3d9164fd05da8a1690d7a1dff210bdf822a64d.png","崩坏3-幸福":"714cc90d3485a003f53eecec336bea8a0b2dc12d.png","扶桑大红花-略略略":"e1fd8c1f6947c94e3227e7f7afe8de61aa277a24.png","扶桑大红花-生气":"6adad591921aa4d51a8399b6efdf18f84e7144f6.png","扶桑大红花-好诶":"1acaf75c1f900e827922169b8512a5c38695f620.png","扶桑大红花-啪":"0f06e1363cbfd72ed411c2385f3c64d098fdac18.png","扶桑大红花-入脑":"6b343b588735140442460054a4b64e81a6ee9dd9.png","扶桑大红花-不行":"b21a234b272c952b012af2cfa097693b126bd445.png","扶桑大红花-rua":"50053d5c3c485fda2c110ed0874a6a5a2d7f1dff.png","暹罗猫小豆泥-抱大腿":"1e309b348e969e7ff1c7d873352799a2005494d5.png","暹罗猫小豆泥-惊讶":"d6024fd52d7e66241062c045559974e2a4c6e87f.png","暹罗猫小豆泥-哭":"9153d549e425cc02eb911695fff29cb59b338da0.png","暹罗猫小豆泥-探头":"4741a1d527c52365850368b2f480d5818b23cb8f.png","小可学妹-老板大气":"f5fadc61fd4da10fca13cc352e9a37663c21daf6.png","小可学妹-好热":"6892a3b67b1968c550fdd110e9ff8f995973a44b.png","小可学妹-两眼一黑":"66b17fa948ce00a66f260b202dff5bb943103c6c.png","Akie秋绘-可爱":"d1e9aeb4fee6a64e1cbc17c6fe129d3b74e41f50.png","Akie秋绘-哭哭":"06fb34e4d4d33477fcbf13cb5d8327c2bd746e76.png","天涯明月刀伙伴-？？？":"6b7815e08667c6fd7905b7c640c5b46b2bc4dec0.png","天涯明月刀伙伴-馋":"0467b117ad55f21d2b13b8230dc28bc06039d842.png","天涯明月刀伙伴-emo":"8b0cf44f7311445e1590391c7a091a664bad353b.png","祖娅纳惜生贺-懒":"97029c26e7b2700dd30f9ac53842e4806872f262.png","祖娅纳惜生贺-泪奔":"1486e90eea32c556b21a8a0c9474cb8b04f04eae.png","祖娅纳惜生贺-恰饭":"780146c9ea1b35d7b8efad3de8a6a153d42d760e.png","祖娅纳惜生贺-生气":"115705216f64896f40b0bab9ee0b127c315e3721.png","祖娅纳惜生贺-晚安":"1e6f9b96f9ed121928e4bbaa27a4263156b48d3d.png","星瞳-星想事成":"23dcbf6168d8befa79856764d1a4036662786063.png","请吃红小豆吧-吃薯片":"35aeeddf6f0c96dec6652e6050e34626d6cfdcbf.png","请吃红小豆吧-发呆":"ffdc8f1ab56c4d9ccc6a35a7a6bb7092df93f231.png","请吃红小豆吧-告辞":"463fb9facfa0d4700b001ef9365e7253f80a0459.png","请吃红小豆吧-害羞":"7e1ae398526c28926767fda86bf41ba6f6d6e7b4.png","请吃红小豆吧-好耶":"905662fe86b316d361a37e64c6d753ee6efb1d2e.png","请吃红小豆吧-坏笑":"9ff8ab26feeb0a7f65c698825192cbbee417dcd3.png","请吃红小豆吧-泪目":"41f2e34af7e0c3cdd726dadbc8933f21f01d1c13.png","请吃红小豆吧-摸摸头":"7fe816a29961559ac6248274087de14b3447f3f2.png","请吃红小豆吧-哇":"be9352ed161a0d0aa222986b5610802bbf18e5a6.png","请吃红小豆吧-我很好":"ad9d73e683990c86e06be15e0187c930826de644.png","请吃红小豆吧-在吗":"865566aa175609d7a018436046407199a4e2b51a.png","请吃红小豆吧-糟糕":"8c8372a8fc9655e1559a764afe3d769fa141c96e.png","请吃红小豆吧-啧":"b033a8a098bb321a6220cd10a534322a7ea94aad.png","最后的召唤师-吃瓜":"72007fc6e0cbc2b2c13b8c3971e333708024785a.png","最后的召唤师-摸摸":"808b65dddecd55c06bde59080823f60030b6be98.png","最后的召唤师-歇歇":"63e50835bad0184129e9382df435efbf6b29a3b0.png","眞白花音-打call":"e3957fbe286f694f215fafdcc6597c9a9cc3a5ae.png","眞白花音-大头":"8cf7b3d9e9b81017d6d616b643373bf57b516ec5.png","眞白花音-对不起":"b12fa885dc14cdc73cdb71f69f70a54350316d92.png","雪绘-比心":"892ec2ea31bae16044c683b68b4744fda62f1eff.png","坎公骑冠剑-YYDS":"207ad2f10f32e138c29761fd3526877e2210c2e2.png","坎公骑冠剑-唱歌":"46dbf43a57841ae840e21e8678b7daa58935a26e.png","坎公骑冠剑-吃鸡腿":"db344ad0fd23621beecb7db3abb7567156bfb8f4.png","坎公骑冠剑-出来玩":"485be2a946e954ba886b50b8ba1033accb056071.png","坎公骑冠剑-干杯":"25cab88e656ea009152ad6364df1b42065d1ffda.png","坎公骑冠剑-乖巧":"c9468c3a6dd02389b2e1364fba39f51efea9f247.png","坎公骑冠剑-惊叹":"30ed9cd688e17cc6c54f7b969b6e89b74580a5db.png","坎公骑冠剑-嗯!":"9d7f7dff618d4fbcb99cfef30141e37105179044.png","坎公骑冠剑-你还好吗":"d48c0e8ef71bc2af28d25ac390c67a9f08533517.png","坎公骑冠剑-你在干嘛":"4521901b073665c42f76a50b07acb19a2d3459bf.png","坎公骑冠剑-欧气传输":"e8f1308e982c818a6d7a6b4ff3ef5d92c24f4fe0.png","坎公骑冠剑-送花":"9fb76616e1cdf524bc254f2b8873b83d43e03b87.png","坎公骑冠剑-哇":"a737de02e1952f2841916cff82e73009f9946dec.png","坎公骑冠剑-晚安":"c223ba1967dd328307f74e2b58f815acb3232cf9.png","坎公骑冠剑-妖妖灵":"2c8eee463117bec38f38d6cf6873d333aa9660a5.png","永雏塔菲-不理你了":"ec38a461c767fd0f4dee7346f82d81e5a88b176c.png","永雏塔菲-嘲笑":"094c321f0829f0894f48195d6671358a1a43b53c.png","永雏塔菲-对呀对呀":"37afa9e099d0c2ca9a4f3ff7d599e86060d6b942.png","永雏塔菲-尴尬":"71a5b730a3c20ddac64f8e7803ffc00da97f7397.png","永雏塔菲-哈哈哈":"b1f89d85b9c9f8553fe021c1e5785bc2995f8751.png","永雏塔菲-累":"889f95e3b36f257cb6b68f420b8238a11c596d19.png","永雏塔菲-摸头":"a826477acfa607224dd4a6771431af3b18ee8f92.png","永雏塔菲-亲嘴":"ce2123ec6b4f15eb8dfc2467f36fa3d69f2f97cd.png","永雏塔菲-闪亮登场":"c7eff8db64b132e6757bacdd51e649e16965f6b9.png","永雏塔菲-生日快乐":"9daed0ba16c89f983c7fcfa38e2bc8d1b80f7957.png","永雏塔菲-太好吃了":"86b760ed0a466b5dc3fa0b1e64b9ba7d6b53b6ed.png","永雏塔菲-嘻嘻喵":"866c99dbf6cb5e054e8e94be60c1b37ff4581eaa.png","永雏塔菲-星星眼":"bf3e961a1c3d4edf5ebdd063418495a1ed4c865f.png","永雏塔菲-嘤嘤嘤":"ba43546b013efffa7821dc21df6c79490cbafe72.png","永雏塔菲-有鬼":"b33d0672a01810a6b26696bf4a56204dadd5ff31.png","永雏塔菲-晕了":"d395fd944642b882a9226db81dcfa2e80307461c.png","永雏塔菲-震惊":"36bea35a3a15b675b2f5f28529582f82cf65b1c9.png","奈姬niki-微笑":"6fdc161f1086c522d90e684639a3bd1c48837507.png","奈姬niki-我超":"8d6d65fa2764084fd17fd18bef5a2bbc58f044f4.png","奈姬niki-无语":"33479daa29101a0846d7735cd5fba0d847be6e51.png","奈姬niki-谢谢":"8eaca252ea780a992261b4f9df7a4e170cfd71f1.png","有栖mana-打call":"0572afd470f86cc73cd5a1dff047cd22b620f336.png","有栖mana-喝可乐":"7788e653641e40f5043267aa6f73afbd73f5dd73.png","有栖mana-嘿嘿嘿嘿":"0500a6063e9828ce5002f0d796b19569db7ea63c.png","有栖mana-你好":"0d1575f7203eaf1705cc1104eaf7c02983cae9f0.png","有栖mana-辛苦了":"1893dad434a59c1f5e9c70e1440a6b323a92c3c6.png","有栖mana-炸毛":"f8d86249f486e3e0eb0b601bdf9994cb76634538.png","有栖mana-做什么？":"eb2eb12a288287b4f46d7a4dbeb71ec645810726.png","幻塔-害羞":"7868841b13f2067418c34becd73fde4be8a8bdfe.png","鹿乃桜帆-早上好":"1b58aba1d2e1372a8c4b7e49cb420db738bce414.png","鹿乃桜帆-恭喜":"584dae2f7faf4ee160c389e4ba0eebfb26aeb910.png","鹿乃桜帆-惊":"b945fc60b60467fc80b1e18ba4ea6d8c7b3ae0f9.png","鹿乃桜帆-期待":"5ae064b9deefdce14129d24659f0ee605a0e341b.png","鹿乃桜帆-神":"863c349b44abb098fecac479772f23ef1edd10f5.png","鹿乃桜帆-3Q":"9bee9ccc87c3ffe392e5572c4f67dae92a031e35.png","尼奈-妙!！":"3c2439d868818711b6c2cee035c4d51818c07c99.png","蕾尔娜Leona-反弹":"bc82f5b4e8525efeac017a1a9a3ea94d811d4463.png","蕾尔娜Leona-好耶":"f5269730d3156ba2a6cbe5c127d65753b3143f81.png","约战4-疑惑":"9174bde1afdde014a1b066c1bbb3027dc8dbb834.png","夏日青春欧皇套装-谢谢老板":"ca607626747f23cf37dbe8bb81397985dcb0ab17.png","夏日限定宅家手册-期待":"aaf3de49543253272e7eaeabff07ef0d162db67a.png","夏日限定宅家手册-重在参与":"aeafdb2f36c2cfde1ff4dadfecde48241ee31f15.png"},"el":"#valine-comments","path":"/advertisement-narrating-textbook"}</script>
+<script>
+document.addEventListener('page:loaded', () => {
+  NexT.utils.loadComments(CONFIG.valine.el)
+    .then(() => NexT.utils.getScript(
+      '/js/custom/Valine.min.js',
+      { condition: window.Valine }
+    ))
+    .then(() => {
+      new Valine(CONFIG.valine);
+    });
+});
+</script>
+
+</body>
+</html>

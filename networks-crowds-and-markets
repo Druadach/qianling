@@ -1,0 +1,643 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+  <meta charset="UTF-8">
+<meta name="viewport" content="width=device-width">
+<meta name="theme-color" content="#222"><meta name="generator" content="Hexo 5.4.0">
+
+
+  <link rel="apple-touch-icon" sizes="180x180" href="/images/apple-touch-icon-next.png">
+  <link rel="icon" type="image/png" sizes="32x32" href="/images/favicon-32x32.png">
+  <link rel="icon" type="image/png" sizes="16x16" href="/images/favicon-16x16.png">
+  <link rel="mask-icon" href="/images/logo.svg" color="#222">
+
+<link rel="stylesheet" href="/css/main.css">
+
+<link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Noto+Serif+SC:300,300italic,400,400italic,700,700italic%7CZCOOL+XiaoWei:300,300italic,400,400italic,700,700italic&display=swap&subset=latin,latin-ext">
+
+<link rel="stylesheet" href="/fontawesome/all.min.css">
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/animate.css/3.1.1/animate.min.css" integrity="sha256-PR7ttpcvz8qrF57fur/yAx1qXMFJeJFiA6pSzWi0OIE=" crossorigin="anonymous">
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/fancybox/3.5.7/jquery.fancybox.min.css" integrity="sha256-Vzbj7sDDS/woiFS3uNKo8eIuni59rjyNGtXfstRzStA=" crossorigin="anonymous">
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/pace/1.2.4/themes/blue/pace-theme-minimal.css">
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/pace/1.2.4/pace.min.js" integrity="sha256-gqd7YTjg/BtfqWSwsJOvndl0Bxc8gFImLEkXQT8+qj0=" crossorigin="anonymous"></script>
+
+<script class="next-config" data-name="main" type="application/json">{"hostname":"qianling.pw","root":"/","images":"/images","scheme":"Muse","darkmode":false,"version":"8.11.1","exturl":false,"sidebar":{"position":"right","display":"hide","padding":18,"offset":12},"copycode":true,"bookmark":{"enable":false,"color":"#222","save":"auto"},"mediumzoom":false,"lazyload":true,"pangu":false,"comments":{"style":"tabs","active":"valine","storage":true,"lazyload":true,"nav":null,"activeClass":"valine"},"stickytabs":false,"motion":{"enable":true,"async":false,"transition":{"post_block":"fadeIn","post_header":"fadeInDown","post_body":"none","coll_header":"fadeInLeft","sidebar":"fadeInUp"}},"prism":false,"i18n":{"placeholder":"搜索...","empty":"没有找到任何搜索结果：${query}","hits_time":"找到 ${hits} 个搜索结果（用时 ${time} 毫秒）","hits":"找到 ${hits} 个搜索结果"},"path":"/search.xml","localsearch":{"enable":true,"trigger":"auto","top_n_per_article":1,"unescape":false,"preload":true}}</script><script src="/js/config.js"></script>
+
+    <meta property="og:type" content="article">
+<meta property="og:title" content="《网络、群体与市场》书摘">
+<meta property="og:url" content="https://qianling.pw/networks-crowds-and-markets">
+<meta property="og:site_name" content="千灵">
+<meta property="og:locale" content="zh_CN">
+<meta property="og:image" content="https://qianling.pw/images/covers/250.jpg">
+<meta property="og:image" content="https://qianling.pw/images/posts/networks-crowds-and-markets/networks-crowds-and-markets-1.jpg">
+<meta property="og:image" content="https://qianling.pw/images/posts/networks-crowds-and-markets/networks-crowds-and-markets-2.jpg">
+<meta property="article:published_time" content="2021-10-30T14:23:24.000Z">
+<meta property="article:modified_time" content="2022-01-08T01:46:05.784Z">
+<meta property="article:author" content="千灵夙赋">
+<meta property="article:tag" content="网络科学">
+<meta name="twitter:card" content="summary">
+<meta name="twitter:image" content="https://qianling.pw/images/covers/250.jpg">
+
+
+<link rel="canonical" href="https://qianling.pw/networks-crowds-and-markets">
+
+
+
+<script class="next-config" data-name="page" type="application/json">{"sidebar":"","isHome":false,"isPost":true,"lang":"zh-CN","comments":true,"permalink":"https://qianling.pw/networks-crowds-and-markets","path":"networks-crowds-and-markets","title":"《网络、群体与市场》书摘"}</script>
+
+<script class="next-config" data-name="calendar" type="application/json">""</script>
+<title>《网络、群体与市场》书摘 | 千灵</title>
+  
+    <script async src="https://www.googletagmanager.com/gtag/js?id=UA-141264217-1"></script>
+  <script class="next-config" data-name="google_analytics" type="application/json">{"tracking_id":"UA-141264217-1","only_pageview":false}</script>
+  <script src="/js/third-party/analytics/google-analytics.js"></script>
+
+  <script src="/js/third-party/analytics/baidu-analytics.js"></script>
+  <script async src="https://hm.baidu.com/hm.js?b95f636e57f871a4ea1faeae2b4f30e5"></script>
+
+
+
+
+  <noscript>
+    <link rel="stylesheet" href="/css/noscript.css">
+  </noscript>
+<link rel="alternate" href="/atom.xml" title="千灵" type="application/atom+xml">
+</head>
+
+<body itemscope itemtype="http://schema.org/WebPage" class="use-motion">
+  <div class="headband"></div>
+
+  <main class="main">
+    <header class="header" itemscope itemtype="http://schema.org/WPHeader">
+      <div class="header-inner"><div class="site-brand-container">
+  <div class="site-nav-toggle">
+    <div class="toggle" aria-label="切换导航栏" role="button">
+        <span class="toggle-line"></span>
+        <span class="toggle-line"></span>
+        <span class="toggle-line"></span>
+    </div>
+  </div>
+
+  <div class="site-meta">
+
+    <a href="/" class="brand" rel="start">
+      <i class="logo-line"></i>
+      <p class="site-title">千灵</p>
+      <i class="logo-line"></i>
+    </a>
+  </div>
+
+  <div class="site-nav-right">
+    <div class="toggle popup-trigger">
+        <i class="fa fa-search fa-fw fa-lg"></i>
+    </div>
+  </div>
+</div>
+
+
+
+<nav class="site-nav">
+  <ul class="main-menu menu"><li class="menu-item menu-item-home"><a href="/" rel="section"><i class="fas fa-flower fa-fw"></i>首页</a></li><li class="menu-item menu-item-categories"><a href="/categories/" rel="section"><i class="fa fa-cookie fa-fw"></i>分类</a></li><li class="menu-item menu-item-archives"><a href="/archives/" rel="section"><i class="fas fa-acorn fa-fw"></i>归档</a></li><li class="menu-item menu-item-play"><a href="/play/" rel="section"><i class="fa fa-fish fa-fw"></i>游戏</a></li><li class="menu-item menu-item-message"><a href="/message/" rel="section"><i class="fa fa-dog fa-fw"></i>留言</a></li><li class="menu-item menu-item-about"><a href="/about/" rel="section"><i class="fa fa-carrot fa-fw"></i>关于</a></li>
+      <li class="menu-item menu-item-search">
+        <a role="button" class="popup-trigger"><i class="fa fa-search fa-fw"></i>搜索
+        </a>
+      </li>
+  </ul>
+</nav>
+
+
+
+  <div class="search-pop-overlay">
+    <div class="popup search-popup"><div class="search-header">
+  <span class="search-icon">
+    <i class="fa fa-search"></i>
+  </span>
+  <div class="search-input-container">
+    <input autocomplete="off" autocapitalize="off" maxlength="80"
+           placeholder="搜索..." spellcheck="false"
+           type="search" class="search-input">
+  </div>
+  <span class="popup-btn-close" role="button">
+    <i class="fa fa-times-circle"></i>
+  </span>
+</div>
+<div class="search-result-container no-result">
+  <div class="search-result-icon">
+    <i class="fa fa-spinner fa-pulse fa-5x"></i>
+  </div>
+</div>
+
+    </div>
+  </div>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.6.0/jquery.min.js"></script>
+
+<div class="top-scroll-bar"></div>
+
+<canvas class="fireworks" id="canvas" style="position: fixed;left: 0;top: 0;z-index: 1; pointer-events: none;" ></canvas>
+
+<script>
+  document.write('<script type="text/javascript" src="/js/custom/custom.js"><\/script>');
+if( !/Android|webOS|iPhone|iPod|iPad|BlackBerry/i.test(navigator.userAgent)){
+  document.write('<script type="text/javascript" src="//cdn.bootcss.com/animejs/2.2.0/anime.min.js"><\/script> <script type="text/javascript" src="/js/custom/fireworks.js"><\/script>');
+}
+</script>
+
+<!-- 动态背景 -->
+<script>
+if( !/Android|webOS|iPhone|iPod|iPad|BlackBerry/i.test(navigator.userAgent)){
+  document.write('<script type="text/javascript" src="/js/custom/jquery.backstretch.min.js"><\/script>');
+}
+</script>
+<script type="text/javascript">
+  $("body").backstretch([
+    "/images/background/background (1).webp",
+    "/images/background/background (2).webp",
+    "/images/background/background (3).webp",
+    "/images/background/background (4).webp",
+    "/images/background/background (5).webp",
+    "/images/background/background (6).webp",
+    "/images/background/background (7).webp",
+    "/images/background/background (8).webp",
+  ], {duration: 60000, fade: 1000, animateFirst: true});
+</script>
+
+<!-- live2d -->
+<div id="waifu">
+  <div class="waifu-tips" style="opacity: 0;"></div>
+  <canvas id="live2d" width="280" height="250" class="live2d"></canvas>
+</div>
+<script>
+if( !/Android|webOS|iPhone|iPod|iPad|BlackBerry/i.test(navigator.userAgent)){
+  document.write('<script type="text/javascript" src="/live2d/live2d.js"><\/script> <script type="text/javascript" src="/live2d/waifu-tips.js"><\/script>');
+}
+</script>
+
+<!-- 打字礼花及震动特效 -->
+<script>
+if( !/Android|webOS|iPhone|iPod|iPad|BlackBerry/i.test(navigator.userAgent)){
+  document.write('<script type="text/javascript" src="/js/custom/activate-power-mode.js"><\/script>');
+}
+</script>
+<script>
+    POWERMODE.colorful = true; // ture 为启用礼花特效
+    POWERMODE.shake = false; // false 为禁用震动特效
+    document.body.addEventListener('input', POWERMODE);
+</script>
+
+</div>
+        
+  
+  <div class="toggle sidebar-toggle" role="button">
+    <span class="toggle-line"></span>
+    <span class="toggle-line"></span>
+    <span class="toggle-line"></span>
+  </div>
+
+  <aside class="sidebar">
+
+    <div class="sidebar-inner sidebar-nav-active sidebar-toc-active">
+      <ul class="sidebar-nav">
+        <li class="sidebar-nav-toc">
+          文章目录
+        </li>
+        <li class="sidebar-nav-overview">
+          站点概览
+        </li>
+      </ul>
+
+      <div class="sidebar-panel-container">
+        <!--noindex-->
+        <div class="post-toc-wrap sidebar-panel">
+            <div class="post-toc animated"><ol class="nav"><li class="nav-item nav-level-1"><a class="nav-link" href="#%E7%AC%AC1%E7%AB%A0-%E6%A6%82%E8%BF%B0"><span class="nav-text">第1章　概述</span></a><ol class="nav-child"><li class="nav-item nav-level-2"><a class="nav-link" href="#%E5%9B%BE%E8%AE%BA"><span class="nav-text">图论</span></a></li><li class="nav-item nav-level-2"><a class="nav-link" href="#%E5%8D%9A%E5%BC%88%E8%AE%BA"><span class="nav-text">博弈论</span></a></li><li class="nav-item nav-level-2"><a class="nav-link" href="#%E4%BF%A1%E6%81%AF%E7%BD%91%E7%BB%9C"><span class="nav-text">信息网络</span></a></li><li class="nav-item nav-level-2"><a class="nav-link" href="#%E7%BD%91%E7%BB%9C%E5%8A%A8%E5%8A%9B%E5%AD%A6%EF%BC%9A%E7%BB%93%E6%9E%84%E6%95%88%E5%BA%94"><span class="nav-text">网络动力学：结构效应</span></a></li><li class="nav-item nav-level-2"><a class="nav-link" href="#%E6%9C%BA%E6%9E%84%E5%92%8C%E8%81%9A%E5%90%88%E8%A1%8C%E4%B8%BA"><span class="nav-text">机构和聚合行为</span></a></li></ol></li><li class="nav-item nav-level-1"><a class="nav-link" href="#%E7%AC%AC2%E7%AB%A0-%E5%9B%BE%E8%AE%BA"><span class="nav-text">第2章　图论</span></a></li><li class="nav-item nav-level-1"><a class="nav-link" href="#%E7%AC%AC3%E7%AB%A0-%E5%BC%BA%E8%81%94%E7%B3%BB%E5%92%8C%E5%BC%B1%E8%81%94%E7%B3%BB"><span class="nav-text">第3章　强联系和弱联系</span></a></li><li class="nav-item nav-level-1"><a class="nav-link" href="#%E7%AC%AC4%E7%AB%A0-%E7%BD%91%E7%BB%9C%E5%8F%8A%E5%85%B6%E5%AD%98%E5%9C%A8%E7%9A%84%E7%8E%AF%E5%A2%83"><span class="nav-text">第4章　网络及其存在的环境</span></a></li><li class="nav-item nav-level-1"><a class="nav-link" href="#%E7%AC%AC6%E7%AB%A0-%E5%8D%9A%E5%BC%88"><span class="nav-text">第6章　博弈</span></a><ol class="nav-child"><li class="nav-item nav-level-2"><a class="nav-link" href="#%E4%BD%95%E8%B0%93%E5%8D%9A%E5%BC%88"><span class="nav-text">何谓博弈</span></a></li><li class="nav-item nav-level-2"><a class="nav-link" href="#%E5%8D%9A%E5%BC%88%E4%B8%AD%E7%9A%84%E8%A1%8C%E4%B8%BA%E6%8E%A8%E7%90%86"><span class="nav-text">博弈中的行为推理</span></a></li><li class="nav-item nav-level-2"><a class="nav-link" href="#%E6%9C%80%E4%BD%B3%E5%BA%94%E5%AF%B9%E4%B8%8E%E5%8D%A0%E4%BC%98%E7%AD%96%E7%95%A5"><span class="nav-text">最佳应对与占优策略</span></a></li><li class="nav-item nav-level-2"><a class="nav-link" href="#%E7%BA%B3%E4%BB%80%E5%9D%87%E8%A1%A1"><span class="nav-text">纳什均衡</span></a></li><li class="nav-item nav-level-2"><a class="nav-link" href="#%E5%A4%9A%E9%87%8D%E5%9D%87%E8%A1%A1%EF%BC%9A%E5%8D%8F%E8%B0%83%E5%8D%9A%E5%BC%88"><span class="nav-text">多重均衡：协调博弈</span></a></li><li class="nav-item nav-level-2"><a class="nav-link" href="#%E5%A4%9A%E9%87%8D%E5%9D%87%E8%A1%A1%EF%BC%9A%E9%B9%B0%E9%B8%BD%E5%8D%9A%E5%BC%88"><span class="nav-text">多重均衡：鹰鸽博弈</span></a></li><li class="nav-item nav-level-2"><a class="nav-link" href="#%E6%B7%B7%E5%90%88%E7%AD%96%E7%95%A5"><span class="nav-text">混合策略</span></a></li><li class="nav-item nav-level-2"><a class="nav-link" href="#%E5%B8%95%E7%B4%AF%E6%89%98%E6%9C%80%E4%BC%98%E4%B8%8E%E7%A4%BE%E4%BC%9A%E6%9C%80%E4%BC%98"><span class="nav-text">帕累托最优与社会最优</span></a></li></ol></li><li class="nav-item nav-level-1"><a class="nav-link" href="#%E7%AC%AC%E4%B8%83%E7%AB%A0-%E8%BF%9B%E5%8C%96%E5%8D%9A%E5%BC%88%E8%AE%BA"><span class="nav-text">第七章　进化博弈论</span></a></li></ol></div>
+        </div>
+        <!--/noindex-->
+
+        <div class="site-overview-wrap sidebar-panel">
+          <div class="site-author site-overview-item animated" itemprop="author" itemscope itemtype="http://schema.org/Person">
+    <img class="site-author-image" itemprop="image" alt="千灵夙赋"
+      src="/images/avatar.png">
+  <p class="site-author-name" itemprop="name">千灵夙赋</p>
+  <div class="site-description" itemprop="description"></div>
+</div>
+<div class="site-state-wrap site-overview-item animated">
+  <nav class="site-state">
+      <div class="site-state-item site-state-posts">
+        <a href="/archives/">
+          <span class="site-state-item-count">194</span>
+          <span class="site-state-item-name">日志</span>
+        </a>
+      </div>
+      <div class="site-state-item site-state-categories">
+          <a href="/categories/">
+        <span class="site-state-item-count">39</span>
+        <span class="site-state-item-name">分类</span></a>
+      </div>
+      <div class="site-state-item site-state-tags">
+          <a href="/tags/">
+        <span class="site-state-item-count">56</span>
+        <span class="site-state-item-name">标签</span></a>
+      </div>
+  </nav>
+</div>
+
+
+  <div class="links-of-blogroll site-overview-item animated">
+    <div class="links-of-blogroll-title"><i class="fa fa-link fa-fw"></i>
+      Friends
+    </div>
+    <ul class="links-of-blogroll-list">
+        <li class="links-of-blogroll-item">
+          <a href="https://meow3.family.blog/" title="https:&#x2F;&#x2F;meow3.family.blog&#x2F;" rel="noopener" target="_blank">恶魔菌の记事簿</a>
+        </li>
+        <li class="links-of-blogroll-item">
+          <a href="https://lanyundev.vercel.app/" title="https:&#x2F;&#x2F;lanyundev.vercel.app&#x2F;" rel="noopener" target="_blank">LanYun</a>
+        </li>
+        <li class="links-of-blogroll-item">
+          <a href="https://www.julydate.com/" title="https:&#x2F;&#x2F;www.julydate.com&#x2F;" rel="noopener" target="_blank">七夏浅笑</a>
+        </li>
+    </ul>
+  </div>
+<div id="aplayer" class="aplayer"></div>
+<script>
+if( !/Android|webOS|iPhone|iPod|iPad|BlackBerry/i.test(navigator.userAgent)){
+  document.write('<script type="text/javascript" src="/js/custom/APlayer.min.js"><\/script>');
+}
+</script>
+<script type="text/javascript">
+var ap = new APlayer({
+    element: document.getElementById('aplayer'),                       // Optional, player element
+    narrow: false,                                                     // Optional, narrow style
+    autoplay: false,                                                    // Optional, autoplay song(s), not supported by mobile browsers
+    showlrc: 0,                                                        // Optional, show lrc, can be 0, 1, 2, see: ###With lrc
+    mutex: true,                                                       // Optional, pause other players when this player playing
+    theme: '#e6d0b2',                                                  // Optional, theme color, default: #b7daff
+    mode: 'random',                                                    // Optional, play mode, can be `random` `single` `circulation`(loop) `order`(no loop), default: `circulation`
+    preload: 'metadata',                                               // Optional, the way to load music, can be 'none' 'metadata' 'auto', default: 'auto'
+    listmaxheight: '513px',                                             // Optional, max height of play list
+    music: [{
+      title: '世末歌者',
+      author: '双笙 囧菌',
+      url: '/music/双笙 囧菌 - 世末歌者（Cover 乐正绫）.mp3',
+      pic: '/images/aplayer/双笙 囧菌 - 世末歌者.webp',
+    }, {
+      title: '幹物女(WeiWei)',
+      author: '封茗囧菌',
+      url: '/music/%E5%B0%81%E8%8C%97%E5%9B%A7%E8%8F%8C%20-%20%E5%B9%B9%E7%89%A9%E5%A5%B3(WeiWei).mp3',
+      pic: '/images/aplayer/封茗囧菌 - 幹物女(WeiWei).webp',
+    }, {
+      title: '东京不太热',
+      author: '封茗囧菌',
+      url: '/music/%E5%B0%81%E8%8C%97%E5%9B%A7%E8%8F%8C%20-%20%E4%B8%9C%E4%BA%AC%E4%B8%8D%E5%A4%AA%E7%83%AD.mp3',
+      pic: '/images/aplayer/封茗囧菌 - 东京不太热.webp',
+    }, {
+      title: '有故事的小仙女（Cover 初音ミク）',
+      author: '井宿',
+      url: '/music/%E4%BA%95%E5%AE%BF%20-%20%E6%9C%89%E6%95%85%E4%BA%8B%E7%9A%84%E5%B0%8F%E4%BB%99%E5%A5%B3%EF%BC%88Cover%20%E5%88%9D%E9%9F%B3%E3%83%9F%E3%82%AF%EF%BC%89.mp3',
+      pic: '/images/aplayer/井宿 - 有故事的小仙女（Cover 初音ミク）.webp',
+    }, {
+      title: '拼凑的断音（Cover 洛天依）',
+      author: '泡泡Hansy',
+      url: '/music/%E6%B3%A1%E6%B3%A1Hansy%20-%20%E6%8B%BC%E5%87%91%E7%9A%84%E6%96%AD%E9%9F%B3%EF%BC%88Cover%20%E6%B4%9B%E5%A4%A9%E4%BE%9D%EF%BC%89.mp3',
+      pic: '/images/aplayer/泡泡Hansy - 拼凑的断音（Cover 洛天依）.webp',
+    }]
+  });
+</script>
+
+        </div>
+      </div>
+    </div>
+  </aside>
+  <div class="sidebar-dimmer"></div>
+
+
+    </header>
+
+    
+  <div class="back-to-top" role="button" aria-label="返回顶部">
+    <i class=" fa fa-chevron-up"></i>
+    <span>0%</span>
+  </div>
+
+<noscript>
+  <div class="noscript-warning">Theme NexT works best with JavaScript enabled</div>
+</noscript>
+
+
+    <div class="main-inner post posts-expand">
+
+
+  
+
+
+<div class="post-block">
+  
+  
+
+  <article itemscope itemtype="http://schema.org/Article" class="post-content" lang="zh-CN">
+    <link itemprop="mainEntityOfPage" href="https://qianling.pw/networks-crowds-and-markets">
+
+    <span hidden itemprop="author" itemscope itemtype="http://schema.org/Person">
+      <meta itemprop="image" content="/images/avatar.png">
+      <meta itemprop="name" content="千灵夙赋">
+    </span>
+
+    <span hidden itemprop="publisher" itemscope itemtype="http://schema.org/Organization">
+      <meta itemprop="name" content="千灵">
+      <meta itemprop="description" content="">
+    </span>
+
+    <span hidden itemprop="post" itemscope itemtype="http://schema.org/CreativeWork">
+      <meta itemprop="name" content="《网络、群体与市场》书摘 | 千灵">
+      <meta itemprop="description" content="">
+    </span>
+      <header class="post-header">
+        <h1 class="post-title" itemprop="name headline">
+          《网络、群体与市场》书摘
+        </h1>
+
+        <div class="post-meta-container">
+          <div class="post-meta">
+    <span class="post-meta-item">
+      <span class="post-meta-item-icon">
+        <i class="far fa-calendar"></i>
+      </span>
+      <span class="post-meta-item-text">发表于</span>
+
+      <time title="创建时间 2021-10-30 22:23:24" itemprop="dateCreated datePublished" datetime="2021-10-30T22:23:24+08:00">2021-10-30</time>
+    </span>
+    <span class="post-meta-item">
+      <span class="post-meta-item-icon">
+        <i class="far fa-calendar-check"></i>
+      </span>
+      <span class="post-meta-item-text">更新于</span>
+      <time title="修改时间 2022-01-08 09:46:05" itemprop="dateModified" datetime="2022-01-08T09:46:05+08:00">2022-01-08</time>
+    </span>
+    <span class="post-meta-item">
+      <span class="post-meta-item-icon">
+        <i class="far fa-folder"></i>
+      </span>
+      <span class="post-meta-item-text">分类于</span>
+        <span itemprop="about" itemscope itemtype="http://schema.org/Thing">
+          <a href="/categories/%E7%BD%91%E7%BB%9C%E7%A7%91%E5%AD%A6/" itemprop="url" rel="index"><span itemprop="name">网络科学</span></a>
+        </span>
+    </span>
+
+  
+    <span id="/networks-crowds-and-markets" class="post-meta-item leancloud_visitors" data-flag-title="《网络、群体与市场》书摘" title="阅读次数">
+      <span class="post-meta-item-icon">
+        <i class="far fa-eye"></i>
+      </span>
+      <span class="post-meta-item-text">阅读次数 </span>
+      <span class="leancloud-visitors-count"></span>
+    </span>
+  
+  <span class="post-meta-item">
+    <a title="valine" href="/networks-crowds-and-markets#valine-comments" itemprop="discussionUrl">
+    
+    <span class="post-meta-item-icon">
+      <i class="far fa-comment"></i>
+    </span>
+    <span class="post-meta-item-text">评论数</span>
+  
+      <span class="post-comments-count valine-comment-count" data-xid="/networks-crowds-and-markets" itemprop="commentCount"></span>
+    </a>
+  </span>
+  
+  
+</div>
+
+        </div>
+      </header>
+
+    
+    
+    
+    <div class="post-body" itemprop="articleBody">
+        <p><img data-src="/images/covers/250.jpg"></p>
+<span id="more"></span>
+
+<hr>
+<p><strong><div class="center">网络、群体与市场：揭示高度互联世界的行为原理与效应机制/(美)大卫·伊斯利(David Easley),(美)乔恩·克莱因伯格(Jon Kleinberg)著;李晓明等译. --北京：清华大学出版社，2011.10<br>ISBN 978-7-302-26417-0 </div></strong></p>
+<hr>
+<h1 id="第1章-概述"><a href="#第1章-概述" class="headerlink" title="第1章　概述"></a>第1章　概述</h1><p>　　图论是研究网络结构的，博弈论提供了关于个体行为的一种模型，要点在于个体行为的结果取决于其他个体的行为。这两个理论是讨论本书其他内容的基础。</p>
+<h2 id="图论"><a href="#图论" class="headerlink" title="图论"></a>图论</h2><p>　　强联系（strongties），表示紧密和频繁的社会接触，倾向于嵌人在网络中联系密集的区域；弱联系（weakties），表示比较偶然和少有的社会接触，倾向于跨越这些区域的边界。它提供了一种了解大型组织中社会性概貌的策略，即要在网络中找到那些相互很少联系的不同部分之间的结构洞（structuralholes）。在一种全局的尺度上，它说明弱连接可以作为“超近道”使其不同部分连接起来的方式，导致俗称为六度分隔（sixdegreesofseparation）的现象。</p>
+<h2 id="博弈论"><a href="#博弈论" class="headerlink" title="博弈论"></a>博弈论</h2><p>　　在有些情形下，人们必须同时选择如何行动，并知道行动的结果将取决于所有人分别做出的决定。我们关于博弈论的讨论就从这样的观察开始。一个自然的例子是在交通高峰期在一个高速公路网络选择行车路线的问题。此时，对司机来说，他所体验到的延退取决于交通拥塞的情况，但这种情况不仅与他选择的路线有关，而且与所有其他司机的选择也有关。在这个例子中，网络的角色是一个共享资源，它的用户的综合行为既可以使它拥堵，也可能使对它的利用效率提高。而且，人们之间行为的相互作用可能导致某些违反直觉的结果。比如，增加一个运输网络的资源，可能事实上反而造成了严重影响网络效率的透因，这种现象称为布雷斯悖论（Braess’sParadox）。<br>　　作为博弈论的一个基础，我们将这种情形抽象成在一个共同框架中相互依赖的行为，其中有一个个体的集合，每个个体必须认定一种策略（strategy），从而得到一个回报（payoff），而回报的多少取决于集合中每个人分别选择的策略。用这种观点来解释前面的例子，我们看到一个司机在高速公路上可采用的策略由他可能选择的不同路线构成，回报则是与他最后所花的行驶时间对应。对于拍卖来说，策略是不同的出价选择，对一个买家的回报则是其得到的物品的价值和所支付的价格之间的差别。这个通用的框架使我们能在许多这样的情形中预测人们的行为。这个框架的一个基本要素是均衡（cquilibrium）的概念，指的是一种“自我强化”的状态，在该状态上，任何人都不可能从单方面改变他或她的策略中得到好处，即便他知道其他人会怎么行为。</p>
+<h2 id="信息网络"><a href="#信息网络" class="headerlink" title="信息网络"></a>信息网络</h2><p>　　搜索引擎与网页作者之间的互动也是一个很有说服力的例子，反映出行为层次的联系可产生有趣结果。只要搜索引擎引人一种新的网页评价方法来确定哪些网页该放在搜索排序结果的高位，网页内容的创建者就会有反作用：他们会优化放到 Web 上的内容，试图在新的方法下获得较高的排序评分。这样，搜索引擎的改变从来就不能假设 Web 保持静止不变，实际情况是 Web 上的内容会不可避免地来适应搜索引擎对网页内容评估的方式。因此，在发展搜索方法的时候必须考虑这种反馈的作用。<br>　　这种本质上具有博弈特性的互动，在早期 Web 的时候就以某种潜在的形式存在了。随着时间的演进，它通过基于搜索的广告市场的设计，以拍卖机制进行广告空间的分配（竞价排名）等措施，变得越来越显式和形式化了。今天，这样的市场是主流搜索引擎的基本收入来源。</p>
+<p>##网络动力学：人群效应<br>　　如果长时间观察一个大的人群，会看到一个重复出现的模式，其中新的想法、观念、创新、技术、产品，以及社会习惯不断地涌现和演变。概括之，称它们为社会实践（social practices）。人们可以选择采纳或拒绝这些社会实践。新的实践在人群中扩散开来的方式，很大程度上取决于人们相互影响。当一个人看见越来越多的人在做某件事情，通常他也很可能会去做那件事。<br>　　从表层来看，我们可以假想人们模仿他人，只是因为人类的从众心理，即我们本质上倾向于像其他人那样行事。这个观察显然是重要的，但为了能用它解释我们关心的现象，还有一些关键问题需要解决。不能因为认定了模仿是人类的天性，而不去探求人们为什么被他人影响的问题。虽然这是一个涉及面较宽，而且很难的问题，但事实上我们有可能认识到若千原因，回答为什么即便是纯粹理性的代理（指那些没有什么先验愿望要和别人保持一致的个体），也会复制他人的行为。<br>　　一类原因是基于“他人行为传达信息”的事实。一个人可能基于某些私有的信息来在多种可能性上做出决定，于是当看到许多人都在做一个特别的决定，很自然会假设他们也都有各自的信息，试图从人们的行为来推测他们是怎么评估不同选择的。在 YouTube 和 Flickr 这类网站的情形，看到许多人都在用，会使人感到他们知道某些关于该网站质量的情况。类似地，看到一个餐馆每个周末都特别爆满，会使人感到许多人都认为它很好。但这种推理会产生一个微妙的问题，令人吃惊：由于许多人是随时间的推进相继做出决定的，后来的决定可能是基于私有信息和推理的一种复杂的混合物，而推理是从已发生的情况做出的。这样，许多人的行动可能事实上只是基于极少的本质信息。在这种现象极端的情形，我们可以看到信息连锁反应（informationcascades），即使理性的个体也会选择放弃他们自己的私有信息，而去随大流。<br>　　还有一个完全不同，但足够重要的理由，说明人们为什么要去模仿他人的行为。在一种直接利益驱使下，一个人可能会选择使自己的行为与他人一致起来，而不管他们做出的决定是否最好。回过头再来看社会网络与媒体共享网站的例子。如果那些网站对人们的价值在于和其他人互动、能够访问许多内容或者有大量的用户来注意到你上载内容等方面的潜力，那么网站会随着人们的加入变得越来越有价值。换句话说，不管 YouTube 和它的竞争者相比是否有更好的特点，一旦它成为最流行的视频共享网站，使用它就注定会提供附加值。这种网络效应（networkeffects）会放大那些已经很不错的产品和技术的成功。在网络效应起作用的市场，要取代领导者会是很困难的。然而，这种支配地位又不一定是永恒的，后面还将看到，如果新技术提供某些显著不同的东西，或者它始于网络中有空间让新技术立足的部分，新旧更替就是有可能的。<br>　　这些讨论表明，流行性作为一般的现象是怎么被“富者更富”反馈过程所支配的，在这种反馈过程中，流行性倾向于自我提高。</p>
+<h2 id="网络动力学：结构效应"><a href="#网络动力学：结构效应" class="headerlink" title="网络动力学：结构效应"></a>网络动力学：结构效应</h2><p>　　信息与直接利益，作为人们相互影响的基本机制，在许多情形，相比整个人群，你会更在意你自己的行为是否与社会网络中直接相邻的人们一致。<br>　　当个人有动机去采纳网络中邻居的行为，可能会出现连锁反应（cascadingcffects），即新的行为始于少量初始的实践者，然后通过网络迅速扩散。图 1.11 是一个小例子，说的是从 4 个最初的买者开始，一本日本图画小说通过电子邮件被推荐的情况。通过对背后的网络结构进行推理，会看到一种先进技术如果始于网络中能够引起增量推广的部分（每次增量不一定很大），是怎么取代尽管是广为使用但落后的技术的。技术的扩散，有可能被阻止在网络中一个密集相连的群集的边界，那样的群集即为一种“封闭的社区”，其中的人们有大量相互之间的联系，从而形成对外来影响的阻力。</p>
+<h2 id="机构和聚合行为"><a href="#机构和聚合行为" class="headerlink" title="机构和聚合行为"></a>机构和聚合行为</h2><p>　　考虑市场聚合与传达信息的作用。例如，在金融市场，市场价格聚合了人们关子交易对象价值的信念。在这个意义下，市场的总体作用是综合许多参与者所掌握的信息，因此当人们谈及市场“预期”，实际上说的就是这种信息组合所带来的预期。</p>
+<h1 id="第2章-图论"><a href="#第2章-图论" class="headerlink" title="第2章　图论"></a>第2章　图论</h1><p>　　图（graph）是以一种抽象的形式来表示若干对象的一个集合以及这些对象之间的关系。一个图包含一组元素以及节点与节点之间连接关系的集合，这些元素称为节点（node），连接关系称为边（edge）。两节点间有边相连时称此二节点为邻居（neighbors）。以圆圈表示节点，以连接节点的线段表示边。<br>　　路径（path）即一个节点序列的集合，序列中任意两个相邻节点间都有一条边相连。<br>　　圈是至少包含三条边，且起点和终点相同，而除此以外的所有节点均不重复的路径。也就是“环状”结构。</p>
+<p>　　事实上，在 1970 年 ARPA 计算机网的例子中，每一条边均属于一个圈，而这是事先设计好的。这是因为，假设任意一条边失效（例如一条电缆因施工原因被意外切断），图中的任意两点间总有另外一条路径相连。一般而言，在通信和交通网中，圈通常意味着允许元余，它们通过圈提供了“另一条路”。类似的情况在社交圈或朋友圈中亦然，甚至于在日常生活中也普遍存在，尽管有时我们并没有察觉。例如，你太太的表弟高中时代的好朋友实际上是你哥哥的同事，这就是一个圈——包含你、你的太太、你太太的表弟、你太太表弟高中时代的好友以及好友的同事（也就是你的哥哥），最终回到你这里。<br>　　连通分量（或称连通分支，connected component）：若图 G 的节点子集满足如下两个条件：①子集中任意两个节点间均有路径相连；②该子集不是其他任何其他满足条件①的子集的一部分，则称该子集为图 G 的一个连通分支。</p>
+<p>　　路径的长度为其所包含的边数。</p>
+<p>　　假若你有一个出生在另一国家的朋友：通过他，到他父母，再到他们的朋友，仅仅三步，你就可能联系到世界上另一个截然不同的角落，路径终端的那些人很可能和你毫无共同点可言。这便是著名的小世界现象（small-world phenomenon）。当你发现，通过如此短的朋友路径，即可联系到几乎世界上的任何人，世界也因此看上去变小了。相比之下，与之相关的六度分隔理论也许为更多人所知。<br>　　若我们把每个人看一个小型社交圈的中心，那么“6 小步的距离”即转变为“6 个社交圈的距离”，对于相同问题的不同视角让“6”在此听起来像是一个很大的数了。</p>
+<h1 id="第3章-强联系和弱联系"><a href="#第3章-强联系和弱联系" class="headerlink" title="第3章　强联系和弱联系"></a>第3章　强联系和弱联系</h1><p>　　三元闭包（triadicclosure）：如果节点 B 和节点 C 有一个共同的朋友 A，则 B 和 C 之间一条边的形成就产生了三个节点彼此相连的情形。在网络中，称该结构为三角形结构。“三元闭包”名称的由来，源于 BC 边在该三角结构中为起到“闭合”作用的第三条边。当观察同一社交网在不同时间点的两个网络快照，则通常会发现在后来的快照中，有相当数量通过三元闭包产生的新边出现，即两个在前一张快照中有共同朋友的人，在后来的快照中也成为朋友。<br>　　当 B 和 C 有一个共同的朋友 A，他们成为朋友的几率就会增加。原因之一在于，他们和 A 的关系，直接导致他们彼此见面几率的增加：如果 A 花时间同时与 B 和 C 在一起，则 B 和 C 很可能因此认识彼此，并成为朋友。另一个相关的原因是，在友谊形成的过程中，B 和 C 都和 A 是朋友的事实（假定他们都知道这一点）为他们提供了陌生人之间所缺乏的基本的信任。<br>　　如果 A 同时与 B 和 C 都是朋友，则若 B 与 C 不是朋友的事实可能成为 A 与 B 和 C 友谊的潜在压力。</p>
+<p>　　为了简化概念，并与我们的朋友/熟人二分原则相匹配，将社交网中的所有关系归为两大类：强联系（较强的关系，相对应朋友关系）和弱联系（较弱的关系，相对应熟人关系）。</p>
+<p>　　捷径（localbridge）：若边 A-B 的端点 A 和 B 没有共同的朋友，则称边 A-B 为捷径。换何话说，删除该边将把 A 和 B 的距离增加至 2 以上（不含 2），则称该边为捷径。我们定义捷径的跨度为该边两端点在没有该边情况下的实际距离。</p>
+<p>　　组织或公司的社会网络，其中的人们一方面为共同的目标而合作，另一方面为个人职业生涯的发展暗自竞争。</p>
+<div><div class="fold_hider"><div class="close hider_title">展开图片</div></div><div class="fold">
+<p><img data-src="/images/posts/networks-crowds-and-markets/networks-crowds-and-markets-1.jpg"></p>
+
+</div></div>
+
+<p>　　把网络想象成表示在大型公司内部管理者之间的交往和合作。节点 B 用与她有关的多条捷径跨越了组织里的一个结构洞（structuralhole）。结构洞就是存在于网络中两个没有紧密联系的节点集合之间的“空地”。节点 B 所处的位置在多个方面要比节点 A 的位置优越。第一种优势在于信息方面：节点 B 可以更早地获得来自网络中多个互不交叉部分的信息。每个人投入在维护组织中联系的精力有限，节点 B 通过积极联系多个不同的群体（而不是仅限于某个群体）更有效地投入自己的精力。<br>　　第二种优势在于，处在捷径的一端对其创造性有放大功能。许多领域的经验表明，创新常常源自多个观点的意外合成，这里的每个观点本身或许是人们熟知的，但只是在不同且不相关的专业领域内部所熟知。因此，位于三个无交互群体交界处的节点 B，不仅可以得到这些群体的所有信息，还有机会整合来自不同群体的信息。<br>　　最后，网络中节点 B 的位置意味着某种社交“把关”的机会，该节点不仅可以控制节点 C 和 D 访问她所属的群体，还可以控制她所属的群体从节点 C 和 D 的群体获取信息。这样，这个位置给予 B 一种权力资源。可以想象，B 会试图阻止他们所在的捷径周边形成三角形，例如从节点 C 或 D 产生一条到达 B 所在群体另一节点的边，很有可能会削弱 B 的社交“把关者”的地位。<br>　　这最后一点表明了节点 B 的利益不一定与其所属的群体整体的利益一致。对于组织机构而言，促进不同群体间的信息交流是有益的，但联系桥梁的建立会有损 B 自身在这些群体边界的权力。<br>　　总之，节点 A 和 B 的相对位置各有利整。节点 B 在群体间交界的位置，说明她的交往不是嵌人在单一群体里，于是也很少得到网络邻居们的保护。另一方面，这种较冒风险的位置为她提供了访问多个群体信息的机会，可以控制信息流和重新整合这些信息。</p>
+<p>　　社会资本代表着执行者通过在社会网络或其他社会结构中的成员地位保障其利益的能力。</p>
+<h1 id="第4章-网络及其存在的环境"><a href="#第4章-网络及其存在的环境" class="headerlink" title="第4章　网络及其存在的环境"></a>第4章　网络及其存在的环境</h1><p>　　同质现象：我们和自己的朋友间往往会有相同的特点。总体上看，朋友在种族和观念方面有着很多相似之处；处于相当的年纪；还具有很多相似特征，包括居住的地方、职业、经济情况、兴趣、信仰及价值观。普遍的事实是，在社交网络中互相连接的人倾向于相似。</p>
+<p>　　人们通常会与同自己相似的人们建立社会连接，这是关于社会网络结构形成的一种认识。<br>　　<br>　　社会化：人们会因为需要和朋友们保持一致而改变自己的行为。这个过程被描述为社会化（socialization）和社会影响（social influence），由于网络中存在的社会联系影响了节点个体的特征。社会影响可以看成是和选择相反的观念：在选择中，个体的特征主导网络连接的形成，但在社会影响中，已存在的社会网络连接将会改变人们（可变）的特征。</p>
+<p>　　在青年人群中，他们的行为与其朋友很相似，选择和社会影响都在此情况下发挥作用：青年人在社交圈内寻找与他们相似的人，且他们会因同龄人的压力而追使自己改变行为，以便更适应他们的社交圈。来自同龄人间压力的外界因素（即社会影响）作用并没有那么大，而选择的作用实际上是与社会影响的作用相当（有时会更大）。</p>
+<p>　　研究发现肥胖人群和非肥解大群程网络中都以与同质性一致的方式聚集。在一个社交网络中，人们的肥胖状况倾向子与周围的邻里相近。<br>　　肥胖症显示出一种社会影响，你朋友的肥胖状况的变化也将间接使你受到影响。肥胖症可能像“传染病”一样传播：虽然你不一定像被传染流感一样从你的朋友那儿“感染”肥胖症，但你仍有可能因社会影响下的某种潜在机制被其影响。也许，该发现同样适用于那些具有明显行为特征的其他一些健康问题。</p>
+<h1 id="第6章-博弈"><a href="#第6章-博弈" class="headerlink" title="第6章　博弈"></a>第6章　博弈</h1><p>　　博弈论是用来研究这样一种情境，即人们的决策结果不仅取决于他们如何在不同的备选项之间进行选择，而且取决于他们所互动的他人所做出的选择。博弈论的思想出现在许多不同的背景之中。在一些背景中表现为字面上的博弈，比如可以用博弈论的工具来分析如何选择球员罚点球以及如何进行防守。另外一些背量并不总是被人们称为博弈，但也可以用同样的工具加以分析。这样的例子包括：当市场上已经有某一产品时，生产相似新产品的定价问题；在拍卖会上确定如何投标竞价；选择因特网或者交通网络作为一种运输路径；在国际关系中选择一种比较强硬的立场还是比较温和的立场；在职业体育比赛中选择是否服用兴奋剂。在这些例子中，每一个决策者的选择结果都取决于别人的决策。这就为博弈论的分析提供了一种策略要素。</p>
+<h2 id="何谓博弈"><a href="#何谓博弈" class="headerlink" title="何谓博弈"></a>何谓博弈</h2><p>　　博弈论关注的背景是决策者彼此之间是进行互动的，即前言提到的行为的相互连通性。每个参与者对结果的预期不仅取决于自身的决策，而且取决于互动的他人所做出的选择。</p>
+<p>　　在博弈论框架中，没要求参与者只关心白已。假设存在利他主义者的参与人，则参与人可能不仅关心他/她自己的收益，还会关心其他参与人的收益。</p>
+<p>　　1. 第一个案例<br>　　假设你是一名大学生，在规定的截止日期前一天，你有两项需要准备的工作。一是考试，二是报告。此时，你需要考虑在为考试而复习和为报告而准备二者之间做取舍。为使例子表达更加清晰，我们将利用一些假设。首先，我们假设你可以在为考试复习或者为报告做准备间进行选择，但只能选择一种。其次，我们假设在不同决策结果公布之前，你对预期成绩有准确估计。<br>　　考试结果易于预测。假设进行复习，则预期成绩是 92 分。但是，假设没有复习，则预期成绩是 80 分。<br>　　报告需考虑的因素稍为复杂。因为报告是你和拍档的联合性互动行为。假设你和拍档都做了充分准备，则报告会十分的完美，因而你们预期的共有成绩是 100 分。假设只有一人做了准备（另外一个拍档没有为报告准备），则你们的预期共有成绩是 92 分。假设两个人都不做准备，你们的预期共有成绩是 84 分。<br>　　这个例子在推理时需注意，所有这些对你拍档也是一样的。对于考试，假设他会有同样的预期结果。假设进行复习，则会得到 92 分，假设没有进行复习，则得到是 80 分。同样地，他也必须在复习考试或是准备报告之间做出抉择。进一步假设，你们彼此不能相互接触，所以，你们不能共同商讨行为选择。而且，在彼此进行独立决策时，彼此都知道对方也在进行决策。<br>　　假设你们都追求得到平均成绩的最大化，则可以通过上面的结论来理解，这种平均成绩是如何通过彼此之间投人的努力决定的：</p>
+<ul>
+<li>假设你们都选择准备报告，则彼此都将在报告得分 100 分，考试得分 80 分，每个人的平均成绩是 90 分。</li>
+<li>假设你们都选择复习考试内容，则都将在考试的得分是 92 分，在报告的得分是 84，每个人的平均成绩是 88 分。</li>
+<li>假设一方复习考试，同时另一方准备报告，则得分结果就如下所示：<ul>
+<li>为报告准备一方在报告的得分是 92 分，但是在考试的得分是 80 分，这方的平均成绩是 86 分。</li>
+<li>另一方面，选择复习考试一方在报告的得分是 92 分，因为报告成绩是共有成绩，这方因对方的准备报告行为而获益，通过复习行为，这方在考试的得分是 92 分，所以他会获得的平均成绩是 92 分。<br>　　如下所示，将通过简单的方法总结这些得分结果情况。此处，是通过 2×2 表格的行代表你的两种选择行为：是准备报告或是复习考试的选择。也同样通过 2×2 表格的列代表你拍档的两种选择行为。所以，2×2 表格中的每个单元格都代表你们的一种联合选择行为。在每个单元格中记录你们的平均成绩：左侧是你的成绩，右侧是你拍档的成绩。全部的记录结果，如图 6.1 所示。<div><div class="fold_hider"><div class="close hider_title">展开图片</div></div><div class="fold">
+<p><img data-src="/images/posts/networks-crowds-and-markets/networks-crowds-and-markets-2.jpg"></p>
+
+</div></div>
+　　2×2 表格巧妙地表现了博弈论背景的设置。现在，需要决定行为选择：是准备报告，或是复习考试？很显然，各自的平均成绩不仅取决于个体在这两个备选项之间进行选择，还取决于你拍档的决策，即互动的他人的选择。因此，作为各自决策的一部分，参与方必须对对方可能性行为进行合理推理。当考虑自己策略的后果时，必须想到他人决策的影响，这正是博弈论的用武之地。所以，在分析考试或报告例子的结果之前，先介绍博弈论的一些基本定义，然后再继续用博弈论语言加以讨论。<br>　　2. 博弈的基本要素<br>　　刚描述的情景实际是一个博弈的例子。一般情况下，任何背景中的博弈都具有以下这三个方面特征。<br>　　（1）存在一组参与者（不少于两个），不纺称之为博弈参与人。就上例而言，你和你的拍档就是两个参与人。<br>　　（2）每个参与人都有一组关于如何行为的备选项，此处备选项指参与人的可能策略。在例子中，你和你的拍档彼此都有两个可能性策略。即准备报告和复习测试。<br>　　（3）每个策略行为的选择，都会使参与人得到一个收益。当然，这个收益结果还受互动中他人策略选择的影响。一般用数字表示收益。每个参与人都倾向于更大的收益。在上例中，每个参与人在测试和报告上取得成绩的平均，就是参与人的收益。一般通过如图 6.1 所示的收益矩阵来记录不同收益情况。<br>　　我们感兴趣的关注点是在给定的博弈中，推理参与人如何进行策略行为抉择。目前，讨论的重点将侧重在双人博弈类型。但是，这种分析观点可推广到任意数量参与人的博弈。同时，我们将会集中于简单的、一次性博弈。这种博弈类型的特征是，参与人会同时并独立的选择各自行为，并且他们的选择行为是一次性的。本章的 6.10 节还将讨论在分析动态博弈时，怎样重新解释这种理论。因为在动态博弈中，随着时间的推移，行为具有连续性。</li>
+</ul>
+</li>
+</ul>
+<h2 id="博弈中的行为推理"><a href="#博弈中的行为推理" class="headerlink" title="博弈中的行为推理"></a>博弈中的行为推理</h2><p>　　一旦我们确定了博弈类型、参与人构成、策略及收益等，便可以尝试探寻参与人的倾向性行为是如何取舍的，即他参与人的策略选择是如何确定的。<br>　　1. 基本假设<br>　　为了使探寻参与人的行为取舍问题易处理，此处需要有一些假设。首先，假设参与人最关心的是自身的最终收益。在图 6.1 描述的“考试—报告”博弈中，这个假设意味着两个参与人都仅仅关心自身平均成绩的最大化。然而，在博弈论框架中，没要求参与者只关心自已。假设存在利他主义者的参与人，则参与人可能不仅关心他/她自己的收益，还会关心其他参与人的收益。如果这样假设，则收益应该可以反映上面的事实。一旦收益情况被确定后，收益会构成一种完整的描述，有关博弈中每个可能结果都能反映参与人的取舍倾向的描述。<br>　　其次，还假设每个参与人对博弈结构具有充分信息。首先，这意味着参与人都知道他/她自身的可能策略集。此处，在不同背景下，假设每个参与人都了解对方是谁（在双人博弈中）、对方的可用策略集以及他/她从任意策略选择中将会获得的收益，似乎也是合理的。在“考试—报告”博弈中，这个假设类似于假设你意识到你和你拍档都面临为复习考试或是准备报告的策略取舍，而且你们对不同行为的预期结果有准确的评估。尽管有这个假设，但是我们注意到有许多关于信息不完整博弈的研究工作。事实上，约翰·豪尔绍尼获得 1994 年诺贝尔经济学奖，就是因为他在不完全信息博弈上的贡献。<br>　最后，进一步假设每个个体策略的选择都是为了达到自身收益的最大化，假定他/她也知道其他参与人也会选择收益最大化的策略。有关个体行为策略模式，通常被称为是理性化模型，且个体行为模型实际上结合了两种观点。一是每个参与人都想要自已受益的最大化。因为个体收益被定义为是个体最在意的，这种假设看起来合理。二是每个参与人实际上都会选择最优策略。在简单的设置背景下，假设博弈中的参与人都是有经验的，这似乎就更加合理。在复杂博弈中，或者博弈中的参与人是经验比较少的，则确实是不够合理。有关参与人在博弈行为中出错并继续从中学习的思考，也是值得我们感兴趣的关注点。已有大量文献分析了这种性质类型的问题，但我们在此不加以讨论。<br>　　2. “考试—报告”博弈中的行为推理<br>　　通过上例的“考试—报告”博弈，探寻该怎样预测你和你拍档的行为，即预测博弈中参与人的行为。<br>　　我们集中从你的角度加以分析。（对你拍档策略选择的推理是与你的策略选择推理呈对称性，因为从他的角度来说博弈也是一样的。）如果你可以预测你拍档的行为决策，则你的行为决策就容易决定。但是，还是先分析你拍档的每一个可能选择策略下你的反应行为策略吧。</p>
+<ul>
+<li>假设你得知拍档将复习考试内容。假设你也复习考试内容，则你的收益得分是 88 分；而假设你准备报告的话，你只能得到 86 分。所以，在这种背景下，你应该采取复习考试内容的策略。</li>
+<li>另一方面，假设你得知你拍档将准备报告。那么，假设你也准备报告，则你的收益得分是 90 分。但是，假设你复习考试内容，则收益得分是 92 分。在这种背景下，同样的，你也应该为考试复习。</li>
+</ul>
+<p>　　这种依次独立讨论你拍档选择策略的思考方法，在上面的情境中证明是一种有效的分析途径。它显示无论你拍档如何选择，你都应该选择为考试而复习。<br>　　当无论其他参与人选择何种行为策略时，都会存在一个决策是最佳选择，则定义这个策略是严格占优策略（strictly dominant strategy）。当任意参与人有一个严格占优策略，则可以预期参与人会确定地选择它。在“考试—报告”博弈中，对你拍档来说，复习考试也是一个严格占优策略（在同样的推理条件下）。所以，可以预期结果将是你们都为考试复习，彼此都将得到 88 分的平均成绩。<br>　　因此，这个博弈的分析过程是非常清晰的。它让我们很容易看到，博弈将会以什么样的预期结果结束。除了这点，还有一个与这结论有关的值得注意的情况，即如果你和你拍档商量好了，两个人都来准备报告，则双方都平均得 90 分。换句话说，双方的收益得分都会更高些。但是，尽管你们都理解这种潜在改进的事实，但这 90 分的收益是不可能在理性博弈中获得的。其中的原因，在前面的推理中已经显示得十分清楚。那就是即使你个人决定去准备报告，并且希望拍档也这么做从而都得到 90 分，可是即使你的拍档知道你在这么做。但他此时有动机去选择复习考试而不配合你来准备报告，因为前者会给他带来更高的收益 92 分。<br>　　这样的结果取决于我们的假设，即个人收益是每个参与人评估博弈结果的唯一指标。对这个例子而言，就是你和你拍档只关心各自平均成绩的最大化。如果你关心你拍档得到成绩，则在这个博弈的收益情况就会不同，博弈结果也会不同。类似地，如果你想到你拍档可能会对你没有共同准备报告而生气，那么这个要素也应作为收益的一部分来考虑，就会再次潜在地影响到结果。但就前面讨论中的收益而言，我们看到了一个不可能通过理性行为博弈取得的更好结果（每人都得到平均 90 分）。<br>　　<br>　　这里的收益全是 0 或者小于 0，因为对于这两个嫌疑犯来说，这是负效益，只是不同程度的坏结果。<br>　　假如嫌疑犯害怕坦白会带来另一个嫌疑犯的威胁报复时，则选择坦白策略不是一个理性的行为，那么这会影响到收益和潜在的结果。</p>
+<p>　　囚徒因境很好地刻画了有关个体私利前，建立合作是十分困难的模型。同时，在现实生活中，没有什么模型可以像囚徒因境这么简单而精确地刻画这种复杂的情景。所以，在大量不同的现实世界场景中，囚徒因境就长期被用来充当这些场景的途释性框架。<br>　　比如，在专业性运动比赛中，服用兴奋剂也被构建成一种囚徒困境类型的博弈例子。在此，运动员对应参与人，服用兴奋剂与否对应两种可能策略。假设一方服用兴奋剂，然而对手方却没有服用兴奋剂，在比赛中服用方就会取得优势。但是，服用方自身将会遭受长期的伤害（而且，服用行为可能被检测到）。假设在一场比赛中，服用兴奋剂与否是很难被检测到的，进一步假设，相比起赛场得胜的获益情况，运动员认为服用兴奋剂的不利只是一个小因素。用数值来刻画这种收益情况，这里的数值是任意取的，我们只关注他们的相对大小。<br>　　最佳结果（取得收益是 4）是当你的对手没有服用兴奋剂时，你选择了服用兴奋剂，因为这样会使你赢得比赛的机会最大化。但是，两个运动员都服用兴奋剂的收益（此时，收益是 2）却比彼此都不服用兴奋剂的收益（此时收益是 3）低，因为在这两种背景下，参与人彼此间的实力相当。但是在前一种背景下，参与人会对自身造成伤害。从上可知，服用兴奋剂是一个严格占优策略。因此，即使他们都知道对于他们来说，存在服用兴奋剂外的一个更优选择。但是在上述条件作用下，参与人还是会服用兴奋剂。<br>　　一般而言，这种情形通常称为军备竞赛。在这种背景中，竞争双方为保持彼此实力相当，都会选择生产更具危险性武器。在上面提到的例子，兴奋剂就好比使用更具危险性武器。囚徒困境也已被用于在形式上解释敌对国家间的军备竞赛。在此，武器对应于一个国家的军事力量总和。<br>　　事实上，即使是在博弈中出现极小的变化，也会使已有囚徒困境案例博弈变得比较温和。已有囚徒困境案例博弈变得比较温和。例如，回顾“考试—报告”博弈，假设保持其他因素不变，只是让考试更容易些，设任意参与人复习考试，则将会得到 100 分，否则可得到 96 分。因此，形成了新的收益矩阵。<br>　　进而，我们可以考察新收益背景下的博弈行为。此时，准备报告成为严格占优策略。所以，完全可以预测到参与人都会采取准备报告策略，而且彼此都将从该策略选择中获益。前述情形的遗憾之处就会消失。同样，囚徒困境也只是在适当条件（某些特定的收益关系）下才显现出它的精妙之处。</p>
+<h2 id="最佳应对与占优策略"><a href="#最佳应对与占优策略" class="headerlink" title="最佳应对与占优策略"></a>最佳应对与占优策略</h2><p>　　在最佳应对定义中，参与人 1 可能存在不止一个策略，都是策略 T 的最佳应对。于是，很难预测参与人 1 究竟会在多个最佳应对策略中的具体选择。有时需要强调最佳应对的唯一性，即假设 S 会产生比任何和策略 T 相对应的其他策略都较高的收益，则参与人 1 的策略 S 是对于参与人 2 的策略 T 是严格最佳应对。<br>　　在上一节中，我们发现，假设参与人有严格占优策略，则就可以预期他/她会采取该策略。占优策略概念也有小的不足。因为抗衡其他对立策略时，占优策略可能是一组最佳选项。自然地，参与人可能会有多个潜在的占优策略。在这种背景下，具体选择某个占优策略就不易预测。<br>　　囚徒困境分析中，实际上也正是因为参与人彼此有严格占优策略，才会使分析过程简单化。因此很容易推导出可能会发生的策略选择。但是，多数背景不会如此明确。因此，现在有必要注意一些缺乏严格占优策略的博弈。</p>
+<h2 id="纳什均衡"><a href="#纳什均衡" class="headerlink" title="纳什均衡"></a>纳什均衡</h2><p>　　它的基本认识是：即使不存在占优策略，我们也可以通过参与人彼此策略的最佳应对，来预测参与人的策略选择行为。假定参与人 1 选择策略 S，同时参与人 2 选择策略 T。若 S 是 T 的最佳应对，同时 T 是 S 的最佳应对，则称策略组（S，T）是一个纳什均衡。这不是从参与者的理性行为中可以推导出来，这是一种均衡概念。均衡的观点是，假设参与人选择的策略彼此间都是最佳应对，即具有相互一致性。在一组备选策略中，任何参与人都没有激励动机去换一种策略。所以，该系统处于一种均衡的状态中，没有什么力量将它推向不同的行为结果。</p>
+<h2 id="多重均衡：协调博弈"><a href="#多重均衡：协调博弈" class="headerlink" title="多重均衡：协调博弈"></a>多重均衡：协调博弈</h2><p>　　对于只有一个纳什均衡的博弈，比如上节提到的三客户博弈，如下预测每个参与人在均衡中将会采取的策略似乎是合理的：在博弈的其他任意应对方案中，至少存在一个参与人没有采用自己的最佳应对策略。但是，存在一些自然的博弈，可以有一个以上的纳什均衡。在这种背景下，很难预测博弈中理性参与人是怎样行为的。我们这里考虑一些基本的例子中也存在这个问题。</p>
+<p>　　假设丈夫和妻子想要一起看电影。他们必须在浪漫的喜剧片和动作片之间做出选择，而且也想要协调彼此的选择。但是（浪漫片，浪漫片）均衡给予他们中的一方较高收益，同时（动作片，动作片）均衡则是另一方有较高收益。在性别战中，则很难预测具体哪种均衡将会被采取。</p>
+<p>　　值得一提的是，在基本协调博弈中的一个最终变化，在近年得到了极大的关注。这个变化就是猎鹿博弈。该名称是在卢梭所写的例子中提到。假设两猎人外出猎物。若他们合作，则可以猎到鹿（这可以给猎者带来最高的收益）。但是猎人要是彼此分开猎物，则彼此只能猎到兔。棘手的问题是，假设一方想单独猎鹿，则他的收益是 0。同时另一方还能猎到免。所以，我们便得到一个博弈模型。猎人是两个参与人。猎鹿和猎免是参与人的两个策略。<br>　　排除这两个参与人不合作的情况，该例子十分类似于不平衡协调博弈。尝试获得较高收益结果的一方比起尝试获得较低收益结果的另外一方，会受到更大的惩罚。（实际上，尝试获得较低收益的一方根本不会受到惩罚。）结果，在推理何种均衡会被选择时，就是要在获得高收益和由于另一方不合作造成损失之间进行权衡。<br>　　有些人认为猎鹿博弈中也体现了囚徒困境博弈中的一些挑战。这两个博弈的结构显然是不同的（因为囚徒困境存在严格占优策略）。然而，这两个例子有一个共性，即若参与人彼此合作，则都将从中受益。但是，如果一方采取合作行为而另一方却不合作，则会遭受损失。当然，在这两种博弈类型中，还存在另一种途径来透视其相似性。假设我们回到最初的“考试—报告”博弈并对其稍加改变，假设除参与人双方为了有机会获得更好的成绩且都需要准备报告有变动外，其他收益结果保持与第 6.1 节保持一致。也就是，假设参与人双方都准备报告，彼此都在报告中的收益得分是 100，但是假设参与人中至多有一人准备报告，则彼此的收益得分是 84 分。此时，我们得到一个十分类似于猎鹿博弈的结构，即在策略组（报告，报告）或者（考试，考试）的协调都会达到均衡。但是，假设一方试图依据较高收益的均衡行为时，则这方可能事与愿违地得到较低成绩，因为另一方可能选择复习考试的策略。</p>
+<h2 id="多重均衡：鹰鸽博弈"><a href="#多重均衡：鹰鸽博弈" class="headerlink" title="多重均衡：鹰鸽博弈"></a>多重均衡：鹰鸽博弈</h2><p>　　假设两只动物要决定一块食物在彼此之间如何分配。每种动物都可以选择争夺行为（鹰派策略）或分享性行为（鸽派策略）。若两种动物都选择分享性行为，他们将会均匀的分配食物，各自的收益是 3。若一方行为表现为争夺性，另一方行为表现是分享性，则争夺方会得到大多数食物，获得收益是 5，分享方只能得到收益为 1。但是，当两只动物都表现为争夺性行为，由于在争夺中践踏了食物（甚至会彼此伤害），则它们得到的收益将为 0。<br>　　鹰鸽博弈在很多背景中被研究。比如，用两个国家替代两种动物，进一步假设这两个国家将在外交上同时选择是争夺型或是分享型。每个国家都希望通过争夺型外交提高国际声望。但是，假设两国都采取争夺型外交，最终可能导致彼此间发生战争危险。而战争对两国来说都是灾难性的。所以，在均衡状态，我们预期一方将会表现出争夺性行为，另一方则表现出分享型行为。但是，我们无法预测哪一方将会采取何种策略。为了了解均衡状态如何在两国间达到，我们再次需要了解更多有关两国的信息。<br>　　在该类型的博弈中，存在两个均衡。事实上，参与人中的一方必须表现为分享型行为。同时，另一方则取得更高收益。假设参与人都尝试避免成为分享型一方，则彼此的最终收益是非常低的。但是，还是无法从这种博弈的结构中预测，哪方将会单独扮演该分享型角色。</p>
+<h2 id="混合策略"><a href="#混合策略" class="headerlink" title="混合策略"></a>混合策略</h2><p>　　硬币配对是一类简单的攻防博弈。它可如下描述。两个参与人各持一枚硬币，同时选择显示彼此手中硬币的正反面。正面记为（H），反面记为（T）。假如他们硬币的朝向相同，参与人 2 将赢得参与人 1 的硬币。反之，则参与人将赢得参与人 2 的硬币。<br>　　硬币配对是大量有趣博弈类型中的简单一例。在每个结果中，参与人的总收益是 0。此类博弈被称为“零和博弈”。大量攻防博弈，或其他一般性存在参与人的利益是直接对立的博弈，都拥有这个结构。实际上类似硬币配对的博弈，常被比喻为战争中的决策。例如，欧洲 1944 年 6 月 6 日的盟军登陆——二战关键性的时刻之一，它涉及盟军的一项决策，即跨过英吉利海峡后在诺曼底或是在加莱登陆。决策还受到德国军方相关策略的影响，即德军在诺曼底或是在加莱大规模设防也会影响到盟军决策。这个拥有攻防博弈结构的例子，也非常类似于硬币配对博弈。<br>　　在硬币配对博弈中，首先应注意到：不存在一组策略彼此是最佳应对。<br>　　这意味着，假设我们仅认为参与人彼此仅有两个策略 H 和 T，则该博弃不存在纳什均衡。如果我们考虑硬币配对是怎样运行，这也毫无奇怪。纳什均衡要求，即使给定有关彼此策略的充分信息，参与人也没有动机改变一个可替代性的策略，即在纳什均衡中，参与人具有相互一致性，这体现在信念和行动上。但在硬币配对中，假如参与人 1 知道参与人 2 将选择特定的 H 或 T，则参与人 1 可以通过选择对方策略的对立策略来获得收益 +1。类似的推理也可把握参与人 2 的行为。<br>　　当我们在直观上思考该类型的博奔是如何在真实生活中演绎时，所看到的将是，参与人通常会试图迷惑对手，让对手难以预测他们将有什么策略行为。它暗示着，在类似硬币配对的博弃模型中，我们不应只把策略当成是简单的 H 或 T，还应注意到参与人在 H 和 T 选择中行为的随机性。<br>　　实际上每个参与人都不是直接选择 H 或 T，参与人选择依据的是概率，即概率表示她选择策略的机会大小。<br>　　有两人在一起玩硬币配对游戏，他们都决定依据概率 p 和 g 随机地选择自己的行为。如果参与人 1 认定参与人 2 会在多于一半的时间里选择 H，则她一定会选择策略 T。可在这种情况下，参与人 2 选择策略 H 的次数不应该多于一半。对称的推理过程适用于当参与人 1 认为参与人 2 会在多于一半的时间里选择策略 T 的情形。无论是何种情况，我们均不能得到一个纳什均衡。所以关键的问题是，当参与人 2 的选择策略概率 q=1/2 时，参与人 1 的策略 H 及 T 是无所谓的：参与人 1 的策略 q=1/2 在效果上是“无利可图”策略。实际上，这便是在引人随机化时的最初直觉：每个参与人都想要对对方隐藏自己的行为，所以，他们各自的行为很难被对方得知。当然，应注意到概率都为 1/2 的策略，事实上是硬币配对的高度对称结构的结果。正如我们将在下一节的例子中看到：当收益是非对称时，纳什均衡也可以由非等同的概率策略组成。</p>
+<h2 id="帕累托最优与社会最优"><a href="#帕累托最优与社会最优" class="headerlink" title="帕累托最优与社会最优"></a>帕累托最优与社会最优</h2><p>在一个纳什均衡中，每个参与人的策略都是彼此策略间互为最佳应对。换句话说，参与人都实现个体最优。但是，这并不意味着群体最优。<br>帕累托最优：“一组策略选择”指的是每个参与者从一个策略集中选择了一个策略。那么，若不存在其他策略选择使所有参与者得到至少和目前一样高的回报，且至少有一个参与者会得到严格较高的回报，一组策略选择被称为帕累托最优。<br>社会最优：一组策略选择是社会福利最大化（或社会最优），若它使参与者的回报之和最大。</p>
+<h1 id="第七章-进化博弈论"><a href="#第七章-进化博弈论" class="headerlink" title="第七章　进化博弈论"></a>第七章　进化博弈论</h1>
+    </div>
+
+    
+    
+    
+      
+
+
+    <footer class="post-footer">
+          
+
+<div class="post-copyright">
+<ul>
+  <li class="post-copyright-author">
+      <strong>本文作者  </strong>千灵夙赋
+  </li>
+  <li class="post-copyright-link">
+      <strong>本文链接 </strong>
+      <a href="https://qianling.pw/networks-crowds-and-markets" title="《网络、群体与市场》书摘">https://qianling.pw/networks-crowds-and-markets</a>
+  </li>
+  <li class="post-copyright-license">
+    <strong>版权声明  </strong>本博客所有文章除特别声明外，均采用 <a href="https://creativecommons.org/licenses/by-nc-sa/4.0/" rel="noopener" target="_blank"><i class="fab fa-fw fa-creative-commons"></i>BY-NC-SA</a> 许可协议。转载请注明出处！
+  </li>
+</ul>
+</div>
+
+          <div class="followme">
+  <span>　</span>
+
+  <div class="social-list">
+
+      <div class="social-item">
+        <a target="_blank" class="social-link" href="/atom.xml">
+          <span class="icon">
+            <i class="fa fa-rss"></i>
+          </span>
+
+          <span class="label">RSS</span>
+        </a>
+      </div>
+  </div>
+</div>
+
+          <div class="post-tags">
+              <a href="/tags/%E7%BD%91%E7%BB%9C%E7%A7%91%E5%AD%A6/" rel="tag"># 网络科学</a>
+          </div>
+
+        
+  <div class="post-widgets">
+    <div class="wpac-rating-container">
+      <div id="wpac-rating"></div>
+    </div>
+  </div>
+
+          <div class="post-nav">
+            <div class="post-nav-item">
+                <a href="/six-degrees" rel="prev" title="《六度分隔》书摘">
+                  <i class="fa fa-chevron-left"></i> 《六度分隔》书摘
+                </a>
+            </div>
+            <div class="post-nav-item">
+                <a href="/calibre" rel="next" title="解决 Kindle 无法修改字体、显示封面的问题">
+                  解决 Kindle 无法修改字体、显示封面的问题 <i class="fa fa-chevron-right"></i>
+                </a>
+            </div>
+          </div>
+    </footer>
+  </article>
+</div>
+
+
+
+
+
+
+    <div class="comments" id="valine-comments"></div>
+</div>
+  </main>
+
+  <footer class="footer">
+    <div class="footer-inner">
+
+
+<div class="copyright">
+  &copy; 
+  <span itemprop="copyrightYear">2022</span>
+  <span class="with-love">
+    <i class="fab fa-github-alt"></i>
+  </span>
+  <span class="author" itemprop="copyrightHolder">千灵夙赋</span>
+</div>
+<div class="busuanzi-count">
+    <span class="post-meta-item" id="busuanzi_container_site_uv">
+      <span class="post-meta-item-icon">
+        <i class=""></i>
+      </span>你是第
+      <span class="site-uv" title="总访客量">
+        <span id="busuanzi_value_site_uv"></span>位到访的小伙伴喔
+      </span>
+    </span>
+    <span class="post-meta-item" id="busuanzi_container_site_pv">
+      <span class="post-meta-item-icon">
+        <i class=""></i>
+      </span>本站已被访问
+      <span class="site-pv" title="总访问量">
+        <span id="busuanzi_value_site_pv"></span>次啦
+      </span>
+    </span>
+</div>
+
+    </div>
+  </footer>
+
+  
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/animejs/3.2.1/anime.min.js" integrity="sha256-XL2inqUJaslATFnHdJOi9GfQ60on8Wx1C2H8DYiN1xY=" crossorigin="anonymous"></script>
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/next-theme-pjax/0.5.0/pjax.min.js" integrity="sha256-3NkoLDrmHLTYj7csHIZSr0MHAFTXth7Ua/DDt4MRUAg=" crossorigin="anonymous"></script>
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.6.0/jquery.min.js" integrity="sha256-/xUj+3OJU5yExlq6GSYGSHk7tPXikynS7ogEvDej/m4=" crossorigin="anonymous"></script>
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/fancybox/3.5.7/jquery.fancybox.min.js" integrity="sha256-yt2kYMy0w8AbtF89WXb2P1rfjcP/HTHLT7097U8Y5b8=" crossorigin="anonymous"></script>
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/lozad.js/1.16.0/lozad.min.js" integrity="sha256-mOFREFhqmHeQbXpK2lp4nA3qooVgACfh88fpJftLBbc=" crossorigin="anonymous"></script>
+<script src="/js/comments.js"></script><script src="/js/utils.js"></script><script src="/js/motion.js"></script><script src="/js/schemes/muse.js"></script><script src="/js/next-boot.js"></script><script src="/js/pjax.js"></script>
+
+  
+  <script src="https://embed.widgetpack.com/widget.js" async></script>
+  <script class="next-config" data-name="rating" type="application/json">{"enable":true,"id":8657,"color":"5bc0de"}</script>
+  <script src="/js/third-party/rating.js"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/hexo-generator-searchdb/1.4.0/search.js" integrity="sha256-vXZMYLEqsROAXkEw93GGIvaB2ab+QW6w3+1ahD9nXXA=" crossorigin="anonymous"></script>
+<script src="/js/third-party/search/local-search.js"></script>
+
+
+
+  <script src="/js/third-party/fancybox.js"></script>
+
+  <script src="/js/third-party/pace.js"></script>
+
+  
+  <script data-pjax async src="https://busuanzi.ibruce.info/busuanzi/2.3/busuanzi.pure.mini.js"></script>
+
+
+  <script class="next-config" data-name="leancloud_visitors" type="application/json">{"enable":true,"app_id":"zulMeib4pyC6zB1a65OmVtHz-gzGzoHsz","app_key":"TEjUlOUBz3KwSUmDQ35ROxpw","server_url":null,"security":false}</script>
+  <script src="/js/third-party/statistics/lean-analytics.js"></script>
+
+
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/quicklink/2.2.0/quicklink.umd.js" integrity="sha256-4kQf9z5ntdQrzsBC3YSHnEz02Z9C1UeW/E9OgnvlzSY=" crossorigin="anonymous"></script>
+  <script class="next-config" data-name="quicklink" type="application/json">{"enable":true,"home":false,"archive":false,"delay":true,"timeout":3000,"priority":true,"url":"https://qianling.pw/networks-crowds-and-markets"}</script>
+  <script src="/js/third-party/quicklink.js"></script>
+
+
+<script class="next-config" data-name="valine" type="application/json">{"enable":true,"appId":"zulMeib4pyC6zB1a65OmVtHz-gzGzoHsz","appKey":"TEjUlOUBz3KwSUmDQ35ROxpw","serverURLs":"https://zulmeib4.lc-cn-n1-shared.com","placeholder":"说点什么好呢~","avatar":"wavatar","meta":["nick","mail","link"],"pageSize":10,"lang":null,"visitor":false,"comment_count":true,"recordIP":false,"enableQQ":true,"requiredFields":[],"emojiCDN":"//i0.hdslb.com/bfs/emote/","emojiMaps":{"团宝":"311f83d568e2fd702b08f40d4c838572a07ebea0.png","少前小剧场-心虚":"61ea3a788ec43241860ed984672eb588963bc98a.png","少前小剧场-打call":"f4b6b513bf4280da6395a40a61d15480ff12f978.png","少前小剧场-卖萌":"bbe8c979922144e667efd63dcce0320437425a00.png","少前小剧场-钱钱":"48ae808b0463e0cde3cc5c8666839776ed7a4cfb.png","泠鸢yousa-awsl":"7663b729161bd4556c2ec318c07791000743eb56.png","泠鸢yousa-打call":"718e9495846db4172eb87d2f7f02015a34d35ea2.png","泠鸢yousa-大哭":"3f757b147b9b1e201470eae7dac9cc0360172569.png","泠鸢yousa-好人卡":"e3907b3bb20b18e7ecb11cd86829c9a4ce5b1b2f.png","泠鸢yousa-加大力度":"a0393a2d4b522f07a319dfd2e91754a3cdff2c48.png","泠鸢yousa-滑稽":"a8057c0e0579b93c16010a270e261fd0a64034af.png","泠鸢yousa-请吃桃":"e92276d9d8c28f85f7dbcc0fbbb6ecb3345ce33e.png","泠鸢yousa-生气":"9e6ba9ff34101e04d3e321cad486f845f892050e.png","泠鸢yousa-真棒":"02ea49543a3ac52feee185c156ab08fb2bfdd89e.png","初音未来-GKD":"44caa7ec800837d8860482c214ac792f4c37c490.png","初音未来-加油":"4943a9be0a3134125c7d585b4dafde79a9a1990a.png","初音未来-哭了":"db9b01e5808967a32ed644b490ab47faf0f29ce3.png","花园Serena-？？？":"42f7ab2a562d000929979976d30669bec042662f.png","花园Serena-安详去世":"cdf595646132b98dcf1d230d351b2738d68f49c3.png","花园Serena-mua":"20319d3948da83f666a643b2c8103e6da0e36721.png","花园Serena-到点了":"af2f6c0dd1155f4aefb610cc6d09c135df9e6752.png","花园Serena-恭喜":"c1d8361755bb135d24b3b4680fe6ba03c086b395.png","花园Serena-喵":"4159859e6c9c2e0476299454b6015c2659149e3c.png","花园Serena-睡":"ae8ad8fd2a8d14e53938ba7dc7ca22681143dc09.png","白上吹雪-不是猫咪":"7524855a584f7ec0f9cf337b1a3554ee5ffd29b9.png","白上吹雪-吃惊":"aa6549e4daba755b5cf6a7031bd37ab9cf378706.png","白上吹雪-大佬喝茶":"9c7f6f0c192d972c27988d7d461477ca8871dcc6.png","白上吹雪-狐狐祟祟":"14f8be6955ee392baccd7d82b4371765a0c18523.png","白上吹雪-摸摸":"218cc0fb954a3dadde61eed03e3a376f277f36ee.png","白上吹雪-围观":"04d66a7b0b7b4f78bf45297cd91c0059de71b8bb.png","白上吹雪-一派狐言":"7d504e583857d68edf4fe0706be0b426f0d3cfb1.png","白上吹雪-emmm":"709bc019cf7960d9dcb40a0d5a444f8a78e376d3.png","原神-哦":"4b8b6f0e451c600abf2d83560125d03cfa97fe28.png","原神-哼哼":"62d09fa482842dabbd4a51176abc0ec20a64a359.png","原神-给我走开":"c0a9f2bea10fdf763b4fbe3874ee254d61916711.png","原神-鸽子":"d03a8f9f490eb007aae2d826f9143e3a29a3be5a.png","原神-干杯":"966f0b307bf4d07e81162dc32bf1e71c83bf997a.png","原神-吃惊":"d8d07498a567ea109a8fc4b58ffccdc33643cd99.png","原神-不要啊":"8ea92be976beb8126adc7cabc2aa7f2b02b9bee2.png","原神-拜托":"2f2817b84caf9d81fdce171d18a3f99983f1ec64.png","2233塔罗牌-撒花":"0d301be888e87aed6cc8e6548fbc74a23421dedc.png","2233塔罗牌-我觉得星":"1aa7391b61aa7be88644db2672cd4603559f1469.png","2233塔罗牌-下次一定":"294690ac14a2adc6ee50b138229aa5c53636e46f.png","洛天依·夜航星-爷青回":"d1202872850a335b357e702adaf3d2a79db72e13.png","洛天依·夜航星-萌妹初醒":"3159931d9afa243c6cf5939753e3c82acb69a554.png","洛天依·夜航星-冲鸭":"659efad4a6aa25ed6a98efe611564c26f497f436.png","洛天依·夜航星-Lucky":"bbeb9d231773a168397697072a11373893d7c01a.png","洛天依·夜航星-锦鲤":"35ab588061c32f07743b07f1ac3f62a16f34438c.png","神乐七奈-变猫猫":"9f699c56da1178079b18be27dc3f219138e4a164.png","神乐七奈-辛苦辣":"7b22908d4afac2c0ad1ba96177ac7a24855f4a2e.png","2021拜年纪-投币":"d2d0a3a4621dede09506264110cefcbfa9561572.png","双鱼座-做白日梦":"ba03f95ebe480106806377024e0c93ddb9c0f836.png","崩坏3-吃饭团":"62173e795139cfaf60b5665165400e99bb8a14ac.png","崩坏3-饿了":"8b6160dfc5f8a8608e88bcb380f4e812b8a165cb.png","崩坏3-干杯":"8de5f3a1cc3dfd9f7be8f12662a489214d3e72fb.png","不问天-大哭":"aea0c17a62f825621a1273f100c17330180b7b01.png","进击的冰糖-探头":"ae834e6efdd568f7e30aec059a8646b75438d896.png","干物妹！小埋-？？？":"d2d0955e6ddf2d3528c6f2364b7002b114907c94.png","干物妹！小埋-抱抱":"f7d5a5150733a15386d98015114630e893f5281b.png","Hiiro-亲亲":"0b54433d978f51a7031a965f2981832129eb8ef5.png","C酱-问号":"4fb6f0d8fcedef1624c5999609036346748b31e2.png","C酱-AWSL":"4b8ac5c1fa7358d949ecfe089e02b252b29d6082.png","C酱-害怕":"f5f777b059df8c40cbc240586aeaf4f63af97f91.png","C酱-嘻嘻":"65cf8762af542e8a72edc466b05bb1a19600dc2d.png","C酱-不要啊":"86994300b58eb3cb91fc99818dd87a691deed564.png","一周年纪念-抱大腿":"0800070155b5dabc3097793c0e086420057a7e2f.png","咩栗-nya":"b8011132b40b4f9807523db3d21581f82c2dce91.png","咩栗-打call":"01b6ee0712d13daa323dbd89217018ea7f6794a5.png","咩栗-聪明":"750542d25fcf1675baf143c2ab7e945445e8b078.png","咩栗-好耶":"9aa9b53211a938c1859c15407cee57cc7519fefd.png","咩栗-惊":"8c4ecf43c895bc9ed23eea9274328ba6cf24481e.png","咩栗-咩？":"bb305147beb88a101061dff54cbcb9062635670b.png","咩栗-咩呀！":"a36a0973f1c9935577db05bc90b602dc61236c0f.png","咩栗-斯米马三":"a46bc117192aa2495c492acca03e27393258c015.png","咩栗-羊名立万":"8fd2b4174f94c1c9b7cf4cf132a54838db40ddff.png","咩栗-羊羊得意":"dd55311765d00d768acb157958e85413ae25578c.png","嘉然-mua":"74ea9b89f8923df6a123cabe6053762b9e776387.png","嘉然-安详":"312359401cc72c34fcea3654cdba42db0f9f3dd0.png","嘉然-暗中观察":"3acf0b43facfd0601f5ab88cca6e401aa4f5a02e.png","嘉然-锤头丧气":"e6342840311ffeba8f2c58d1c360d76644e75dff.png","嘉然-点赞":"7017d90d4ceb9ea042cef8adc70d35eeb1f95e7e.png","嘉然-嘉人们":"d270845c9590da372e9b311cd6d976459acd1087.png","嘉然-嘉速心动":"387035168f40ca81afce8b38303c60ceb0c5dc6c.png","嘉然-流口水":"78bfeff475ad56a6d9379164b099f1ad8ecd7086.png","嘉然-你好":"d1530f972a59bca97bc4b8acf4f7e16f989f37c3.png","嘉然-一眼真":"ff436f5821db8b871517d0e5bb7ade7b64d3d0bf.png","嘉然-绷不住了":"4f0a9ee7708d71083dba4e79768ff0b7c308eaf4.png","嘉然-笔芯":"332a6df0e6def8da77e09310a62f3bffdc397640.png","嘉然-我有嘉心糖":"7579c6085f984f39ff0f6a2cb710301a2b113fac.png","银杏鎏金-幸运喷雾":"89e550f628333fe35f0b010337bdc5c4bf713cfc.png","2022拜年纪-HAHA":"ece69ad87284eb12324572be2a9009c0bc5e65b8.png","2022拜年纪-？？？":"0c5acb46f82cc559e16e542c29ae3bd503b65344.png","2022拜年纪-比心":"5001d623ddbe81d704e0093343ced12e2b38a3db.png","2022拜年纪-不愧是我":"ab807d0265a5c834c0d4d54b676c54da4feb38ce.png","2022拜年纪-不要啊":"80a74addbae8dd5bccc71728181e1d7e11a79d19.png","2022拜年纪-馋":"5012311cfa88687663f636f044f020a611a49848.png","2022拜年纪-打call":"54f99d1e613b42b0241a7f7c9ef5d8f5331fc754.png","2022拜年纪-瞪大双眼":"7def07a3a1829c7e26cfa6a3f1259fe3f9b9d4d3.png","2022拜年纪-放空":"823ea6f47ef1dda2d85317f635dc7d42a58c1545.png","2022拜年纪-干了这杯":"de06e28d6afee561556c6e3cbd199d21f4e4fd09.png","2022拜年纪-哈？":"206ddfebe778cf4f4c2c3f6f87330db32d4e1708.png","2022拜年纪-擦擦":"7b5fb834faccffe090db5ae3406468a306018bfd.png","2022拜年纪-哭哭":"365002e8c6007564b92fe4eb7ab0f815e988995e.png","2022拜年纪-捂脸":"380d5814aa70370f57f990ab68b4cd2a195830a6.png","2022拜年纪-恰柠檬":"5d2e17818c67eaff2de2890d808cc1f7a2bb8232.png","2022拜年纪-无情吃瓜":"3342b9aa0c6fc6f7ddfec0bcc611fa4ea6987c60.png","2022拜年纪-眼前一黑":"9cf5e735e64525c59f26ccbcb4ddf6ba5a29ed11.png","2022拜年纪-星星眼":"ef49e822e72ced75f71950f4c296192dae543486.png","2022拜年纪-晕":"460d02950b4d676604e9d4686fa769a866d21191.png","拜年纪2022-火了":"20ee37d0695247f6f32e71de264fe7e955d74835.png","月隐空夜-咕咕咕":"df59993b9ea4255e8666bd417f75b3857bd67627.png","月隐空夜-回家了":"3c796d34b61c18fd1d03443a4a144c1133859600.png","月隐空夜-欧拉":"36465ab94e113a0557cff76bed5c6266277430f3.png","月隐空夜-欧气满满":"fce384d8ad9dd6ba2b87e6a8c6fec1e3f8576984.png","月隐空夜-天才":"542eaddb1b04f85a04068f31bfe1c133a5270a66.png","月隐空夜-完了":"1289c9f89244342b83f784d3bf6c18dcd548f1e3.png","新月冰冰!-心脏骤停":"04f0e3087d39629079bbfc7f2b2d0e3cdd3eada6.png","新月冰冰!-加油":"46be9e14a41ec1f392240c5c7f3006cbff5b3744.png","新月冰冰!-不可以色色":"116f93998c4c50a8c801103b9037f793f936a896.png","新月冰冰!-大哭":"50a0ad849ffae469cd376f5e4afeb0ab64b74887.png","新月冰冰!-单推":"542fbbc36493831ec98ed64b51d60a1191afa63e.png","新月冰冰!-诶嘿":"dae8436e7042b1440748993da11d5c93e55e0c13.png","新月冰冰!-给花花":"fac1c332932004b3922e19b1d8f20208ddb7ea23.png","新月冰冰!-滑稽":"c2dfb168f43d334ff291042e81ddf80a8a059913.png","新月冰冰!-开车":"83630b278dd62d2dde701021d98be2d5fcbf00f3.png","新月冰冰!-穷醒":"9cc02af9592ceceb795006cf2611b4a423ec4a19.png","新月冰冰!-谢谢老板":"ddc6b7389787bec178ab24eb842ee949d2d79be2.png","新月冰冰!-kira":"f50869288aa706cf9f1aa9e5d3f7274eac558f68.png","Hiiro二周年-吃瓜":"f5dd831cd8dc9fc93a8cf21247f2e1bdbfa65eff.png","Hiiro二周年-大的要来了":"7cb1ccd578c1946ff68cbcf55add6527cc7826e1.png","Hiiro二周年-好耶":"3250844f983fad2e8888a69f9438a925492630b1.png","Hiiro二周年-坏女人":"74f02465c6c057aebb0df5cb3ab785616b5f077b.png","Hiiro二周年-击剑":"3212b33d39221df349dea0695701bbce07971b00.png","Hiiro二周年-寄":"22ce9c662192d858231ffd02190db7338e0b6e8c.png","Hiiro二周年-辣眼睛":"8ea839758e87947326711297ca7c08a9ad3af906.png","Hiiro二周年-流口水":"0648c8bf4f3836de0902b4ab8e9b1c1b68505a5e.png","Hiiro二周年-麻了":"a7b0deef902b639e40c9b4dc3d3a9df5793cf538.png","Hiiro二周年-无语":"5a61e12360c94b413fa6d370829b8d7f4733c897.png","Hiiro二周年-吓":"cbaca277bcc77739abf41bfc5c377b61ff8527d9.png","Hiiro二周年-两眼一黑":"9b6d393c8f9248e9f8ea8e1d075cc88a300972f3.png","崩坏学园2-好耶":"f1fe88c6d201f2b5d91ad70bcad15288d4569f00.png","崩坏学园2-偷瞄":"31406161e268ab3a3ae24befacc64ab9812d478b.png","崩坏学园2-乖巧":"fb397421eaea8f271acfe135a8dc49bffa7605be.png","扶桑大红花-疑惑":"5d3d9164fd05da8a1690d7a1dff210bdf822a64d.png","崩坏3-幸福":"714cc90d3485a003f53eecec336bea8a0b2dc12d.png","扶桑大红花-略略略":"e1fd8c1f6947c94e3227e7f7afe8de61aa277a24.png","扶桑大红花-生气":"6adad591921aa4d51a8399b6efdf18f84e7144f6.png","扶桑大红花-好诶":"1acaf75c1f900e827922169b8512a5c38695f620.png","扶桑大红花-啪":"0f06e1363cbfd72ed411c2385f3c64d098fdac18.png","扶桑大红花-入脑":"6b343b588735140442460054a4b64e81a6ee9dd9.png","扶桑大红花-不行":"b21a234b272c952b012af2cfa097693b126bd445.png","扶桑大红花-rua":"50053d5c3c485fda2c110ed0874a6a5a2d7f1dff.png","暹罗猫小豆泥-抱大腿":"1e309b348e969e7ff1c7d873352799a2005494d5.png","暹罗猫小豆泥-惊讶":"d6024fd52d7e66241062c045559974e2a4c6e87f.png","暹罗猫小豆泥-哭":"9153d549e425cc02eb911695fff29cb59b338da0.png","暹罗猫小豆泥-探头":"4741a1d527c52365850368b2f480d5818b23cb8f.png","小可学妹-老板大气":"f5fadc61fd4da10fca13cc352e9a37663c21daf6.png","小可学妹-好热":"6892a3b67b1968c550fdd110e9ff8f995973a44b.png","小可学妹-两眼一黑":"66b17fa948ce00a66f260b202dff5bb943103c6c.png","Akie秋绘-可爱":"d1e9aeb4fee6a64e1cbc17c6fe129d3b74e41f50.png","Akie秋绘-哭哭":"06fb34e4d4d33477fcbf13cb5d8327c2bd746e76.png","天涯明月刀伙伴-？？？":"6b7815e08667c6fd7905b7c640c5b46b2bc4dec0.png","天涯明月刀伙伴-馋":"0467b117ad55f21d2b13b8230dc28bc06039d842.png","天涯明月刀伙伴-emo":"8b0cf44f7311445e1590391c7a091a664bad353b.png","祖娅纳惜生贺-懒":"97029c26e7b2700dd30f9ac53842e4806872f262.png","祖娅纳惜生贺-泪奔":"1486e90eea32c556b21a8a0c9474cb8b04f04eae.png","祖娅纳惜生贺-恰饭":"780146c9ea1b35d7b8efad3de8a6a153d42d760e.png","祖娅纳惜生贺-生气":"115705216f64896f40b0bab9ee0b127c315e3721.png","祖娅纳惜生贺-晚安":"1e6f9b96f9ed121928e4bbaa27a4263156b48d3d.png","星瞳-星想事成":"23dcbf6168d8befa79856764d1a4036662786063.png","请吃红小豆吧-吃薯片":"35aeeddf6f0c96dec6652e6050e34626d6cfdcbf.png","请吃红小豆吧-发呆":"ffdc8f1ab56c4d9ccc6a35a7a6bb7092df93f231.png","请吃红小豆吧-告辞":"463fb9facfa0d4700b001ef9365e7253f80a0459.png","请吃红小豆吧-害羞":"7e1ae398526c28926767fda86bf41ba6f6d6e7b4.png","请吃红小豆吧-好耶":"905662fe86b316d361a37e64c6d753ee6efb1d2e.png","请吃红小豆吧-坏笑":"9ff8ab26feeb0a7f65c698825192cbbee417dcd3.png","请吃红小豆吧-泪目":"41f2e34af7e0c3cdd726dadbc8933f21f01d1c13.png","请吃红小豆吧-摸摸头":"7fe816a29961559ac6248274087de14b3447f3f2.png","请吃红小豆吧-哇":"be9352ed161a0d0aa222986b5610802bbf18e5a6.png","请吃红小豆吧-我很好":"ad9d73e683990c86e06be15e0187c930826de644.png","请吃红小豆吧-在吗":"865566aa175609d7a018436046407199a4e2b51a.png","请吃红小豆吧-糟糕":"8c8372a8fc9655e1559a764afe3d769fa141c96e.png","请吃红小豆吧-啧":"b033a8a098bb321a6220cd10a534322a7ea94aad.png","最后的召唤师-吃瓜":"72007fc6e0cbc2b2c13b8c3971e333708024785a.png","最后的召唤师-摸摸":"808b65dddecd55c06bde59080823f60030b6be98.png","最后的召唤师-歇歇":"63e50835bad0184129e9382df435efbf6b29a3b0.png","眞白花音-打call":"e3957fbe286f694f215fafdcc6597c9a9cc3a5ae.png","眞白花音-大头":"8cf7b3d9e9b81017d6d616b643373bf57b516ec5.png","眞白花音-对不起":"b12fa885dc14cdc73cdb71f69f70a54350316d92.png","雪绘-比心":"892ec2ea31bae16044c683b68b4744fda62f1eff.png","坎公骑冠剑-YYDS":"207ad2f10f32e138c29761fd3526877e2210c2e2.png","坎公骑冠剑-唱歌":"46dbf43a57841ae840e21e8678b7daa58935a26e.png","坎公骑冠剑-吃鸡腿":"db344ad0fd23621beecb7db3abb7567156bfb8f4.png","坎公骑冠剑-出来玩":"485be2a946e954ba886b50b8ba1033accb056071.png","坎公骑冠剑-干杯":"25cab88e656ea009152ad6364df1b42065d1ffda.png","坎公骑冠剑-乖巧":"c9468c3a6dd02389b2e1364fba39f51efea9f247.png","坎公骑冠剑-惊叹":"30ed9cd688e17cc6c54f7b969b6e89b74580a5db.png","坎公骑冠剑-嗯!":"9d7f7dff618d4fbcb99cfef30141e37105179044.png","坎公骑冠剑-你还好吗":"d48c0e8ef71bc2af28d25ac390c67a9f08533517.png","坎公骑冠剑-你在干嘛":"4521901b073665c42f76a50b07acb19a2d3459bf.png","坎公骑冠剑-欧气传输":"e8f1308e982c818a6d7a6b4ff3ef5d92c24f4fe0.png","坎公骑冠剑-送花":"9fb76616e1cdf524bc254f2b8873b83d43e03b87.png","坎公骑冠剑-哇":"a737de02e1952f2841916cff82e73009f9946dec.png","坎公骑冠剑-晚安":"c223ba1967dd328307f74e2b58f815acb3232cf9.png","坎公骑冠剑-妖妖灵":"2c8eee463117bec38f38d6cf6873d333aa9660a5.png","永雏塔菲-不理你了":"ec38a461c767fd0f4dee7346f82d81e5a88b176c.png","永雏塔菲-嘲笑":"094c321f0829f0894f48195d6671358a1a43b53c.png","永雏塔菲-对呀对呀":"37afa9e099d0c2ca9a4f3ff7d599e86060d6b942.png","永雏塔菲-尴尬":"71a5b730a3c20ddac64f8e7803ffc00da97f7397.png","永雏塔菲-哈哈哈":"b1f89d85b9c9f8553fe021c1e5785bc2995f8751.png","永雏塔菲-累":"889f95e3b36f257cb6b68f420b8238a11c596d19.png","永雏塔菲-摸头":"a826477acfa607224dd4a6771431af3b18ee8f92.png","永雏塔菲-亲嘴":"ce2123ec6b4f15eb8dfc2467f36fa3d69f2f97cd.png","永雏塔菲-闪亮登场":"c7eff8db64b132e6757bacdd51e649e16965f6b9.png","永雏塔菲-生日快乐":"9daed0ba16c89f983c7fcfa38e2bc8d1b80f7957.png","永雏塔菲-太好吃了":"86b760ed0a466b5dc3fa0b1e64b9ba7d6b53b6ed.png","永雏塔菲-嘻嘻喵":"866c99dbf6cb5e054e8e94be60c1b37ff4581eaa.png","永雏塔菲-星星眼":"bf3e961a1c3d4edf5ebdd063418495a1ed4c865f.png","永雏塔菲-嘤嘤嘤":"ba43546b013efffa7821dc21df6c79490cbafe72.png","永雏塔菲-有鬼":"b33d0672a01810a6b26696bf4a56204dadd5ff31.png","永雏塔菲-晕了":"d395fd944642b882a9226db81dcfa2e80307461c.png","永雏塔菲-震惊":"36bea35a3a15b675b2f5f28529582f82cf65b1c9.png","奈姬niki-微笑":"6fdc161f1086c522d90e684639a3bd1c48837507.png","奈姬niki-我超":"8d6d65fa2764084fd17fd18bef5a2bbc58f044f4.png","奈姬niki-无语":"33479daa29101a0846d7735cd5fba0d847be6e51.png","奈姬niki-谢谢":"8eaca252ea780a992261b4f9df7a4e170cfd71f1.png","有栖mana-打call":"0572afd470f86cc73cd5a1dff047cd22b620f336.png","有栖mana-喝可乐":"7788e653641e40f5043267aa6f73afbd73f5dd73.png","有栖mana-嘿嘿嘿嘿":"0500a6063e9828ce5002f0d796b19569db7ea63c.png","有栖mana-你好":"0d1575f7203eaf1705cc1104eaf7c02983cae9f0.png","有栖mana-辛苦了":"1893dad434a59c1f5e9c70e1440a6b323a92c3c6.png","有栖mana-炸毛":"f8d86249f486e3e0eb0b601bdf9994cb76634538.png","有栖mana-做什么？":"eb2eb12a288287b4f46d7a4dbeb71ec645810726.png","幻塔-害羞":"7868841b13f2067418c34becd73fde4be8a8bdfe.png","鹿乃桜帆-早上好":"1b58aba1d2e1372a8c4b7e49cb420db738bce414.png","鹿乃桜帆-恭喜":"584dae2f7faf4ee160c389e4ba0eebfb26aeb910.png","鹿乃桜帆-惊":"b945fc60b60467fc80b1e18ba4ea6d8c7b3ae0f9.png","鹿乃桜帆-期待":"5ae064b9deefdce14129d24659f0ee605a0e341b.png","鹿乃桜帆-神":"863c349b44abb098fecac479772f23ef1edd10f5.png","鹿乃桜帆-3Q":"9bee9ccc87c3ffe392e5572c4f67dae92a031e35.png","尼奈-妙!！":"3c2439d868818711b6c2cee035c4d51818c07c99.png","蕾尔娜Leona-反弹":"bc82f5b4e8525efeac017a1a9a3ea94d811d4463.png","蕾尔娜Leona-好耶":"f5269730d3156ba2a6cbe5c127d65753b3143f81.png","约战4-疑惑":"9174bde1afdde014a1b066c1bbb3027dc8dbb834.png","夏日青春欧皇套装-谢谢老板":"ca607626747f23cf37dbe8bb81397985dcb0ab17.png","夏日限定宅家手册-期待":"aaf3de49543253272e7eaeabff07ef0d162db67a.png","夏日限定宅家手册-重在参与":"aeafdb2f36c2cfde1ff4dadfecde48241ee31f15.png"},"el":"#valine-comments","path":"/networks-crowds-and-markets"}</script>
+<script>
+document.addEventListener('page:loaded', () => {
+  NexT.utils.loadComments(CONFIG.valine.el)
+    .then(() => NexT.utils.getScript(
+      '/js/custom/Valine.min.js',
+      { condition: window.Valine }
+    ))
+    .then(() => {
+      new Valine(CONFIG.valine);
+    });
+});
+</script>
+
+</body>
+</html>

@@ -1,0 +1,659 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+  <meta charset="UTF-8">
+<meta name="viewport" content="width=device-width">
+<meta name="theme-color" content="#222"><meta name="generator" content="Hexo 5.4.0">
+
+
+  <link rel="apple-touch-icon" sizes="180x180" href="/images/apple-touch-icon-next.png">
+  <link rel="icon" type="image/png" sizes="32x32" href="/images/favicon-32x32.png">
+  <link rel="icon" type="image/png" sizes="16x16" href="/images/favicon-16x16.png">
+  <link rel="mask-icon" href="/images/logo.svg" color="#222">
+
+<link rel="stylesheet" href="/css/main.css">
+
+<link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Noto+Serif+SC:300,300italic,400,400italic,700,700italic%7CZCOOL+XiaoWei:300,300italic,400,400italic,700,700italic&display=swap&subset=latin,latin-ext">
+
+<link rel="stylesheet" href="/fontawesome/all.min.css">
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/animate.css/3.1.1/animate.min.css" integrity="sha256-PR7ttpcvz8qrF57fur/yAx1qXMFJeJFiA6pSzWi0OIE=" crossorigin="anonymous">
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/fancybox/3.5.7/jquery.fancybox.min.css" integrity="sha256-Vzbj7sDDS/woiFS3uNKo8eIuni59rjyNGtXfstRzStA=" crossorigin="anonymous">
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/pace/1.2.4/themes/blue/pace-theme-minimal.css">
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/pace/1.2.4/pace.min.js" integrity="sha256-gqd7YTjg/BtfqWSwsJOvndl0Bxc8gFImLEkXQT8+qj0=" crossorigin="anonymous"></script>
+
+<script class="next-config" data-name="main" type="application/json">{"hostname":"qianling.pw","root":"/","images":"/images","scheme":"Muse","darkmode":false,"version":"8.11.1","exturl":false,"sidebar":{"position":"right","display":"hide","padding":18,"offset":12},"copycode":true,"bookmark":{"enable":false,"color":"#222","save":"auto"},"mediumzoom":false,"lazyload":true,"pangu":false,"comments":{"style":"tabs","active":"valine","storage":true,"lazyload":true,"nav":null,"activeClass":"valine"},"stickytabs":false,"motion":{"enable":true,"async":false,"transition":{"post_block":"fadeIn","post_header":"fadeInDown","post_body":"none","coll_header":"fadeInLeft","sidebar":"fadeInUp"}},"prism":false,"i18n":{"placeholder":"搜索...","empty":"没有找到任何搜索结果：${query}","hits_time":"找到 ${hits} 个搜索结果（用时 ${time} 毫秒）","hits":"找到 ${hits} 个搜索结果"},"path":"/search.xml","localsearch":{"enable":true,"trigger":"auto","top_n_per_article":1,"unescape":false,"preload":true}}</script><script src="/js/config.js"></script>
+
+    <meta property="og:type" content="article">
+<meta property="og:title" content="电子商务学习">
+<meta property="og:url" content="https://qianling.pw/ec-learning">
+<meta property="og:site_name" content="千灵">
+<meta property="og:locale" content="zh_CN">
+<meta property="og:image" content="https://qianling.pw/images/covers/194.jpg">
+<meta property="article:published_time" content="2020-04-30T02:26:04.000Z">
+<meta property="article:modified_time" content="2021-04-26T13:48:49.666Z">
+<meta property="article:author" content="千灵夙赋">
+<meta property="article:tag" content="电子商务">
+<meta name="twitter:card" content="summary">
+<meta name="twitter:image" content="https://qianling.pw/images/covers/194.jpg">
+
+
+<link rel="canonical" href="https://qianling.pw/ec-learning">
+
+
+
+<script class="next-config" data-name="page" type="application/json">{"sidebar":"","isHome":false,"isPost":true,"lang":"zh-CN","comments":true,"permalink":"https://qianling.pw/ec-learning","path":"ec-learning","title":"电子商务学习"}</script>
+
+<script class="next-config" data-name="calendar" type="application/json">""</script>
+<title>电子商务学习 | 千灵</title>
+  
+    <script async src="https://www.googletagmanager.com/gtag/js?id=UA-141264217-1"></script>
+  <script class="next-config" data-name="google_analytics" type="application/json">{"tracking_id":"UA-141264217-1","only_pageview":false}</script>
+  <script src="/js/third-party/analytics/google-analytics.js"></script>
+
+  <script src="/js/third-party/analytics/baidu-analytics.js"></script>
+  <script async src="https://hm.baidu.com/hm.js?b95f636e57f871a4ea1faeae2b4f30e5"></script>
+
+
+
+
+  <noscript>
+    <link rel="stylesheet" href="/css/noscript.css">
+  </noscript>
+<link rel="alternate" href="/atom.xml" title="千灵" type="application/atom+xml">
+</head>
+
+<body itemscope itemtype="http://schema.org/WebPage" class="use-motion">
+  <div class="headband"></div>
+
+  <main class="main">
+    <header class="header" itemscope itemtype="http://schema.org/WPHeader">
+      <div class="header-inner"><div class="site-brand-container">
+  <div class="site-nav-toggle">
+    <div class="toggle" aria-label="切换导航栏" role="button">
+        <span class="toggle-line"></span>
+        <span class="toggle-line"></span>
+        <span class="toggle-line"></span>
+    </div>
+  </div>
+
+  <div class="site-meta">
+
+    <a href="/" class="brand" rel="start">
+      <i class="logo-line"></i>
+      <p class="site-title">千灵</p>
+      <i class="logo-line"></i>
+    </a>
+  </div>
+
+  <div class="site-nav-right">
+    <div class="toggle popup-trigger">
+        <i class="fa fa-search fa-fw fa-lg"></i>
+    </div>
+  </div>
+</div>
+
+
+
+<nav class="site-nav">
+  <ul class="main-menu menu"><li class="menu-item menu-item-home"><a href="/" rel="section"><i class="fas fa-flower fa-fw"></i>首页</a></li><li class="menu-item menu-item-categories"><a href="/categories/" rel="section"><i class="fa fa-cookie fa-fw"></i>分类</a></li><li class="menu-item menu-item-archives"><a href="/archives/" rel="section"><i class="fas fa-acorn fa-fw"></i>归档</a></li><li class="menu-item menu-item-play"><a href="/play/" rel="section"><i class="fa fa-fish fa-fw"></i>游戏</a></li><li class="menu-item menu-item-message"><a href="/message/" rel="section"><i class="fa fa-dog fa-fw"></i>留言</a></li><li class="menu-item menu-item-about"><a href="/about/" rel="section"><i class="fa fa-carrot fa-fw"></i>关于</a></li>
+      <li class="menu-item menu-item-search">
+        <a role="button" class="popup-trigger"><i class="fa fa-search fa-fw"></i>搜索
+        </a>
+      </li>
+  </ul>
+</nav>
+
+
+
+  <div class="search-pop-overlay">
+    <div class="popup search-popup"><div class="search-header">
+  <span class="search-icon">
+    <i class="fa fa-search"></i>
+  </span>
+  <div class="search-input-container">
+    <input autocomplete="off" autocapitalize="off" maxlength="80"
+           placeholder="搜索..." spellcheck="false"
+           type="search" class="search-input">
+  </div>
+  <span class="popup-btn-close" role="button">
+    <i class="fa fa-times-circle"></i>
+  </span>
+</div>
+<div class="search-result-container no-result">
+  <div class="search-result-icon">
+    <i class="fa fa-spinner fa-pulse fa-5x"></i>
+  </div>
+</div>
+
+    </div>
+  </div>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.6.0/jquery.min.js"></script>
+
+<div class="top-scroll-bar"></div>
+
+<canvas class="fireworks" id="canvas" style="position: fixed;left: 0;top: 0;z-index: 1; pointer-events: none;" ></canvas>
+
+<script>
+  document.write('<script type="text/javascript" src="/js/custom/custom.js"><\/script>');
+if( !/Android|webOS|iPhone|iPod|iPad|BlackBerry/i.test(navigator.userAgent)){
+  document.write('<script type="text/javascript" src="//cdn.bootcss.com/animejs/2.2.0/anime.min.js"><\/script> <script type="text/javascript" src="/js/custom/fireworks.js"><\/script>');
+}
+</script>
+
+<!-- 动态背景 -->
+<script>
+if( !/Android|webOS|iPhone|iPod|iPad|BlackBerry/i.test(navigator.userAgent)){
+  document.write('<script type="text/javascript" src="/js/custom/jquery.backstretch.min.js"><\/script>');
+}
+</script>
+<script type="text/javascript">
+  $("body").backstretch([
+    "/images/background/background (1).webp",
+    "/images/background/background (2).webp",
+    "/images/background/background (3).webp",
+    "/images/background/background (4).webp",
+    "/images/background/background (5).webp",
+    "/images/background/background (6).webp",
+    "/images/background/background (7).webp",
+    "/images/background/background (8).webp",
+  ], {duration: 60000, fade: 1000, animateFirst: true});
+</script>
+
+<!-- live2d -->
+<div id="waifu">
+  <div class="waifu-tips" style="opacity: 0;"></div>
+  <canvas id="live2d" width="280" height="250" class="live2d"></canvas>
+</div>
+<script>
+if( !/Android|webOS|iPhone|iPod|iPad|BlackBerry/i.test(navigator.userAgent)){
+  document.write('<script type="text/javascript" src="/live2d/live2d.js"><\/script> <script type="text/javascript" src="/live2d/waifu-tips.js"><\/script>');
+}
+</script>
+
+<!-- 打字礼花及震动特效 -->
+<script>
+if( !/Android|webOS|iPhone|iPod|iPad|BlackBerry/i.test(navigator.userAgent)){
+  document.write('<script type="text/javascript" src="/js/custom/activate-power-mode.js"><\/script>');
+}
+</script>
+<script>
+    POWERMODE.colorful = true; // ture 为启用礼花特效
+    POWERMODE.shake = false; // false 为禁用震动特效
+    document.body.addEventListener('input', POWERMODE);
+</script>
+
+</div>
+        
+  
+  <div class="toggle sidebar-toggle" role="button">
+    <span class="toggle-line"></span>
+    <span class="toggle-line"></span>
+    <span class="toggle-line"></span>
+  </div>
+
+  <aside class="sidebar">
+
+    <div class="sidebar-inner sidebar-nav-active sidebar-toc-active">
+      <ul class="sidebar-nav">
+        <li class="sidebar-nav-toc">
+          文章目录
+        </li>
+        <li class="sidebar-nav-overview">
+          站点概览
+        </li>
+      </ul>
+
+      <div class="sidebar-panel-container">
+        <!--noindex-->
+        <div class="post-toc-wrap sidebar-panel">
+            <div class="post-toc animated"><ol class="nav"><li class="nav-item nav-level-1"><a class="nav-link" href="#%E5%BA%97%E9%93%BA"><span class="nav-text">店铺</span></a></li><li class="nav-item nav-level-1"><a class="nav-link" href="#%E5%95%86%E5%93%81"><span class="nav-text">商品</span></a></li><li class="nav-item nav-level-1"><a class="nav-link" href="#%E5%85%B3%E9%94%AE%E8%AF%8D"><span class="nav-text">关键词</span></a></li><li class="nav-item nav-level-1"><a class="nav-link" href="#%E6%9D%83%E9%87%8D"><span class="nav-text">权重</span></a></li><li class="nav-item nav-level-1"><a class="nav-link" href="#%E3%80%8A%E7%94%B5%E5%AD%90%E5%95%86%E5%8A%A1%E7%B1%BB%E6%95%99%E5%AD%A6%E8%B4%A8%E9%87%8F%E5%9B%BD%E5%AE%B6%E6%A0%87%E5%87%86%E3%80%8B"><span class="nav-text">《电子商务类教学质量国家标准》</span></a></li><li class="nav-item nav-level-1"><a class="nav-link" href="#%E7%94%B5%E5%95%86%E4%B8%93%E4%B8%9A%E5%BA%94%E7%94%A8%E5%9E%8B%E6%9C%AC%E7%A7%91%E4%BA%BA%E6%89%8D%E5%9F%B9%E5%85%BB%E7%8E%B0%E7%8A%B6"><span class="nav-text">电商专业应用型本科人才培养现状</span></a></li><li class="nav-item nav-level-1"><a class="nav-link" href="#%E7%94%B5%E5%95%86%E4%B8%93%E4%B8%9A%E5%BA%94%E7%94%A8%E5%9E%8B%E6%9C%AC%E7%A7%91%E4%BA%BA%E6%89%8D%E5%9F%B9%E5%85%BB%E4%B8%AD%E5%AD%98%E5%9C%A8%E7%9A%84%E9%97%AE%E9%A2%98"><span class="nav-text">电商专业应用型本科人才培养中存在的问题</span></a></li><li class="nav-item nav-level-1"><a class="nav-link" href="#%E8%B7%A8%E5%A2%83%E7%94%B5%E5%95%86"><span class="nav-text">跨境电商</span></a></li><li class="nav-item nav-level-1"><a class="nav-link" href="#%E5%AD%A6%E4%B9%A0%E6%96%B9%E6%B3%95"><span class="nav-text">学习方法</span></a></li></ol></div>
+        </div>
+        <!--/noindex-->
+
+        <div class="site-overview-wrap sidebar-panel">
+          <div class="site-author site-overview-item animated" itemprop="author" itemscope itemtype="http://schema.org/Person">
+    <img class="site-author-image" itemprop="image" alt="千灵夙赋"
+      src="/images/avatar.png">
+  <p class="site-author-name" itemprop="name">千灵夙赋</p>
+  <div class="site-description" itemprop="description"></div>
+</div>
+<div class="site-state-wrap site-overview-item animated">
+  <nav class="site-state">
+      <div class="site-state-item site-state-posts">
+        <a href="/archives/">
+          <span class="site-state-item-count">194</span>
+          <span class="site-state-item-name">日志</span>
+        </a>
+      </div>
+      <div class="site-state-item site-state-categories">
+          <a href="/categories/">
+        <span class="site-state-item-count">39</span>
+        <span class="site-state-item-name">分类</span></a>
+      </div>
+      <div class="site-state-item site-state-tags">
+          <a href="/tags/">
+        <span class="site-state-item-count">56</span>
+        <span class="site-state-item-name">标签</span></a>
+      </div>
+  </nav>
+</div>
+
+
+  <div class="links-of-blogroll site-overview-item animated">
+    <div class="links-of-blogroll-title"><i class="fa fa-link fa-fw"></i>
+      Friends
+    </div>
+    <ul class="links-of-blogroll-list">
+        <li class="links-of-blogroll-item">
+          <a href="https://meow3.family.blog/" title="https:&#x2F;&#x2F;meow3.family.blog&#x2F;" rel="noopener" target="_blank">恶魔菌の记事簿</a>
+        </li>
+        <li class="links-of-blogroll-item">
+          <a href="https://lanyundev.vercel.app/" title="https:&#x2F;&#x2F;lanyundev.vercel.app&#x2F;" rel="noopener" target="_blank">LanYun</a>
+        </li>
+        <li class="links-of-blogroll-item">
+          <a href="https://www.julydate.com/" title="https:&#x2F;&#x2F;www.julydate.com&#x2F;" rel="noopener" target="_blank">七夏浅笑</a>
+        </li>
+    </ul>
+  </div>
+<div id="aplayer" class="aplayer"></div>
+<script>
+if( !/Android|webOS|iPhone|iPod|iPad|BlackBerry/i.test(navigator.userAgent)){
+  document.write('<script type="text/javascript" src="/js/custom/APlayer.min.js"><\/script>');
+}
+</script>
+<script type="text/javascript">
+var ap = new APlayer({
+    element: document.getElementById('aplayer'),                       // Optional, player element
+    narrow: false,                                                     // Optional, narrow style
+    autoplay: false,                                                    // Optional, autoplay song(s), not supported by mobile browsers
+    showlrc: 0,                                                        // Optional, show lrc, can be 0, 1, 2, see: ###With lrc
+    mutex: true,                                                       // Optional, pause other players when this player playing
+    theme: '#e6d0b2',                                                  // Optional, theme color, default: #b7daff
+    mode: 'random',                                                    // Optional, play mode, can be `random` `single` `circulation`(loop) `order`(no loop), default: `circulation`
+    preload: 'metadata',                                               // Optional, the way to load music, can be 'none' 'metadata' 'auto', default: 'auto'
+    listmaxheight: '513px',                                             // Optional, max height of play list
+    music: [{
+      title: '世末歌者',
+      author: '双笙 囧菌',
+      url: '/music/双笙 囧菌 - 世末歌者（Cover 乐正绫）.mp3',
+      pic: '/images/aplayer/双笙 囧菌 - 世末歌者.webp',
+    }, {
+      title: '幹物女(WeiWei)',
+      author: '封茗囧菌',
+      url: '/music/%E5%B0%81%E8%8C%97%E5%9B%A7%E8%8F%8C%20-%20%E5%B9%B9%E7%89%A9%E5%A5%B3(WeiWei).mp3',
+      pic: '/images/aplayer/封茗囧菌 - 幹物女(WeiWei).webp',
+    }, {
+      title: '东京不太热',
+      author: '封茗囧菌',
+      url: '/music/%E5%B0%81%E8%8C%97%E5%9B%A7%E8%8F%8C%20-%20%E4%B8%9C%E4%BA%AC%E4%B8%8D%E5%A4%AA%E7%83%AD.mp3',
+      pic: '/images/aplayer/封茗囧菌 - 东京不太热.webp',
+    }, {
+      title: '有故事的小仙女（Cover 初音ミク）',
+      author: '井宿',
+      url: '/music/%E4%BA%95%E5%AE%BF%20-%20%E6%9C%89%E6%95%85%E4%BA%8B%E7%9A%84%E5%B0%8F%E4%BB%99%E5%A5%B3%EF%BC%88Cover%20%E5%88%9D%E9%9F%B3%E3%83%9F%E3%82%AF%EF%BC%89.mp3',
+      pic: '/images/aplayer/井宿 - 有故事的小仙女（Cover 初音ミク）.webp',
+    }, {
+      title: '拼凑的断音（Cover 洛天依）',
+      author: '泡泡Hansy',
+      url: '/music/%E6%B3%A1%E6%B3%A1Hansy%20-%20%E6%8B%BC%E5%87%91%E7%9A%84%E6%96%AD%E9%9F%B3%EF%BC%88Cover%20%E6%B4%9B%E5%A4%A9%E4%BE%9D%EF%BC%89.mp3',
+      pic: '/images/aplayer/泡泡Hansy - 拼凑的断音（Cover 洛天依）.webp',
+    }]
+  });
+</script>
+
+        </div>
+      </div>
+    </div>
+  </aside>
+  <div class="sidebar-dimmer"></div>
+
+
+    </header>
+
+    
+  <div class="back-to-top" role="button" aria-label="返回顶部">
+    <i class=" fa fa-chevron-up"></i>
+    <span>0%</span>
+  </div>
+
+<noscript>
+  <div class="noscript-warning">Theme NexT works best with JavaScript enabled</div>
+</noscript>
+
+
+    <div class="main-inner post posts-expand">
+
+
+  
+
+
+<div class="post-block">
+  
+  
+
+  <article itemscope itemtype="http://schema.org/Article" class="post-content" lang="zh-CN">
+    <link itemprop="mainEntityOfPage" href="https://qianling.pw/ec-learning">
+
+    <span hidden itemprop="author" itemscope itemtype="http://schema.org/Person">
+      <meta itemprop="image" content="/images/avatar.png">
+      <meta itemprop="name" content="千灵夙赋">
+    </span>
+
+    <span hidden itemprop="publisher" itemscope itemtype="http://schema.org/Organization">
+      <meta itemprop="name" content="千灵">
+      <meta itemprop="description" content="">
+    </span>
+
+    <span hidden itemprop="post" itemscope itemtype="http://schema.org/CreativeWork">
+      <meta itemprop="name" content="电子商务学习 | 千灵">
+      <meta itemprop="description" content="">
+    </span>
+      <header class="post-header">
+        <h1 class="post-title" itemprop="name headline">
+          电子商务学习
+        </h1>
+
+        <div class="post-meta-container">
+          <div class="post-meta">
+    <span class="post-meta-item">
+      <span class="post-meta-item-icon">
+        <i class="far fa-calendar"></i>
+      </span>
+      <span class="post-meta-item-text">发表于</span>
+
+      <time title="创建时间 2020-04-30 10:26:04" itemprop="dateCreated datePublished" datetime="2020-04-30T10:26:04+08:00">2020-04-30</time>
+    </span>
+    <span class="post-meta-item">
+      <span class="post-meta-item-icon">
+        <i class="far fa-calendar-check"></i>
+      </span>
+      <span class="post-meta-item-text">更新于</span>
+      <time title="修改时间 2021-04-26 21:48:49" itemprop="dateModified" datetime="2021-04-26T21:48:49+08:00">2021-04-26</time>
+    </span>
+    <span class="post-meta-item">
+      <span class="post-meta-item-icon">
+        <i class="far fa-folder"></i>
+      </span>
+      <span class="post-meta-item-text">分类于</span>
+        <span itemprop="about" itemscope itemtype="http://schema.org/Thing">
+          <a href="/categories/%E7%94%B5%E5%AD%90%E5%95%86%E5%8A%A1/" itemprop="url" rel="index"><span itemprop="name">电子商务</span></a>
+        </span>
+    </span>
+
+  
+    <span id="/ec-learning" class="post-meta-item leancloud_visitors" data-flag-title="电子商务学习" title="阅读次数">
+      <span class="post-meta-item-icon">
+        <i class="far fa-eye"></i>
+      </span>
+      <span class="post-meta-item-text">阅读次数 </span>
+      <span class="leancloud-visitors-count"></span>
+    </span>
+  
+  <span class="post-meta-item">
+    <a title="valine" href="/ec-learning#valine-comments" itemprop="discussionUrl">
+    
+    <span class="post-meta-item-icon">
+      <i class="far fa-comment"></i>
+    </span>
+    <span class="post-meta-item-text">评论数</span>
+  
+      <span class="post-comments-count valine-comment-count" data-xid="/ec-learning" itemprop="commentCount"></span>
+    </a>
+  </span>
+  
+  
+</div>
+
+        </div>
+      </header>
+
+    
+    
+    
+    <div class="post-body" itemprop="articleBody">
+        <p><img data-src="/images/covers/194.jpg"></p>
+<span id="more"></span>
+
+<hr>
+<h1 id="店铺"><a href="#店铺" class="headerlink" title="店铺"></a>店铺</h1><p>旗舰店：以自有品牌或由商标权人提供独占授权的品牌入驻天猫开设的店铺。<br>专卖店：以商标权人提供普通授权的品牌入驻天猫开设的店铺。<br>专营店：同一天猫经营大类下经营两个及以上品牌的店铺</p>
+<h1 id="商品"><a href="#商品" class="headerlink" title="商品"></a>商品</h1><p>主图：800*800<br>详情：宽750</p>
+<h1 id="关键词"><a href="#关键词" class="headerlink" title="关键词"></a>关键词</h1><p>包括属性词、营销词、产品词、核心卖点词。<br>属性词：材质、成分、功能、款式等。<br>热搜词：根据电商平台的数据报表，查找热搜词、上升词、潜力词。<br>热门标题提取：参照热门产品的标题，提取关键词。<br>产品卖点：即核心关键词。提取跟自己产品贴合度最高、最能突出产品卖点的关键词，重点优化核心关键词。</p>
+<p>服饰箱包类：品牌词+年度季节+类目产品词+属性词，慕翎大码女装春装2020年新款连衣裙牛仔外套微胖妹妹mm套装显瘦夏<br>食品类：品牌词+类目产品词+属性词+规格，悠享佳巴旦木仁500g原味生盐焗烘焙熟无売扁桃仁坚果零食孕妇<br>数码类：品牌词+类目产品词+属性词+型号/货号，小米RedmiBook14锐龙版R5 512G轻薄便携学生游戏笔记本电脑<br>洗护用品：品牌词+类目产品词+属性词+功能+规格，自然堂凝时冰肌水滋润型爽肤水护肤品补水保湿化妆水紧致焕亮官网</p>
+<p>影响商品搜索的因素有：<br>商品标题：材质、属性词、类目词、修饰词、行业热搜词等<br>商品销量：前一天销量、7天销量、30天销量等<br>商品评价：评价得分、评价内容等转化率：商品的转化率数据商品页面的跳失率：跳失率越低，权重越高。<br>加购率：商品加入购物车的占比。<br>收藏量：商品收藏量<br>店铺上新<br>店铺销售额<br>商品动销率：售出商品占上架商品比例</p>
+<h1 id="权重"><a href="#权重" class="headerlink" title="权重"></a>权重</h1><p>店铺星级<br>商品库存<br>新品上架<br>粉丝数<br>发货效率<br>主图点击率<br>首图视频加权<br>详情页平均浏览时长<br>橱窗推荐<br>公益宝贝<br>销量<br>评价<br>淘金币抵钱<br>标题<br>新品<br>收藏量<br>加购量<br>跳失率<br>客单价<br>直通车加权<br>好评率<br>确认收货率<br>转化率<br>店铺星级<br>天猫优先<br>金牌卖家<br>动销率<br>滞销率<br>降权<br>旺旺响应速度（自动回复解决）<br>付费推广<br>复购率<br>退货率<br>消保、淘金币、花呗等平台权益</p>
+<h1 id="《电子商务类教学质量国家标准》"><a href="#《电子商务类教学质量国家标准》" class="headerlink" title="《电子商务类教学质量国家标准》"></a>《电子商务类教学质量国家标准》</h1><p>适用于电子商务（120801）和电子商务及法律（120802T）两个专业。<br>培养目标是适应现代社会商务运营、专业管理和技术服务需要的复合型、应用型、创新型专业人才，并为电子商务专业设定了“经管类”和“工程类”两个人才培养基本方向。<br>理论课程应包含基础类、经管类、工程类以及综合类课程；<br>实践课程应包括课程实验和设计、项目实训和实习、毕业论文等内容；<br>核心课程应根据专业人才培养目标设计“6+X”的核心课程体系。</p>
+<h1 id="电商专业应用型本科人才培养现状"><a href="#电商专业应用型本科人才培养现状" class="headerlink" title="电商专业应用型本科人才培养现状"></a>电商专业应用型本科人才培养现状</h1><p>我国电子商务教育开始于 20 世纪 90 年代，和电子商务发展几乎同步进行，主要表现为从事经济学、管理学的部分教师开设电子商务的选修课，也有部分院校选拔低年级学生组建电子商务班，进行系统教学和训练。1998 年清华大学首次开设电子商务课程，2000 年底和 2001 年初教育部高教司分两批批准清华大学、西安交通大学、对外经贸大学等 13 所高校试办电子商务专业；随后，第三批、第四批院校获得电子商务本科专业办学资格，电子商务本科专业培养院校达到 58 家。自 2007 年开始，高校本科专业申请备案制实施以来，申请电子商务本科专业备案的高校快速增加，2016 年开办电子商务本科专业的高等学校已达到 390 所，2018 年已达 521 所，已经实现了规模化人才培养的格局。<br>在众多专业改革中，电子商务专业的改革显得尤为迫切。电商行业的迅猛发展使电商专业人才的需求量持续增加，同时也对该类人才提出越来越高的专业要求。如何培养高素质的电商应用型人才，以及应采取何种培养模式的问题迫在眉睫。<br>电子商务是一门文科与工科相交叉的学科，由经济学、管理学与计算机科学与技术等多学科交叉而形成，是信息技术在商务领域的创新，实践性是其专业特色。<br>电子商务专业人才培养方向大致分为两种：工程类和经管类，并且在文理方向上各有不同的侧重点。工程类培养方向具有优势的高校应侧重掌握网络技术和商务信息相关知识和技能，重点是网络信息技术的开发和利用，满足企业对网络信息技术的需要；而经管类培养方向具有优势的高校应侧重掌握网络经济和商务管理的相关知识和技能，重点是商务运营与管理，满足企业对经营管理的需要。<br>经过近二十年的演变，电商专业发展已进入成熟期。与此同时，电商应用型本科人才的培养中也暴露出一些问题。<br>从学生来看，学生的学习成绩低，理论知识的掌握程度不高，实践操作能力弱，不能灵活的将理论知识应用于实践操作，学习效果达不到标准要求；学生学习兴趣不高，学习上不主动，缺乏创新，潜能开发程度小，没有核心竞争力，与经济社会需求不对接；电子商务本科毕业生的就业情况不理想，出现了“学生找不到工作，学生转行”等问题。从学校来看，学校对电子商务的定位偏向于计算机技术或市场营销、商务管理，缺乏综合性较强的电子商务定位；电子商务专业与其他相关专业的教学内容重复，教学方法 99% 相似，缺乏电子商务特色；教师教学基本上是口授，实践教学过少，学生学习效果不佳。<br>电子商务本科师资力量不足。目前我们国家师资力量较弱，具有较强的计算机应用能力和商务、管理能力的教师较少。我们国家的电子商务专业起步晚，部分院校的师资主要来源于、金融、计算机、网络技术等，它意味着部分教师不具备完整的电子商务管理知识系统，而另一部分教师来源于刚毕业不久的年轻人，电子商务实践经验还不够，这就导致学科领域的差距与教学经验不足等问题。电子商务专业的教师数量较少。根据 2004 年教育部规定的基本办学条件指标，高校师生比的合格标准是1：18；但是部分高校在师生配备上存在“僧多粥少”的问题，专业教师数量相对较少。<br>电子商务本科教学质量不高。教学质量不高主要表现为学生成绩不理想，理论知识的掌握程度不高，实践操作能力较弱，考试分数偏低，大部分学生的成绩集中在及格边缘；学生技能与电子商务岗位不适应，高校校企合作较少，缺乏电子商务实训基地，学生参与实训的机会少，实践操作能力弱，对企业电子商务运营模式不熟悉；学生就业情况不理想。据调查，我国电子商务人才缺口大，但是高校人才培养和行业人才需求存在脱钩的矛盾，造成应届生就业不理想。<br>电子商务本科学生就业困难。就业困难主要表现为我国电子商务专业人才缺口大，但是很多电子商务专业的毕业生找不到对口工作；毕业生的能力与社会所需电子商务人才不匹配，高校过多注重培养综合型人才，而企业急需具有核心竞争力的人才，目前各大高校的校企合作模式少，学生缺乏更好的实践机会，学生的专业实践能力仅限于实验室，操作能力不能得到提高，不能满足市场需求；目前高校扩招，学生就业竞争较大，近年来电子商务行业的发展迅速，电子商务人才的竞争形势愈加激烈；电子商务专业的毕业生与市场需求没有形成一个很好的对接，从目前人力资源市场的人才需求岗位来看，明确标列的岗位多数是金融、财务管理、市场营销、计算机技术等，直接标列“电子商务”岗位较少，学生在求职过程中忽视了很多就业机会。<br>电子商务是发展非常快的领域，技术和市场的更新更是日新月异。我国高校的专职教师大多是半路出家，缺乏电子商务的实战经验，对市场的敏感度不够，往往学校里学习的知识在企业的实际应用中早已经过时，或者是根本用不上。这使得电子商务专业与企业对接的需求空前增大，学生需要切实的实践机会、需要准确的市场需求信息，甚至是来自于企业最真实的声音。</p>
+<h1 id="电商专业应用型本科人才培养中存在的问题"><a href="#电商专业应用型本科人才培养中存在的问题" class="headerlink" title="电商专业应用型本科人才培养中存在的问题"></a>电商专业应用型本科人才培养中存在的问题</h1><p>（一）内涵理解有失片面<br>应用型人才培养强调的是“应用知识”，而非学术研究和学术创新，强调与一线生产实践结合，重视实践教学环节，培养学生专业知识的应用环节。应用型人才不仅要具备相当的专业知识和专业水平，还要拥有足够的实践能力和动手能力，能结合实际工作，进行思辨和判断，将所学的专业知识熟练进行应用。应用型人才培养的重心并不“仅仅”是实践能力，而是“知识”应用于“实践”的能力，两者必须有机融合。电商专业虽然有实践性强、更新快、灵活度高的特点，但是失去了专业理论知识的支撑，电商平台的建设、交易模式的创新只能是无源之水、无本之木。所以，片面强调任何一方，都是蠡测管窥。<br>（二）人才培养定位不清晰<br>很多高校仅凭报考热度确定招生人数，在制定人才培养方案时既缺乏广泛的市场调研，更没优先考虑社会和企业的具体需求，课程设置较为盲目，难以适应时代的发展需求。例如，目前电商企业人才需求主要为电商平台的运营、推广销售、营销服务类人才，而高校电商专业课程设置不仅包括信息技术类课程，还有管理学、经济学系列等课程，课程设置的侧重点不突出，没有具体的专业方向，校内的知识架构已远远不能满足电商新业态的发展变化，人才培养的定位完全脱离了实际需求的方向。<br>（三）教学模式不兼容<br>随着时代和科技的不断发展，尤其是互联网和大数据的应用范围日益扩大，电商对应的知识构成体系日益繁复，吸纳新科技的能力极为强劲，创新的要求愈来愈高，传统的以讲授、启发和讨论教学模式已不能满足教学和企业的需求，难以适应电商专业更新快、灵活度高的特点，更不能根据学生的特异性选择个性化的教学方法，激发他们的学习兴趣，也更谈不到提高学生的创新能力和专业应用水平了，从而根本无法满足应用型人才培养背景下电商专业教学的需要，无法实现预期的教学效果。<br>（四）实践教学硬件滞后<br>应用型人才的根本就是为企业和社会培养、输送实践能力强的技能型人才，侧重的是理论知识的应用能力。很多应用型本科高校都注重学生实践应用能力的培养，着力增加实践基础设施的投入，陆续筹备了专业模拟实验室，并引入了校企合作等创新模式。但 2015 年之后，电商行业进入引领期，技术创新在电商领域的更替速度加快，已有的教学设施很难做到与其完全协调、同步，高校中电商实践设施滞后的现象俯拾皆是，教学大多徘徊在模拟实训的水平，不能切实提升学生的实践应用能力。<br>（五）师资队伍建设存有欠缺<br>首先，教师招聘中有“重学历，轻技能”的倾向，招聘门槛较高，优先考虑博士等高学历。此举与电商专业的实践性强的特殊性明显相悖：高学历不代表实战经验丰富，实战经验丰富但理论水平不足，亦不能达成专业知识与技能应用的统一，暴露出对“双师型”的理解不到位，片面强调“双职称”或“双证书”。这些均与应用型人才培养的根本目的大相径庭，导致高校应用型人才培养与实际的脱节。由于电商专业学科上的交叉性，且多数归设于经管学院，现有师资的专业方向也以经济管理类为主，教师汲取专业知识的途径主要为已出版的专业书籍，大多纸上谈兵，并没有电商的从业经历和实践经验。教师专业、知识结构及其实践经验有限，导致不能充分满足实践教学的要求。<br>在电子商务专业教学中，很多电子商务专业老师对于本身的教学课程并没有深入思考，更没有将电子商务专业教育与学生的主要技能专业结合，往往都是以应试教育为主要教学目的，对于学生的职业电子商务专业能力却置若惘然。电子商务专业如果不能和生活或工作相联系，那么更不会引起学生的兴趣，会引起学生的抵触情绪。</p>
+<p>教师刚刚将某一新兴的电商模式引进课堂，这一模式就已经在走下坡路，随即被淘汰。由于教学内容无法跟上电子商务发展进程，使得学生毕业时专业技能和行业要求不符，这将会对学生造成严重阻碍。<br>电子商务教学本身更多的偏重于实践，高校在培养电商专业人才方面应更加注重人才对于市场的适应能力和实践能力，学生在学校所学习的知识不能与实际脱钩。<br>电子商务专业是交叉学科，涉及的知识日新月异，信息技术的最新成果往往在电子商务领域推广，该领域正在成为个性化、专业化的创新源泉。因此电子商务是最适合创新创业的专业，也是最需要将创新创业与社会实践紧密结合的专业。<br>电子商务专业的学习不在于书本上的知识会了多少，而是在于对于知识的理解和运用，如果将所学到的电子商务专业仅仅局限于一个小范围内，那么只会让运用电子商务专业的能力越来越“枯萎”。<br>应用型人才的内涵决非专业技能单方面的培养，专业理论知识以及方法的积累和应用同等重要。“兼听则明，偏听则暗”，电商的应用型人才也不例外，理所应当“理论与实践技能并举”，注重实践但不轻理论。作为一个具有“新技术密集性”特点的专业，安于现状，被动接收新技术的普及，必然使自身陷于被动的境地，难以把握电商发展的主流趋势。只有不断接纳新知识、新观念、新信息、新技术，建立最前沿的理论知识体系与框架，充分发挥理论对实践的指导作用，并借助实践验证理论的正确性与完整性，实现反哺，才可能真正增强学生的学习能力、工作能力和创新能力，从而顺应电商迅猛的发展态势。</p>
+<p>据调查，电商企业中 50% 的急需淘宝、天猫等传统运营人才，54% 急需新媒体、社群方向人才，32% 急需美工、视频制作等技术性人才，32%急需推广销售人才，16% 急需供应链管理人才，33% 急需复合型高级人才，17% 急需产品策划与研发人才。可见，专业定位明确是电商专业需解决的重点问题。目前很多院校相当重视这个问题，并据此做出了调整。比如：根据电商专业交叉性的特点以及企业需求的多样性，细分专业方向、类别，设置电商运营、网络营销、电商物流、网站建设等方向。这样不仅专业的定位越发明确，人才培养的靶向性也更加清晰。</p>
+<h1 id="跨境电商"><a href="#跨境电商" class="headerlink" title="跨境电商"></a>跨境电商</h1><p>2019 年 7 月李克强总理主持会议布置了促进跨境电商发展的系列政策，支持高校开设跨境电商相关专业，为跨境电商提供重要人才支撑。<br>跨境电商的人才培养涉及选品、店铺运营、物流、客户服务、模特、摄影、美工、海外仓、小语种等各个方面的知识，这方面复合型的人才培养十分的迫切。<br>与国内电商不同，跨境电商面对的是来自世界各地的顾客，不同的语言、文化、宗教信仰、生活习俗等等，使得跨境电子商务变得复杂很多。加上电子商务本身涉及到的在线支付、物流、计算机网络等知识，所以，一个优秀的跨境电商从业者需要了解并掌握的知识技能是相当繁多的。而目前国内这种复合型人才实属不多，要培养一批这样的人才也需要一个相当长的过程。<br>商务英语与平台操作等方面的新型外贸型人才缺口巨大，很多传统外贸企业意识到跨境电子商务的阶段潜力，能胜任电子商务工作的新型外贸人才稀缺。电商在技能运用类专业，要求学生根据理论进行实际操作。<br>市场上现有的传统外贸人才无法满足跨境电商企业用人的要求，高校培养出来的人才与企业所需的人才之间不能完全匹配，人才的缺失成为制约跨境电商行业发展的重要阻力，培养相匹配的跨境电商及相关人才迫在眉睫。</p>
+<div class="center">跨境电子商务岗位能力需求分析</div>
+
+<table>
+<thead>
+<tr>
+<th align="center">岗位能力需求</th>
+<th align="center">具体能力指标</th>
+</tr>
+</thead>
+<tbody><tr>
+<td align="center">外语应用能力</td>
+<td align="center">外文读写应用能力：能够在门户网站获取最新资讯，使用英文对所售产品进行完整与正确的描述<br />外文沟通能力：能够使用英文与买家进行实时沟通与交流<br />跨文化交际能力：能够具有跨文化的沟通能力</td>
+</tr>
+<tr>
+<td align="center">国际贸易能力</td>
+<td align="center">国际贸易完整流程熟练程度：国际贸易的相关规则、具体操作、交易先后程序、国际快递流程<br />国际贸易法规熟悉程度：充分了解国内外相关政策与法规，以保证双方交易的合法性和利益<br />金融专业知识熟悉程度：熟练掌握岗位行业需要的金融知识</td>
+</tr>
+<tr>
+<td align="center">电子商务能力</td>
+<td align="center">网站编辑能力：熟悉网站架构设计，查找电子商务网站，懂得推广商品的技巧<br />在线商品交易能力：熟悉商品价格设置、产品发布、在线交易流程<br />客户服务能力：商品下单后的配送、售前、售中与售后服务</td>
+</tr>
+<tr>
+<td align="center">国际市场营销能力</td>
+<td align="center">客户需求分析能力：了解客户基本需求，根据需求判断客户购买意向<br />海外零售市场敏锐度：掌握销售产品海外市场 动态，分析数据并进行预测<br />网络渠道营销能力：掌握各种营销工具如Google、微博、 微信、博客、等</td>
+</tr>
+<tr>
+<td align="center">计算机网络运用能力</td>
+<td align="center">网络平台运营熟悉度：图片处理与编辑、视频拍摄与编辑、在线售后与服务、网站及网上商铺运营、网络综合推广<br />网站建设能力：计算机网络系统组建、网络安全维护</td>
+</tr>
+<tr>
+<td align="center">财务核算能力</td>
+<td align="center">财务核算能力：编制报表、处理账务、核算成本、资金结算收付<br />财务分析能力：运用大数据对采购进行优化决策、销售预算的制定<br />税务筹划能力：税务核算与申报，财税风险管理<br />资金管理能力：筹措资金、合理分配与使用资金</td>
+</tr>
+<tr>
+<td align="center">综合职业素养能力</td>
+<td align="center">心理素质能力：要有良好的抗压能力<br />团队协作能力：具备良好的团队协调协作能力<br />企业管理能力：具备企业管理、企业品牌维护等能力<br />谈判能力：具备线上线下具体业务谈判技巧</td>
+</tr>
+</tbody></table>
+<h1 id="学习方法"><a href="#学习方法" class="headerlink" title="学习方法"></a>学习方法</h1><p>关于学习是什么的问题，历史上便出现了三种不同的传统学习理论———行为主义、认知主义与建构主义学习理论。<br>行为主义理论认为，学习是一系列简单的刺激与反应的行为组合，因为无法真正知道在学习过程中人体内发生着什么，因此可观察道德行为结果是最重要的，真正的学习也就是个体行为发生的变化；<br>认知主义理论认为学习是主体通过经验与思考而获得的，是一种诠释的结果，知识在人的大脑中被看做符号，而学习的过程则是大脑对这一系列的符号进行编码———解码的过程；<br>建构主义理论主张新知识的获得是在原有知识基础上产生的，是对原有知识的加工与重构。<br>知识并不是纯客观的事物，而是主观与客观相互作用的结果，是个人在自己原有认知经验的基础上自主建构出来的，它只不过是对客观世界的一种解释、假设或假说，不是问题的最终答案，它必将随着人类的进步而不断地变革、升华和改写，出现新的解释和假设；尽管通过语言赋予了知识一定的外在形式，甚至这些命题获得了较为普遍的认同，但这并不意味着学习者对这种知识有同样的理解。真正的理解只能是由学习者自身基于自己的经验背景而建构起来，取决于特定情境下的学习活动过程。学习不是简单的信息积累，更重要的是由新旧知识经验的冲突而引发的认知结构的重组。获得知识的多少取决于学习者根据自身经验去建构有关知识的意义的能力，而不取决于学习者记忆和背诵的能力。学习的质量是学习者建构意义能力的函数，而不是学习者重现教师思维过程能力的函数。教学不能无视学生的经验，从外部装进新知识，而是要把学生现有的知识经验作为新知识的生长点，引导学生从原有的知识经验中“生长”出新的知识经验。教学不是知识的传递，而是知识的处理和转换。建构主义的基本观点向传统教学理论提出了巨大挑战，启示我们反思传统教学盲目崇拜书本和老师的思想、过分注重知识传授并将书本知识作为固定不变、不容质疑的东西让学生无条件地接受的传统教学模式，使学生的发散性思维、逆向性思维被束缚，学习兴趣、质疑、创造的精神被扼杀，难以适应现代社会对人才的要求。</p>
+<p>这三种传统学习理论都建立在一种假设前提之下，即学习是一种单线地发生在个体内部的过程。正如卡伦·斯蒂芬森所认为的：“长期以来，经历被认为是知识的最好的老师。但我们无法经历所有的事，因此他人的经历，乃至其他人，都成为知识的代名词。我把我的知识储存在‘朋友处’是一种通过收集人数来收集知识的公理。”数字化时代，数字对人们的生活方式乃至人们的生存意义都产生了前所未有的影响，另一种合乎这个时代需要的学习理论应运而生———关联主义学习理论。</p>
+<p>关联主义学习理论（2004）试图用连通的思想，解决信息超载和碎片化问题。理论认为，学习是一个知识网络形成的过程，连通比建构更重要。知道谁、知道哪里，比知道什么、知道怎样更重要。<br>知识观：关联主义更加强调知识的组织性特征，而非结构性特征，以往的学习理论则更偏重于将知识作为一种静态的、层级的结构或者体系，数字化时代这一认知则受到强有力的挑战，关联主义学习理论研究者认为，知识具有生态性，使用动态的网络组织，知识是流动的而非一成不变的，因此获取知识的渠道则显得尤为重要，联结、重组和创造是互联网信息技术时代知识的特征。知识不仅只存在于个体的大脑之中，还可以驻留于网络，其关键在于人们对于知识生长的路径探寻及意义建构。<br>学习观：学习者应该建立与外部知识结点的联系，犹如建立信息与知识流通的管道。管道比管道里的内容更重要，因为管道里的内容是随时在变化着的。为了保持知识的时代性，还应该经常更新自己的管道。知识结点是指人、书籍、博客、网站、数据库等一切能够承载知识的东西。<br>因此，这一理论强调，学习的关键在于“知道知识在哪里”，而不是传统意义上的“知道什么知识内容”。</p>
+<p>西蒙斯曾举过一个例子：比如我们今天讨论了信息超载、新建构主义、联通主义，我们把这些概念在脑海里串联起来，这就是连通，说明连通还发生在大脑内部神经元网络中，是概念与概念、知识点与知识点、知识单元与知识单元、学科体系与学科体系之间的连通。</p>
+<p>学习资源取代了传统的知识而作为关联主义学习得以开展的基础。关联主义学习理论认为，知识永远处于不断地变化与更新当中，作为个体学习者的我们无法掌握所有知识，因此学习的管道则显得比学习内容要重要得多，我们要做的就是在各种学习资源之间建立关联，使其更有利于学习者对知识进行连接、重组与再造。知识节点的开放性主要体现在三个方面：首先，学习资源的设计与开发要实现其互操作性与可共享性；其次，学习资源要对每一个学习者（用户）进行权限开放，以使所有人都可以参与编辑与重写；最后，学习者可以根据自身的经验与发展来编辑信息资源内容，可供不同需求的学习者进行学习与参考。因此，知识节点的开放性为每一个学习者打通了网络关节，使其在网络学习中不断地更新自我、丰富自我。关联主义学习理论认为，知识最大的特征即表现为流动性，如此，教学交互则是整个学习活动的核心组成部分，这种交互性主要表现为资源的结构设计、网络技术的呈现设计、信息内容的可操作性等多个环节，它们不仅要考虑到学习者的认知特征，而且要考虑到各种各类学习资源之间的关系。因此，关联主义强调，学习即形成学习网络。</p>
+<p>为了应对信息超载的挑战，西蒙斯提出两个应对方法：一是多连通、少建构，通过连通分享各自的知识，而不必事事都靠自己去建构；二是把部分认知处理工作交给机器，以减轻人类自身认知的负担。对于如何解决碎片化问题，联通主义没有提出具体的解决办法。虽然理论上促进知识在大脑内部的连通，有可能解决碎片化问题，但到底如何实现知识在大脑内部的连通，联通主义理论一直语焉不详。即使后期提出的寻径、会意等学习策略，也因为过于空泛抽象而不具有可操作性。</p>
+<p>每一个个体、每一处学习资源库都可视为不同的节点，知识就是在这些彼此相关的节点之间发生意义，而学习就是一种发现意义的过程，节点则充当了意义的组织者与再造者。<br>学习不是一种静态的、单向的传递———接受的过程。学习的核心在于流通性，即将各个专业节点连接起来的过程，这一连接的过程便产生了知识意义的无限可能性。每一个人都可以作为学习者，也可以作为学习资源的建设者而存在。<br>学习不仅发生在人类每一个个体之中，也可能发生在非人的工具当中。这是对传统学习概念认知的革命，网络信息技术同样也做人类大脑的工作，它们可以识别、检索与储存等，而这一过程也就意味着是学习的过程。人类与信息技术相结合的学习是一种内部网络与外部网络相结合的过程，人在这当中无疑发挥着至关重要的作用，他们可以有效地构建自己学习的生态网络。<br>数字化时代要求人不仅拥有广博的知识涵养，更重要的是需要培养批判精神与判断能力，因此通过学习培养跨学科视野，从而在不同领域、不同学科、不同知识概念之间进行联结与判断，并且在出现问题的时候，可以及时对信息资源的存在模式做出调整与改变，这是当下以及未来学习的目标。</p>
+<p>新建构主义学习理论（2011）是将建构主义与联通主义思想融合贯通的一种新的学习理论。理论认为，网络时代学习面临两大挑战：一个是信息超载，一个是知识碎片化。为了应对这两大挑战，新建构主义强调要教会学生学会选择，即打破传统的学科知识体系，根据个人需要和兴趣来选择学习的内容，构建个性化的蛛网式知识结构； 另一方面采用零存整取式学习策略来整合信息与知识碎片，实现知识内化乃至知识创新。新建构主义把网络视为虚拟的知识银行，主张通过与网络建立联系，来进行知识的建构与创造；认为教师在传授专业知识之外，更重要的是要教会学生五大技能，即：教会学生如何搜索、教会学生如何选择、教会学生如何思考、教会学生如何交流、教会学生如何写作。根据上述指导思想，新建构主义教学法主张鼓励学生在课外通过网络开展丰富多彩的个性化的自主学习；通过课堂上的分享与交流，选择大家共同感兴趣的内容开展协作与探究，进一步深化学习；在老师的示范与指导下，逐渐实现知识碎片的加工与整合，最终实现知识创新。<br>网络学习的碎片化导致学习的零散、不系统，学生很容易为这些信息与知识的碎片所困扰，教师要引导学生对这些碎片进行有意识的整合，使之成为学生个人知识结构的有机组成部分，并最终实现知识创新。在分享、协作和探究过程中，教师应采取新建构主义零存整取学习策略，鼓励学生随时随地进行知识之间的连通与重构，构建个性化的知识体系，并将这一点视为教学的最终目标。</p>
+<p>以往信息和知识主要存储在纸质书本中，网络诞生后，发生了两大变化：一是人们有意识地将以往记载在纸质书本中的知识，向网络上迁移；二是新产生的信息与知识，往往先存储在网上，并在网络中流通，经过加工沉淀后，才转移到纸质书本中。这两大变化使得网络取代纸质书本成为信息与知识的主要载体。<br>知识在网络中“流动”起来，通过网络流向全世界每一个节点，在流动的过程中不断有新的信息与知识的注入，因此总量如洪水般地暴涨。其中很多信息与知识在还没有被人们普遍了解之前就被淘汰，新的信息与知识又蜂拥而至，而且这一过程变得越来越快。<br>软知识是一种正在形成过程中的知识，它来源于实践，具有实用性、时效性和情境性，但尚不成熟，尚未被专家学者加工整理成系统化的知识。硬知识是经过专家学者的加工整理，已经结构化、系统化，被写进教科书和专著，并为公众普遍接受的知识。过去我们对知识的理解主要属于硬知识范畴。</p>
+<ol>
+<li>重新定义学习<br>新建构主义认为，学习是一个零存整取、不断重构的过程，创新比继承更重要。新建构主义最核心的主张就是“零存整取、碎片重构”这八个字，认为在碎片化学习时代，学习者应该将各种途径获得的碎片化知识，通过零存整取的策略和方法，有机整合起来，形成个性化知识体系；而不必试图通过复原的方法，按照书本教材原来的知识结构，建立共性化的知识体系。因为个性化的知识体系，才更有利于创新创造。新建构主义认为，学习的目的不仅仅是为了传承知识，更重要的是实现创新创造，因此将“为创新而学习，在学习中创新，对学习的创新”作为该理论的首要原则。</li>
+</ol>
+<p>工具主义桎梏：<br>数字化时代是一种技术理性盛行的时代，历史上，人们大体上经历了宗教崇拜、人文崇拜和理性崇拜三个时期，到了当代，数字给人们呈现的是一种科学实证主义生活，人们也变得不再相信其他什么，而只是将数据作为自己唯一的信念，雅克·阿塔利在《未来简史》中便表达了这种忧虑。在这种情况下，大多数成人学习去除了任何意义上的人文性与价值性，而只是一味地追求功利性，因为数据可以说明一切。数字时代的成人学习者的学习态度可以分为以下三种：利益驱动型、自我成长型以及“为知识而知识”型。利益驱动型的成人学习者只为自身的利益而学习，他们精于算计，为了获取更大利益而不惜牺牲一些其他的方面，甚至可能做出一些违反道德法律的事情。自身成长型的成人学习者，他们为自身所存在的知识缺陷而学习，为了更好地适应这个快速发展的社会，他们不得不树立起终身学习的理念，活到老、学到老，只为弥补自身的不足。“为知识而知识”型的成人学习者则显得与这个时代格格不入，他们渴求知识，但不是为了自身的利益或者如何去适应这个日益变化的世界，在他们看来，这个世界有一种永恒的东西永远留存在人们的心中，有一种永恒的价值永远值得人们去追求，那就是从经典中获取知识，探索人类的永恒价值与人文关怀，然而在当下社会甚至未来社会这种“为知识而知识”的人却是少之又少，利益驱动型的成人学习者占据了很大一部分，当然在这个竞争日益激烈的社会，许多成人学习的目的也就只是为了寻求一份好的工作或者一份可观的收入而已，提高学历是获得利益最好的途径，因此，大多情况下，成人学习的态度不够端正，动机也不纯，在学习的过程中积极性和主动性就会大打折扣。</p>
+<p>该理论主要包含以下几个观点：第一，人们基于个人追求会主动学习非专业相关知识；第二，随着教育资源越来越容易获取，非常规学习成为更具可行性的方式；第三，学习方式趋于多样化，学习时间趋于自由化，每个人均需要在工作生活中不断学习 新知识，实现终身学习；第四，学习工具影响了学习 思维；第五，学习途径拓宽，除在校学习外，在教育机构和家庭中的学习也具有现实意义；第六，学习理 念不断发展，旧的观念会被新技术所取代；第七，发现好的学习平台是学习者关注的重点。</p>
+<p>传统的教学都是按照学科和专业的知识体系，按部就班、循序渐进地进行的，教师们希望学生继承前人留下来的完整体系，希望学生学到的是完整的、系统化的知识。问题是今天的知识与学习已经发生了根本的改变，信息与知识呈爆炸性增长，知识的更新速度大大加快，很多知识已经过时，传统的知识结构发生了重大的变化，知识被切割成碎片，学科和专业被不断重组、融合。正如关联主义学习理论创始人乔治·西蒙斯所说：“今天的知识不再是静态的层级和结构，而是动态的网络与生态。知识像河流在网络中流动。”但教师对这一点显然普遍认识不足，还希望用原来那种方式来进行教与学，却不知自己早已落到了时代的后面。<br>很多人把碎片化视为一种缺陷，认为碎片式学习毫无意义，只能带来零散的知识，而零散的知识无法发挥作用。殊不知，碎片化知识也有有利的一面，就是能更方便地重组、更有利于问题的解决、更容易引发知识的创新。传统的学科体系是为了研究与教学的方便而人为划分的，往往与真实问题有所差距。学校教育往往使学生所学的知识成为条条框框，因而毕业后他们就会按照那些条条框框的知识去处理现实问题，然而现实生活中很难找到与书本对应的情况与问题。<br>之前，在我学医的时候令我印象最深刻的是，实习时我们按照课堂和教科书所讲的内容去诊断病人，导致经常出错，这时老师告诉我们，病人不是“照书生病”的。的确，从书本知识到真实问题解决，往往要经过一个很长的迁移过程。当转行到教育技术之后，我采用的是以问题解决为中心的学习方法，遇到什么问题需要解决，我就先从网络搜索开始学习，像蜘蛛织网一样，围绕问题解决一圈圈地向外扩散，需要学什么就学什么，不一定拘泥于按照学科知识体系的系统学习，更多的是采用碎片式的学习方式，把所有的碎片根据问题解决的需要整合在一起，形成个陛化的知识结构。我发现这样的学习效率更高、结构更合理，更利于问题的解决与知识的创新。<br>假如允许学生带手机来上课，教师必须做出以下改变：第一，教师不能照本宣科，不能满堂灌。必须提高讲课水平和教学艺术，靠教师讲课的内容和魅力来吸引学生，而不是靠硬性规定禁止学生。可以说，如今的教师讲授知识时应做到三点四个字，即新、奇、实用。新，指的是内容。教师讲课的内容要新颖、独特，网上看不到或不容易看到，有自己的思想观点、心得体会，或者是自已的研究成果、独到见解，让学生有耳目一新的感觉。奇，指的是方法。教学方法不能从头到尾千篇一律，必须有所变化、有所创新，常常让学生意想不到，能牢牢抓住学生的注意力。实用，指的是针对陛。教学内容应针对学生的特点和需要，或是学生感兴趣的，对学生有实际的帮助。只有这样，学生才会爱听、爱学。第二，要让学生在课堂上“动”起来，不仅动手、动嘴，更主要的是要动脑。可以采用提问、讨论、协作、探究、练习、操作等多种方法，调动学生的积极l生，参与教学过程，使他们没时间在课堂上玩手机。第三，要让学生“用”起来。用手机查资料、看微课、做练习参与课堂交流与互动。在课堂上用手机学习与交流，而不是娱乐、游戏。做到上述三点，手机将不再是课堂上打不退的“第三者”，也不再是教师的“情敌”，而是教师的“帮手”、学生的“朋友”。<br>每个人都是独一无二的，不要把太多的精力花在补短板上。只要我们的短板不至于短到影响作为教师的基本形象，比如，字写得比班级里大部分学生难看，普通话普通得一般学生听不懂。这样的短板，当然要补。除此以外，便不要把太多精力花在补短板上。一味补短板，会让我们什么都会一点，但什么都没有特色。<br>适度忘掉短板，让长板更长，把苦功下在练“绝招”上，这也许是互联网时代发展的新思维。</p>
+<p>批判性思维的核心是分析能力，是针对一个具体问题，在广泛搜集信息的基础上，通过对比、归纳、总结等高级的思维方式对信息进行加工和处理，形成自己的结论和看法，并有充分的证据证实自己的观点和立场。</p>
+<p>学生在学习中获得的学习成果需要与当下环境相符合，特别是要确保学生的学习成果能够与社会发展的需求相匹配。</p>
+<p>某些神经科学著作作者指出，适当的“忘记”反而可以更好地提高记忆。这主要是由记忆的两个能力造成的，它们分别是储存能力和提取能力。</p>
+<p>储存能力呢，指的就是你学到的东西在大脑中储存的有多坚实。储存能力只会越变越强，永远不会减弱。从生物学角度来看，大脑能储存的东西可以供300万套电视节目同时播放，这个量级的空间足以储存你从出生到走向坟墓这漫长一生中每一秒的所见所闻。</p>
+<p>所谓提取能力，指的是某项信息被提取到意识中的难易程度，也就是说，你光把知识存在脑子里还不行，需要用的时候，还得能马上拿出来。和储存能力比起来，你能提取的记忆容量很小。你能感觉到自己记住的东西，其实只是那些你能提取出来的东西。用得多的就被强化了，也就是说，越用记得越牢。那些总是用不到的，就得不到强化，也就越难提取出来了,被你认为是遗忘的记忆。相比于储存能力，人的记忆提取能力往往很不靠谱，它会受到当下环境和心境的影响。</p>
+<p>这也是著名的“记忆失用理论”。它彻底打破了人们对“遗忘”的认知，指明了遗忘的两大正面意义。遗忘不仅可以承担着“垃圾信息过滤器”的功能，在不同环境中，遗忘还能帮你的大脑发挥一种类似肌肉锻炼的作用，先损耗，后增长。虽然你总会“遗忘”一些内容，特别是当你经历一段时间后，经历一番困难重新回忆起这些记忆后，大脑会建立一个更稳固的记忆回路，让下一次提取记忆的速度更快。</p>
+<p>正因为遗忘的这两大积极作用，作者把这种遗忘到学习的过程，重新定义为更积极的遗忘式学习。我也希望你能更积极地去面对遗忘带来的困扰，尤其当你转换新工作，或者学习新知识遇到障碍的时候。要知道，初期的遗忘并不是因为你不努力、不专注，也不是你本身记忆力不好，相反，这证明你的大脑正在以恰当的方式工作着，这是每个人都必须经历的过程，只有这样，你才能更深刻地掌握知识和技能。</p>
+<p>比“刻意练习”更有效的“交替练习”学习法。不知道你有没有听说过，“一万小时天才理论”。意思就是说，在某个领域专注耕耘达到一万小时以上，你就能成为行业专家。后来有人补充说，通往出类拔萃的捷径不只是时间的简单叠加，更重要的是“核心算法”的刻意重复。刻意练习的核心精神是对重复练习的强调，对重复次数的强调。比如，你看乒乓球运动员训练时，可能今天要练习10组接球动作，就会先练100个正手上旋球，再练100个反手上旋球等等，这样大量的重复训练是所有运动员每天的必修课。</p>
+<p>刻意练习这种强调重复训练的方法还不够好，因为我们练习的目的是应对现实中的难题，这种做法与真实场景差别太大，更好的办法是采用交替式练习。交替练习是什么意思呢，还是拿乒乓球训练来说吧。如果用交替式练习的话，就不会采用那种每个动作练习100次的做法，而会把这10个动作混合在一起，可能上一个球你接的是反手上旋球，下一个就变成了正手下旋球等等，这10种接球动作会随机出现。这可能和我们平时采用的方法不太一样，因为我们看国家队的乒乓球训练时，也会采用这种大量重复的训练方法。</p>
+<hr>
+<p><strong>参考文献</strong></p>
+<p>[1]周剑锋.基于“共享工厂”模式的电子商务专业产教融合育人路径探索.电子商务,2020(1):80-81.<br>[2]王万里,王琳.电子商务应用型本科人才培养问题探析.太原城市职业技术学院学报,2019(10):161-162.<br>[3]郭小凡.基于STEM教育理念的应用型本科教学探究——以电子商务本科教学为例.高教学刊,2019(11):123-125.<br>[4]万振杰.探讨电子商务专业产教融合、校企合作教学模式.电子商务,2019(12):75-76.<br>[5]郑胜英.双创背景下高职“电子商务”课程改革研究.电子商务,2019(8):71-71.<br>[6]王效东.本科院校教学实践中存在的问题及对策——以“电子商务”课程教学为例.视界观,2019(20):0160-0160.<br>[7]孙端,熊乐,杨自辉.基于教育质量国家标准的电子商务本科专业特色建设[J].高教学刊,2019(19):80-82.<br>[8]王欣,王新平,魏歌.论电子商务专业毕业生就业竞争力评价体系的构建[J].新西部,2019(36):119-120.<br>[9]李丹丹,裴一蕾.分享经济时代电子商务专业本科生全程导师制的探索与实践[J].价值工程,2018(12):207-209.<br>[10]乔阳,马洪娟.基于创新创业教育高校电子商务本科专业实践教学体系的构建研究.电子商务,2015(4):56-57.<br>[11]吴亚凤.大学生就业专业对口调查与研究.科技视界,2014(29):69-70.<br>[12]王外连,王明宇,刘淑贞.中国跨境电子商务的现状分析及建议.电子商务,2013(9):23-24.<br>[1]朱越来,胡生泳.关联主义视域下成人学习的理念创新与路径变革[J].成人教育,2019(3):13-17.<br>[1]刘德臣,唐斌.关联主义学习理论视角下应用型院校教学与MOOCs的融合困境与对策[J].开封教育学院学报,2018(12):78-79.</p>
+<p>[1]王竹立.新知识观:重塑面向智能时代的教与学[J].华东师范大学学报:教育科学版,2019(5):38-55.<br>[1]黎加厚,王竹立.最终改变课堂的或许是手机——关于学生自带设备进课堂的讨论[J].中国信息技术教育,2015(20):4-12.<br>[1]王竹立.新建构主义教学法初探[J].现代教育技术,2014(5):5-11.<br>[1]陈海涛.基于需求导向的政府、学校、企业三位一体培育跨境电商创业创新人才研究[J].劳动保障世界,2020(6):59-60,62.<br>[1]胡佳怡.项目式学习中“教”与“学”的本质[J].基础教育参考,2019(2):7-10.<br>[1]张祖庆.让你的长板更长.湖北教育,2019(7):1-4.<br>[1]纪世元.建构主义学习理论关照下的深度学习探究[J].文学教育,2019(36):42-43.<br>[1]陈威.建构主义学习理论综述[J].学术交流,2007(3):175-177.</p>
+
+    </div>
+
+    
+    
+    
+      
+
+
+    <footer class="post-footer">
+          
+
+<div class="post-copyright">
+<ul>
+  <li class="post-copyright-author">
+      <strong>本文作者  </strong>千灵夙赋
+  </li>
+  <li class="post-copyright-link">
+      <strong>本文链接 </strong>
+      <a href="https://qianling.pw/ec-learning" title="电子商务学习">https://qianling.pw/ec-learning</a>
+  </li>
+  <li class="post-copyright-license">
+    <strong>版权声明  </strong>本博客所有文章除特别声明外，均采用 <a href="https://creativecommons.org/licenses/by-nc-sa/4.0/" rel="noopener" target="_blank"><i class="fab fa-fw fa-creative-commons"></i>BY-NC-SA</a> 许可协议。转载请注明出处！
+  </li>
+</ul>
+</div>
+
+          <div class="followme">
+  <span>　</span>
+
+  <div class="social-list">
+
+      <div class="social-item">
+        <a target="_blank" class="social-link" href="/atom.xml">
+          <span class="icon">
+            <i class="fa fa-rss"></i>
+          </span>
+
+          <span class="label">RSS</span>
+        </a>
+      </div>
+  </div>
+</div>
+
+          <div class="post-tags">
+              <a href="/tags/%E7%94%B5%E5%AD%90%E5%95%86%E5%8A%A1/" rel="tag"># 电子商务</a>
+          </div>
+
+        
+  <div class="post-widgets">
+    <div class="wpac-rating-container">
+      <div id="wpac-rating"></div>
+    </div>
+  </div>
+
+          <div class="post-nav">
+            <div class="post-nav-item">
+                <a href="/dialect" rel="prev" title="乡音渐稀">
+                  <i class="fa fa-chevron-left"></i> 乡音渐稀
+                </a>
+            </div>
+            <div class="post-nav-item">
+                <a href="/hikaru-no-go" rel="next" title="阿杰的第一部网配动画《棋魂》(2005)">
+                  阿杰的第一部网配动画《棋魂》(2005) <i class="fa fa-chevron-right"></i>
+                </a>
+            </div>
+          </div>
+    </footer>
+  </article>
+</div>
+
+
+
+
+
+
+    <div class="comments" id="valine-comments"></div>
+</div>
+  </main>
+
+  <footer class="footer">
+    <div class="footer-inner">
+
+
+<div class="copyright">
+  &copy; 
+  <span itemprop="copyrightYear">2022</span>
+  <span class="with-love">
+    <i class="fab fa-github-alt"></i>
+  </span>
+  <span class="author" itemprop="copyrightHolder">千灵夙赋</span>
+</div>
+<div class="busuanzi-count">
+    <span class="post-meta-item" id="busuanzi_container_site_uv">
+      <span class="post-meta-item-icon">
+        <i class=""></i>
+      </span>你是第
+      <span class="site-uv" title="总访客量">
+        <span id="busuanzi_value_site_uv"></span>位到访的小伙伴喔
+      </span>
+    </span>
+    <span class="post-meta-item" id="busuanzi_container_site_pv">
+      <span class="post-meta-item-icon">
+        <i class=""></i>
+      </span>本站已被访问
+      <span class="site-pv" title="总访问量">
+        <span id="busuanzi_value_site_pv"></span>次啦
+      </span>
+    </span>
+</div>
+
+    </div>
+  </footer>
+
+  
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/animejs/3.2.1/anime.min.js" integrity="sha256-XL2inqUJaslATFnHdJOi9GfQ60on8Wx1C2H8DYiN1xY=" crossorigin="anonymous"></script>
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/next-theme-pjax/0.5.0/pjax.min.js" integrity="sha256-3NkoLDrmHLTYj7csHIZSr0MHAFTXth7Ua/DDt4MRUAg=" crossorigin="anonymous"></script>
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.6.0/jquery.min.js" integrity="sha256-/xUj+3OJU5yExlq6GSYGSHk7tPXikynS7ogEvDej/m4=" crossorigin="anonymous"></script>
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/fancybox/3.5.7/jquery.fancybox.min.js" integrity="sha256-yt2kYMy0w8AbtF89WXb2P1rfjcP/HTHLT7097U8Y5b8=" crossorigin="anonymous"></script>
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/lozad.js/1.16.0/lozad.min.js" integrity="sha256-mOFREFhqmHeQbXpK2lp4nA3qooVgACfh88fpJftLBbc=" crossorigin="anonymous"></script>
+<script src="/js/comments.js"></script><script src="/js/utils.js"></script><script src="/js/motion.js"></script><script src="/js/schemes/muse.js"></script><script src="/js/next-boot.js"></script><script src="/js/pjax.js"></script>
+
+  
+  <script src="https://embed.widgetpack.com/widget.js" async></script>
+  <script class="next-config" data-name="rating" type="application/json">{"enable":true,"id":8657,"color":"5bc0de"}</script>
+  <script src="/js/third-party/rating.js"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/hexo-generator-searchdb/1.4.0/search.js" integrity="sha256-vXZMYLEqsROAXkEw93GGIvaB2ab+QW6w3+1ahD9nXXA=" crossorigin="anonymous"></script>
+<script src="/js/third-party/search/local-search.js"></script>
+
+
+
+  <script src="/js/third-party/fancybox.js"></script>
+
+  <script src="/js/third-party/pace.js"></script>
+
+  
+  <script data-pjax async src="https://busuanzi.ibruce.info/busuanzi/2.3/busuanzi.pure.mini.js"></script>
+
+
+  <script class="next-config" data-name="leancloud_visitors" type="application/json">{"enable":true,"app_id":"zulMeib4pyC6zB1a65OmVtHz-gzGzoHsz","app_key":"TEjUlOUBz3KwSUmDQ35ROxpw","server_url":null,"security":false}</script>
+  <script src="/js/third-party/statistics/lean-analytics.js"></script>
+
+
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/quicklink/2.2.0/quicklink.umd.js" integrity="sha256-4kQf9z5ntdQrzsBC3YSHnEz02Z9C1UeW/E9OgnvlzSY=" crossorigin="anonymous"></script>
+  <script class="next-config" data-name="quicklink" type="application/json">{"enable":true,"home":false,"archive":false,"delay":true,"timeout":3000,"priority":true,"url":"https://qianling.pw/ec-learning"}</script>
+  <script src="/js/third-party/quicklink.js"></script>
+
+
+<script class="next-config" data-name="valine" type="application/json">{"enable":true,"appId":"zulMeib4pyC6zB1a65OmVtHz-gzGzoHsz","appKey":"TEjUlOUBz3KwSUmDQ35ROxpw","serverURLs":"https://zulmeib4.lc-cn-n1-shared.com","placeholder":"说点什么好呢~","avatar":"wavatar","meta":["nick","mail","link"],"pageSize":10,"lang":null,"visitor":false,"comment_count":true,"recordIP":false,"enableQQ":true,"requiredFields":[],"emojiCDN":"//i0.hdslb.com/bfs/emote/","emojiMaps":{"团宝":"311f83d568e2fd702b08f40d4c838572a07ebea0.png","少前小剧场-心虚":"61ea3a788ec43241860ed984672eb588963bc98a.png","少前小剧场-打call":"f4b6b513bf4280da6395a40a61d15480ff12f978.png","少前小剧场-卖萌":"bbe8c979922144e667efd63dcce0320437425a00.png","少前小剧场-钱钱":"48ae808b0463e0cde3cc5c8666839776ed7a4cfb.png","泠鸢yousa-awsl":"7663b729161bd4556c2ec318c07791000743eb56.png","泠鸢yousa-打call":"718e9495846db4172eb87d2f7f02015a34d35ea2.png","泠鸢yousa-大哭":"3f757b147b9b1e201470eae7dac9cc0360172569.png","泠鸢yousa-好人卡":"e3907b3bb20b18e7ecb11cd86829c9a4ce5b1b2f.png","泠鸢yousa-加大力度":"a0393a2d4b522f07a319dfd2e91754a3cdff2c48.png","泠鸢yousa-滑稽":"a8057c0e0579b93c16010a270e261fd0a64034af.png","泠鸢yousa-请吃桃":"e92276d9d8c28f85f7dbcc0fbbb6ecb3345ce33e.png","泠鸢yousa-生气":"9e6ba9ff34101e04d3e321cad486f845f892050e.png","泠鸢yousa-真棒":"02ea49543a3ac52feee185c156ab08fb2bfdd89e.png","初音未来-GKD":"44caa7ec800837d8860482c214ac792f4c37c490.png","初音未来-加油":"4943a9be0a3134125c7d585b4dafde79a9a1990a.png","初音未来-哭了":"db9b01e5808967a32ed644b490ab47faf0f29ce3.png","花园Serena-？？？":"42f7ab2a562d000929979976d30669bec042662f.png","花园Serena-安详去世":"cdf595646132b98dcf1d230d351b2738d68f49c3.png","花园Serena-mua":"20319d3948da83f666a643b2c8103e6da0e36721.png","花园Serena-到点了":"af2f6c0dd1155f4aefb610cc6d09c135df9e6752.png","花园Serena-恭喜":"c1d8361755bb135d24b3b4680fe6ba03c086b395.png","花园Serena-喵":"4159859e6c9c2e0476299454b6015c2659149e3c.png","花园Serena-睡":"ae8ad8fd2a8d14e53938ba7dc7ca22681143dc09.png","白上吹雪-不是猫咪":"7524855a584f7ec0f9cf337b1a3554ee5ffd29b9.png","白上吹雪-吃惊":"aa6549e4daba755b5cf6a7031bd37ab9cf378706.png","白上吹雪-大佬喝茶":"9c7f6f0c192d972c27988d7d461477ca8871dcc6.png","白上吹雪-狐狐祟祟":"14f8be6955ee392baccd7d82b4371765a0c18523.png","白上吹雪-摸摸":"218cc0fb954a3dadde61eed03e3a376f277f36ee.png","白上吹雪-围观":"04d66a7b0b7b4f78bf45297cd91c0059de71b8bb.png","白上吹雪-一派狐言":"7d504e583857d68edf4fe0706be0b426f0d3cfb1.png","白上吹雪-emmm":"709bc019cf7960d9dcb40a0d5a444f8a78e376d3.png","原神-哦":"4b8b6f0e451c600abf2d83560125d03cfa97fe28.png","原神-哼哼":"62d09fa482842dabbd4a51176abc0ec20a64a359.png","原神-给我走开":"c0a9f2bea10fdf763b4fbe3874ee254d61916711.png","原神-鸽子":"d03a8f9f490eb007aae2d826f9143e3a29a3be5a.png","原神-干杯":"966f0b307bf4d07e81162dc32bf1e71c83bf997a.png","原神-吃惊":"d8d07498a567ea109a8fc4b58ffccdc33643cd99.png","原神-不要啊":"8ea92be976beb8126adc7cabc2aa7f2b02b9bee2.png","原神-拜托":"2f2817b84caf9d81fdce171d18a3f99983f1ec64.png","2233塔罗牌-撒花":"0d301be888e87aed6cc8e6548fbc74a23421dedc.png","2233塔罗牌-我觉得星":"1aa7391b61aa7be88644db2672cd4603559f1469.png","2233塔罗牌-下次一定":"294690ac14a2adc6ee50b138229aa5c53636e46f.png","洛天依·夜航星-爷青回":"d1202872850a335b357e702adaf3d2a79db72e13.png","洛天依·夜航星-萌妹初醒":"3159931d9afa243c6cf5939753e3c82acb69a554.png","洛天依·夜航星-冲鸭":"659efad4a6aa25ed6a98efe611564c26f497f436.png","洛天依·夜航星-Lucky":"bbeb9d231773a168397697072a11373893d7c01a.png","洛天依·夜航星-锦鲤":"35ab588061c32f07743b07f1ac3f62a16f34438c.png","神乐七奈-变猫猫":"9f699c56da1178079b18be27dc3f219138e4a164.png","神乐七奈-辛苦辣":"7b22908d4afac2c0ad1ba96177ac7a24855f4a2e.png","2021拜年纪-投币":"d2d0a3a4621dede09506264110cefcbfa9561572.png","双鱼座-做白日梦":"ba03f95ebe480106806377024e0c93ddb9c0f836.png","崩坏3-吃饭团":"62173e795139cfaf60b5665165400e99bb8a14ac.png","崩坏3-饿了":"8b6160dfc5f8a8608e88bcb380f4e812b8a165cb.png","崩坏3-干杯":"8de5f3a1cc3dfd9f7be8f12662a489214d3e72fb.png","不问天-大哭":"aea0c17a62f825621a1273f100c17330180b7b01.png","进击的冰糖-探头":"ae834e6efdd568f7e30aec059a8646b75438d896.png","干物妹！小埋-？？？":"d2d0955e6ddf2d3528c6f2364b7002b114907c94.png","干物妹！小埋-抱抱":"f7d5a5150733a15386d98015114630e893f5281b.png","Hiiro-亲亲":"0b54433d978f51a7031a965f2981832129eb8ef5.png","C酱-问号":"4fb6f0d8fcedef1624c5999609036346748b31e2.png","C酱-AWSL":"4b8ac5c1fa7358d949ecfe089e02b252b29d6082.png","C酱-害怕":"f5f777b059df8c40cbc240586aeaf4f63af97f91.png","C酱-嘻嘻":"65cf8762af542e8a72edc466b05bb1a19600dc2d.png","C酱-不要啊":"86994300b58eb3cb91fc99818dd87a691deed564.png","一周年纪念-抱大腿":"0800070155b5dabc3097793c0e086420057a7e2f.png","咩栗-nya":"b8011132b40b4f9807523db3d21581f82c2dce91.png","咩栗-打call":"01b6ee0712d13daa323dbd89217018ea7f6794a5.png","咩栗-聪明":"750542d25fcf1675baf143c2ab7e945445e8b078.png","咩栗-好耶":"9aa9b53211a938c1859c15407cee57cc7519fefd.png","咩栗-惊":"8c4ecf43c895bc9ed23eea9274328ba6cf24481e.png","咩栗-咩？":"bb305147beb88a101061dff54cbcb9062635670b.png","咩栗-咩呀！":"a36a0973f1c9935577db05bc90b602dc61236c0f.png","咩栗-斯米马三":"a46bc117192aa2495c492acca03e27393258c015.png","咩栗-羊名立万":"8fd2b4174f94c1c9b7cf4cf132a54838db40ddff.png","咩栗-羊羊得意":"dd55311765d00d768acb157958e85413ae25578c.png","嘉然-mua":"74ea9b89f8923df6a123cabe6053762b9e776387.png","嘉然-安详":"312359401cc72c34fcea3654cdba42db0f9f3dd0.png","嘉然-暗中观察":"3acf0b43facfd0601f5ab88cca6e401aa4f5a02e.png","嘉然-锤头丧气":"e6342840311ffeba8f2c58d1c360d76644e75dff.png","嘉然-点赞":"7017d90d4ceb9ea042cef8adc70d35eeb1f95e7e.png","嘉然-嘉人们":"d270845c9590da372e9b311cd6d976459acd1087.png","嘉然-嘉速心动":"387035168f40ca81afce8b38303c60ceb0c5dc6c.png","嘉然-流口水":"78bfeff475ad56a6d9379164b099f1ad8ecd7086.png","嘉然-你好":"d1530f972a59bca97bc4b8acf4f7e16f989f37c3.png","嘉然-一眼真":"ff436f5821db8b871517d0e5bb7ade7b64d3d0bf.png","嘉然-绷不住了":"4f0a9ee7708d71083dba4e79768ff0b7c308eaf4.png","嘉然-笔芯":"332a6df0e6def8da77e09310a62f3bffdc397640.png","嘉然-我有嘉心糖":"7579c6085f984f39ff0f6a2cb710301a2b113fac.png","银杏鎏金-幸运喷雾":"89e550f628333fe35f0b010337bdc5c4bf713cfc.png","2022拜年纪-HAHA":"ece69ad87284eb12324572be2a9009c0bc5e65b8.png","2022拜年纪-？？？":"0c5acb46f82cc559e16e542c29ae3bd503b65344.png","2022拜年纪-比心":"5001d623ddbe81d704e0093343ced12e2b38a3db.png","2022拜年纪-不愧是我":"ab807d0265a5c834c0d4d54b676c54da4feb38ce.png","2022拜年纪-不要啊":"80a74addbae8dd5bccc71728181e1d7e11a79d19.png","2022拜年纪-馋":"5012311cfa88687663f636f044f020a611a49848.png","2022拜年纪-打call":"54f99d1e613b42b0241a7f7c9ef5d8f5331fc754.png","2022拜年纪-瞪大双眼":"7def07a3a1829c7e26cfa6a3f1259fe3f9b9d4d3.png","2022拜年纪-放空":"823ea6f47ef1dda2d85317f635dc7d42a58c1545.png","2022拜年纪-干了这杯":"de06e28d6afee561556c6e3cbd199d21f4e4fd09.png","2022拜年纪-哈？":"206ddfebe778cf4f4c2c3f6f87330db32d4e1708.png","2022拜年纪-擦擦":"7b5fb834faccffe090db5ae3406468a306018bfd.png","2022拜年纪-哭哭":"365002e8c6007564b92fe4eb7ab0f815e988995e.png","2022拜年纪-捂脸":"380d5814aa70370f57f990ab68b4cd2a195830a6.png","2022拜年纪-恰柠檬":"5d2e17818c67eaff2de2890d808cc1f7a2bb8232.png","2022拜年纪-无情吃瓜":"3342b9aa0c6fc6f7ddfec0bcc611fa4ea6987c60.png","2022拜年纪-眼前一黑":"9cf5e735e64525c59f26ccbcb4ddf6ba5a29ed11.png","2022拜年纪-星星眼":"ef49e822e72ced75f71950f4c296192dae543486.png","2022拜年纪-晕":"460d02950b4d676604e9d4686fa769a866d21191.png","拜年纪2022-火了":"20ee37d0695247f6f32e71de264fe7e955d74835.png","月隐空夜-咕咕咕":"df59993b9ea4255e8666bd417f75b3857bd67627.png","月隐空夜-回家了":"3c796d34b61c18fd1d03443a4a144c1133859600.png","月隐空夜-欧拉":"36465ab94e113a0557cff76bed5c6266277430f3.png","月隐空夜-欧气满满":"fce384d8ad9dd6ba2b87e6a8c6fec1e3f8576984.png","月隐空夜-天才":"542eaddb1b04f85a04068f31bfe1c133a5270a66.png","月隐空夜-完了":"1289c9f89244342b83f784d3bf6c18dcd548f1e3.png","新月冰冰!-心脏骤停":"04f0e3087d39629079bbfc7f2b2d0e3cdd3eada6.png","新月冰冰!-加油":"46be9e14a41ec1f392240c5c7f3006cbff5b3744.png","新月冰冰!-不可以色色":"116f93998c4c50a8c801103b9037f793f936a896.png","新月冰冰!-大哭":"50a0ad849ffae469cd376f5e4afeb0ab64b74887.png","新月冰冰!-单推":"542fbbc36493831ec98ed64b51d60a1191afa63e.png","新月冰冰!-诶嘿":"dae8436e7042b1440748993da11d5c93e55e0c13.png","新月冰冰!-给花花":"fac1c332932004b3922e19b1d8f20208ddb7ea23.png","新月冰冰!-滑稽":"c2dfb168f43d334ff291042e81ddf80a8a059913.png","新月冰冰!-开车":"83630b278dd62d2dde701021d98be2d5fcbf00f3.png","新月冰冰!-穷醒":"9cc02af9592ceceb795006cf2611b4a423ec4a19.png","新月冰冰!-谢谢老板":"ddc6b7389787bec178ab24eb842ee949d2d79be2.png","新月冰冰!-kira":"f50869288aa706cf9f1aa9e5d3f7274eac558f68.png","Hiiro二周年-吃瓜":"f5dd831cd8dc9fc93a8cf21247f2e1bdbfa65eff.png","Hiiro二周年-大的要来了":"7cb1ccd578c1946ff68cbcf55add6527cc7826e1.png","Hiiro二周年-好耶":"3250844f983fad2e8888a69f9438a925492630b1.png","Hiiro二周年-坏女人":"74f02465c6c057aebb0df5cb3ab785616b5f077b.png","Hiiro二周年-击剑":"3212b33d39221df349dea0695701bbce07971b00.png","Hiiro二周年-寄":"22ce9c662192d858231ffd02190db7338e0b6e8c.png","Hiiro二周年-辣眼睛":"8ea839758e87947326711297ca7c08a9ad3af906.png","Hiiro二周年-流口水":"0648c8bf4f3836de0902b4ab8e9b1c1b68505a5e.png","Hiiro二周年-麻了":"a7b0deef902b639e40c9b4dc3d3a9df5793cf538.png","Hiiro二周年-无语":"5a61e12360c94b413fa6d370829b8d7f4733c897.png","Hiiro二周年-吓":"cbaca277bcc77739abf41bfc5c377b61ff8527d9.png","Hiiro二周年-两眼一黑":"9b6d393c8f9248e9f8ea8e1d075cc88a300972f3.png","崩坏学园2-好耶":"f1fe88c6d201f2b5d91ad70bcad15288d4569f00.png","崩坏学园2-偷瞄":"31406161e268ab3a3ae24befacc64ab9812d478b.png","崩坏学园2-乖巧":"fb397421eaea8f271acfe135a8dc49bffa7605be.png","扶桑大红花-疑惑":"5d3d9164fd05da8a1690d7a1dff210bdf822a64d.png","崩坏3-幸福":"714cc90d3485a003f53eecec336bea8a0b2dc12d.png","扶桑大红花-略略略":"e1fd8c1f6947c94e3227e7f7afe8de61aa277a24.png","扶桑大红花-生气":"6adad591921aa4d51a8399b6efdf18f84e7144f6.png","扶桑大红花-好诶":"1acaf75c1f900e827922169b8512a5c38695f620.png","扶桑大红花-啪":"0f06e1363cbfd72ed411c2385f3c64d098fdac18.png","扶桑大红花-入脑":"6b343b588735140442460054a4b64e81a6ee9dd9.png","扶桑大红花-不行":"b21a234b272c952b012af2cfa097693b126bd445.png","扶桑大红花-rua":"50053d5c3c485fda2c110ed0874a6a5a2d7f1dff.png","暹罗猫小豆泥-抱大腿":"1e309b348e969e7ff1c7d873352799a2005494d5.png","暹罗猫小豆泥-惊讶":"d6024fd52d7e66241062c045559974e2a4c6e87f.png","暹罗猫小豆泥-哭":"9153d549e425cc02eb911695fff29cb59b338da0.png","暹罗猫小豆泥-探头":"4741a1d527c52365850368b2f480d5818b23cb8f.png","小可学妹-老板大气":"f5fadc61fd4da10fca13cc352e9a37663c21daf6.png","小可学妹-好热":"6892a3b67b1968c550fdd110e9ff8f995973a44b.png","小可学妹-两眼一黑":"66b17fa948ce00a66f260b202dff5bb943103c6c.png","Akie秋绘-可爱":"d1e9aeb4fee6a64e1cbc17c6fe129d3b74e41f50.png","Akie秋绘-哭哭":"06fb34e4d4d33477fcbf13cb5d8327c2bd746e76.png","天涯明月刀伙伴-？？？":"6b7815e08667c6fd7905b7c640c5b46b2bc4dec0.png","天涯明月刀伙伴-馋":"0467b117ad55f21d2b13b8230dc28bc06039d842.png","天涯明月刀伙伴-emo":"8b0cf44f7311445e1590391c7a091a664bad353b.png","祖娅纳惜生贺-懒":"97029c26e7b2700dd30f9ac53842e4806872f262.png","祖娅纳惜生贺-泪奔":"1486e90eea32c556b21a8a0c9474cb8b04f04eae.png","祖娅纳惜生贺-恰饭":"780146c9ea1b35d7b8efad3de8a6a153d42d760e.png","祖娅纳惜生贺-生气":"115705216f64896f40b0bab9ee0b127c315e3721.png","祖娅纳惜生贺-晚安":"1e6f9b96f9ed121928e4bbaa27a4263156b48d3d.png","星瞳-星想事成":"23dcbf6168d8befa79856764d1a4036662786063.png","请吃红小豆吧-吃薯片":"35aeeddf6f0c96dec6652e6050e34626d6cfdcbf.png","请吃红小豆吧-发呆":"ffdc8f1ab56c4d9ccc6a35a7a6bb7092df93f231.png","请吃红小豆吧-告辞":"463fb9facfa0d4700b001ef9365e7253f80a0459.png","请吃红小豆吧-害羞":"7e1ae398526c28926767fda86bf41ba6f6d6e7b4.png","请吃红小豆吧-好耶":"905662fe86b316d361a37e64c6d753ee6efb1d2e.png","请吃红小豆吧-坏笑":"9ff8ab26feeb0a7f65c698825192cbbee417dcd3.png","请吃红小豆吧-泪目":"41f2e34af7e0c3cdd726dadbc8933f21f01d1c13.png","请吃红小豆吧-摸摸头":"7fe816a29961559ac6248274087de14b3447f3f2.png","请吃红小豆吧-哇":"be9352ed161a0d0aa222986b5610802bbf18e5a6.png","请吃红小豆吧-我很好":"ad9d73e683990c86e06be15e0187c930826de644.png","请吃红小豆吧-在吗":"865566aa175609d7a018436046407199a4e2b51a.png","请吃红小豆吧-糟糕":"8c8372a8fc9655e1559a764afe3d769fa141c96e.png","请吃红小豆吧-啧":"b033a8a098bb321a6220cd10a534322a7ea94aad.png","最后的召唤师-吃瓜":"72007fc6e0cbc2b2c13b8c3971e333708024785a.png","最后的召唤师-摸摸":"808b65dddecd55c06bde59080823f60030b6be98.png","最后的召唤师-歇歇":"63e50835bad0184129e9382df435efbf6b29a3b0.png","眞白花音-打call":"e3957fbe286f694f215fafdcc6597c9a9cc3a5ae.png","眞白花音-大头":"8cf7b3d9e9b81017d6d616b643373bf57b516ec5.png","眞白花音-对不起":"b12fa885dc14cdc73cdb71f69f70a54350316d92.png","雪绘-比心":"892ec2ea31bae16044c683b68b4744fda62f1eff.png","坎公骑冠剑-YYDS":"207ad2f10f32e138c29761fd3526877e2210c2e2.png","坎公骑冠剑-唱歌":"46dbf43a57841ae840e21e8678b7daa58935a26e.png","坎公骑冠剑-吃鸡腿":"db344ad0fd23621beecb7db3abb7567156bfb8f4.png","坎公骑冠剑-出来玩":"485be2a946e954ba886b50b8ba1033accb056071.png","坎公骑冠剑-干杯":"25cab88e656ea009152ad6364df1b42065d1ffda.png","坎公骑冠剑-乖巧":"c9468c3a6dd02389b2e1364fba39f51efea9f247.png","坎公骑冠剑-惊叹":"30ed9cd688e17cc6c54f7b969b6e89b74580a5db.png","坎公骑冠剑-嗯!":"9d7f7dff618d4fbcb99cfef30141e37105179044.png","坎公骑冠剑-你还好吗":"d48c0e8ef71bc2af28d25ac390c67a9f08533517.png","坎公骑冠剑-你在干嘛":"4521901b073665c42f76a50b07acb19a2d3459bf.png","坎公骑冠剑-欧气传输":"e8f1308e982c818a6d7a6b4ff3ef5d92c24f4fe0.png","坎公骑冠剑-送花":"9fb76616e1cdf524bc254f2b8873b83d43e03b87.png","坎公骑冠剑-哇":"a737de02e1952f2841916cff82e73009f9946dec.png","坎公骑冠剑-晚安":"c223ba1967dd328307f74e2b58f815acb3232cf9.png","坎公骑冠剑-妖妖灵":"2c8eee463117bec38f38d6cf6873d333aa9660a5.png","永雏塔菲-不理你了":"ec38a461c767fd0f4dee7346f82d81e5a88b176c.png","永雏塔菲-嘲笑":"094c321f0829f0894f48195d6671358a1a43b53c.png","永雏塔菲-对呀对呀":"37afa9e099d0c2ca9a4f3ff7d599e86060d6b942.png","永雏塔菲-尴尬":"71a5b730a3c20ddac64f8e7803ffc00da97f7397.png","永雏塔菲-哈哈哈":"b1f89d85b9c9f8553fe021c1e5785bc2995f8751.png","永雏塔菲-累":"889f95e3b36f257cb6b68f420b8238a11c596d19.png","永雏塔菲-摸头":"a826477acfa607224dd4a6771431af3b18ee8f92.png","永雏塔菲-亲嘴":"ce2123ec6b4f15eb8dfc2467f36fa3d69f2f97cd.png","永雏塔菲-闪亮登场":"c7eff8db64b132e6757bacdd51e649e16965f6b9.png","永雏塔菲-生日快乐":"9daed0ba16c89f983c7fcfa38e2bc8d1b80f7957.png","永雏塔菲-太好吃了":"86b760ed0a466b5dc3fa0b1e64b9ba7d6b53b6ed.png","永雏塔菲-嘻嘻喵":"866c99dbf6cb5e054e8e94be60c1b37ff4581eaa.png","永雏塔菲-星星眼":"bf3e961a1c3d4edf5ebdd063418495a1ed4c865f.png","永雏塔菲-嘤嘤嘤":"ba43546b013efffa7821dc21df6c79490cbafe72.png","永雏塔菲-有鬼":"b33d0672a01810a6b26696bf4a56204dadd5ff31.png","永雏塔菲-晕了":"d395fd944642b882a9226db81dcfa2e80307461c.png","永雏塔菲-震惊":"36bea35a3a15b675b2f5f28529582f82cf65b1c9.png","奈姬niki-微笑":"6fdc161f1086c522d90e684639a3bd1c48837507.png","奈姬niki-我超":"8d6d65fa2764084fd17fd18bef5a2bbc58f044f4.png","奈姬niki-无语":"33479daa29101a0846d7735cd5fba0d847be6e51.png","奈姬niki-谢谢":"8eaca252ea780a992261b4f9df7a4e170cfd71f1.png","有栖mana-打call":"0572afd470f86cc73cd5a1dff047cd22b620f336.png","有栖mana-喝可乐":"7788e653641e40f5043267aa6f73afbd73f5dd73.png","有栖mana-嘿嘿嘿嘿":"0500a6063e9828ce5002f0d796b19569db7ea63c.png","有栖mana-你好":"0d1575f7203eaf1705cc1104eaf7c02983cae9f0.png","有栖mana-辛苦了":"1893dad434a59c1f5e9c70e1440a6b323a92c3c6.png","有栖mana-炸毛":"f8d86249f486e3e0eb0b601bdf9994cb76634538.png","有栖mana-做什么？":"eb2eb12a288287b4f46d7a4dbeb71ec645810726.png","幻塔-害羞":"7868841b13f2067418c34becd73fde4be8a8bdfe.png","鹿乃桜帆-早上好":"1b58aba1d2e1372a8c4b7e49cb420db738bce414.png","鹿乃桜帆-恭喜":"584dae2f7faf4ee160c389e4ba0eebfb26aeb910.png","鹿乃桜帆-惊":"b945fc60b60467fc80b1e18ba4ea6d8c7b3ae0f9.png","鹿乃桜帆-期待":"5ae064b9deefdce14129d24659f0ee605a0e341b.png","鹿乃桜帆-神":"863c349b44abb098fecac479772f23ef1edd10f5.png","鹿乃桜帆-3Q":"9bee9ccc87c3ffe392e5572c4f67dae92a031e35.png","尼奈-妙!！":"3c2439d868818711b6c2cee035c4d51818c07c99.png","蕾尔娜Leona-反弹":"bc82f5b4e8525efeac017a1a9a3ea94d811d4463.png","蕾尔娜Leona-好耶":"f5269730d3156ba2a6cbe5c127d65753b3143f81.png","约战4-疑惑":"9174bde1afdde014a1b066c1bbb3027dc8dbb834.png","夏日青春欧皇套装-谢谢老板":"ca607626747f23cf37dbe8bb81397985dcb0ab17.png","夏日限定宅家手册-期待":"aaf3de49543253272e7eaeabff07ef0d162db67a.png","夏日限定宅家手册-重在参与":"aeafdb2f36c2cfde1ff4dadfecde48241ee31f15.png"},"el":"#valine-comments","path":"/ec-learning"}</script>
+<script>
+document.addEventListener('page:loaded', () => {
+  NexT.utils.loadComments(CONFIG.valine.el)
+    .then(() => NexT.utils.getScript(
+      '/js/custom/Valine.min.js',
+      { condition: window.Valine }
+    ))
+    .then(() => {
+      new Valine(CONFIG.valine);
+    });
+});
+</script>
+
+</body>
+</html>
