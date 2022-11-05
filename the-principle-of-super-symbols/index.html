@@ -1,0 +1,627 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+  <meta charset="UTF-8">
+<meta name="viewport" content="width=device-width">
+<meta name="theme-color" content="#222"><meta name="generator" content="Hexo 5.4.0">
+
+
+  <link rel="apple-touch-icon" sizes="180x180" href="/images/apple-touch-icon-next.png">
+  <link rel="icon" type="image/png" sizes="32x32" href="/images/favicon-32x32.png">
+  <link rel="icon" type="image/png" sizes="16x16" href="/images/favicon-16x16.png">
+  <link rel="mask-icon" href="/images/logo.svg" color="#222">
+
+<link rel="stylesheet" href="/css/main.css">
+
+<link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Noto+Serif+SC:300,300italic,400,400italic,700,700italic%7CZCOOL+XiaoWei:300,300italic,400,400italic,700,700italic&display=swap&subset=latin,latin-ext">
+
+<link rel="stylesheet" href="/fontawesome/all.min.css">
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/animate.css/3.1.1/animate.min.css" integrity="sha256-PR7ttpcvz8qrF57fur/yAx1qXMFJeJFiA6pSzWi0OIE=" crossorigin="anonymous">
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/fancybox/3.5.7/jquery.fancybox.min.css" integrity="sha256-Vzbj7sDDS/woiFS3uNKo8eIuni59rjyNGtXfstRzStA=" crossorigin="anonymous">
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/pace/1.2.4/themes/blue/pace-theme-minimal.css">
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/pace/1.2.4/pace.min.js" integrity="sha256-gqd7YTjg/BtfqWSwsJOvndl0Bxc8gFImLEkXQT8+qj0=" crossorigin="anonymous"></script>
+
+<script class="next-config" data-name="main" type="application/json">{"hostname":"qianling.pw","root":"/","images":"/images","scheme":"Muse","darkmode":false,"version":"8.11.1","exturl":false,"sidebar":{"position":"right","display":"hide","padding":18,"offset":12},"copycode":true,"bookmark":{"enable":false,"color":"#222","save":"auto"},"mediumzoom":false,"lazyload":true,"pangu":false,"comments":{"style":"tabs","active":"valine","storage":true,"lazyload":true,"nav":null,"activeClass":"valine"},"stickytabs":false,"motion":{"enable":true,"async":false,"transition":{"post_block":"fadeIn","post_header":"fadeInDown","post_body":"none","coll_header":"fadeInLeft","sidebar":"fadeInUp"}},"prism":false,"i18n":{"placeholder":"搜索...","empty":"没有找到任何搜索结果：${query}","hits_time":"找到 ${hits} 个搜索结果（用时 ${time} 毫秒）","hits":"找到 ${hits} 个搜索结果"},"path":"/search.xml","localsearch":{"enable":true,"trigger":"auto","top_n_per_article":1,"unescape":false,"preload":true}}</script><script src="/js/config.js"></script>
+
+    <meta property="og:type" content="article">
+<meta property="og:title" content="《超级符号原理》笔记">
+<meta property="og:url" content="https://qianling.pw/the-principle-of-super-symbols/index.html">
+<meta property="og:site_name" content="千灵">
+<meta property="og:locale" content="zh_CN">
+<meta property="og:image" content="https://qianling.pw/images/covers/261.jpg">
+<meta property="article:published_time" content="2022-11-05T12:11:10.000Z">
+<meta property="article:modified_time" content="2022-11-05T12:11:10.000Z">
+<meta property="article:author" content="千灵夙赋">
+<meta name="twitter:card" content="summary">
+<meta name="twitter:image" content="https://qianling.pw/images/covers/261.jpg">
+
+
+<link rel="canonical" href="https://qianling.pw/the-principle-of-super-symbols/">
+
+
+
+<script class="next-config" data-name="page" type="application/json">{"sidebar":"","isHome":false,"isPost":true,"lang":"zh-CN","comments":true,"permalink":"https://qianling.pw/the-principle-of-super-symbols/","path":"the-principle-of-super-symbols/","title":"《超级符号原理》笔记"}</script>
+
+<script class="next-config" data-name="calendar" type="application/json">""</script>
+<title>《超级符号原理》笔记 | 千灵</title>
+  
+    <script async src="https://www.googletagmanager.com/gtag/js?id=UA-141264217-1"></script>
+  <script class="next-config" data-name="google_analytics" type="application/json">{"tracking_id":"UA-141264217-1","only_pageview":false}</script>
+  <script src="/js/third-party/analytics/google-analytics.js"></script>
+
+  <script src="/js/third-party/analytics/baidu-analytics.js"></script>
+  <script async src="https://hm.baidu.com/hm.js?b95f636e57f871a4ea1faeae2b4f30e5"></script>
+
+
+
+
+  <noscript>
+    <link rel="stylesheet" href="/css/noscript.css">
+  </noscript>
+<link rel="alternate" href="/atom.xml" title="千灵" type="application/atom+xml">
+</head>
+
+<body itemscope itemtype="http://schema.org/WebPage" class="use-motion">
+  <div class="headband"></div>
+
+  <main class="main">
+    <header class="header" itemscope itemtype="http://schema.org/WPHeader">
+      <div class="header-inner"><div class="site-brand-container">
+  <div class="site-nav-toggle">
+    <div class="toggle" aria-label="切换导航栏" role="button">
+        <span class="toggle-line"></span>
+        <span class="toggle-line"></span>
+        <span class="toggle-line"></span>
+    </div>
+  </div>
+
+  <div class="site-meta">
+
+    <a href="/" class="brand" rel="start">
+      <i class="logo-line"></i>
+      <p class="site-title">千灵</p>
+      <i class="logo-line"></i>
+    </a>
+  </div>
+
+  <div class="site-nav-right">
+    <div class="toggle popup-trigger">
+        <i class="fa fa-search fa-fw fa-lg"></i>
+    </div>
+  </div>
+</div>
+
+
+
+<nav class="site-nav">
+  <ul class="main-menu menu"><li class="menu-item menu-item-home"><a href="/" rel="section"><i class="fas fa-flower fa-fw"></i>首页</a></li><li class="menu-item menu-item-categories"><a href="/categories/" rel="section"><i class="fa fa-cookie fa-fw"></i>分类</a></li><li class="menu-item menu-item-archives"><a href="/archives/" rel="section"><i class="fas fa-acorn fa-fw"></i>归档</a></li><li class="menu-item menu-item-play"><a href="/play/" rel="section"><i class="fa fa-fish fa-fw"></i>游戏</a></li><li class="menu-item menu-item-message"><a href="/message/" rel="section"><i class="fa fa-dog fa-fw"></i>留言</a></li><li class="menu-item menu-item-about"><a href="/about/" rel="section"><i class="fa fa-carrot fa-fw"></i>关于</a></li>
+      <li class="menu-item menu-item-search">
+        <a role="button" class="popup-trigger"><i class="fa fa-search fa-fw"></i>搜索
+        </a>
+      </li>
+  </ul>
+</nav>
+
+
+
+  <div class="search-pop-overlay">
+    <div class="popup search-popup"><div class="search-header">
+  <span class="search-icon">
+    <i class="fa fa-search"></i>
+  </span>
+  <div class="search-input-container">
+    <input autocomplete="off" autocapitalize="off" maxlength="80"
+           placeholder="搜索..." spellcheck="false"
+           type="search" class="search-input">
+  </div>
+  <span class="popup-btn-close" role="button">
+    <i class="fa fa-times-circle"></i>
+  </span>
+</div>
+<div class="search-result-container no-result">
+  <div class="search-result-icon">
+    <i class="fa fa-spinner fa-pulse fa-5x"></i>
+  </div>
+</div>
+
+    </div>
+  </div>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.6.0/jquery.min.js"></script>
+
+<div class="top-scroll-bar"></div>
+
+<canvas class="fireworks" id="canvas" style="position: fixed;left: 0;top: 0;z-index: 1; pointer-events: none;" ></canvas>
+
+<script>
+  document.write('<script type="text/javascript" src="/js/custom/custom.js"><\/script>');
+if( !/Android|webOS|iPhone|iPod|iPad|BlackBerry/i.test(navigator.userAgent)){
+  document.write('<script type="text/javascript" src="//cdn.bootcss.com/animejs/2.2.0/anime.min.js"><\/script> <script type="text/javascript" src="/js/custom/fireworks.js"><\/script>');
+}
+</script>
+
+<!-- 动态背景 -->
+<script>
+if( !/Android|webOS|iPhone|iPod|iPad|BlackBerry/i.test(navigator.userAgent)){
+  document.write('<script type="text/javascript" src="/js/custom/jquery.backstretch.min.js"><\/script>');
+}
+</script>
+<script type="text/javascript">
+  $("body").backstretch([
+    "/images/background/background (1).webp",
+    "/images/background/background (2).webp",
+    "/images/background/background (3).webp",
+    "/images/background/background (4).webp",
+    "/images/background/background (5).webp",
+    "/images/background/background (6).webp",
+    "/images/background/background (7).webp",
+    "/images/background/background (8).webp",
+  ], {duration: 60000, fade: 1000, animateFirst: true});
+</script>
+
+<!-- live2d -->
+<div id="waifu">
+  <div class="waifu-tips" style="opacity: 0;"></div>
+  <canvas id="live2d" width="280" height="250" class="live2d"></canvas>
+</div>
+<script>
+if( !/Android|webOS|iPhone|iPod|iPad|BlackBerry/i.test(navigator.userAgent)){
+  document.write('<script type="text/javascript" src="/live2d/live2d.js"><\/script> <script type="text/javascript" src="/live2d/waifu-tips.js"><\/script>');
+}
+</script>
+
+<!-- 打字礼花及震动特效 -->
+<script>
+if( !/Android|webOS|iPhone|iPod|iPad|BlackBerry/i.test(navigator.userAgent)){
+  document.write('<script type="text/javascript" src="/js/custom/activate-power-mode.js"><\/script>');
+}
+</script>
+<script>
+    POWERMODE.colorful = true; // ture 为启用礼花特效
+    POWERMODE.shake = false; // false 为禁用震动特效
+    document.body.addEventListener('input', POWERMODE);
+</script>
+
+</div>
+        
+  
+  <div class="toggle sidebar-toggle" role="button">
+    <span class="toggle-line"></span>
+    <span class="toggle-line"></span>
+    <span class="toggle-line"></span>
+  </div>
+
+  <aside class="sidebar">
+
+    <div class="sidebar-inner sidebar-overview-active">
+      <ul class="sidebar-nav">
+        <li class="sidebar-nav-toc">
+          文章目录
+        </li>
+        <li class="sidebar-nav-overview">
+          站点概览
+        </li>
+      </ul>
+
+      <div class="sidebar-panel-container">
+        <!--noindex-->
+        <div class="post-toc-wrap sidebar-panel">
+        </div>
+        <!--/noindex-->
+
+        <div class="site-overview-wrap sidebar-panel">
+          <div class="site-author site-overview-item animated" itemprop="author" itemscope itemtype="http://schema.org/Person">
+    <img class="site-author-image" itemprop="image" alt="千灵夙赋"
+      src="/images/avatar.png">
+  <p class="site-author-name" itemprop="name">千灵夙赋</p>
+  <div class="site-description" itemprop="description"></div>
+</div>
+<div class="site-state-wrap site-overview-item animated">
+  <nav class="site-state">
+      <div class="site-state-item site-state-posts">
+        <a href="/archives/">
+          <span class="site-state-item-count">195</span>
+          <span class="site-state-item-name">日志</span>
+        </a>
+      </div>
+      <div class="site-state-item site-state-categories">
+          <a href="/categories/">
+        <span class="site-state-item-count">39</span>
+        <span class="site-state-item-name">分类</span></a>
+      </div>
+      <div class="site-state-item site-state-tags">
+          <a href="/tags/">
+        <span class="site-state-item-count">56</span>
+        <span class="site-state-item-name">标签</span></a>
+      </div>
+  </nav>
+</div>
+
+
+  <div class="links-of-blogroll site-overview-item animated">
+    <div class="links-of-blogroll-title"><i class="fa fa-link fa-fw"></i>
+      Friends
+    </div>
+    <ul class="links-of-blogroll-list">
+        <li class="links-of-blogroll-item">
+          <a href="https://meow3.family.blog/" title="https:&#x2F;&#x2F;meow3.family.blog&#x2F;" rel="noopener" target="_blank">恶魔菌の记事簿</a>
+        </li>
+        <li class="links-of-blogroll-item">
+          <a href="https://lanyundev.vercel.app/" title="https:&#x2F;&#x2F;lanyundev.vercel.app&#x2F;" rel="noopener" target="_blank">LanYun</a>
+        </li>
+        <li class="links-of-blogroll-item">
+          <a href="https://www.julydate.com/" title="https:&#x2F;&#x2F;www.julydate.com&#x2F;" rel="noopener" target="_blank">七夏浅笑</a>
+        </li>
+    </ul>
+  </div>
+<div id="aplayer" class="aplayer"></div>
+<script>
+if( !/Android|webOS|iPhone|iPod|iPad|BlackBerry/i.test(navigator.userAgent)){
+  document.write('<script type="text/javascript" src="/js/custom/APlayer.min.js"><\/script>');
+}
+</script>
+<script type="text/javascript">
+var ap = new APlayer({
+    element: document.getElementById('aplayer'),                       // Optional, player element
+    narrow: false,                                                     // Optional, narrow style
+    autoplay: false,                                                    // Optional, autoplay song(s), not supported by mobile browsers
+    showlrc: 0,                                                        // Optional, show lrc, can be 0, 1, 2, see: ###With lrc
+    mutex: true,                                                       // Optional, pause other players when this player playing
+    theme: '#e6d0b2',                                                  // Optional, theme color, default: #b7daff
+    mode: 'random',                                                    // Optional, play mode, can be `random` `single` `circulation`(loop) `order`(no loop), default: `circulation`
+    preload: 'metadata',                                               // Optional, the way to load music, can be 'none' 'metadata' 'auto', default: 'auto'
+    listmaxheight: '513px',                                             // Optional, max height of play list
+    music: [{
+      title: '世末歌者',
+      author: '双笙 囧菌',
+      url: '/music/双笙 囧菌 - 世末歌者（Cover 乐正绫）.mp3',
+      pic: '/images/aplayer/双笙 囧菌 - 世末歌者.webp',
+    }, {
+      title: '幹物女(WeiWei)',
+      author: '封茗囧菌',
+      url: '/music/%E5%B0%81%E8%8C%97%E5%9B%A7%E8%8F%8C%20-%20%E5%B9%B9%E7%89%A9%E5%A5%B3(WeiWei).mp3',
+      pic: '/images/aplayer/封茗囧菌 - 幹物女(WeiWei).webp',
+    }, {
+      title: '东京不太热',
+      author: '封茗囧菌',
+      url: '/music/%E5%B0%81%E8%8C%97%E5%9B%A7%E8%8F%8C%20-%20%E4%B8%9C%E4%BA%AC%E4%B8%8D%E5%A4%AA%E7%83%AD.mp3',
+      pic: '/images/aplayer/封茗囧菌 - 东京不太热.webp',
+    }, {
+      title: '有故事的小仙女（Cover 初音ミク）',
+      author: '井宿',
+      url: '/music/%E4%BA%95%E5%AE%BF%20-%20%E6%9C%89%E6%95%85%E4%BA%8B%E7%9A%84%E5%B0%8F%E4%BB%99%E5%A5%B3%EF%BC%88Cover%20%E5%88%9D%E9%9F%B3%E3%83%9F%E3%82%AF%EF%BC%89.mp3',
+      pic: '/images/aplayer/井宿 - 有故事的小仙女（Cover 初音ミク）.webp',
+    }, {
+      title: '拼凑的断音（Cover 洛天依）',
+      author: '泡泡Hansy',
+      url: '/music/%E6%B3%A1%E6%B3%A1Hansy%20-%20%E6%8B%BC%E5%87%91%E7%9A%84%E6%96%AD%E9%9F%B3%EF%BC%88Cover%20%E6%B4%9B%E5%A4%A9%E4%BE%9D%EF%BC%89.mp3',
+      pic: '/images/aplayer/泡泡Hansy - 拼凑的断音（Cover 洛天依）.webp',
+    }]
+  });
+</script>
+
+        </div>
+      </div>
+    </div>
+  </aside>
+  <div class="sidebar-dimmer"></div>
+
+
+    </header>
+
+    
+  <div class="back-to-top" role="button" aria-label="返回顶部">
+    <i class=" fa fa-chevron-up"></i>
+    <span>0%</span>
+  </div>
+
+<noscript>
+  <div class="noscript-warning">Theme NexT works best with JavaScript enabled</div>
+</noscript>
+
+
+    <div class="main-inner post posts-expand">
+
+
+  
+
+
+<div class="post-block">
+  
+  
+
+  <article itemscope itemtype="http://schema.org/Article" class="post-content" lang="zh-CN">
+    <link itemprop="mainEntityOfPage" href="https://qianling.pw/the-principle-of-super-symbols/">
+
+    <span hidden itemprop="author" itemscope itemtype="http://schema.org/Person">
+      <meta itemprop="image" content="/images/avatar.png">
+      <meta itemprop="name" content="千灵夙赋">
+    </span>
+
+    <span hidden itemprop="publisher" itemscope itemtype="http://schema.org/Organization">
+      <meta itemprop="name" content="千灵">
+      <meta itemprop="description" content="">
+    </span>
+
+    <span hidden itemprop="post" itemscope itemtype="http://schema.org/CreativeWork">
+      <meta itemprop="name" content="《超级符号原理》笔记 | 千灵">
+      <meta itemprop="description" content="">
+    </span>
+      <header class="post-header">
+        <h1 class="post-title" itemprop="name headline">
+          《超级符号原理》笔记
+        </h1>
+
+        <div class="post-meta-container">
+          <div class="post-meta">
+    <span class="post-meta-item">
+      <span class="post-meta-item-icon">
+        <i class="far fa-calendar"></i>
+      </span>
+      <span class="post-meta-item-text">发表于</span>
+
+      <time title="创建时间 2022-11-05 20:11:10" itemprop="dateCreated datePublished" datetime="2022-11-05T20:11:10+08:00">2022-11-05</time>
+    </span>
+
+  
+    <span id="/the-principle-of-super-symbols/" class="post-meta-item leancloud_visitors" data-flag-title="《超级符号原理》笔记" title="阅读次数">
+      <span class="post-meta-item-icon">
+        <i class="far fa-eye"></i>
+      </span>
+      <span class="post-meta-item-text">阅读次数 </span>
+      <span class="leancloud-visitors-count"></span>
+    </span>
+  
+  <span class="post-meta-item">
+    <a title="valine" href="/the-principle-of-super-symbols/#valine-comments" itemprop="discussionUrl">
+    
+    <span class="post-meta-item-icon">
+      <i class="far fa-comment"></i>
+    </span>
+    <span class="post-meta-item-text">评论数</span>
+  
+      <span class="post-comments-count valine-comment-count" data-xid="/the-principle-of-super-symbols/" itemprop="commentCount"></span>
+    </a>
+  </span>
+  
+  
+</div>
+
+        </div>
+      </header>
+
+    
+    
+    
+    <div class="post-body" itemprop="articleBody">
+        <p><img data-src="/images/covers/261.jpg"></p>
+<span id="more"></span>
+
+<hr>
+<p><strong><div class="center">超级符号原理 / 华杉，华楠著. -- 上海 : 文汇出版社, 2019.4<br>ISBN 978-7-5496-2769-1</div></strong></p>
+<hr>
+<blockquote>
+<p>　　符号的选择只是“如何表达”的手段选择，如果一个品牌选择某种符号背后的动机只是“因为它非常能传播”，那就是一种本末倒置。在选择符号之前，消费者细分、渠道建立、需求分析、品牌路径应该被更多落墨，并作为论证一个符号应被选择的基础。</p>
+</blockquote>
+<hr>
+<p>　　母体是必然发生的事，每天早上必然会有个饥肠辘辘的人经过包子铺，只要店家准备好包子，就必定能卖出去。让产品在文化母体中充当一个道具，这就是我们说的品牌寄生。</p>
+<p>　　我们要思考的是，我们销售的商品要寄生在什么样的母体身上，我们的品牌又可以寄生在哪个必然发生的母体身上。</p>
+<p>　　文化母体必将循环往复地发生，找到过去发生过无数次的母体场景，观察商品在其中扮演的角色，设计商品参与扮演角色的方式，实现品牌寄生。母体一旦循环至此，购买必将发生。</p>
+<p>　　我们要强调一个信念，文化母体必然是会重复的，而只要实现了品牌寄生，购买也是必然会发生的。</p>
+<p>　　情人节那天必然会发生什么事情呢？必然会有情侣出去吃饭，出去逛街，出去看电影，也必然会有情侣经过西贝莜面村。我们打一个广告：「亲个嘴，打个折」。这就是寄生，寄生在情人之间最常见的仪式——亲嘴、接吻——中。情侣们在情人节要逛街，逛街要庆祝，你鼓励他们接吻，让你的品牌参与到情人节母体仪式当中，品牌参与进去了，就获得了生命。</p>
+<p>　　通过仪式将品牌寄生在母体之中，这就是典型的品牌寄生的案例。</p>
+<p>　　随着时间的推移，这个活动的生命力会越来越强。20 年后，当年的小情侣，现在已经当了父母，这个品牌、这家餐厅会成为他们爱情的记忆，他们对这个品牌会有深厚的感情。</p>
+<p>　　很快，他们的子女也成长起来，新一代的年轻情侣也还在过情人节，情人节当天还是和情人一起去逛街，还是会经过西贝莜面村，这个时候「亲个嘴，打个折」，就不再仅仅是一个品牌活动，而成为情人节巨大母体当中非常有生命力的母体，这就壮大了母体。同时也让品牌拥有了恒久的生命力，成为人类文化的一部分。</p>
+<p>　　如何实现品牌寄生呢？通过改造并占领特定文化母体中的词语符号和仪式。</p>
+<p>　　每一个具体的文化母体，都有丰富的符号、仪式和词语，都有丰富的符号系统，来表达母体的方方面面，品牌寄生就是要找到这些最适合这个品牌的符号、仪式、词语，然后牢牢占据它们。</p>
+<p>　　「亲个嘴，打个折」，通过占领情人节特定母体当中情侣要亲嘴的仪式，成功实现了品牌寄生。</p>
+<p>　　美国的哈根达斯冰激凌，也想分一点儿中秋节的流量，占点儿便宜，便推出哈根达斯冰激凌月饼。哈根达斯跟月饼有什么关系？本来是毫无关系的，本来大家争论的是月饼吃五仁味的还是吃莲蓉味的，结果出来一个冰激凌口味的。那么，如何把冰激凌变成月饼的一种呢？就把冰激凌做成圆形的。可以做成三角形的吗？不行，因为要有符号的规定。接着，哈根达斯的包装盒上印上了嫦娥，所以顺理成章地成为月饼。按照这个逻辑，接下来它很可能会继续推出冰激凌粽子。不管你本来是什么，只要你顺理成章地进入这场仪式，就会有购买发生，因为参与这场仪式的人，认的只是符号。<br>　　符号把冰激凌变成了月饼。</p>
+<p>　　当 2003 年华与华拍的一则广告片说「拍照大声喊田七」时，我们看到他们用了一家人聚在一起拍照时喊「田七」的形象，于是他们就把这个仪式占领了，把这个母体占领了。而当在中国各个景点、各个城市，拍集体照的时候大家都喊了「田七」，这个品牌就得到了几何级的传播。</p>
+<p>　　「曹操」作为一个话题，已经被讨论了 1790 多年，而且对他的讨论必将继续，所以「曹操」这个话题一定是一个文化母体，一定能够催生畅销书、畅销的产品、畅销的电影、畅销的电视剧、畅销的游戏。只要找到文化母体，占领文化母体，就必然产生销售。</p>
+<p>　　品牌寄生是通过词语、符号和仪式实现的，我们将这三个词划分开了，事实上词语和仪式也都是符号的一部分。而符号越强烈，寄生的能力越强。什么叫符号越强烈寄生的能力越强呢？当我们看到情侣在情人节逛街的时候，还有另外一个非常常见的仪式，那就是小情侣都是牵着手逛街的。如果我们说牵个手打个折，那就完蛋了，因为这个符号不够强烈，戏剧性不够，亲个嘴的符号才足够强烈。足够强烈的符号，才能够形成有力的寄生。</p>
+<p>　　一旦成功寄生上去，我们就知道，这个品牌其实已经定型了，今后要做的事情就是要不断强化寄生，不断强化这个仪式，乃至于替代母体当中本来的仪式，让商品的仪式成为母体仪式当中的一部分。<br>　　最典型的案例莫过于可口可乐的圣诞老人。当 1935 年可口可乐画出红白衣服的圣诞老人，去替代以前花花绿绿的圣诞老人的时候，它仅仅是实现了一次成功的促销活动，但是它把这个促销活动坚持到了今天，它就牢牢占据了圣诞老人的母体，不仅把以前的圣诞老人彻底清除出局，还成为母体的一部分，壮大了母体。<br>　　通过什么方式来壮大母体呢？是谁让中国人过圣诞节的呢？可口可乐是背后最大的推动者，因为每年到圣诞节的时候，它都会发起规模庞大的促销活动，并且把别的商家全部卷进来，把它的符号全部免费给所有的人使用。圣诞节超市里所有服务员都戴一顶小红帽，而这顶小红帽就是可口可乐的注册商标，但是它已经通过占领符号，强大到了没有人意识到这一点。</p>
+<p>　　购买理由用超级句式说出，能极大地提升情绪，提升表达价值的能力。上面谈到，超级句式的阅读速度是极快的。比如，「送长辈，黄金酒」，就是朗朗上口的超级句式。再比如，「打土豪，分田地」，这也是超级句式。读客知识小说文库的口号也是这个超级句式：读小说，学知识。干净利落地给出指令和价值。</p>
+<p>　　超级句式能够提高信息传播的速度。因为超级句式在消费者脑袋里面是本身就有的，我们只需要把商品信息植入、嫁接到已经存在于消费者脑袋里面的信息中。</p>
+<p>　　购买理由用超级句式说出，能极大地提升情绪，提升表达价值的能力。上面谈到，超级句式的阅读速度是极快的。比如，「送长辈，黄金酒」，就是朗朗上口的超级句式。再比如，「打土豪，分田地」，这也是超级句式。读客知识小说文库的口号也是这个超级句式：读小说，学知识。干净利落地给出指令和价值。</p>
+<p>　　对超级句式的阅读，消费者只需要阅读关键词，就能获得完整的意义和情绪。比如，我们希望消费者能够记住西贝莜面村的品牌，于是我们找到了一个超级句式「I LOVE YOU」，把这个「YOU」替换成莜面村的「莜」，就得到了极好的效果，而且一目了然、过目不忘，也顺带解决了一般人不认识莜面村的「莜」的问题。我们把这个称为超级句式，它使品牌获得了以几何级数增长的广告效益。</p>
+<p>　　文案的基本功不是文学，而是顺口溜。当我们要去传达一个购买理由的时候，我们首先要找到一个超级词语，一个来自文化母体的超级词语，然后去寻找超级句式，围绕着超级词语使用超级句式，将我们的价值表达出来。</p>
+<p>　　押韵有天然的打动人的力量。</p>
+<p>　　购买理由必须表达品种价值 谈到购买理由的时候，我们还会经常犯一个错误，这个常见误区就是把购买理由建立在了品类价值之上。</p>
+<p>　　比如说，我们要卖一个包子，不能说这是一个肉包子，它的购买理由不是肉包子，肉包子是它的品类价值。因为当我们跟别人竞争的时候，我们是在品类当中进行竞争的，旁边也有人在卖肉包子。甚至我们也不能说，我们卖的肉包子好吃，因为好吃是无法确切定义的，味道是众口难调的。</p>
+<p>　　那我们可以说什么呢？我们可以说我们卖的包子肥肉和瘦肉比是 4‥6，于是，它的购买理由是肥肉和瘦肉比为 4‥6。这个时候就变成一个品种价值了，而且它会让购买者自己得出一个结论，这个包子一定非常好吃。当然，我们也可以说我们卖的包子只用里脊肉做馅，购买者也会得出一个结论，我们卖的包子非常好吃。我们还可以说我们卖的包子的购买理由是绝不用冷冻肉，只用新鲜肉。购买者也会得出一个结论，我们卖的包子非常好吃。这是我们的品种价值。</p>
+<p>　　此外，还有一个常见误区：找到购买理由之后，我们妄图用购买理由说服消费者。</p>
+<p>　　其实，我们并不需要说服消费者，我们之前说到，购买理由被表达出来后，它会唤醒母体执行人的母体活动，购买者的所有注意力，都会凝聚在购买理由这一个点上。这个时候我们并不是要去说服他，虽然他是希望考察我们的购买理由是否成立，但是我们要知道，这个时候我们只需要罗列证据来打动他，让他相信这个购买理由成立。</p>
+<p>　　比方说，我们要卖一个感冒药，消费者在购买感冒药之前，他非常希望知道，这个感冒药的疗效好不好，治感冒快不快。我们有没有办法向他证明，我们卖的感冒药疗效是好的？没有。我们永远没有办法在他吃这个药之前向他证明，这个感冒药效果好不好。</p>
+<p>　　如果说我们的购买理由是「某某感冒药收鼻涕快」，「收鼻涕」这三个字就是母体的超级词语。货架前站着的人，一边吸鼻涕，一边在想买什么感冒药。这时，他看到了这款感冒药，并注意到了「收鼻涕快」，一下就被吸引住了。这是我们作出的承诺，是我们购买的理由。</p>
+<p>　　文案的本质就是罗列证据，而且是快速罗列购买理由的证据，来证明这个购买理由，证明的方式是打动而不是说服。</p>
+<p>　　微信红包一夜爆红，我们来看看它是如何做到的。首先它叫作红包，占领了词语；然后它占住了红包符号，把它的产品用红包包起来，这样就占住了一个春节发红包的仪式。而一切都是在春节前后触发的，因为母体一定要在这个时间节点上才是最强大、最活跃的，所以一夜之间，全国上下到处都在发红包。</p>
+<p>　　我们希望成为中文出版第一品牌，成为中国人最喜欢的出版品牌，在中国，对中国的热爱这个文化母体里面有一些什么样的符号可供我们改造呢？ 龙改得了，但很难改。很容易地，我们便找到了熊猫，因为熊猫人见人爱；对全世界来说，熊猫也能代表中国，而且是黑白色的，印刷起来也比较便宜。</p>
+<p>　　但是仅仅放一只熊猫可以吗？不行。放一只熊猫仅仅是找到了一个传统符号，还要对它进行改造，来表达它是一只卖书的熊猫。产品的品类是书，我们要表达的是「我们是只卖书的熊猫」，所以我们在它胸前塞了一本书，它捧着一本书，就是做出版的熊猫，就是一个独一无二的熊猫，就是一个私有化的熊猫，这是一个 LOGO。</p>
+<p>　　这 10 年历史里面「熊猫」还在不停地进化，因为我们的事业领域在不停地变化。当我们不只是卖书还卖电影的时候，我们让它捧个书卖电影就显得不太合适。但是去掉书之后，它就不再是独有的读客的熊猫，只是长得像读客的熊猫，无法用一句话来描述。于是，我们继续改造它，给它戴上了注册商标，戴上格子领带，戴上格子领带以后就是独一无二的熊猫，它丢掉书仍然是独特的熊猫，依然叫熊猫君。接下来我们便注册了「熊猫君」这个强大的独特的超级词语。</p>
+<p>　　产品是为包装服务的，产品是实现并扩大品牌影响力的工具。我们的一切工作，都是要让我们的品牌越来越强大，而品牌的日渐强大，又会反过来支持产品，使其销售得更好。在这个过程当中，产品总是起起伏伏，品牌总是一路高歌，这个就是良性、优秀的企业所展现出来的市场活力。</p>
+<p>　　符号携带着恒定的价值到了新的产品身上，这就是品牌赋能。符号对产品的赋能是由产品建立起来、积累起来的，所谓产品为符号服务，就是产品永远不能让符号的价值落空。当我们的符号建立起了又好看又有阅读价值的购买理由的时候，我们的产品要永恒地满足这个理由。一次落空，符号的魅力就会衰减；两次落空，符号就没有魅力了。</p>
+<p>　　之前我们经常讲，我们工作的起手式是寻找符号。现在我们认为，我们工作的起手式是寻找文化母体、描述文化母体、依据文化母体和产品的关系得出购买理由，在文化母体的符号系统当中寻找传统符号，再根据购买理由，对传统符号进行改造，这就得到了超级符号。超级符号就是我们做这一切的起点和终点。</p>
+<p>　　最终被创造出来的超级符号一定不是石破天惊的东西，一定不是张牙舞爪的东西，而是人们习以为常的东西，是其貌不扬的东西。因为我们要卖给所有人，最常见、最不出奇的东西，才是人人都能一看就明白的。既要有极强的视觉冲击力，又要一目了然，最重要的就是要有自明性，往那儿一放，不需要解释，人人都明白，靠常识就能理解。</p>
+<p>　　超级符号是对一个恒定价值的承诺。</p>
+<p>　　恒定的价值就是在符号建立起来之后，不停地、不断地往其中灌注的一种价值。一开始我们说西贝莜面村「I LOVE YOU」，我们把「I LOVE YOU」作为传统符号进行改造，变成西贝的超级符号，从母体里面带来的是浓厚的感情，是西贝老板贾国龙经常说的，从母体当中激起了这个爱。贾总在经营中一直非常强调对员工的爱，对消费者的爱。经营活动不断为这个符号输入稳定的价值，这个稳定的价值是「闭着眼睛点，道道都好吃」。稳定的价值不断输入、不断强大、不断被消费者所接受的时候，当消费者走进这家餐厅，他不仅从情感上感受到这家餐厅的友爱，而且对菜肴也有稳定的预期，每一道都不错。稳定的预期是由以前所有的产品、所有的体验所建立和维持的，由这个符号所承载、所表达的，见到这个符号的时候，情感和价值就会被唤醒，包括「亲个嘴，打个折」，依然在强化这个符号的情感，把这情感纽带结合得更强。</p>
+<p>　　我们要做的就是竭尽全力，让沟通得以发生。首先要让购买者注意到，要让他看见我们的商品，而这个就是超级符号的核心作用。每一次我们都要反复考察，购买者能不能看到我们的商品。</p>
+<p>　　我们要让消费者看到我们的商品或品牌，可以依靠视觉冲击力。消费者容易看到什么？消费者容易看到的是他感兴趣的东西，容易看到的是他自身携带的文化母体所特定的那些词语。</p>
+<p>　　商品信息和受众之间的第一次接触，也就是之前讲到的「对暗号」，就是把最重要的超级词语、最重要的超级符号，以最具有视觉冲击力的方式表达出来，让它呈现在包装上，呈现在海报上，呈现在广告语中。乃至于当我们要写一则新闻标题或者软文标题，我们都要把超级词语尽可能地放在前面。</p>
+<p>　　具体来说，首先我们这个标题，一定是围绕着超级词语来造句的；其次这个词语要尽量安排在前面，尽早地让受众看到，如果能编排一下版式，我们就会把这个词加粗、变颜色，让它从这句话里面跳出来。</p>
+<p>　　当我们对购买者说「天安门正南 50 公里」时，他会说什么？他会说：「咦，有这么一个工业园区？」接下来，我们说「从 CBD 开车过去只要半小时」。他说：「哦，有价值！」然后我们对他说，有多少条高速公路通到那个地方。他会说：「啊，太方便了。说买来试试。」如果他说「好，下次带董事长、带投资人去看看」，这是不是买来试试？这也是买来试试。所以无论我们卖一本书，还是卖一个工业园区，整个的沟通都是这样，充满了发现感、价值感。</p>
+<p>　　之所以说出「天安门正南 50 公里」，他会说「咦」，是因为天安门这个母体是有价值的，而且价值是明确的——北京的中心，这是地标的价值。「正南 50 公里」，我们的价值便附着上去了，嫁接到天安门这个母体上去了，这样才能发出那一声「咦」。如果我们说凤凰城正南 48 公里或者 32 公里，那这个母体就只对凤凰城小区有用，这个小区的人一看，「咦，不错，哦，工业园区」，然后说「啊，关我什么事」，这样的沟通就没有效果。</p>
+<p>　　将区域的优势和禀赋浓缩为一句话，并嫁接到北京天安门这个地标符号上，创意出了「我爱北京天安门正南 50 公里」这个超级符号，让投资者立刻熟悉固安、喜欢固安。</p>
+<p>　　沟通的发生，是第一眼被看见，被看见的同时被理解，然后开始考虑阅读的顺序、阅读的速度。和虚拟购买者母体之间进行沟通，我们所设定的一问一答，我们说一句，他回答一个「咦」，我们又说一句，他再回答一个「哦」，我们又说一句，他再说一句「啊」，然后我们下达购买指令，他说「可以，买来试试」。这是极简化的货架思维的模型。</p>
+<p>　　它把当红大明星的流量全都转移到这件衣服上了；而「这个符号裹住谁，谁就火」的意思是，当蜘蛛侠的衣服积累了一代又一代扮演者的能量之后，就可以赋能于新的扮演者，让他火起来。</p>
+<p>　　当影评人天天在说千篇一律的超级英雄电影没有这没有那的时候，他并不知道，超级英雄电影必须克制新意，必须老套，只能进行局部翻新。因为它是有符号系统的，而它的符号系统，代表的价值必须是恒定的，只能在不断的循环过程当中进行局部创新、局部翻新，而永远不能给你过大的惊喜。这就是漫威斯坦·李在谈论超级英雄电影研发时说的「改变的幻觉」。这还是得说回我们之前讲的那句话，你不希望喝到的任何一瓶可口可乐，比以前喝的更好喝。</p>
+<p>　　007 的演员就可以不停地换，但换来换去打枪的姿势却始终是一样的，因为 007 打枪的姿势是这个品牌的符号体系，是它的超级符号。当《007》的海报出现在墙上、货架上的时候，它的沟通力就比没有符号系统的海报的沟通力要强很多。</p>
+<p>　　有了符号系统以后，我们的商品就不仅仅待在货架上，它还可以从货架上跳下来。蜘蛛侠可以从墙上的海报跳下来，占领可乐瓶的货架；他也可以跑到服装店去，占领衣服的货架；他还可以跑到文具店去，占领圆珠笔的货架。只要有了超级符号，我们的货架就是无限的，</p>
+<p>　　当购买者把这个商品拿下来，放进他的购物袋，然后把它买走，拿回了家，拿回了宿舍，拿回了办公室，这个时候，家、宿舍、办公室就成了货架。</p>
+<p>　　当我们设计《参与感》这本书的封面时，就用了橙色的荧光色。我们知道这本书必然畅销，要让商务人群感觉到这本书无处不在，我们就要设想商务人群工作、生活的场景，在这些办公室，这些社交场合里面，如何让这本书无处不在。如果它是一本白皮的书，我们就看不见它；如果它是一本橙色的书，我们就藏不住它。</p>
+<p>　　读客的书，为什么有一小串格子？当有这一串小格子时，我们就不担心书被遮住，不担心书会落在下面，因为它一定能从里面跳出来，而且在任何地方都能。</p>
+<p>　　然后基于货架环境的设计，我们每一本书都有这么一小串 20 厘米长的格子，当我们每本书的格子都在同一高度的时候，如果货架上有 10 本书就会有 200 厘米长的格子，这个时候的视觉冲击力是没有任何竞争对手可以与我们抗衡的。这样，我们就占领了货架。</p>
+<p>　　用超级符号最大限度地占领货架的有限领土。</p>
+<p>　　包装上面任何一根线条、任何一个色块，都是必须要求的东西，任何一个不是必须存在的东西，就必须去除；任何导致歧义的字眼必须纠正；任何导致阅读顺序混乱的排列必须调整；任何阻碍阅读速度提升的文法必须得到改正。</p>
+<p>　　在做设计清理的时候，我们就是要拿着这个包装，一个字眼、一个色彩、一根线条、一个阴影地考问过去，大胆地把所有我们认为、我们确定是不必要的东西都去掉。如果这个元素，无法确定是不是必需的，怎么办？当我们产生这个疑问的时候，它就已经不是必需的了。并不存在无法确定是不是必需的东西，只要有可能是必需的，就肯定不是必需的。只有当我们确定它是必需的，那么它才是必须保留的。</p>
+<p>　　当我们把所有设计垃圾全部清理掉的时候，我们做出来的就是一个非常高效的包装，一个非常高效的海报，一个非常高效的</p>
+<p>　　包装上面任何一根线条、任何一个色块，都是必须要求的东西，任何一个不是必须存在的东西，就必须去除；任何导致歧义的字眼必须纠正；任何导致阅读顺序混乱的排列必须调整；任何阻碍阅读速度提升的文法必须得到改正。</p>
+<p>　　在做设计清理的时候，我们就是要拿着这个包装，一个字眼、一个色彩、一根线条、一个阴影地考问过去，大胆地把所有我们认为、我们确定是不必要的东西都去掉。如果这个元素，无法确定是不是必需的，怎么办？当我们产生这个疑问的时候，它就已经不是必需的了。并不存在无法确定是不是必需的东西，只要有可能是必需的，就肯定不是必需的。只有当我们确定它是必需的，那么它才是必须保留的。</p>
+<p>　　当我们把所有设计垃圾全部清理掉的时候，我们做出来的就是一个非常高效的包装，一个非常高效的海报，一个非常高效的超级符号。</p>
+<p>　　在这个货架上，摆满了我们的产品，这并不能叫作占领；在这个货架上，插满了我们的超级符号，这才叫占领。我们要做的就是，把我们的符号，插到我们要去的货架上，而且插得越多越好。因为有符号的帮助，我们的产品，我们的士兵就会非常快速地去占领这些领土。货架是永恒的，同时也是有限的，如果货架是无限的，就没有这场战争了。</p>
+
+    </div>
+
+    
+    
+    
+      
+
+
+    <footer class="post-footer">
+          
+
+<div class="post-copyright">
+<ul>
+  <li class="post-copyright-author">
+      <strong>本文作者  </strong>千灵夙赋
+  </li>
+  <li class="post-copyright-link">
+      <strong>本文链接 </strong>
+      <a href="https://qianling.pw/the-principle-of-super-symbols/" title="《超级符号原理》笔记">https://qianling.pw/the-principle-of-super-symbols/</a>
+  </li>
+  <li class="post-copyright-license">
+    <strong>版权声明  </strong>本博客所有文章除特别声明外，均采用 <a href="https://creativecommons.org/licenses/by-nc-sa/4.0/" rel="noopener" target="_blank"><i class="fab fa-fw fa-creative-commons"></i>BY-NC-SA</a> 许可协议。转载请注明出处！
+  </li>
+</ul>
+</div>
+
+          <div class="followme">
+  <span>　</span>
+
+  <div class="social-list">
+
+      <div class="social-item">
+        <a target="_blank" class="social-link" href="/atom.xml">
+          <span class="icon">
+            <i class="fa fa-rss"></i>
+          </span>
+
+          <span class="label">RSS</span>
+        </a>
+      </div>
+  </div>
+</div>
+
+
+        
+  <div class="post-widgets">
+    <div class="wpac-rating-container">
+      <div id="wpac-rating"></div>
+    </div>
+  </div>
+
+          <div class="post-nav">
+            <div class="post-nav-item">
+                <a href="/douyin-vba/" rel="prev" title="抖音直播报表数据预处理 VBA 程序分享">
+                  <i class="fa fa-chevron-left"></i> 抖音直播报表数据预处理 VBA 程序分享
+                </a>
+            </div>
+            <div class="post-nav-item">
+            </div>
+          </div>
+    </footer>
+  </article>
+</div>
+
+
+
+
+
+
+    <div class="comments" id="valine-comments"></div>
+</div>
+  </main>
+
+  <footer class="footer">
+    <div class="footer-inner">
+
+
+<div class="copyright">
+  &copy; 
+  <span itemprop="copyrightYear">2022</span>
+  <span class="with-love">
+    <i class="fab fa-github-alt"></i>
+  </span>
+  <span class="author" itemprop="copyrightHolder">千灵夙赋</span>
+</div>
+<div class="busuanzi-count">
+    <span class="post-meta-item" id="busuanzi_container_site_uv">
+      <span class="post-meta-item-icon">
+        <i class=""></i>
+      </span>你是第
+      <span class="site-uv" title="总访客量">
+        <span id="busuanzi_value_site_uv"></span>位到访的小伙伴喔
+      </span>
+    </span>
+    <span class="post-meta-item" id="busuanzi_container_site_pv">
+      <span class="post-meta-item-icon">
+        <i class=""></i>
+      </span>本站已被访问
+      <span class="site-pv" title="总访问量">
+        <span id="busuanzi_value_site_pv"></span>次啦
+      </span>
+    </span>
+</div>
+
+    </div>
+  </footer>
+
+  
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/animejs/3.2.1/anime.min.js" integrity="sha256-XL2inqUJaslATFnHdJOi9GfQ60on8Wx1C2H8DYiN1xY=" crossorigin="anonymous"></script>
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/next-theme-pjax/0.5.0/pjax.min.js" integrity="sha256-3NkoLDrmHLTYj7csHIZSr0MHAFTXth7Ua/DDt4MRUAg=" crossorigin="anonymous"></script>
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.6.0/jquery.min.js" integrity="sha256-/xUj+3OJU5yExlq6GSYGSHk7tPXikynS7ogEvDej/m4=" crossorigin="anonymous"></script>
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/fancybox/3.5.7/jquery.fancybox.min.js" integrity="sha256-yt2kYMy0w8AbtF89WXb2P1rfjcP/HTHLT7097U8Y5b8=" crossorigin="anonymous"></script>
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/lozad.js/1.16.0/lozad.min.js" integrity="sha256-mOFREFhqmHeQbXpK2lp4nA3qooVgACfh88fpJftLBbc=" crossorigin="anonymous"></script>
+<script src="/js/comments.js"></script><script src="/js/utils.js"></script><script src="/js/motion.js"></script><script src="/js/schemes/muse.js"></script><script src="/js/next-boot.js"></script><script src="/js/pjax.js"></script>
+
+  
+  <script src="https://embed.widgetpack.com/widget.js" async></script>
+  <script class="next-config" data-name="rating" type="application/json">{"enable":true,"id":8657,"color":"5bc0de"}</script>
+  <script src="/js/third-party/rating.js"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/hexo-generator-searchdb/1.4.0/search.js" integrity="sha256-vXZMYLEqsROAXkEw93GGIvaB2ab+QW6w3+1ahD9nXXA=" crossorigin="anonymous"></script>
+<script src="/js/third-party/search/local-search.js"></script>
+
+
+
+  <script src="/js/third-party/fancybox.js"></script>
+
+  <script src="/js/third-party/pace.js"></script>
+
+  
+  <script data-pjax async src="https://busuanzi.ibruce.info/busuanzi/2.3/busuanzi.pure.mini.js"></script>
+
+
+  <script class="next-config" data-name="leancloud_visitors" type="application/json">{"enable":true,"app_id":"zulMeib4pyC6zB1a65OmVtHz-gzGzoHsz","app_key":"TEjUlOUBz3KwSUmDQ35ROxpw","server_url":null,"security":false}</script>
+  <script src="/js/third-party/statistics/lean-analytics.js"></script>
+
+
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/quicklink/2.2.0/quicklink.umd.js" integrity="sha256-4kQf9z5ntdQrzsBC3YSHnEz02Z9C1UeW/E9OgnvlzSY=" crossorigin="anonymous"></script>
+  <script class="next-config" data-name="quicklink" type="application/json">{"enable":true,"home":false,"archive":false,"delay":true,"timeout":3000,"priority":true,"url":"https://qianling.pw/the-principle-of-super-symbols/"}</script>
+  <script src="/js/third-party/quicklink.js"></script>
+
+
+<script class="next-config" data-name="valine" type="application/json">{"enable":true,"appId":"zulMeib4pyC6zB1a65OmVtHz-gzGzoHsz","appKey":"TEjUlOUBz3KwSUmDQ35ROxpw","serverURLs":"https://zulmeib4.lc-cn-n1-shared.com","placeholder":"说点什么好呢~","avatar":"wavatar","meta":["nick","mail","link"],"pageSize":10,"lang":null,"visitor":false,"comment_count":true,"recordIP":false,"enableQQ":true,"requiredFields":[],"emojiCDN":"//i0.hdslb.com/bfs/emote/","emojiMaps":{"团宝":"311f83d568e2fd702b08f40d4c838572a07ebea0.png","少前小剧场-心虚":"61ea3a788ec43241860ed984672eb588963bc98a.png","少前小剧场-打call":"f4b6b513bf4280da6395a40a61d15480ff12f978.png","少前小剧场-卖萌":"bbe8c979922144e667efd63dcce0320437425a00.png","少前小剧场-钱钱":"48ae808b0463e0cde3cc5c8666839776ed7a4cfb.png","泠鸢yousa-awsl":"7663b729161bd4556c2ec318c07791000743eb56.png","泠鸢yousa-打call":"718e9495846db4172eb87d2f7f02015a34d35ea2.png","泠鸢yousa-大哭":"3f757b147b9b1e201470eae7dac9cc0360172569.png","泠鸢yousa-好人卡":"e3907b3bb20b18e7ecb11cd86829c9a4ce5b1b2f.png","泠鸢yousa-加大力度":"a0393a2d4b522f07a319dfd2e91754a3cdff2c48.png","泠鸢yousa-滑稽":"a8057c0e0579b93c16010a270e261fd0a64034af.png","泠鸢yousa-请吃桃":"e92276d9d8c28f85f7dbcc0fbbb6ecb3345ce33e.png","泠鸢yousa-生气":"9e6ba9ff34101e04d3e321cad486f845f892050e.png","泠鸢yousa-真棒":"02ea49543a3ac52feee185c156ab08fb2bfdd89e.png","初音未来-GKD":"44caa7ec800837d8860482c214ac792f4c37c490.png","初音未来-加油":"4943a9be0a3134125c7d585b4dafde79a9a1990a.png","初音未来-哭了":"db9b01e5808967a32ed644b490ab47faf0f29ce3.png","花园Serena-？？？":"42f7ab2a562d000929979976d30669bec042662f.png","花园Serena-安详去世":"cdf595646132b98dcf1d230d351b2738d68f49c3.png","花园Serena-mua":"20319d3948da83f666a643b2c8103e6da0e36721.png","花园Serena-到点了":"af2f6c0dd1155f4aefb610cc6d09c135df9e6752.png","花园Serena-恭喜":"c1d8361755bb135d24b3b4680fe6ba03c086b395.png","花园Serena-喵":"4159859e6c9c2e0476299454b6015c2659149e3c.png","花园Serena-睡":"ae8ad8fd2a8d14e53938ba7dc7ca22681143dc09.png","白上吹雪-不是猫咪":"7524855a584f7ec0f9cf337b1a3554ee5ffd29b9.png","白上吹雪-吃惊":"aa6549e4daba755b5cf6a7031bd37ab9cf378706.png","白上吹雪-大佬喝茶":"9c7f6f0c192d972c27988d7d461477ca8871dcc6.png","白上吹雪-狐狐祟祟":"14f8be6955ee392baccd7d82b4371765a0c18523.png","白上吹雪-摸摸":"218cc0fb954a3dadde61eed03e3a376f277f36ee.png","白上吹雪-围观":"04d66a7b0b7b4f78bf45297cd91c0059de71b8bb.png","白上吹雪-一派狐言":"7d504e583857d68edf4fe0706be0b426f0d3cfb1.png","白上吹雪-emmm":"709bc019cf7960d9dcb40a0d5a444f8a78e376d3.png","原神-哦":"4b8b6f0e451c600abf2d83560125d03cfa97fe28.png","原神-哼哼":"62d09fa482842dabbd4a51176abc0ec20a64a359.png","原神-给我走开":"c0a9f2bea10fdf763b4fbe3874ee254d61916711.png","原神-鸽子":"d03a8f9f490eb007aae2d826f9143e3a29a3be5a.png","原神-干杯":"966f0b307bf4d07e81162dc32bf1e71c83bf997a.png","原神-吃惊":"d8d07498a567ea109a8fc4b58ffccdc33643cd99.png","原神-不要啊":"8ea92be976beb8126adc7cabc2aa7f2b02b9bee2.png","原神-拜托":"2f2817b84caf9d81fdce171d18a3f99983f1ec64.png","2233塔罗牌-撒花":"0d301be888e87aed6cc8e6548fbc74a23421dedc.png","2233塔罗牌-我觉得星":"1aa7391b61aa7be88644db2672cd4603559f1469.png","2233塔罗牌-下次一定":"294690ac14a2adc6ee50b138229aa5c53636e46f.png","洛天依·夜航星-爷青回":"d1202872850a335b357e702adaf3d2a79db72e13.png","洛天依·夜航星-萌妹初醒":"3159931d9afa243c6cf5939753e3c82acb69a554.png","洛天依·夜航星-冲鸭":"659efad4a6aa25ed6a98efe611564c26f497f436.png","洛天依·夜航星-Lucky":"bbeb9d231773a168397697072a11373893d7c01a.png","洛天依·夜航星-锦鲤":"35ab588061c32f07743b07f1ac3f62a16f34438c.png","神乐七奈-变猫猫":"9f699c56da1178079b18be27dc3f219138e4a164.png","神乐七奈-辛苦辣":"7b22908d4afac2c0ad1ba96177ac7a24855f4a2e.png","2021拜年纪-投币":"d2d0a3a4621dede09506264110cefcbfa9561572.png","双鱼座-做白日梦":"ba03f95ebe480106806377024e0c93ddb9c0f836.png","崩坏3-吃饭团":"62173e795139cfaf60b5665165400e99bb8a14ac.png","崩坏3-饿了":"8b6160dfc5f8a8608e88bcb380f4e812b8a165cb.png","崩坏3-干杯":"8de5f3a1cc3dfd9f7be8f12662a489214d3e72fb.png","不问天-大哭":"aea0c17a62f825621a1273f100c17330180b7b01.png","进击的冰糖-探头":"ae834e6efdd568f7e30aec059a8646b75438d896.png","干物妹！小埋-？？？":"d2d0955e6ddf2d3528c6f2364b7002b114907c94.png","干物妹！小埋-抱抱":"f7d5a5150733a15386d98015114630e893f5281b.png","Hiiro-亲亲":"0b54433d978f51a7031a965f2981832129eb8ef5.png","C酱-问号":"4fb6f0d8fcedef1624c5999609036346748b31e2.png","C酱-AWSL":"4b8ac5c1fa7358d949ecfe089e02b252b29d6082.png","C酱-害怕":"f5f777b059df8c40cbc240586aeaf4f63af97f91.png","C酱-嘻嘻":"65cf8762af542e8a72edc466b05bb1a19600dc2d.png","C酱-不要啊":"86994300b58eb3cb91fc99818dd87a691deed564.png","一周年纪念-抱大腿":"0800070155b5dabc3097793c0e086420057a7e2f.png","咩栗-nya":"b8011132b40b4f9807523db3d21581f82c2dce91.png","咩栗-打call":"01b6ee0712d13daa323dbd89217018ea7f6794a5.png","咩栗-聪明":"750542d25fcf1675baf143c2ab7e945445e8b078.png","咩栗-好耶":"9aa9b53211a938c1859c15407cee57cc7519fefd.png","咩栗-惊":"8c4ecf43c895bc9ed23eea9274328ba6cf24481e.png","咩栗-咩？":"bb305147beb88a101061dff54cbcb9062635670b.png","咩栗-咩呀！":"a36a0973f1c9935577db05bc90b602dc61236c0f.png","咩栗-斯米马三":"a46bc117192aa2495c492acca03e27393258c015.png","咩栗-羊名立万":"8fd2b4174f94c1c9b7cf4cf132a54838db40ddff.png","咩栗-羊羊得意":"dd55311765d00d768acb157958e85413ae25578c.png","嘉然-mua":"74ea9b89f8923df6a123cabe6053762b9e776387.png","嘉然-安详":"312359401cc72c34fcea3654cdba42db0f9f3dd0.png","嘉然-暗中观察":"3acf0b43facfd0601f5ab88cca6e401aa4f5a02e.png","嘉然-锤头丧气":"e6342840311ffeba8f2c58d1c360d76644e75dff.png","嘉然-点赞":"7017d90d4ceb9ea042cef8adc70d35eeb1f95e7e.png","嘉然-嘉人们":"d270845c9590da372e9b311cd6d976459acd1087.png","嘉然-嘉速心动":"387035168f40ca81afce8b38303c60ceb0c5dc6c.png","嘉然-流口水":"78bfeff475ad56a6d9379164b099f1ad8ecd7086.png","嘉然-你好":"d1530f972a59bca97bc4b8acf4f7e16f989f37c3.png","嘉然-一眼真":"ff436f5821db8b871517d0e5bb7ade7b64d3d0bf.png","嘉然-绷不住了":"4f0a9ee7708d71083dba4e79768ff0b7c308eaf4.png","嘉然-笔芯":"332a6df0e6def8da77e09310a62f3bffdc397640.png","嘉然-我有嘉心糖":"7579c6085f984f39ff0f6a2cb710301a2b113fac.png","银杏鎏金-幸运喷雾":"89e550f628333fe35f0b010337bdc5c4bf713cfc.png","2022拜年纪-HAHA":"ece69ad87284eb12324572be2a9009c0bc5e65b8.png","2022拜年纪-？？？":"0c5acb46f82cc559e16e542c29ae3bd503b65344.png","2022拜年纪-比心":"5001d623ddbe81d704e0093343ced12e2b38a3db.png","2022拜年纪-不愧是我":"ab807d0265a5c834c0d4d54b676c54da4feb38ce.png","2022拜年纪-不要啊":"80a74addbae8dd5bccc71728181e1d7e11a79d19.png","2022拜年纪-馋":"5012311cfa88687663f636f044f020a611a49848.png","2022拜年纪-打call":"54f99d1e613b42b0241a7f7c9ef5d8f5331fc754.png","2022拜年纪-瞪大双眼":"7def07a3a1829c7e26cfa6a3f1259fe3f9b9d4d3.png","2022拜年纪-放空":"823ea6f47ef1dda2d85317f635dc7d42a58c1545.png","2022拜年纪-干了这杯":"de06e28d6afee561556c6e3cbd199d21f4e4fd09.png","2022拜年纪-哈？":"206ddfebe778cf4f4c2c3f6f87330db32d4e1708.png","2022拜年纪-擦擦":"7b5fb834faccffe090db5ae3406468a306018bfd.png","2022拜年纪-哭哭":"365002e8c6007564b92fe4eb7ab0f815e988995e.png","2022拜年纪-捂脸":"380d5814aa70370f57f990ab68b4cd2a195830a6.png","2022拜年纪-恰柠檬":"5d2e17818c67eaff2de2890d808cc1f7a2bb8232.png","2022拜年纪-无情吃瓜":"3342b9aa0c6fc6f7ddfec0bcc611fa4ea6987c60.png","2022拜年纪-眼前一黑":"9cf5e735e64525c59f26ccbcb4ddf6ba5a29ed11.png","2022拜年纪-星星眼":"ef49e822e72ced75f71950f4c296192dae543486.png","2022拜年纪-晕":"460d02950b4d676604e9d4686fa769a866d21191.png","拜年纪2022-火了":"20ee37d0695247f6f32e71de264fe7e955d74835.png","月隐空夜-咕咕咕":"df59993b9ea4255e8666bd417f75b3857bd67627.png","月隐空夜-回家了":"3c796d34b61c18fd1d03443a4a144c1133859600.png","月隐空夜-欧拉":"36465ab94e113a0557cff76bed5c6266277430f3.png","月隐空夜-欧气满满":"fce384d8ad9dd6ba2b87e6a8c6fec1e3f8576984.png","月隐空夜-天才":"542eaddb1b04f85a04068f31bfe1c133a5270a66.png","月隐空夜-完了":"1289c9f89244342b83f784d3bf6c18dcd548f1e3.png","新月冰冰!-心脏骤停":"04f0e3087d39629079bbfc7f2b2d0e3cdd3eada6.png","新月冰冰!-加油":"46be9e14a41ec1f392240c5c7f3006cbff5b3744.png","新月冰冰!-不可以色色":"116f93998c4c50a8c801103b9037f793f936a896.png","新月冰冰!-大哭":"50a0ad849ffae469cd376f5e4afeb0ab64b74887.png","新月冰冰!-单推":"542fbbc36493831ec98ed64b51d60a1191afa63e.png","新月冰冰!-诶嘿":"dae8436e7042b1440748993da11d5c93e55e0c13.png","新月冰冰!-给花花":"fac1c332932004b3922e19b1d8f20208ddb7ea23.png","新月冰冰!-滑稽":"c2dfb168f43d334ff291042e81ddf80a8a059913.png","新月冰冰!-开车":"83630b278dd62d2dde701021d98be2d5fcbf00f3.png","新月冰冰!-穷醒":"9cc02af9592ceceb795006cf2611b4a423ec4a19.png","新月冰冰!-谢谢老板":"ddc6b7389787bec178ab24eb842ee949d2d79be2.png","新月冰冰!-kira":"f50869288aa706cf9f1aa9e5d3f7274eac558f68.png","Hiiro二周年-吃瓜":"f5dd831cd8dc9fc93a8cf21247f2e1bdbfa65eff.png","Hiiro二周年-大的要来了":"7cb1ccd578c1946ff68cbcf55add6527cc7826e1.png","Hiiro二周年-好耶":"3250844f983fad2e8888a69f9438a925492630b1.png","Hiiro二周年-坏女人":"74f02465c6c057aebb0df5cb3ab785616b5f077b.png","Hiiro二周年-击剑":"3212b33d39221df349dea0695701bbce07971b00.png","Hiiro二周年-寄":"22ce9c662192d858231ffd02190db7338e0b6e8c.png","Hiiro二周年-辣眼睛":"8ea839758e87947326711297ca7c08a9ad3af906.png","Hiiro二周年-流口水":"0648c8bf4f3836de0902b4ab8e9b1c1b68505a5e.png","Hiiro二周年-麻了":"a7b0deef902b639e40c9b4dc3d3a9df5793cf538.png","Hiiro二周年-无语":"5a61e12360c94b413fa6d370829b8d7f4733c897.png","Hiiro二周年-吓":"cbaca277bcc77739abf41bfc5c377b61ff8527d9.png","Hiiro二周年-两眼一黑":"9b6d393c8f9248e9f8ea8e1d075cc88a300972f3.png","崩坏学园2-好耶":"f1fe88c6d201f2b5d91ad70bcad15288d4569f00.png","崩坏学园2-偷瞄":"31406161e268ab3a3ae24befacc64ab9812d478b.png","崩坏学园2-乖巧":"fb397421eaea8f271acfe135a8dc49bffa7605be.png","扶桑大红花-疑惑":"5d3d9164fd05da8a1690d7a1dff210bdf822a64d.png","崩坏3-幸福":"714cc90d3485a003f53eecec336bea8a0b2dc12d.png","扶桑大红花-略略略":"e1fd8c1f6947c94e3227e7f7afe8de61aa277a24.png","扶桑大红花-生气":"6adad591921aa4d51a8399b6efdf18f84e7144f6.png","扶桑大红花-好诶":"1acaf75c1f900e827922169b8512a5c38695f620.png","扶桑大红花-啪":"0f06e1363cbfd72ed411c2385f3c64d098fdac18.png","扶桑大红花-入脑":"6b343b588735140442460054a4b64e81a6ee9dd9.png","扶桑大红花-不行":"b21a234b272c952b012af2cfa097693b126bd445.png","扶桑大红花-rua":"50053d5c3c485fda2c110ed0874a6a5a2d7f1dff.png","暹罗猫小豆泥-抱大腿":"1e309b348e969e7ff1c7d873352799a2005494d5.png","暹罗猫小豆泥-惊讶":"d6024fd52d7e66241062c045559974e2a4c6e87f.png","暹罗猫小豆泥-哭":"9153d549e425cc02eb911695fff29cb59b338da0.png","暹罗猫小豆泥-探头":"4741a1d527c52365850368b2f480d5818b23cb8f.png","小可学妹-老板大气":"f5fadc61fd4da10fca13cc352e9a37663c21daf6.png","小可学妹-好热":"6892a3b67b1968c550fdd110e9ff8f995973a44b.png","小可学妹-两眼一黑":"66b17fa948ce00a66f260b202dff5bb943103c6c.png","Akie秋绘-可爱":"d1e9aeb4fee6a64e1cbc17c6fe129d3b74e41f50.png","Akie秋绘-哭哭":"06fb34e4d4d33477fcbf13cb5d8327c2bd746e76.png","天涯明月刀伙伴-？？？":"6b7815e08667c6fd7905b7c640c5b46b2bc4dec0.png","天涯明月刀伙伴-馋":"0467b117ad55f21d2b13b8230dc28bc06039d842.png","天涯明月刀伙伴-emo":"8b0cf44f7311445e1590391c7a091a664bad353b.png","祖娅纳惜生贺-懒":"97029c26e7b2700dd30f9ac53842e4806872f262.png","祖娅纳惜生贺-泪奔":"1486e90eea32c556b21a8a0c9474cb8b04f04eae.png","祖娅纳惜生贺-恰饭":"780146c9ea1b35d7b8efad3de8a6a153d42d760e.png","祖娅纳惜生贺-生气":"115705216f64896f40b0bab9ee0b127c315e3721.png","祖娅纳惜生贺-晚安":"1e6f9b96f9ed121928e4bbaa27a4263156b48d3d.png","星瞳-星想事成":"23dcbf6168d8befa79856764d1a4036662786063.png","请吃红小豆吧-吃薯片":"35aeeddf6f0c96dec6652e6050e34626d6cfdcbf.png","请吃红小豆吧-发呆":"ffdc8f1ab56c4d9ccc6a35a7a6bb7092df93f231.png","请吃红小豆吧-告辞":"463fb9facfa0d4700b001ef9365e7253f80a0459.png","请吃红小豆吧-害羞":"7e1ae398526c28926767fda86bf41ba6f6d6e7b4.png","请吃红小豆吧-好耶":"905662fe86b316d361a37e64c6d753ee6efb1d2e.png","请吃红小豆吧-坏笑":"9ff8ab26feeb0a7f65c698825192cbbee417dcd3.png","请吃红小豆吧-泪目":"41f2e34af7e0c3cdd726dadbc8933f21f01d1c13.png","请吃红小豆吧-摸摸头":"7fe816a29961559ac6248274087de14b3447f3f2.png","请吃红小豆吧-哇":"be9352ed161a0d0aa222986b5610802bbf18e5a6.png","请吃红小豆吧-我很好":"ad9d73e683990c86e06be15e0187c930826de644.png","请吃红小豆吧-在吗":"865566aa175609d7a018436046407199a4e2b51a.png","请吃红小豆吧-糟糕":"8c8372a8fc9655e1559a764afe3d769fa141c96e.png","请吃红小豆吧-啧":"b033a8a098bb321a6220cd10a534322a7ea94aad.png","最后的召唤师-吃瓜":"72007fc6e0cbc2b2c13b8c3971e333708024785a.png","最后的召唤师-摸摸":"808b65dddecd55c06bde59080823f60030b6be98.png","最后的召唤师-歇歇":"63e50835bad0184129e9382df435efbf6b29a3b0.png","眞白花音-打call":"e3957fbe286f694f215fafdcc6597c9a9cc3a5ae.png","眞白花音-大头":"8cf7b3d9e9b81017d6d616b643373bf57b516ec5.png","眞白花音-对不起":"b12fa885dc14cdc73cdb71f69f70a54350316d92.png","雪绘-比心":"892ec2ea31bae16044c683b68b4744fda62f1eff.png","坎公骑冠剑-YYDS":"207ad2f10f32e138c29761fd3526877e2210c2e2.png","坎公骑冠剑-唱歌":"46dbf43a57841ae840e21e8678b7daa58935a26e.png","坎公骑冠剑-吃鸡腿":"db344ad0fd23621beecb7db3abb7567156bfb8f4.png","坎公骑冠剑-出来玩":"485be2a946e954ba886b50b8ba1033accb056071.png","坎公骑冠剑-干杯":"25cab88e656ea009152ad6364df1b42065d1ffda.png","坎公骑冠剑-乖巧":"c9468c3a6dd02389b2e1364fba39f51efea9f247.png","坎公骑冠剑-惊叹":"30ed9cd688e17cc6c54f7b969b6e89b74580a5db.png","坎公骑冠剑-嗯!":"9d7f7dff618d4fbcb99cfef30141e37105179044.png","坎公骑冠剑-你还好吗":"d48c0e8ef71bc2af28d25ac390c67a9f08533517.png","坎公骑冠剑-你在干嘛":"4521901b073665c42f76a50b07acb19a2d3459bf.png","坎公骑冠剑-欧气传输":"e8f1308e982c818a6d7a6b4ff3ef5d92c24f4fe0.png","坎公骑冠剑-送花":"9fb76616e1cdf524bc254f2b8873b83d43e03b87.png","坎公骑冠剑-哇":"a737de02e1952f2841916cff82e73009f9946dec.png","坎公骑冠剑-晚安":"c223ba1967dd328307f74e2b58f815acb3232cf9.png","坎公骑冠剑-妖妖灵":"2c8eee463117bec38f38d6cf6873d333aa9660a5.png","永雏塔菲-不理你了":"ec38a461c767fd0f4dee7346f82d81e5a88b176c.png","永雏塔菲-嘲笑":"094c321f0829f0894f48195d6671358a1a43b53c.png","永雏塔菲-对呀对呀":"37afa9e099d0c2ca9a4f3ff7d599e86060d6b942.png","永雏塔菲-尴尬":"71a5b730a3c20ddac64f8e7803ffc00da97f7397.png","永雏塔菲-哈哈哈":"b1f89d85b9c9f8553fe021c1e5785bc2995f8751.png","永雏塔菲-累":"889f95e3b36f257cb6b68f420b8238a11c596d19.png","永雏塔菲-摸头":"a826477acfa607224dd4a6771431af3b18ee8f92.png","永雏塔菲-亲嘴":"ce2123ec6b4f15eb8dfc2467f36fa3d69f2f97cd.png","永雏塔菲-闪亮登场":"c7eff8db64b132e6757bacdd51e649e16965f6b9.png","永雏塔菲-生日快乐":"9daed0ba16c89f983c7fcfa38e2bc8d1b80f7957.png","永雏塔菲-太好吃了":"86b760ed0a466b5dc3fa0b1e64b9ba7d6b53b6ed.png","永雏塔菲-嘻嘻喵":"866c99dbf6cb5e054e8e94be60c1b37ff4581eaa.png","永雏塔菲-星星眼":"bf3e961a1c3d4edf5ebdd063418495a1ed4c865f.png","永雏塔菲-嘤嘤嘤":"ba43546b013efffa7821dc21df6c79490cbafe72.png","永雏塔菲-有鬼":"b33d0672a01810a6b26696bf4a56204dadd5ff31.png","永雏塔菲-晕了":"d395fd944642b882a9226db81dcfa2e80307461c.png","永雏塔菲-震惊":"36bea35a3a15b675b2f5f28529582f82cf65b1c9.png","奈姬niki-微笑":"6fdc161f1086c522d90e684639a3bd1c48837507.png","奈姬niki-我超":"8d6d65fa2764084fd17fd18bef5a2bbc58f044f4.png","奈姬niki-无语":"33479daa29101a0846d7735cd5fba0d847be6e51.png","奈姬niki-谢谢":"8eaca252ea780a992261b4f9df7a4e170cfd71f1.png","有栖mana-打call":"0572afd470f86cc73cd5a1dff047cd22b620f336.png","有栖mana-喝可乐":"7788e653641e40f5043267aa6f73afbd73f5dd73.png","有栖mana-嘿嘿嘿嘿":"0500a6063e9828ce5002f0d796b19569db7ea63c.png","有栖mana-你好":"0d1575f7203eaf1705cc1104eaf7c02983cae9f0.png","有栖mana-辛苦了":"1893dad434a59c1f5e9c70e1440a6b323a92c3c6.png","有栖mana-炸毛":"f8d86249f486e3e0eb0b601bdf9994cb76634538.png","有栖mana-做什么？":"eb2eb12a288287b4f46d7a4dbeb71ec645810726.png","幻塔-害羞":"7868841b13f2067418c34becd73fde4be8a8bdfe.png","鹿乃桜帆-早上好":"1b58aba1d2e1372a8c4b7e49cb420db738bce414.png","鹿乃桜帆-恭喜":"584dae2f7faf4ee160c389e4ba0eebfb26aeb910.png","鹿乃桜帆-惊":"b945fc60b60467fc80b1e18ba4ea6d8c7b3ae0f9.png","鹿乃桜帆-期待":"5ae064b9deefdce14129d24659f0ee605a0e341b.png","鹿乃桜帆-神":"863c349b44abb098fecac479772f23ef1edd10f5.png","鹿乃桜帆-3Q":"9bee9ccc87c3ffe392e5572c4f67dae92a031e35.png","尼奈-妙!！":"3c2439d868818711b6c2cee035c4d51818c07c99.png","蕾尔娜Leona-反弹":"bc82f5b4e8525efeac017a1a9a3ea94d811d4463.png","蕾尔娜Leona-好耶":"f5269730d3156ba2a6cbe5c127d65753b3143f81.png","约战4-疑惑":"9174bde1afdde014a1b066c1bbb3027dc8dbb834.png","夏日青春欧皇套装-谢谢老板":"ca607626747f23cf37dbe8bb81397985dcb0ab17.png","夏日限定宅家手册-期待":"aaf3de49543253272e7eaeabff07ef0d162db67a.png","夏日限定宅家手册-重在参与":"aeafdb2f36c2cfde1ff4dadfecde48241ee31f15.png"},"el":"#valine-comments","path":"/the-principle-of-super-symbols/"}</script>
+<script>
+document.addEventListener('page:loaded', () => {
+  NexT.utils.loadComments(CONFIG.valine.el)
+    .then(() => NexT.utils.getScript(
+      '/js/custom/Valine.min.js',
+      { condition: window.Valine }
+    ))
+    .then(() => {
+      new Valine(CONFIG.valine);
+    });
+});
+</script>
+
+</body>
+</html>
