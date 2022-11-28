@@ -36,7 +36,7 @@
 <meta property="og:image" content="https://qianling.pw/images/posts/networks-crowds-and-markets/networks-crowds-and-markets-5.jpg">
 <meta property="og:image" content="https://qianling.pw/images/posts/networks-crowds-and-markets/networks-crowds-and-markets-6.jpg">
 <meta property="article:published_time" content="2021-10-30T14:23:24.000Z">
-<meta property="article:modified_time" content="2022-11-28T03:57:40.553Z">
+<meta property="article:modified_time" content="2022-11-28T04:18:59.257Z">
 <meta property="article:author" content="千灵夙赋">
 <meta property="article:tag" content="网络科学">
 <meta name="twitter:card" content="summary">
@@ -374,7 +374,7 @@ var ap = new APlayer({
         <i class="far fa-calendar-check"></i>
       </span>
       <span class="post-meta-item-text">更新于</span>
-      <time title="修改时间 2022-11-28 11:57:40" itemprop="dateModified" datetime="2022-11-28T11:57:40+08:00">2022-11-28</time>
+      <time title="修改时间 2022-11-28 12:18:59" itemprop="dateModified" datetime="2022-11-28T12:18:59+08:00">2022-11-28</time>
     </span>
     <span class="post-meta-item">
       <span class="post-meta-item-icon">
@@ -511,7 +511,8 @@ var ap = new APlayer({
 <h3 id="估值与最优分配"><a href="#估值与最优分配" class="headerlink" title="估值与最优分配"></a>估值与最优分配</h3><p>　　前面所讲的二部图匹配问题说明了简单市场形式中的一个方面：个体以可接受的选项方式表达他们对某些对象的偏好；一个完美匹配体现了满足他们偏好的对象的分配方案；而如果不存在完美匹配，侧是因为系统中包含“限制”的阻碍。<br>　　下面来更加深入地讨论二部图匹配市场的问题。首先，允许每个人表达偏好时不是用二元方式表达“接受”或“不接受”，而是以数值来表示他们对每个对象的喜爱程度。对前面 10.1 节中学生和宿舍的例子而言，就是让每个学生对每个房间给一个数值评价来表明他们对房间的满意程度，而不是仅给出一张可接受的房间清单。图 10.3(a)是三个学生和三个房间的例子，例如鑫对于 1、2、3 号房间的估值分别为 12、2 和 4（而尤兰对 1、2、3 号房间的估值分别为 8、7 和 6）。注意学生们对于每个房间的评价可能存在异议。<br><img data-src="/images/posts/networks-crowds-and-markets/networks-crowds-and-markets-5.jpg"></p>
 <p>　　在一组个体对一组对象进行估值的场合，可以定义一种量，来评估将那些对象分配给不同个体的方案的质量，比如：可以定义分配方案的质量等于每个人所得到的对象估值的总和。这样，图 10.3 中展示出分配结果的质量为 12+6+5=23。<br>　　如果宿舍管理员知道每个学生对每个房间的评价数值，那么一个合理分配房间的办法就是寻求达到尽可能高的分配方案质量。我们将之称为最优分配，因为这种方法使得每个人的开心程度之和最高。在图 10.3 中可以看到那是一个最优分配方案。当然，虽然最优分配提高了总的满意程度，它并不能保证给每个人最想要的房间。比如在图 10.3(b)中，所有学生都认为 1 号房间最好，但只有一个学生能得到它。<br>　　具体来说，寻求最优分配的问题有时也对应 10.1 节中二部图匹配的问题。特别是，可以看到二部图匹配问题是最优分配问题的一个特例。下面阐述原因。在 10.1 节中谈到的学生和房间数目相等，每个学生提交一份可接受的房间清单，而不提供数字估值，这样便形成一个如图 10.4(a)所示的二部图，我们想要知道其中是否包含完美分配。这个问题也可以用估值和最优分配的观点来表达。对于学生接受的每个房间，我们将其估值定为 1，而对于他们没看上的房间，我们将其估值定为 0，将这个原则应用于图 10.4(a)，就得到图 10.4(b)。现在，当我们能给每个学生提供他认为是 1 而不是 0 的房间时就产生了完美匹配，即最优分配的质量（价值）和学生数一致。这个简单例子说明了二部图匹配问题如何隐含在寻找最优分配问题之中。<br><img data-src="/images/posts/networks-crowds-and-markets/networks-crowds-and-markets-6.jpg"></p>
 <h3 id="价格与市场清仓性质"><a href="#价格与市场清仓性质" class="headerlink" title="价格与市场清仓性质"></a>价格与市场清仓性质</h3><p>　　至此，我们一直在用一种比喻，即“一个管理员”通过对每个人送来的数据进行中央计算，来得到完美匹配，或最优分配。虽然有很多类似市场的行为是以这种方式来进行的（如学生和宿舍的问题），但更标准的市场情景是没有如此强的中央协调，每个个人只是在商品的价格和他对其估值的基础上来做出决定。<br>　　对此情况的把握是我们对市场匹配问题形式化的重要一步，即理解价格如何在非集中式的市场活动中发挥作用。我们会看到如果以某产品的定价策略来代替一个中央管理员，让个体根据他们对产品的评估寻求最佳个人利益，这样也能产生最优分配。</p>
-<h2 id="第-11-章-具有中介的市场网络模型"><a href="#第-11-章-具有中介的市场网络模型" class="headerlink" title="第 11 章　具有中介的市场网络模型"></a>第 11 章　具有中介的市场网络模型</h2><h3 id="市场中的定价"><a href="#市场中的定价" class="headerlink" title="市场中的定价"></a>市场中的定价</h3>
+<h2 id="第-11-章-具有中介的市场网络模型"><a href="#第-11-章-具有中介的市场网络模型" class="headerlink" title="第 11 章　具有中介的市场网络模型"></a>第 11 章　具有中介的市场网络模型</h2><h3 id="市场中的定价"><a href="#市场中的定价" class="headerlink" title="市场中的定价"></a>市场中的定价</h3><p>　　</p>
+
     </div>
 
     
