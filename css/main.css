@@ -3278,7 +3278,7 @@ mark.search-keyword {
   vertical-align: middle;
 }
 .links-of-author a::before {
-  background: #fff;
+  background: #f560e4;
   display: inline-block;
   margin-right: 3px;
   transform: translateY(-2px);
@@ -3747,9 +3747,6 @@ i.fa.fa-chevron-up:hover {
 }
 .aplayer-list-title {
   float: left;
-}
-.fold_hider {
-  text-indent: 2em;
 }
 .hider_title {
   color: #5e98b4;
