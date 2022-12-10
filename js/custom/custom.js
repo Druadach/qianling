@@ -42,6 +42,7 @@ $(document).ready(function(){
     //默认情况下折叠
     $("div.fold").css("display","none");
 });
+
 const rEscapeContent = /<escape(?:[^>]*)>([\s\S]*?)<\/escape>/g;
 const placeholder = '\uFFFD';
 const rPlaceholder = /(?:<|&lt;)\!--\uFFFD(\d+)--(?:>|&gt;)/g;
@@ -63,7 +64,7 @@ hexo.extend.filter.register('after_post_render', function(data) {
 });
 function fold (args, content) {
   var text = args[0];
-  if(!text) text = "点击显示／隐藏内容";
+  if(!text) text = "点击展开／折叠内容";
   return '<div><div class="fold_hider"><div class="close hider_title">' + text + '</div></div><div class="fold">\n' + hexo.render.renderSync({text: content, engine: 'markdown'}) + '\n</div></div>';
 }
 hexo.extend.tag.register('fold', fold, {ends: true});
