@@ -263,6 +263,7 @@ if( !/Android|webOS|iPhone|iPod|iPad|BlackBerry/i.test(navigator.userAgent)){
 if( !/Android|webOS|iPhone|iPod|iPad|BlackBerry/i.test(navigator.userAgent)){
   document.write('<script type="text/javascript" src="/js/custom/APlayer.min.js"><\/script>');
 }
+
 </script>
 <script type="text/javascript">
 var ap = new APlayer({
@@ -273,7 +274,7 @@ var ap = new APlayer({
     mutex: true,                                                       // Optional, pause other players when this player playing
     theme: '#e6d0b2',                                                  // Optional, theme color, default: #b7daff
     mode: 'random',                                                    // Optional, play mode, can be `random` `single` `circulation`(loop) `order`(no loop), default: `circulation`
-    preload: 'metadata',                                               // Optional, the way to load music, can be 'none' 'metadata' 'auto', default: 'auto'
+    preload: 'none',                                               // Optional, the way to load music, can be 'none' 'metadata' 'auto', default: 'auto'
     listmaxheight: '513px',                                             // Optional, max height of play list
     music: [{
       title: '世末歌者',
@@ -773,11 +774,6 @@ var ap = new APlayer({
           </div>
 
         
-  <div class="post-widgets">
-    <div class="wpac-rating-container">
-      <div id="wpac-rating"></div>
-    </div>
-  </div>
 
           <div class="post-nav">
             <div class="post-nav-item">
@@ -847,9 +843,6 @@ var ap = new APlayer({
 <script src="/js/comments.js"></script><script src="/js/utils.js"></script><script src="/js/motion.js"></script><script src="/js/schemes/muse.js"></script><script src="/js/next-boot.js"></script><script src="/js/pjax.js"></script>
 
   
-  <script src="https://embed.widgetpack.com/widget.js" async></script>
-  <script class="next-config" data-name="rating" type="application/json">{"enable":true,"id":8657,"color":"5bc0de"}</script>
-  <script src="/js/third-party/rating.js"></script>
 <script src="https://cdnjs.cloudflare.com/ajax/libs/hexo-generator-searchdb/1.4.0/search.js" integrity="sha256-vXZMYLEqsROAXkEw93GGIvaB2ab+QW6w3+1ahD9nXXA=" crossorigin="anonymous"></script>
 <script src="/js/third-party/search/local-search.js"></script>
 
