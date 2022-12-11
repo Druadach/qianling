@@ -3278,7 +3278,7 @@ mark.search-keyword {
   vertical-align: middle;
 }
 .links-of-author a::before {
-  background: #ff6526;
+  background: #d79eff;
   display: inline-block;
   margin-right: 3px;
   transform: translateY(-2px);
@@ -3434,7 +3434,10 @@ a {
 .site-meta {
   padding-bottom: 20px;
 }
-.post-block.animated.fadeIn {
+.post-block:first-of-type {
+  padding-top: 30px;
+}
+.post-block {
   padding: 30px 30px 20px;
   box-shadow: 0 0 4px rgba(0,0,0,0.2);
   background: rgba(255,255,255,0.46);
@@ -3471,9 +3474,8 @@ a {
   animation-fill-mode: both;
 }
 .post-sticky-flag {
-  position: relative;
-  right: -736px;
-  bottom: 15px;
+  position: absolute;
+  margin: -9px 0 0 630px;
   pointer-events: none;
   transform: rotate(0deg);
 }
@@ -3964,7 +3966,7 @@ li.popular-posts-item {
   }
 }
 @media (prefers-color-scheme: dark) {
-  .post-block.animated.fadeIn {
+  .post-block {
     background: #000;
   }
   img {
