@@ -42,7 +42,6 @@ $(document).ready(function(){
     //默认情况下折叠
     $("div.fold").css("display","none");
 });
-
 const rEscapeContent = /<escape(?:[^>]*)>([\s\S]*?)<\/escape>/g;
 const placeholder = '\uFFFD';
 const rPlaceholder = /(?:<|&lt;)\!--\uFFFD(\d+)--(?:>|&gt;)/g;

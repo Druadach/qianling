@@ -3,12 +3,11 @@
 <head>
   <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width">
-<meta name="theme-color" content="#222"><meta name="generator" content="Hexo 5.4.0">
-
+<meta name="theme-color" content="#222"><meta name="generator" content="Hexo 6.3.0">
 
   <link rel="apple-touch-icon" sizes="180x180" href="/images/apple-touch-icon-next.png">
-  <link rel="icon" type="image/png" sizes="32x32" href="/images/favicon-32x32.png">
-  <link rel="icon" type="image/png" sizes="16x16" href="/images/favicon-16x16.png">
+  <link rel="icon" type="image/png" sizes="32x32" href="/images/favicon-32x32-next.png">
+  <link rel="icon" type="image/png" sizes="16x16" href="/images/favicon-16x16-next.png">
   <link rel="mask-icon" href="/images/logo.svg" color="#222">
 
 <link rel="stylesheet" href="/css/main.css">
@@ -21,7 +20,7 @@
   <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/pace/1.2.4/themes/blue/pace-theme-minimal.css">
   <script src="https://cdnjs.cloudflare.com/ajax/libs/pace/1.2.4/pace.min.js" integrity="sha256-gqd7YTjg/BtfqWSwsJOvndl0Bxc8gFImLEkXQT8+qj0=" crossorigin="anonymous"></script>
 
-<script class="next-config" data-name="main" type="application/json">{"hostname":"qianling.pw","root":"/","images":"/images","scheme":"Muse","darkmode":false,"version":"8.11.1","exturl":false,"sidebar":{"position":"right","display":"hide","padding":18,"offset":12},"copycode":true,"bookmark":{"enable":false,"color":"#222","save":"auto"},"mediumzoom":false,"lazyload":true,"pangu":false,"comments":{"style":"tabs","active":"valine","storage":true,"lazyload":true,"nav":null,"activeClass":"valine"},"stickytabs":false,"motion":{"enable":true,"async":true,"transition":{"post_block":"none","post_header":"fadeInDown","post_body":"none","coll_header":"none","sidebar":"none"}},"prism":false,"i18n":{"placeholder":"搜索...","empty":"没有找到任何搜索结果：${query}","hits_time":"找到 ${hits} 个搜索结果（用时 ${time} 毫秒）","hits":"找到 ${hits} 个搜索结果"},"path":"/search.xml","localsearch":{"enable":true,"trigger":"auto","top_n_per_article":1,"unescape":false,"preload":true}}</script><script src="/js/config.js"></script>
+<script class="next-config" data-name="main" type="application/json">{"hostname":"qianling.pw","root":"/","images":"/images","scheme":"Muse","darkmode":false,"version":"8.14.0","exturl":false,"sidebar":{"position":"right","display":"hide","padding":18,"offset":12},"copycode":{"enable":true,"style":"flat"},"bookmark":{"enable":false,"color":"#222","save":"auto"},"mediumzoom":false,"lazyload":true,"pangu":false,"comments":{"style":"tabs","active":"valine","storage":true,"lazyload":true,"nav":null,"activeClass":"valine"},"stickytabs":false,"motion":{"enable":true,"async":true,"transition":{"menu_item":"fadeIn","post_block":"fadeIn","post_header":"fadeInDown","post_body":"fadeIn","coll_header":"fadeInLeft","sidebar":"fadeInUp"}},"prism":false,"i18n":{"placeholder":"搜索...","empty":"没有找到任何搜索结果：${query}","hits_time":"找到 ${hits} 个搜索结果（用时 ${time} 毫秒）","hits":"找到 ${hits} 个搜索结果"},"path":"/search.xml","localsearch":{"enable":true,"trigger":"auto","top_n_per_article":1,"unescape":false,"preload":true}}</script><script src="/js/config.js"></script>
 
     <meta name="description" content="本文内容过于专业可能引起不适，请酌情食用，强读灰飞烟灭哦~　o（´^｀)o">
 <meta property="og:type" content="article">
@@ -105,6 +104,11 @@
 
 
 
+
+  <script async defer data-website-id="" src=""></script>
+
+  <script defer data-domain="" src=""></script>
+
   <noscript>
     <link rel="stylesheet" href="/css/noscript.css">
   </noscript>
@@ -115,8 +119,8 @@
   <div class="headband"></div>
 
   <main class="main">
-    <header class="header" itemscope itemtype="http://schema.org/WPHeader">
-      <div class="header-inner"><div class="site-brand-container">
+    <div class="column">
+      <header class="header" itemscope itemtype="http://schema.org/WPHeader"><div class="site-brand-container">
   <div class="site-nav-toggle">
     <div class="toggle" aria-label="切换导航栏" role="button">
         <span class="toggle-line"></span>
@@ -135,7 +139,7 @@
   </div>
 
   <div class="site-nav-right">
-    <div class="toggle popup-trigger">
+    <div class="toggle popup-trigger" aria-label="搜索" role="button">
         <i class="fa fa-search fa-fw fa-lg"></i>
     </div>
   </div>
@@ -230,15 +234,9 @@ if( !/Android|webOS|iPhone|iPod|iPad|BlackBerry/i.test(navigator.userAgent)){
     POWERMODE.shake = false; // false 为禁用震动特效
     document.body.addEventListener('input', POWERMODE);
 </script>
-</div>
+</header>
         
   
-  <div class="toggle sidebar-toggle" role="button">
-    <span class="toggle-line"></span>
-    <span class="toggle-line"></span>
-    <span class="toggle-line"></span>
-  </div>
-
   <aside class="sidebar">
 
     <div class="sidebar-inner sidebar-nav-active sidebar-toc-active">
@@ -259,13 +257,13 @@ if( !/Android|webOS|iPhone|iPod|iPad|BlackBerry/i.test(navigator.userAgent)){
         <!--/noindex-->
 
         <div class="site-overview-wrap sidebar-panel">
-          <div class="site-author site-overview-item animated" itemprop="author" itemscope itemtype="http://schema.org/Person">
+          <div class="site-author animated" itemprop="author" itemscope itemtype="http://schema.org/Person">
     <img class="site-author-image" itemprop="image" alt="千灵夙赋"
       src="/images/avatar.png">
   <p class="site-author-name" itemprop="name">千灵夙赋</p>
   <div class="site-description" itemprop="description"></div>
 </div>
-<div class="site-state-wrap site-overview-item animated">
+<div class="site-state-wrap animated">
   <nav class="site-state">
       <div class="site-state-item site-state-posts">
         <a href="/archives/">
@@ -286,24 +284,25 @@ if( !/Android|webOS|iPhone|iPod|iPad|BlackBerry/i.test(navigator.userAgent)){
   </nav>
 </div>
 
-
-  <div class="links-of-blogroll site-overview-item animated">
-    <div class="links-of-blogroll-title"><i class="fa fa-link fa-fw"></i>
-      Friends
-    </div>
-    <ul class="links-of-blogroll-list">
-        <li class="links-of-blogroll-item">
-          <a href="https://meow3.family.blog/" title="https:&#x2F;&#x2F;meow3.family.blog&#x2F;" rel="noopener" target="_blank">恶魔菌の记事簿</a>
-        </li>
-        <li class="links-of-blogroll-item">
-          <a href="https://lanyundev.vercel.app/" title="https:&#x2F;&#x2F;lanyundev.vercel.app&#x2F;" rel="noopener" target="_blank">LanYun</a>
-        </li>
-        <li class="links-of-blogroll-item">
-          <a href="https://www.julydate.com/" title="https:&#x2F;&#x2F;www.julydate.com&#x2F;" rel="noopener" target="_blank">七夏浅笑</a>
-        </li>
-    </ul>
-  </div>
-<div id="aplayer" class="aplayer"></div>
+          
+          <div class="sidebar-inner sidebar-blogroll">
+            <div class="links-of-blogroll animated">
+              <div class="links-of-blogroll-title"><i class="fa fa-link fa-fw"></i>
+                Friends
+              </div>
+              <ul class="links-of-blogroll-list">
+                  <li class="links-of-blogroll-item">
+                    <a href="https://meow3.family.blog/" title="https:&#x2F;&#x2F;meow3.family.blog&#x2F;" rel="noopener" target="_blank">恶魔菌の记事簿</a>
+                  </li>
+                  <li class="links-of-blogroll-item">
+                    <a href="https://lanyundev.vercel.app/" title="https:&#x2F;&#x2F;lanyundev.vercel.app&#x2F;" rel="noopener" target="_blank">LanYun</a>
+                  </li>
+                  <li class="links-of-blogroll-item">
+                    <a href="https://www.julydate.com/" title="https:&#x2F;&#x2F;www.julydate.com&#x2F;" rel="noopener" target="_blank">七夏浅笑</a>
+                  </li>
+              </ul>
+            </div>
+          </div><div id="aplayer" class="aplayer"></div>
 <script>
 if( !/Android|webOS|iPhone|iPod|iPad|BlackBerry/i.test(navigator.userAgent)){
   document.write('<script type="text/javascript" src="/js/custom/APlayer.min.js"><\/script>');
@@ -350,25 +349,14 @@ var ap = new APlayer({
   });
 </script>
 
+          
         </div>
       </div>
     </div>
   </aside>
-  <div class="sidebar-dimmer"></div>
 
 
-    </header>
-
-    
-  <div class="back-to-top" role="button" aria-label="返回顶部">
-    <i class=" fa fa-chevron-up"></i>
-    <span>0%</span>
-  </div>
-
-<noscript>
-  <div class="noscript-warning">Theme NexT works best with JavaScript enabled</div>
-</noscript>
-
+    </div>
 
     <div class="main-inner post posts-expand">
 
@@ -410,14 +398,14 @@ var ap = new APlayer({
       </span>
       <span class="post-meta-item-text">发表于</span>
 
-      <time title="创建时间 2019-07-20 18:31:58" itemprop="dateCreated datePublished" datetime="2019-07-20T18:31:58+08:00">2019-07-20</time>
+      <time title="创建时间2019-07-20 18:31:58" itemprop="dateCreated datePublished" datetime="2019-07-20T18:31:58+08:00">2019-07-20</time>
     </span>
     <span class="post-meta-item">
       <span class="post-meta-item-icon">
         <i class="far fa-calendar-check"></i>
       </span>
       <span class="post-meta-item-text">更新于</span>
-      <time title="修改时间 2020-01-11 08:47:23" itemprop="dateModified" datetime="2020-01-11T08:47:23+08:00">2020-01-11</time>
+      <time title="修改时间2020-01-11 08:47:23" itemprop="dateModified" datetime="2020-01-11T08:47:23+08:00">2020-01-11</time>
     </span>
     <span class="post-meta-item">
       <span class="post-meta-item-icon">
@@ -434,7 +422,7 @@ var ap = new APlayer({
       <span class="post-meta-item-icon">
         <i class="far fa-eye"></i>
       </span>
-      <span class="post-meta-item-text">阅读次数 </span>
+      <span class="post-meta-item-text">阅读次数</span>
       <span class="leancloud-visitors-count"></span>
     </span>
   
@@ -488,9 +476,9 @@ var ap = new APlayer({
 <h3 id="第五节-播音员的发音训练"><a href="#第五节-播音员的发音训练" class="headerlink" title="第五节　播音员的发音训练"></a>第五节　播音员的发音训练</h3><h4 id="训练原则"><a href="#训练原则" class="headerlink" title="训练原则"></a>训练原则</h4><p>　　对于播音，会发音只是进一步训练的开始，只有把这些音训练到不用脑子去想就能脱口而出，形成习惯时，它才能在表达中灵活自如地运用。</p>
 <h4 id="训练方法"><a href="#训练方法" class="headerlink" title="训练方法"></a>训练方法</h4><p>　　播音员的发音训练方法很多，使用上要因人而异，归纳起来有这样一些：<br>　　（一）听音练习<br>　　发音需要听觉器官的配合，听力不好直接影响发音，学习发音时，首先要训练敏锐的听觉能力，使耳能清晰地分辨语音在音准、音高、音色、音量上的细微差别。对声音的分辨能力是学习发音的基本条件。<br>　　（二）自我判断<br>　　发音训练带有模仿性质，模仿准确与否应以旁听者感觉为准。发音时，说话人自我听感与旁听者的感觉并不一致。因此说话人听自己的声音除了经由耳进入之外，还有一部分声音是经骨骼、肌肉振动传入内耳的。由于骨传导作用，主观与客观的音感会在音高、音色上有一定差距。为保证发音的准确性，要经常使用录音机录音，并反复审听，纠正骨传导作用造成的声音偏差。<br>　　（三）感觉记忆<br>　　学习发音，除了记忆声音，在头脑中形成声音印象外，还要有意识地体会和记忆发音时的动作感觉，回味发音器官的发音位置和动作过程。<br>　　（四）重复练习<br>　　重复练习是学习发音的重要方法。发音达不到脱口而出的熟练程度，语言便不会流畅自如。播音的发音难度超过一般口语，更需重复练习才能纯熟。</p>
 <h2 id="第七章-字音准确的基础——声母"><a href="#第七章-字音准确的基础——声母" class="headerlink" title="第七章　字音准确的基础——声母"></a>第七章　字音准确的基础——声母</h2><p>　　语音是语言的声音形式，标准的普通话语音是播音中的神采。听众对语音有着敏锐的感觉。提炼的普通话语音是产生感染力的基础。我们说的一句句话，是由一个个的词连接起来构成的。一个个的词又是由一个个音节组成的。一个音节就是一个方块汉字，音节则是由几个音素构成的。播音员是以有声语言作为自己的工具，因此必须对普通话的语音系统有一个概括性的了解。<br>　　我国的语言学家根据传统的分析方法，把汉语字音分析成声母、韵母、声调三部分。一个字起头的音叫声母，其余部分叫韵母，全字的音高叫声调。语音音素是根据发音特征分为元音、辅音两类。普通话语音中可做声母的<strong>辅音</strong>有 21 个。播音中语音含混不清，唇舌没有力度，往往和这 21 个声母有直接关系。它是吐字准确清晰的基础，声母发音时值虽短，但却十分重要。下面介绍几个专用名词：</p>
-<h3 id="音节和音素"><a href="#音节和音素" class="headerlink" title="音节和音素"></a>音节和音素</h3><p>　　语音最小单位是音素，一个或几个音素构成一个音节。一个方块汉字就是一个音节。<br>　　例如：　ā　　　　（啊）　一个音素<br>　　　　　　ān　　　&thinsp;&thinsp;（安）　二个音素<br>　　　　　　iān　　　（烟）　三个音素<br>　　　　　　jiān　　&ensp;&thinsp;（煎）　四个音素<br>　　　　　　jiāng　　&thinsp;（江）　四个音素<br>　　　　　　zhuāng　（装）　四个音素<br>　　“zh”、“ng”两个字母代表一个音素。</p>
+<h3 id="音节和音素"><a href="#音节和音素" class="headerlink" title="音节和音素"></a>音节和音素</h3><p>　　语音最小单位是音素，一个或几个音素构成一个音节。一个方块汉字就是一个音节。<br>　　例如：　ā　　　　（啊）　一个音素<br>　　　　　　ān　　　&amp;thinsp;&amp;thinsp;（安）　二个音素<br>　　　　　　iān　　　（烟）　三个音素<br>　　　　　　jiān　　&amp;ensp;&amp;thinsp;（煎）　四个音素<br>　　　　　　jiāng　　&amp;thinsp;（江）　四个音素<br>　　　　　　zhuāng　（装）　四个音素<br>　　“zh”、“ng”两个字母代表一个音素。</p>
 <h3 id="元音和辅音"><a href="#元音和辅音" class="headerlink" title="元音和辅音"></a>元音和辅音</h3><p>　　我们的说话声音分成两类，一类是元音（母音），一类是辅音（子音）。普通话里有 10 个元音，22 个辅音，它们各有自己的特点并在音节中担任不同的角色，起着不同的作用。掌握好元音、辅音的发音特点是播音员必备的基本功之一。</p>
-<h3 id="声母和韵母"><a href="#声母和韵母" class="headerlink" title="声母和韵母"></a>声母和韵母</h3><p>　　汉语传统语音学常把音节划分为两部分：声母和韵母。声母处于音节的前半部分，一般由辅音充当。韵母处于音节的后半部分，由元音和元音＋鼻辅音充当。<br>　　我们可以把普通话的音节结构归纳如下：<br>　　　　　　　　　　　&ensp;音节<br>　　　　　　　┌──────┴─────┐<br>　　　　　　&thinsp;声母　　　　+　　　　韵母<br>　　　　　　　　　　　　　┌─────┼─────┐<br>　　　　　　　　　　　　　韵头　　韵腹　　韵尾<br>　　　　　　（1）　　　　（2）　　（3）　（4）<br>　　　　啊　　　　　　　　　　　　　&thinsp;ɑ<br>　　　　爱　　　　　　　　　　　　　&thinsp;ɑ　　　&thinsp;i<br>　　　　腰　　　　　　　　&ensp;&thinsp;i　　　　&thinsp;ɑ　　　o<br>　　　　安　　　　　　　　　　　　　&thinsp;ɑ　　　n<br>　　　　煎　　&thinsp;j　　　　　　&thinsp;i　　　　&thinsp;ɑ　　　n</p>
+<h3 id="声母和韵母"><a href="#声母和韵母" class="headerlink" title="声母和韵母"></a>声母和韵母</h3><p>　　汉语传统语音学常把音节划分为两部分：声母和韵母。声母处于音节的前半部分，一般由辅音充当。韵母处于音节的后半部分，由元音和元音＋鼻辅音充当。<br>　　我们可以把普通话的音节结构归纳如下：<br>　　　　　　　　　　　&amp;ensp;音节<br>　　　　　　　┌──────┴─────┐<br>　　　　　　&amp;thinsp;声母　　　　+　　　　韵母<br>　　　　　　　　　　　　　┌─────┼─────┐<br>　　　　　　　　　　　　　韵头　　韵腹　　韵尾<br>　　　　　　（1）　　　　（2）　　（3）　（4）<br>　　　　啊　　　　　　　　　　　　　&amp;thinsp;ɑ<br>　　　　爱　　　　　　　　　　　　　&amp;thinsp;ɑ　　　&amp;thinsp;i<br>　　　　腰　　　　　　　　&amp;ensp;&amp;thinsp;i　　　　&amp;thinsp;ɑ　　　o<br>　　　　安　　　　　　　　　　　　　&amp;thinsp;ɑ　　　n<br>　　　　煎　　&amp;thinsp;j　　　　　　&amp;thinsp;i　　　　&amp;thinsp;ɑ　　　n</p>
 <p>　　（1）声母由 21 个辅音担任，它们是：b、p、m、f、d、t、n、f、g、k、h、j、q、x、zh、ch、sh、r、z、c、s。此外还有一个零声母，即当一个音节中没有以上 21 个辅音中任何一个时，就被认为是存在一个“零声母”；<br>　　（2）普通话只有三个音素可以充当韵头：i、u 和 ü，韵头不是普通话不可缺少的成分；<br>　　（3）韵腹是普通话音节中不可缺少的部分，由 10 个单元音分别充当；<br>　　（4）充当韵尾的只有 i、u（o）和 n、ng。-i、-u（o）构成元音韵尾，-n、-ng 构成鼻音韵尾。</p>
 <h3 id="第一节-辅音的特点"><a href="#第一节-辅音的特点" class="headerlink" title="第一节　辅音的特点"></a>第一节　辅音的特点</h3><p>　　气流在通过发音器官某一部分时，受到一定阻碍，只有参与阻碍的那一部分口腔是紧张的，气流在口腔里必须突破，冲过或回避所遇到的各种阻碍才能成声。例如：b 是突破上下唇阻碍，f 是冲过唇齿的阻碍，n 是回避舌尖与上牙床之间的阻碍。<br>　　辅音的气流较强，多数辅音是用呼出的强气流冲击阻碍而形成音波，经过口腔或鼻腔发生共鸣作用而成声。只有较强的气流，才能造成辅音的音响。<br>　　口腔中阻碍气流的那部分肌肉紧张，不阻碍气流的部分不紧张。<br>　　普通话中大部分辅音在发音时声带不颤动，声音不响亮，只有 m、n、l、r、ng 等 5 个浊辅音颤动声带，声音响亮。<br>　　辅音是噪声，只有 m、n、l、r、ng 5 个浊辅音带有乐音成分。其他的如 b、p、f、d、t、g、k、h、j、q、x、zh、ch、sh、z、c、s 都属噪音，叫清辅音。明<br>　　汉语普通话声母，都是由辅音充当的，所以它的特点与辅音相同。</p>
 <h3 id="第二节-声母发音条件"><a href="#第二节-声母发音条件" class="headerlink" title="第二节　声母发音条件"></a>第二节　声母发音条件</h3><h4 id="发音部位"><a href="#发音部位" class="headerlink" title="发音部位"></a>发音部位</h4><p>　　发音部位即气流在口腔中受阻的位置。因受阻部位不同，可以分为下面 7 种“阻”。这些“阻”都是由口腔里的两个部分接触或接近而形成的 7 处阻碍气流的地方（参见图 1）。<br>　　（一）双唇阻<br>　　上唇和下唇。<strong>下唇向上运动，上唇微动</strong>，两唇紧闭构成阻碍，如： b、p、m。<br>　　（二）唇齿阻<br>　　上齿和下唇，上齿和下唇内缘接触构成阻碍，如：f。<br>　　（三）舌尖前阻<br>　　舌尖和上门齿背。舌尖平伸，向上门齿背接触或接近，如：z、c、s。<br>　　（四）舌尖中阻<br>　　舌尖和齿龈前部。发音时，舌尖和齿龈前部（牙床）接触，如：d、t、n、l。<br>　　（五）舌尖后阻<br>　　舌尖和齿龈后部，舌尖稍后缩，向齿龈后部翘起接触或接近，如：zh、ch、sh、r。<br>　　（六）舌面阻<br>　　舌面前部和硬腭前部。发音时，舌尖下垂在下门齿背后，舌面向上贴接触或接近硬腭前部，如：j、q、x。<br>　　（七）舌根阻<br>　　舌根和软腭。发音时，舌头后缩，舌根抬起和软腭接触或接近，如：g、k、h。</p>
@@ -536,7 +524,7 @@ var ap = new APlayer({
 <h3 id="元音的特点"><a href="#元音的特点" class="headerlink" title="元音的特点"></a>元音的特点</h3><p>　　响亮、通畅、乐音成分多，语音中没有无元音的音节；声带颤动；不用较强的气流就能产生乐音（即有基音和谐音成分），而且声音也很响亮；发音时，气流在口腔中不受阻碍；发音器官均衡紧张，不像辅音只有阻碍气流的那部分肌肉紧张。<br>　　因为元音可以充当普通话韵母，所以单元音韵母的特点与元音相同。</p>
 <h3 id="第一节-单元音韵母"><a href="#第一节-单元音韵母" class="headerlink" title="第一节　单元音韵母"></a>第一节　单元音韵母</h3><h4 id="单元音"><a href="#单元音" class="headerlink" title="单元音"></a>单元音</h4><p>　　单元音韵母指单独一个元音构成的韵母，简称单韵母。普通话里有 10 个单元音韵母，其中舌面元音有 7 个，ɑ、o、e、ê、i、u、ü，两个舌尖元音-i（前），-i（后）和一个卷舌元音 er。<br>　　这 10 个单元音韵母中有 8 个，（ɑ、o、e、i、u、ü、ê、er）可以自成音节。er 音除自成音节外，不能跟任何声母相拼，但它可以将其卷舌成分附着在别的韵母后面，构成儿化韵。<br>　　所谓“自成音节”就是前面没声母，韵母自己独立成为一个音节。</p>
 <h4 id="单元音韵母发音条件"><a href="#单元音韵母发音条件" class="headerlink" title="单元音韵母发音条件"></a>单元音韵母发音条件</h4><p>　　发音时口腔形状的变化与舌位的高低前后、嘴唇圆或不圆有着直接的联系。舌头抬高，口腔就缩窄；舌头降低，口腔就放宽。嘴唇撮圆前声腔延长，嘴唇平展前声腔缩短。<br>　　（一）唇形的圆展<br>　　在相同舌位状态下，由于唇形的圆展不同，就形成两个不同的元音。如：i—ü，e—o。在北京语音中，ü、o、u 这三个是圆唇元音。在播音发声中，圆唇元音，若发得太圆，声音容易发闷、混浊，不够清晰；不圆唇的音也就是展唇元音。发音时，嘴不能太扁，否则声音没力度，松散，不集中。在播音中要灵活掌握，圆唇扁发，扁唇圆发。例如：<span class="fangsong"><br>　　山茶花　　（ɑ）<br>　　山茶花<br>　　洁白的山茶花　　（体会扁唇圆发）<br>　　爷爷说：小黑虎，你别哭，这是十五只小黑猪。　　（体会圆唇扁发）</span></p>
-<p>　　（二）舌位高低<br>　　“舌位”就是发音时舌面隆起部分的最高点，也就是接近上腭最近的一点。有人叫它是“舌高点”。发音时它和上腭距离小就叫“舌位高”。这样状态发出的元音叫“高元音”，或叫“窄元音”；距离大就是舌位低，这样状态发出的元音就叫“低元音”，或叫“宽元音”。也就是说舌位的高低与口腔开合的程度有紧密关系。舌位高，口腔开口度小，如：i、u、ü 音；舌位低，口腔开度就大，如：ɑ 音；口腔开合变化分四种情况，舌位低 = 口腔开，如：ɑ 音；舌位次低 = 口腔半开，如：ê；舌位半高 = 口腔半闭，如：o、e 音；舌位高 = 口腔闭，如：i、u、ü 音。在练习时要掌握最基本的发音状态，在实际工作中，则要注意窄元音宽发，宽元音窄发的要领。例如：<span class="fangsong"><br>　　窄音宽发：“情意缝在我心里”。<br>　　宽音窄发：“装点江山美如画”。</span></p>
+<p>　　（二）舌位高低<br>　　“舌位”就是发音时舌面隆起部分的最高点，也就是接近上腭最近的一点。有人叫它是“舌高点”。发音时它和上腭距离小就叫“舌位高”。这样状态发出的元音叫“高元音”，或叫“窄元音”；距离大就是舌位低，这样状态发出的元音就叫“低元音”，或叫“宽元音”。也就是说舌位的高低与口腔开合的程度有紧密关系。舌位高，口腔开口度小，如：i、u、ü 音；舌位低，口腔开度就大，如：ɑ 音；口腔开合变化分四种情况，舌位低 &#x3D; 口腔开，如：ɑ 音；舌位次低 &#x3D; 口腔半开，如：ê；舌位半高 &#x3D; 口腔半闭，如：o、e 音；舌位高 &#x3D; 口腔闭，如：i、u、ü 音。在练习时要掌握最基本的发音状态，在实际工作中，则要注意窄元音宽发，宽元音窄发的要领。例如：<span class="fangsong"><br>　　窄音宽发：“情意缝在我心里”。<br>　　宽音窄发：“装点江山美如画”。</span></p>
 <p>　　（三）舌位前后<br>　　舌位隆起最高点在上腭前部，叫舌位前，发出的元音叫前元音，如 i、ü。最高点在上腭后部叫舌位后，发出的元音叫后元音，如：o、u。舌高点在中央，发出的元音叫央元音，如：ɑ 音。在播音中注意前音不能太偏前，后音不能太靠后。例如：<span class="fangsong"><br>　　白雪飘飘，飘飘白雪。<br>　　大海呀！我的故乡。</span><br>　　图 1 是辅音发音部位（上）和元音舌位（下）示意图。</p>
 <div><div class="fold_hider"><div class="close hider_title">展开图片</div></div><div class="fold">
 <p><img data-src="/images/posts/chinese-broadcasting-announcing/chinese-broadcasting-announcing-1.jpg"></p>
@@ -718,7 +706,7 @@ var ap = new APlayer({
 </div></div>
 
 <h3 id="第三节-声调的方言差异及把握"><a href="#第三节-声调的方言差异及把握" class="headerlink" title="第三节　声调的方言差异及把握"></a>第三节　声调的方言差异及把握</h3><p>　　阴平、阳平、上声、去声分别用 55、35、214、51 来表示。声调虽然是整个音节的音高现象，调号却应该标在主要元音（韵腹）上。</p>
-<h4 id="声调方言差异"><a href="#声调方言差异" class="headerlink" title="声调方言差异"></a>声调方言差异</h4><p>　　古汉语有四类声调：平、上、去、入。根据声母的清浊不同，每一调类又分为两类，如阴平、阳平，阴上、阳上，阴去、阳去，阴入、阳入。现在全国各地的汉语方言声调都是由这八类演变而来的，在演变中有分有合，因此形成了现代方言声调的纷繁现象。方言之间即使调类相同，但实际的调值是不一样的。<br>　　就全国来说，声调差异很大，虽然大部分地区都有阴、阳、上、去四类，它们的调值不一样，也就是实际读法不一样。从调类上看也有三类的，多的也有十类的。不管是几类，方言区的人想学好普通话声调，只要找到对应规律，也就便于掌握学习了。<br>　　例如：“花红柳绿”在各地方言中读法是不一样的。尽管它们调类相同，因为实际调值不同，读法也就不一样。<br>　　　　　　花　　红　　柳　　　绿<br>　　北京　　55　　35　　214　　51<br>　　武汉　　55　　313　&ensp;42　　&thinsp;&thinsp;35<br>　　沈阳　　33　　35　　213　　53<br>　　天津　　11　　45　　24　　&ensp;42<br>　　济南　　213　&ensp;42　　55　　&thinsp;&thinsp;31<br>　　开封　　24　　52　　55　　&ensp;313<br>　　<br>　　再比如：北京人说　开封人说<span class="fangsong"><br>　　　　　&ensp;辉煌伟大　回晃威打<br>　　　　　&ensp;我已选好　卧意镟号<br>　　　　　&ensp;生活好过　省豁号国</span></p>
+<h4 id="声调方言差异"><a href="#声调方言差异" class="headerlink" title="声调方言差异"></a>声调方言差异</h4><p>　　古汉语有四类声调：平、上、去、入。根据声母的清浊不同，每一调类又分为两类，如阴平、阳平，阴上、阳上，阴去、阳去，阴入、阳入。现在全国各地的汉语方言声调都是由这八类演变而来的，在演变中有分有合，因此形成了现代方言声调的纷繁现象。方言之间即使调类相同，但实际的调值是不一样的。<br>　　就全国来说，声调差异很大，虽然大部分地区都有阴、阳、上、去四类，它们的调值不一样，也就是实际读法不一样。从调类上看也有三类的，多的也有十类的。不管是几类，方言区的人想学好普通话声调，只要找到对应规律，也就便于掌握学习了。<br>　　例如：“花红柳绿”在各地方言中读法是不一样的。尽管它们调类相同，因为实际调值不同，读法也就不一样。<br>　　　　　　花　　红　　柳　　　绿<br>　　北京　　55　　35　　214　　51<br>　　武汉　　55　　313　&amp;ensp;42　　&amp;thinsp;&amp;thinsp;35<br>　　沈阳　　33　　35　　213　　53<br>　　天津　　11　　45　　24　　&amp;ensp;42<br>　　济南　　213　&amp;ensp;42　　55　　&amp;thinsp;&amp;thinsp;31<br>　　开封　　24　　52　　55　　&amp;ensp;313<br>　　<br>　　再比如：北京人说　开封人说<span class="fangsong"><br>　　　　　&amp;ensp;辉煌伟大　回晃威打<br>　　　　　&amp;ensp;我已选好　卧意镟号<br>　　　　　&amp;ensp;生活好过　省豁号国</span></p>
 <p>　　从上边情况来看，调值上相差一点，读音就不一样。<br>　　北京人念阴平声，开封人听起来像他们的上声；北京人念阳平声，开封人听起来像他们的阴平声；北京人念上声，开封人听起来像开封的去声；北京人念去声，开封人听起来像开封的阳平声。</p>
 <h4 id="声调的把握"><a href="#声调的把握" class="headerlink" title="声调的把握"></a>声调的把握</h4><p>　　阴平特点和气息运用：起音高平莫低昂，气势平均不紧张。发元音 ā 体会。<br>　　阳平特点和气息运用：从中起音向上扬，用气弱起逐渐强。发元音 á 体会。<br>　　上声特点和气息运用：上声先降转上挑，降时气稳扬时强。发元音 ǎ 体会。<br>　　去声特点和气息运用：高扬直送向低唱，强起到弱气通畅。发元音 à 体会。<br>　　在练习声调过程中，可以调节气息。</p>
 <h4 id="两字词和四字词中声调的把握"><a href="#两字词和四字词中声调的把握" class="headerlink" title="两字词和四字词中声调的把握"></a>两字词和四字词中声调的把握</h4><p>　　（一）两字词连读是声调练习中的基本单位<br>　　播音中，有的播音员不太注意同样声调连读时调值的准确性。例如：“播音、工兵、东风”两个阴平连读时，第二个音节读得低了短了，这样不好。<br>　　1. 现在开始<span class="emphasize">播音</span> 55 55<br>　　2. 现在开始<span class="emphasize">播音</span> 55 44<br>　　3. 现在开始<span class="emphasize">播音</span> 44 55<br>　　应该处理成第三种读法，前面一个音节低点短点，第二个音节高点长点，这是符合变化规律的。</p>
@@ -727,8 +715,8 @@ var ap = new APlayer({
 <p>　　“布告、日月、大庆”两个去声连读时，要注意气息通畅，声音不能劈。在播音时，有的播音员一碰到去声就容易劈，一方面是音域不够宽，另方面是气息控制不好。<br>　　上面谈的是四种声调容易出现的问题。</p>
 <p>　　（二）四字词在声调练习中也起了很大的作用<br>　　四字词按四声顺序排列的成语，在练习过程中，一方面可以逐步读准四声，另一方面又可以逐步掌握气息的控制。试读：<br>　　中国伟大　　山河美丽　　光明磊落<br>　　心明眼亮　　山明水秀　　阴阳上去<br>　　也可以练不按四声顺序排列的成语。试读：<br>　　百炼成钢　　翻江倒海　　豪言壮语</p>
 <p>　　（三）四字词的练习要求<br>　　要按词的含意带感情地读；声、韵、调要求十分准确；要注意结合运用气息，上行阳平音注意气的支撑，下行上声字要托住气，使高音不挤，低音不散；练习时，声音要由小到大，由弱到强，应注意声音的刚柔结合，声音大小适度；音量加大时，音高不要高。</p>
-<p>　　（四）声调练习应掌握下列几条原则<br>　　音高要有限度，高而不喊；音低要有力，低而不散；音高要声轻，轻而不浮（加强低频共鸣控制）；音低要字沉，沉而不浊（加强高频共鸣控制）；音量加大时，气足而不拙；音量减少时，气竭而不衰。<br>　　举例：<br>　　　<span class="fangsong">《题菊花》<br>　　　　&ensp;黄巢<br>　　飒飒西风满院栽，<br>　　蕊寒香冷蝶难来。<br>　　他年我若为青帝，<br>　　报与桃花一处开。</span></p>
-<p>　　<span class="fangsong">《江畔独步寻花》<br>　　　　&ensp;杜甫<br>　　黄四娘家花满蹊，<br>　　千朵万朵压枝低。<br>　　留连戏蝶时时舞，<br>　　自在娇莺恰恰啼。</span></p>
+<p>　　（四）声调练习应掌握下列几条原则<br>　　音高要有限度，高而不喊；音低要有力，低而不散；音高要声轻，轻而不浮（加强低频共鸣控制）；音低要字沉，沉而不浊（加强高频共鸣控制）；音量加大时，气足而不拙；音量减少时，气竭而不衰。<br>　　举例：<br>　　　<span class="fangsong">《题菊花》<br>　　　　&amp;ensp;黄巢<br>　　飒飒西风满院栽，<br>　　蕊寒香冷蝶难来。<br>　　他年我若为青帝，<br>　　报与桃花一处开。</span></p>
+<p>　　<span class="fangsong">《江畔独步寻花》<br>　　　　&amp;ensp;杜甫<br>　　黄四娘家花满蹊，<br>　　千朵万朵压枝低。<br>　　留连戏蝶时时舞，<br>　　自在娇莺恰恰啼。</span></p>
 <h2 id="第十章-语言流动的表征——音变"><a href="#第十章-语言流动的表征——音变" class="headerlink" title="第十章　语言流动的表征——音变"></a>第十章　语言流动的表征——音变</h2><p>　　无论我们即兴说话，还是播读稿件时，并不是孤立地发出一个个音节，而总是连续发出一串串音节，形成语流，由于音节间的互相影响，就产生了语音的变化，我们称之为语流音变。<br>　　任何语言的语音变化都服从于一定的变化规律，但语音的变化规律不是可以应用于任何语言的一般规律。比方说，生活在某一方言区的播音员，平时用方言讲话十分自如，但坐到话筒前播音时语言就显得不够流畅，原因就在于他受生活环境的影响，已经不自觉地掌握了某种方言的语音变化规律，而对普通话语音的变化规律还没有完全认识与掌握，这样，即使他能按普通话声韵调的要求单个发好每个音节，但到语流中，由于不能熟练把握音素与音素、音节与音节、声调与声调间互相影响所产生的语音变化，所以听起来，仍然被认为是不够规范的普通话。因此，做一个普通话播音员，在学习汉语音节的三要素（声、韵、调）基础上，掌握和运用普通话的语流音变规律是尤为重要的。<br>　　下面对普通话里几种主要的音变现象进行分析。</p>
 <h3 id="第一节-轻声"><a href="#第一节-轻声" class="headerlink" title="第一节　轻声"></a>第一节　轻声</h3><p>　　普通话的每个音节都有它的声调，可是在词或句子里有些音节常失去了原有的声调而念成一种较轻较短的调子，就叫做轻声。例如：<span class="fangsong"><br>　　各位听众，你<span class="emphasize">们</span>好！<br>　　请听歌曲：《党啊，我亲爱<span class="emphasize">的</span>妈<span class="emphasize">妈</span>》。<br>　　再请听《吐鲁番<span class="emphasize">的</span>葡<span class="emphasize">萄</span>熟<span class="emphasize">了</span>》！<br>　　</span>以上例句中，带黑点的几个轻声音节，都失去了原有声调，要念得较轻较短，如果仍按其固有声调念，听起来就很不舒服。</p>
 <p>　　所有轻声字都读得轻而短，在音高上这种差别往往取决于前一个音节声调的高低：<br>　　阴平后面的轻声字念半低调（2 度）：妈<span class="dotted">妈</span><br>　　阳平后面的轻声字念中调（3 度）：葡<span class="dotted">萄</span><br>　　上声后面的轻声宇念半高调（4 度）：你<span class="dotted">们</span><br>　　去声后面的轻声字念低调（1 度）：亲爱<span class="dotted">的</span></p>
@@ -919,10 +907,10 @@ var ap = new APlayer({
 <p>　　1. 对比练习<br>　　（1）单元音对比，如：<span class="fangsong"><br>　　a（实）——a（虚）　　i（实）——i（虚）<br>　　a（虚）——a（实）　　i（虚）——i（实）<br>　　a（实）——i（虚）　　i（实）——a（虚）</span><br>　　（2）语词对比，如：<span class="fangsong"><br>　　啊（实）——啊（虚）　　　　　　啊（虚）——啊（实）<br>　　大海（实）——大海（虚）　　　　大海（虚）——大海（实）<br>　　大海啊（实）——大海啊（虚）　　大海啊（虚）——大海啊（实）</span></p>
 <p>　　2. 过渡练习<br>　　（1）单元音过渡，如：<span class="fangsong"><br>　　a（实）⟶a（虚）　　a（虚）⟶a（实）<br>　　a（实）⟶a（虚）⟶a（实）<br>　　a（虚）⟶a（实）⟶a（虚）</span><br>　　（2）语词过渡，如：<span class="fangsong"><br>　　大（实）→海（实虚）→啊（虚）<br>　　大（虚）→海（虚实）→啊（实）</span></p>
 <p>　　3. 综合运用练习<br>　　以思想感情运动幅度较大的文学作品，如诗歌、散文为练习材料较为适宜。根据内容及思想感情表达的需要，具体设计运用虚实音色的变化。如：</p>
-<p>　　　日照　　　香炉　　&thinsp;生&ensp;　　&thinsp;紫烟，<br>　　（实虚）⟶（虚）⟶（实）⟶（虚）</p>
-<p>　　　遥看　　　瀑布　　&thinsp;挂　　　前川，<br>　　（虚实）⟶（实）⟶（虚）⟶（实）</p>
-<p>　　　飞流　　　直下　　&thinsp;三&ensp;　　&thinsp;千尺，<br>　　（实虚）⟶（虚）⟶（实）⟶（虚）</p>
-<p>　　　疑是　　　银河　　&thinsp;落　　　九天。<br>　　（虚实）⟶（实）⟶（虚）⟶（实）</p>
+<p>　　　日照　　　香炉　　&amp;thinsp;生&amp;ensp;　　&amp;thinsp;紫烟，<br>　　（实虚）⟶（虚）⟶（实）⟶（虚）</p>
+<p>　　　遥看　　　瀑布　　&amp;thinsp;挂　　　前川，<br>　　（虚实）⟶（实）⟶（虚）⟶（实）</p>
+<p>　　　飞流　　　直下　　&amp;thinsp;三&amp;ensp;　　&amp;thinsp;千尺，<br>　　（实虚）⟶（虚）⟶（实）⟶（虚）</p>
+<p>　　　疑是　　　银河　　&amp;thinsp;落　　　九天。<br>　　（虚实）⟶（实）⟶（虚）⟶（实）</p>
 <p>　　应该说明的是，以上的举例只是粗线条的，其中的微妙变化难于表示。一篇作品在运用有声语言表达时，肯定是色彩纷呈，绝非一种样式。而基本功训练却往往是刻板、单调而且漫长的，但恰恰是日积月累得来的扎实的基本功，才使我们的表达技巧得以丰富和纯熟。</p>
 <h4 id="喉部控制要领"><a href="#喉部控制要领" class="headerlink" title="喉部控制要领"></a>喉部控制要领</h4><p>　　（一）喉头相对稳定<br>　　喉头位置和声音质量的关系，早已为人们所注意。近年来，许多嗓音工作者通过一些先进手段，对歌唱演员的喉头垂直动态进行了大量的分析研究，我们对播音专业人员的喉部动态研究则起步较晚。就目前的研究成果来看，我们发现，尽管“说”与“唱”在吐字发声和艺术处理上存在着明显的差异，但在喉头动态方面却十分相似，主要表现在以下三方面：第一，喉头位置与声道的共鸣作用关系密切。在一定范围内，喉头偏高，高频泛音增加，音色脆亮；喉头偏低，低频泛音增加，音色浑厚。第二，有经验的歌唱演员或播音员不论声音怎样大幅度变化，喉头位移却总是控制在较小的幅度内，可以说是处于相对稳定状态。这种稳定是在相反的控制力作用下获得的。比如，由高音向低音过渡，喉头自然下移时，使用向上移的控制力；而由低音向高音过渡，喉头自然高移时，使用向下移的控制力。正是喉头的相对稳定，保证了声音变化时的和谐与通畅。第三，未经训练的人，喉头位移依习惯变化，欠缺控制，一般在音高变化时出现明显的上提和下压，有的人还形成了提喉或压喉说话的不良习惯。超出一定范围的喉位移，破坏了喉头的相对稳定，使音色阻塞且不统一，甚至还造成生理疾患。比如，喉头明显上提的人，多带有“挤”、“卡”音色，喉头明显下压的人，多带有“空”、“浑”音色，而且牵制了舌的运动幅度，明显影响到字音清晰度。在演员和播音员中，发声时有喉头上提习惯的，发生声带小结的比例较大。<br>　　在以上的调查分析后，我们会很自然地得出结论——调整喉头垂直位移幅度，保持发声时喉头的相对稳定，是获得变化自然、和谐通畅、润泽丰满的声音的有效方法之一。<br>　　喉头位置的调整要通过对喉外肌的控制来实现，可采用如下步骤和方法：<br>　　1. 有意提起，降下喉头，反复进行，使其灵活自如。<br>　　2. 用手指弹击甲状软骨板，可发现喉头上移时，弹击声由“空”变“实”，下降时，由“实”变“空”。可将“空”、“实”适度时的位置暂定为基准位，而后发元音 ɑ 或 i 的延长音，如果音色自然，无挤压造作，便可将此基准位确认下来，喉头垂直位移的训练均以此为中心点。<br>　　3. 发音时，舌位的高低、前后及口腔的开合都会连带喉头上下移动，比如在发舌位偏高（开口度小）或偏前的元音时，喉头往往自然上提，相反情况下则自然下降。在了解这一连动关系后，我们可以利用不同的元音发音来锻炼对喉头运动的相反控制力。比如，利用高舌位开口度小的元音 i 和舌高点偏前的元音 ü 的延长音，锻炼喉头向下的控制力；利用低舌位、开口度大的元音 ɑ 和舌高点偏后的元音 u 的延长音，锻炼喉头向上的控制力。</p>
 <p>　　（二）喉头相对放松<br>　　人在发声时，喉头的压力是客观存在的，它来自于声带的闭合力和气息的压力。依照“肌张力——空气动力”学说，喉原音正是通过这两力的拮抗作用形成的，这个道理我们在发声机理部分已经讲过。<strong>喉头相对放松这项控制要领是为避免因对音色的追求而使声带闭合力和气息压力都过分加大而提出的。</strong><br>　　由于人体存在的神经反射功能，声带闭合力和声门下压力是一种互为因果的准规则关系，所以在对一定音色追求中，人们在加大声门闭合力时，气息压力也会随之增加，它的增加又会反过来刺激声门闭合力再一次增大，最终造成恶性循环。陷入这种不良发声习惯的人发出的声音大而直，拙力感强，表现力差，同时声带还会因屡屡过力碰撞而形成物理性损伤。所谓放松，就是要打破或避免形成这种恶性循环，使两力拮抗处于最为节省的最佳配合状态。有句话说得很形象“会用声的人使利息，不会用声的人使本钱”。<br>　　播音发声时，两条声带不是紧密闭合，而是轻松靠拢。从感觉上讲，喉部是放松的。在这种情况下喉部肌肉能自如灵活地运动，才能较好地和由肺呼出的气流协调配合，完成发音过程。<strong>喉部放松应该是发音时的最基本的感觉。</strong>要想提高发音效率，发出悦耳的声音，就要放松喉部。要注意避免一坐到话筒前面或是摄像机前面就喉部发紧，脖子上青筋暴露，要认识到这种挤压出来的声音并不美，而且难于变化，既不自然又不利于变化。<sup>1</sup><br>　　需要说明的是，我们要求喉头相对放松，绝不是提倡越松越好，因为过松会使气息压力过小，致使声带运动迟滞、松懈，发出的声音极易散、沙、暗，给人以有气无力的感觉。<br>　　播音发声时，<strong>喉部积极而放松的状态，</strong>才是喉部控制的最佳状态。<sup>1</sup><br>　　我们在强调喉部控制的同时，也强调与呼吸控制、口腔控制的配合。发生时，我们不能只把喉作为“开关”，要想使喉部得到有效的控制，应该在发声的过程中<strong>“抓两头，放松中间”，即加强呼吸控制和口腔控制，</strong>以求达到喉部发声状态的放松自如。<sup>1</sup><br>　　注意克服不良发声习惯和动作。</p>
@@ -1075,7 +1063,7 @@ var ap = new APlayer({
 <h4 id="关联性内在语"><a href="#关联性内在语" class="headerlink" title="关联性内在语"></a>关联性内在语</h4><p>　　稿件的内容是用逻辑和语法建构起来的。稿件中的语句关系有的用文字表示出来，有的则没有用文字表示出来。所谓关联性内在语，就是指那些没有用文字表示出来的语句关系，具体地说，就是那些体现语句逻辑关系和语法意义的隐含性关联词，以及关联词短语。<span class="fangsong"><br>　　“她打了寒颤，（虽然）风又掀起她的衣襟，（但是）这次她没有去拉。”<br>　　“中国不坚持走社会主义道路不行，（而）不改革开放也不行。（因为）我们不能再耽误了，（所以说）改革开放的胆子要再大一点，步子要再快一点，（从而）使得经济发展的步子更快一些。”</span><br>　　关联性内在语的最大特点，就是通过挖掘出语句间隐含性的关联词或关联词短语，使语句关系更加明晰。不管是并列关系、顺承关系、总分关系、选择关系、条件关系、目的关系、取舍关系、连锁关系，都可以运用隐含性的关联词或关联词短语内在语来衔接，特别是多种语句关系交错的多重复句，则更见成效。稿件中那些没有用文字表现出来的关联词或关联词短语主要是由于文字语言的概括，简约和精练使然。要把稿件内容转换为有声语言，就需要通过语气把语句逻辑关系准确地体现出来，从而使受众正确地理解稿件的精神实质。播音员如果忽略对稿件文字、语句的逻辑关系的分析、把握，有时就会造成表达语气的偏差。请看下面的例子：<span class="fangsong"><br>　　“车祸问题是个全社会的问题，需要各个方面配合解决。在这里，我们谨向司机同志进言：……”</span><br>　　对这段话如果不做深入分析，准确把握其语句关系，表达时，就很可能形成这样的处理：<br>　　“车祸问题是个<span class="dotted">全社会</span>的问题，需要各方面<span style="border-bottom: solid 1px">配合</span>解决。<span style="border-bottom: solid 1px">在这里</span>，我们谨向<span class="dotted">司机同志们</span>进言： ……”<sup>①</sup></p>
 <p><span style="font-size:0.7em">① “·”表示强调主要重音，“—”表示次要重音，下同。——编者</span></p>
 <p>　　这样表达的结果，是把这两句话处理成了并列关系。第一句逻辑的指向性仿佛是告诉受众，下面将要阐述社会各方面应如何配合解决车祸问题；而第二句却又说“谨向司机同志们进言”，致使这两句话在逻辑上相互矛盾，造成语意不清和语言目的模糊。如果结合全篇“要司机同志注意行车安全”这一总的播出目的和上下文语言环境，再从语法的角度仔细分析，就会发现两个句子关系是一种让步转折关系。第一个句子是让步部分，居次要地位；第二个句子是转折部分，居直接体现语言目的重点地位。表达上应这样处理：<br>　　“（当然）车祸问题<span class="dotted">是</span>个全社会的问题，需要各方面配合解决，（然而）<span style="border-bottom: solid 1px">在这里</span>，我们谨向<span class="dotted">司机同志们</span>进言： ……”<br>　　这样处理是把第一句“放下来”播，不做特意强调；而第二个句子用加重语气播出，就突出了一个指向明确的语句重心，从而也就突出了“司机是解决车祸问题的关键”的语句目的。<br>　　在播音创作中，播音员、主持人就是这样通过在语句、段落、层次间分析、挖掘出隐含的关联词或关联词短语，而把握其逻辑关系，使前后句、上下文语言链条的衔接更加自然、顺畅和符合逻辑，从而使语意和语言目的表达更加准确。所以可以说，关联性内在语是使播音有声语言的链条向语言目的定向推进的路标，是播音员、主持人表达语气起承转合的重要依据，是播音有声语言所表达的稿件文字、语句富于内在逻辑力量的关键所在。<br>　　关联性内在语的准确把握与播音员、主持人的逻辑思维、逻辑感受能力有关。它是播音员、主持人逻辑思维的结晶。因此，播音员、主持人既要熟悉运用概念、判断、推理等逻辑手段表达思想感情的一般规律，同时还要熟悉现代汉语有关的语法知识（譬如词法、句法知识）；在分析、感受稿件时，不能只注重理解句意，同时还要重视分析句子之间的关系；要善于从句群、语段，即小层次的角度去把握相对完整的语意和语言目的。在这里，要特别注意敢于打破标点符号的限制。有些句子表面上看是各自独立的，但深入分析，可能就是一个完整语意的复句关系；另外，还可以从全篇逻辑、结构的特点上去把握、分析关联性内在语。一篇稿件之中，作者运用逻辑和语法手段时，往往会表现出某种特点，如频率较高地使用某一种句式，或让步转折，或假设递进等等，一般在重点句、段，这种特点则更为明显。这一特点也可为我们挖掘隐含性的语句关系提供线索。<br>　　总之，播音员、主持人应该明确：稿件中用文字表示出来的关联词，只代表全篇稿件部分的逻辑关系和语法意义，而要想使所有语句的表达语气都符合逻辑，就必须在那些没有用文字表示出来的语句、段落和层次间挖掘出相应准确的内在逻辑——关联性内在语。能否准确地把握稿件文字、语句的关联性内在语，这既是播音员、主持人对稿件的理解、感受是否深化的一个重要标志，同时又是对播音员、主持人逻辑思维能力和语感能力高低强弱的检验。</p>
-<h4 id="提示性内在语"><a href="#提示性内在语" class="headerlink" title="提示性内在语"></a>提示性内在语</h4><p>　　什么是提示性内在语？先请看一组例句：<span class="fangsong"><br>　　①“听众朋友，最近有一件事传遍古城西安：（什么事呢？）一位居民提着一口有毛病的铁锅找到市政府，要求帮助退换。”<br>　　②“本台消息：根据对全国残疾人抽样调查的结果推算，我国各类残疾人的总数约有 5164 万人。（1/20！）这是一个值得全社会关注的数字。”<br>　　③“2 月 5 日 13 时 50 分左右，正在当班的扳道员谭定德听说变压器旁有个小孩被电击倒了，心里一怔：（不好！）儿子正在那儿玩，莫不是他？”<br>　　④“清晨，我到公园去玩，一进门就闻到一阵清香，（啊，荷花！）我赶紧向荷花池走去。”<br>　　⑤“本台消息：中国万宝电器集团公司的主要产品万宝牌电冰箱，按目前的生产进度，今年的总产量将达到 100 万台。（真了不起！）这个数字将使万宝公司跻身于世界八大电冰箱生产企业行列。”</span></p>
+<h4 id="提示性内在语"><a href="#提示性内在语" class="headerlink" title="提示性内在语"></a>提示性内在语</h4><p>　　什么是提示性内在语？先请看一组例句：<span class="fangsong"><br>　　①“听众朋友，最近有一件事传遍古城西安：（什么事呢？）一位居民提着一口有毛病的铁锅找到市政府，要求帮助退换。”<br>　　②“本台消息：根据对全国残疾人抽样调查的结果推算，我国各类残疾人的总数约有 5164 万人。（1&#x2F;20！）这是一个值得全社会关注的数字。”<br>　　③“2 月 5 日 13 时 50 分左右，正在当班的扳道员谭定德听说变压器旁有个小孩被电击倒了，心里一怔：（不好！）儿子正在那儿玩，莫不是他？”<br>　　④“清晨，我到公园去玩，一进门就闻到一阵清香，（啊，荷花！）我赶紧向荷花池走去。”<br>　　⑤“本台消息：中国万宝电器集团公司的主要产品万宝牌电冰箱，按目前的生产进度，今年的总产量将达到 100 万台。（真了不起！）这个数字将使万宝公司跻身于世界八大电冰箱生产企业行列。”</span></p>
 <p>　　上面这组例句中话号里的内容就是提示性内在语。<br>　　提示性内在语用于语句、段落、层次之间，也是为了解决上下句语气行接的问题，但与关联性内在语又有所不同。它不是以关联词或关联词短语的形式出现，而且内容上也更加丰富多彩。差别还不仅仅在于此，更主要在于挖掘关联性内在语，虽然也需要播音员、主持人付出创造性的劳动，但从其反映的语句关系来看，主要还是稿件文字本身的逻辑使然。因此可以说，这是一个“沙里淘金”的过程。而提示性内在语则往往是稿件文字本身所不固有的，它是播音员、主持人发挥主观能动性和创造性所赋予稿件的。这是一个“点石成金”的过程。<strong>在语句间，特别是那文气不太贯通，前后句转换突兀，语气不好衔接的地方，设计一个恰当的提示性内在语就可以找到下句较为贴切的语气，使语句自然地衔接过渡。</strong>如果说，关联性内在语重在使语句的逻辑关系更加严密，那么，提示性内在语则更重在使表达语气富于灵动的活力。<br>　　提示性内在语以其形式的灵活多样，内容的丰富多彩为播音员、主持人创作思维的发挥和创作个性的施展，提供了更为广阔的空间。</p>
 <p>　　（一）设问呼应<br>　　在两个句子、段落和层次中间，用设问短语过渡，诸如“什么事呢？”“为什么呢？”“什么原因呢？”“那么，该怎么做呢？”“有哪些意义呢？”等等，以找到下句生动、贴切的叙述语气。这种提示性内在语还有利于语言表达与受众心理相呼应。因为这些设问短语往往也是受众听到此处时所产生的自然心理反应，如例句①。因此，运用好这种提示性内在语，也有助于调动受众对传播过程的参与，构成潜在的双向交流。</p>
 <p>　　（二）提醒关注<br>　　下句的内容需要播音员、主持人用关注、关切，引起注意、警觉的语气播出时，可在该句之前加一个提示性内在语，以提示播音员、主持人在播下句时体现出关注的色彩。这种提示性内在语有的可以由前句引申、概括出来，如例句②。用这个由前句内容中概括出来的我国残疾人与全国人口的比例数做提示，引发播下句时的关注色彩：有的可根据不同情况和需要加上一个相应的短话，如“请注意”、“要注意的是”、 “需要特别指出的是”“不容忽视的是”等等，用这些短语来过渡上下句，引发播音员、主持人相应的表达语气。</p>
@@ -1093,7 +1081,7 @@ var ap = new APlayer({
 <p>　　（四）非对立型反语内在语<br>　　在稿件、文章和语用实践中还有这样一种现象，即有些句、段，即使联系上下文的语言深层含义，大体上也是一致的，同向、同质的，但在表达的语气中却需要渗入一定的与语句意义有别的，甚至是相对的色彩。例如：<span class="fangsong"><br>　　“正因为这样，所以马克思是当代最遭嫉恨和最受诬蔑的人。各国政府——无论专制政府或共和政府——都驱逐他；资产者无论保守派或极端民主派——都纷纷争先恐后地诽谤他，诅咒他。”</span><br>　　无论是表层意义，还是深层含义都是说马克思遭到反动统治者的驱逐和资产阶级的诽谤和诅咒，而成为“最遭嫉恨和最受诬蔑的人”。那么表达的语气就很容易因句中较多的贬义词而带有否定的色彩。这与全篇赞颂、崇敬和怀念的基调是不和谐的，自然不能说是准确的。如何避免这种情况？就需要进一步从全篇整体，即主题、基调、目的的高度做出判断和评价：马克思所遭受到的这一切，恰恰从反面说明了马克思的事业的不朽和人格的伟大。占人口绝大多数的无产阶级和劳动人民却是深深地爱戴、崇敬他的。有了这种理解和感受，表达的语气就会在说清语意的同时，流露出对马克思的崇敬和对反动阶级蔑视之情，特别在说到那些贬义色彩的词时，要透出一丝对反动阶级蚍蜉撼树之举不屑顾的色彩，以淡化这些词语表面的贬义色彩。<br>　　由此可见，这种内在语与语句的本义实际上也是一种对比关系。因此，我们把这种表面意义与本质意义大体一致而又要表现一定的反义色彩的内在语，称为“非对立型反语性内在语”。这种反语性内在语不是以与语句文字表面意义相对立为标志，而是以不产生负面效果为目标。对它的把握，除了联系上下文语言环境，更要从全篇整体去分析、感受，做到既准确表达语义，又不出现消极的负面的效果。<br>　　总之，稿件中那些反语性语句，往往是作者独具匠心的点睛之笔，播音员运用反语性内在语引发相应的语气加以准确表达，对稿件主题的深化，目的的昭示，基调的统一和感情的抒发有积极促进作用，会使稿件的表达更具色彩和感染力。<br>　　以上划分出的六种类型的内在语，初步展示了内在语的丰富性以及它在调动播音员的感情、引发贴切的表达语气方面的积极作用。但需要指出的是，这只是提供了一个可供参考的基本范示，并没有也不可能囊括内在语的所有形式，也不可能解决所有内在语方面的问题。如果用这六种基本类型去机械地套用和规范千差万别的语句，则无异于削足适履，作茧自缚。</p>
 <h3 id="第四节-内在语的最优化"><a href="#第四节-内在语的最优化" class="headerlink" title="第四节　内在语的最优化"></a>第四节　内在语的最优化</h3><p>　　（一）内在语是对稿件理解和感受的集中概括<br>　　内在语作为语句的实在意义是随着语句目的、语言环境的不同而变化的，因此，从孤立的语句中寻觅到的内在语往往具有不稳定性和不确定性。稿件中的语句，作为构成稿件有机整体的个体局部，是受宣传目的、主题思想和整体基调制约的。宣传目的、主题思想和整体基调一经确定，内在语就具有了相应稳定性、确定性和排他性。语句内在语的最优化是服从于稿件的整体，即宣传目的、主题思想和整体基调的。只有深刻理解、感受了稿件的主题思想，准确把握了稿件的宣传目的和全篇总的感情色彩和分量，才有可能确定和把握语句的内在语。离开了宣传目的统帅，离开了稿件整体基调的制约，具体语句目的就成了无本之木，无源之水，内在语就如同断了线的风筝，飘忽不定。</p>
 <div><div class="fold_hider"><div class="close hider_title">展开图片</div></div><div class="fold">
-<p>![]（/images/posts/chinese-broadcasting-announcing/chinese-broadcasting-announcing-39.jpg）</p>
+<p>![]（&#x2F;images&#x2F;posts&#x2F;chinese-broadcasting-announcing&#x2F;chinese-broadcasting-announcing-39.jpg）</p>
 
 </div></div>
 
@@ -1421,8 +1409,6 @@ var ap = new APlayer({
     
     
     
-      
-
 
     <footer class="post-footer">
           
@@ -1430,14 +1416,14 @@ var ap = new APlayer({
 <div class="post-copyright">
 <ul>
   <li class="post-copyright-author">
-      <strong>本文作者  </strong>千灵夙赋
+      <strong>本文作者： </strong>千灵夙赋
   </li>
   <li class="post-copyright-link">
-      <strong>本文链接 </strong>
+      <strong>本文链接：</strong>
       <a href="https://qianling.pw/chinese-broadcasting-announcing/" title="《中国播音学》书摘">https://qianling.pw/chinese-broadcasting-announcing/</a>
   </li>
   <li class="post-copyright-license">
-    <strong>版权声明  </strong>本博客所有文章除特别声明外，均采用 <a href="https://creativecommons.org/licenses/by-nc-sa/4.0/" rel="noopener" target="_blank"><i class="fab fa-fw fa-creative-commons"></i>BY-NC-SA</a> 许可协议。转载请注明出处！
+    <strong>版权声明： </strong>本博客所有文章除特别声明外，均采用 <a href="https://creativecommons.org/licenses/by-nc-sa/4.0/" rel="noopener" target="_blank"><i class="fab fa-fw fa-creative-commons"></i>BY-NC-SA</a> 许可协议。转载请注明出处！
   </li>
 </ul>
 </div>
@@ -1448,13 +1434,13 @@ var ap = new APlayer({
   <div class="social-list">
 
       <div class="social-item">
-        <a target="_blank" class="social-link" href="/atom.xml">
-          <span class="icon">
-            <i class="fa fa-rss"></i>
-          </span>
+          <a target="_blank" class="social-link" href="/atom.xml">
+            <span class="icon">
+              <i class="fa fa-rss"></i>
+            </span>
 
-          <span class="label">RSS</span>
-        </a>
+            <span class="label">RSS</span>
+          </a>
       </div>
   </div>
 </div>
@@ -1526,15 +1512,31 @@ var ap = new APlayer({
   </footer>
 
   
+  <div class="toggle sidebar-toggle" role="button">
+    <span class="toggle-line"></span>
+    <span class="toggle-line"></span>
+    <span class="toggle-line"></span>
+  </div>
+  <div class="sidebar-dimmer"></div>
+  <div class="back-to-top" role="button" aria-label="返回顶部">
+    <i class="fa fa-chevron-up fa-lg"></i>
+    <span>0%</span>
+  </div>
+
+<noscript>
+  <div class="noscript-warning">Theme NexT works best with JavaScript enabled</div>
+</noscript>
+
+
+  
   <script src="https://cdnjs.cloudflare.com/ajax/libs/animejs/3.2.1/anime.min.js" integrity="sha256-XL2inqUJaslATFnHdJOi9GfQ60on8Wx1C2H8DYiN1xY=" crossorigin="anonymous"></script>
-  <script src="https://cdnjs.cloudflare.com/ajax/libs/next-theme-pjax/0.5.0/pjax.min.js" integrity="sha256-3NkoLDrmHLTYj7csHIZSr0MHAFTXth7Ua/DDt4MRUAg=" crossorigin="anonymous"></script>
-  <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.6.0/jquery.min.js" integrity="sha256-/xUj+3OJU5yExlq6GSYGSHk7tPXikynS7ogEvDej/m4=" crossorigin="anonymous"></script>
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/next-theme-pjax/0.6.0/pjax.min.js" integrity="sha256-vxLn1tSKWD4dqbMRyv940UYw4sXgMtYcK6reefzZrao=" crossorigin="anonymous"></script>
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.6.1/jquery.min.js" integrity="sha256-o88AwQnZB+VDvE9tvIXrMQaPlFFSUTR+nldQm1LuPXQ=" crossorigin="anonymous"></script>
   <script src="https://cdnjs.cloudflare.com/ajax/libs/fancybox/3.5.7/jquery.fancybox.min.js" integrity="sha256-yt2kYMy0w8AbtF89WXb2P1rfjcP/HTHLT7097U8Y5b8=" crossorigin="anonymous"></script>
   <script src="https://cdnjs.cloudflare.com/ajax/libs/lozad.js/1.16.0/lozad.min.js" integrity="sha256-mOFREFhqmHeQbXpK2lp4nA3qooVgACfh88fpJftLBbc=" crossorigin="anonymous"></script>
 <script src="/js/comments.js"></script><script src="/js/utils.js"></script><script src="/js/motion.js"></script><script src="/js/schemes/muse.js"></script><script src="/js/next-boot.js"></script><script src="/js/pjax.js"></script>
 
-  
-<script src="https://cdnjs.cloudflare.com/ajax/libs/hexo-generator-searchdb/1.4.0/search.js" integrity="sha256-vXZMYLEqsROAXkEw93GGIvaB2ab+QW6w3+1ahD9nXXA=" crossorigin="anonymous"></script>
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/hexo-generator-searchdb/1.4.1/search.js" integrity="sha256-1kfA5uHPf65M5cphT2dvymhkuyHPQp5A53EGZOnOLmc=" crossorigin="anonymous"></script>
 <script src="/js/third-party/search/local-search.js"></script>
 
 
@@ -1551,12 +1553,12 @@ var ap = new APlayer({
   <script src="/js/third-party/statistics/lean-analytics.js"></script>
 
 
-  <script src="https://cdnjs.cloudflare.com/ajax/libs/quicklink/2.2.0/quicklink.umd.js" integrity="sha256-4kQf9z5ntdQrzsBC3YSHnEz02Z9C1UeW/E9OgnvlzSY=" crossorigin="anonymous"></script>
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/quicklink/2.3.0/quicklink.umd.js" integrity="sha256-yvJQOINiH9fWemHn0vCA5lsHWJaHs6/ZmO+1Ft04SvM=" crossorigin="anonymous"></script>
   <script class="next-config" data-name="quicklink" type="application/json">{"enable":true,"home":false,"archive":false,"delay":true,"timeout":3000,"priority":true,"url":"https://qianling.pw/chinese-broadcasting-announcing/"}</script>
   <script src="/js/third-party/quicklink.js"></script>
 
 
-<script class="next-config" data-name="valine" type="application/json">{"enable":true,"appId":"zulMeib4pyC6zB1a65OmVtHz-gzGzoHsz","appKey":"TEjUlOUBz3KwSUmDQ35ROxpw","serverURLs":"https://zulmeib4.lc-cn-n1-shared.com","placeholder":"说点什么好呢~","avatar":"wavatar","meta":["nick","mail","link"],"pageSize":10,"lang":null,"visitor":false,"comment_count":true,"recordIP":false,"enableQQ":true,"requiredFields":[],"emojiCDN":"//i0.hdslb.com/bfs/emote/","emojiMaps":{"团宝":"311f83d568e2fd702b08f40d4c838572a07ebea0.png","少前小剧场-心虚":"61ea3a788ec43241860ed984672eb588963bc98a.png","少前小剧场-卖萌":"bbe8c979922144e667efd63dcce0320437425a00.png","泠鸢yousa-打call":"718e9495846db4172eb87d2f7f02015a34d35ea2.png","泠鸢yousa-大哭":"3f757b147b9b1e201470eae7dac9cc0360172569.png","泠鸢yousa-好人卡":"e3907b3bb20b18e7ecb11cd86829c9a4ce5b1b2f.png","泠鸢yousa-加大力度":"a0393a2d4b522f07a319dfd2e91754a3cdff2c48.png","泠鸢yousa-滑稽":"a8057c0e0579b93c16010a270e261fd0a64034af.png","泠鸢yousa-请吃桃":"e92276d9d8c28f85f7dbcc0fbbb6ecb3345ce33e.png","泠鸢yousa-生气":"9e6ba9ff34101e04d3e321cad486f845f892050e.png","泠鸢yousa-真棒":"02ea49543a3ac52feee185c156ab08fb2bfdd89e.png","初音未来-GKD":"44caa7ec800837d8860482c214ac792f4c37c490.png","初音未来-加油":"4943a9be0a3134125c7d585b4dafde79a9a1990a.png","初音未来-哭了":"db9b01e5808967a32ed644b490ab47faf0f29ce3.png","花园Serena-？？？":"42f7ab2a562d000929979976d30669bec042662f.png","花园Serena-安详去世":"cdf595646132b98dcf1d230d351b2738d68f49c3.png","花园Serena-mua":"20319d3948da83f666a643b2c8103e6da0e36721.png","花园Serena-到点了":"af2f6c0dd1155f4aefb610cc6d09c135df9e6752.png","花园Serena-恭喜":"c1d8361755bb135d24b3b4680fe6ba03c086b395.png","花园Serena-喵":"4159859e6c9c2e0476299454b6015c2659149e3c.png","花园Serena-睡":"ae8ad8fd2a8d14e53938ba7dc7ca22681143dc09.png","白上吹雪-狐狐祟祟":"14f8be6955ee392baccd7d82b4371765a0c18523.png","白上吹雪-摸摸":"218cc0fb954a3dadde61eed03e3a376f277f36ee.png","白上吹雪-围观":"04d66a7b0b7b4f78bf45297cd91c0059de71b8bb.png","白上吹雪-一派狐言":"7d504e583857d68edf4fe0706be0b426f0d3cfb1.png","白上吹雪-emmm":"709bc019cf7960d9dcb40a0d5a444f8a78e376d3.png","原神-哦":"4b8b6f0e451c600abf2d83560125d03cfa97fe28.png","原神-哼哼":"62d09fa482842dabbd4a51176abc0ec20a64a359.png","原神-鸽子":"d03a8f9f490eb007aae2d826f9143e3a29a3be5a.png","原神-干杯":"966f0b307bf4d07e81162dc32bf1e71c83bf997a.png","原神-吃惊":"d8d07498a567ea109a8fc4b58ffccdc33643cd99.png","原神-不要啊":"8ea92be976beb8126adc7cabc2aa7f2b02b9bee2.png","原神-拜托":"2f2817b84caf9d81fdce171d18a3f99983f1ec64.png","2233塔罗牌-撒花":"0d301be888e87aed6cc8e6548fbc74a23421dedc.png","2233塔罗牌-我觉得星":"1aa7391b61aa7be88644db2672cd4603559f1469.png","2233塔罗牌-下次一定":"294690ac14a2adc6ee50b138229aa5c53636e46f.png","洛天依·夜航星-爷青回":"d1202872850a335b357e702adaf3d2a79db72e13.png","洛天依·夜航星-萌妹初醒":"3159931d9afa243c6cf5939753e3c82acb69a554.png","洛天依·夜航星-冲鸭":"659efad4a6aa25ed6a98efe611564c26f497f436.png","洛天依·夜航星-Lucky":"bbeb9d231773a168397697072a11373893d7c01a.png","洛天依·夜航星-锦鲤":"35ab588061c32f07743b07f1ac3f62a16f34438c.png","神乐七奈-变猫猫":"9f699c56da1178079b18be27dc3f219138e4a164.png","神乐七奈-辛苦辣":"7b22908d4afac2c0ad1ba96177ac7a24855f4a2e.png","2021拜年纪-投币":"d2d0a3a4621dede09506264110cefcbfa9561572.png","双鱼座-做白日梦":"ba03f95ebe480106806377024e0c93ddb9c0f836.png","崩坏3-吃饭团":"62173e795139cfaf60b5665165400e99bb8a14ac.png","崩坏3-饿了":"8b6160dfc5f8a8608e88bcb380f4e812b8a165cb.png","崩坏3-干杯":"8de5f3a1cc3dfd9f7be8f12662a489214d3e72fb.png","不问天-大哭":"aea0c17a62f825621a1273f100c17330180b7b01.png","进击的冰糖-探头":"ae834e6efdd568f7e30aec059a8646b75438d896.png","干物妹！小埋-？？？":"d2d0955e6ddf2d3528c6f2364b7002b114907c94.png","干物妹！小埋-抱抱":"f7d5a5150733a15386d98015114630e893f5281b.png","Hiiro-亲亲":"0b54433d978f51a7031a965f2981832129eb8ef5.png","C酱-问号":"4fb6f0d8fcedef1624c5999609036346748b31e2.png","C酱-AWSL":"4b8ac5c1fa7358d949ecfe089e02b252b29d6082.png","C酱-害怕":"f5f777b059df8c40cbc240586aeaf4f63af97f91.png","C酱-嘻嘻":"65cf8762af542e8a72edc466b05bb1a19600dc2d.png","C酱-不要啊":"86994300b58eb3cb91fc99818dd87a691deed564.png","一周年纪念-抱大腿":"0800070155b5dabc3097793c0e086420057a7e2f.png","咩栗-nya":"b8011132b40b4f9807523db3d21581f82c2dce91.png","咩栗-打call":"01b6ee0712d13daa323dbd89217018ea7f6794a5.png","咩栗-聪明":"750542d25fcf1675baf143c2ab7e945445e8b078.png","咩栗-好耶":"9aa9b53211a938c1859c15407cee57cc7519fefd.png","咩栗-惊":"8c4ecf43c895bc9ed23eea9274328ba6cf24481e.png","咩栗-咩？":"bb305147beb88a101061dff54cbcb9062635670b.png","咩栗-咩呀！":"a36a0973f1c9935577db05bc90b602dc61236c0f.png","咩栗-斯米马三":"a46bc117192aa2495c492acca03e27393258c015.png","咩栗-羊名立万":"8fd2b4174f94c1c9b7cf4cf132a54838db40ddff.png","咩栗-羊羊得意":"dd55311765d00d768acb157958e85413ae25578c.png","嘉然-mua":"74ea9b89f8923df6a123cabe6053762b9e776387.png","嘉然-安详":"312359401cc72c34fcea3654cdba42db0f9f3dd0.png","嘉然-暗中观察":"3acf0b43facfd0601f5ab88cca6e401aa4f5a02e.png","嘉然-锤头丧气":"e6342840311ffeba8f2c58d1c360d76644e75dff.png","嘉然-点赞":"7017d90d4ceb9ea042cef8adc70d35eeb1f95e7e.png","嘉然-嘉人们":"d270845c9590da372e9b311cd6d976459acd1087.png","嘉然-嘉速心动":"387035168f40ca81afce8b38303c60ceb0c5dc6c.png","嘉然-流口水":"78bfeff475ad56a6d9379164b099f1ad8ecd7086.png","嘉然-你好":"d1530f972a59bca97bc4b8acf4f7e16f989f37c3.png","嘉然-一眼真":"ff436f5821db8b871517d0e5bb7ade7b64d3d0bf.png","嘉然-绷不住了":"4f0a9ee7708d71083dba4e79768ff0b7c308eaf4.png","嘉然-笔芯":"332a6df0e6def8da77e09310a62f3bffdc397640.png","嘉然-我有嘉心糖":"7579c6085f984f39ff0f6a2cb710301a2b113fac.png","银杏鎏金-幸运喷雾":"89e550f628333fe35f0b010337bdc5c4bf713cfc.png","2022拜年纪-HAHA":"ece69ad87284eb12324572be2a9009c0bc5e65b8.png","2022拜年纪-比心":"5001d623ddbe81d704e0093343ced12e2b38a3db.png","2022拜年纪-不愧是我":"ab807d0265a5c834c0d4d54b676c54da4feb38ce.png","2022拜年纪-不要啊":"80a74addbae8dd5bccc71728181e1d7e11a79d19.png","2022拜年纪-馋":"5012311cfa88687663f636f044f020a611a49848.png","2022拜年纪-打call":"54f99d1e613b42b0241a7f7c9ef5d8f5331fc754.png","2022拜年纪-瞪大双眼":"7def07a3a1829c7e26cfa6a3f1259fe3f9b9d4d3.png","2022拜年纪-放空":"823ea6f47ef1dda2d85317f635dc7d42a58c1545.png","2022拜年纪-干了这杯":"de06e28d6afee561556c6e3cbd199d21f4e4fd09.png","2022拜年纪-哈？":"206ddfebe778cf4f4c2c3f6f87330db32d4e1708.png","2022拜年纪-擦擦":"7b5fb834faccffe090db5ae3406468a306018bfd.png","2022拜年纪-哭哭":"365002e8c6007564b92fe4eb7ab0f815e988995e.png","2022拜年纪-捂脸":"380d5814aa70370f57f990ab68b4cd2a195830a6.png","2022拜年纪-恰柠檬":"5d2e17818c67eaff2de2890d808cc1f7a2bb8232.png","2022拜年纪-无情吃瓜":"3342b9aa0c6fc6f7ddfec0bcc611fa4ea6987c60.png","2022拜年纪-眼前一黑":"9cf5e735e64525c59f26ccbcb4ddf6ba5a29ed11.png","2022拜年纪-星星眼":"ef49e822e72ced75f71950f4c296192dae543486.png","2022拜年纪-晕":"460d02950b4d676604e9d4686fa769a866d21191.png","拜年纪2022-火了":"20ee37d0695247f6f32e71de264fe7e955d74835.png","月隐空夜-咕咕咕":"df59993b9ea4255e8666bd417f75b3857bd67627.png","月隐空夜-回家了":"3c796d34b61c18fd1d03443a4a144c1133859600.png","月隐空夜-欧拉":"36465ab94e113a0557cff76bed5c6266277430f3.png","月隐空夜-欧气满满":"fce384d8ad9dd6ba2b87e6a8c6fec1e3f8576984.png","月隐空夜-天才":"542eaddb1b04f85a04068f31bfe1c133a5270a66.png","月隐空夜-完了":"1289c9f89244342b83f784d3bf6c18dcd548f1e3.png","新月冰冰!-心脏骤停":"04f0e3087d39629079bbfc7f2b2d0e3cdd3eada6.png","新月冰冰!-加油":"46be9e14a41ec1f392240c5c7f3006cbff5b3744.png","新月冰冰!-不可以色色":"116f93998c4c50a8c801103b9037f793f936a896.png","新月冰冰!-大哭":"50a0ad849ffae469cd376f5e4afeb0ab64b74887.png","新月冰冰!-单推":"542fbbc36493831ec98ed64b51d60a1191afa63e.png","新月冰冰!-诶嘿":"dae8436e7042b1440748993da11d5c93e55e0c13.png","新月冰冰!-给花花":"fac1c332932004b3922e19b1d8f20208ddb7ea23.png","新月冰冰!-滑稽":"c2dfb168f43d334ff291042e81ddf80a8a059913.png","新月冰冰!-开车":"83630b278dd62d2dde701021d98be2d5fcbf00f3.png","新月冰冰!-穷醒":"9cc02af9592ceceb795006cf2611b4a423ec4a19.png","新月冰冰!-谢谢老板":"ddc6b7389787bec178ab24eb842ee949d2d79be2.png","新月冰冰!-kira":"f50869288aa706cf9f1aa9e5d3f7274eac558f68.png","Hiiro二周年-吃瓜":"f5dd831cd8dc9fc93a8cf21247f2e1bdbfa65eff.png","Hiiro二周年-大的要来了":"7cb1ccd578c1946ff68cbcf55add6527cc7826e1.png","Hiiro二周年-好耶":"3250844f983fad2e8888a69f9438a925492630b1.png","Hiiro二周年-坏女人":"74f02465c6c057aebb0df5cb3ab785616b5f077b.png","Hiiro二周年-击剑":"3212b33d39221df349dea0695701bbce07971b00.png","Hiiro二周年-寄":"22ce9c662192d858231ffd02190db7338e0b6e8c.png","Hiiro二周年-辣眼睛":"8ea839758e87947326711297ca7c08a9ad3af906.png","Hiiro二周年-流口水":"0648c8bf4f3836de0902b4ab8e9b1c1b68505a5e.png","Hiiro二周年-麻了":"a7b0deef902b639e40c9b4dc3d3a9df5793cf538.png","Hiiro二周年-无语":"5a61e12360c94b413fa6d370829b8d7f4733c897.png","Hiiro二周年-吓":"cbaca277bcc77739abf41bfc5c377b61ff8527d9.png","Hiiro二周年-两眼一黑":"9b6d393c8f9248e9f8ea8e1d075cc88a300972f3.png","崩坏学园2-好耶":"f1fe88c6d201f2b5d91ad70bcad15288d4569f00.png","崩坏学园2-偷瞄":"31406161e268ab3a3ae24befacc64ab9812d478b.png","崩坏学园2-乖巧":"fb397421eaea8f271acfe135a8dc49bffa7605be.png","扶桑大红花-疑惑":"5d3d9164fd05da8a1690d7a1dff210bdf822a64d.png","崩坏3-幸福":"714cc90d3485a003f53eecec336bea8a0b2dc12d.png","扶桑大红花-略略略":"e1fd8c1f6947c94e3227e7f7afe8de61aa277a24.png","扶桑大红花-生气":"6adad591921aa4d51a8399b6efdf18f84e7144f6.png","扶桑大红花-好诶":"1acaf75c1f900e827922169b8512a5c38695f620.png","扶桑大红花-啪":"0f06e1363cbfd72ed411c2385f3c64d098fdac18.png","扶桑大红花-入脑":"6b343b588735140442460054a4b64e81a6ee9dd9.png","扶桑大红花-不行":"b21a234b272c952b012af2cfa097693b126bd445.png","扶桑大红花-rua":"50053d5c3c485fda2c110ed0874a6a5a2d7f1dff.png","暹罗猫小豆泥-抱大腿":"1e309b348e969e7ff1c7d873352799a2005494d5.png","暹罗猫小豆泥-惊讶":"d6024fd52d7e66241062c045559974e2a4c6e87f.png","暹罗猫小豆泥-哭":"9153d549e425cc02eb911695fff29cb59b338da0.png","暹罗猫小豆泥-探头":"4741a1d527c52365850368b2f480d5818b23cb8f.png","小可学妹-老板大气":"f5fadc61fd4da10fca13cc352e9a37663c21daf6.png","小可学妹-好热":"6892a3b67b1968c550fdd110e9ff8f995973a44b.png","小可学妹-两眼一黑":"66b17fa948ce00a66f260b202dff5bb943103c6c.png","Akie秋绘-可爱":"d1e9aeb4fee6a64e1cbc17c6fe129d3b74e41f50.png","Akie秋绘-哭哭":"06fb34e4d4d33477fcbf13cb5d8327c2bd746e76.png","天涯明月刀伙伴-？？？":"6b7815e08667c6fd7905b7c640c5b46b2bc4dec0.png","天涯明月刀伙伴-馋":"0467b117ad55f21d2b13b8230dc28bc06039d842.png","天涯明月刀伙伴-emo":"8b0cf44f7311445e1590391c7a091a664bad353b.png","祖娅纳惜生贺-懒":"97029c26e7b2700dd30f9ac53842e4806872f262.png","祖娅纳惜生贺-泪奔":"1486e90eea32c556b21a8a0c9474cb8b04f04eae.png","祖娅纳惜生贺-恰饭":"780146c9ea1b35d7b8efad3de8a6a153d42d760e.png","祖娅纳惜生贺-生气":"115705216f64896f40b0bab9ee0b127c315e3721.png","祖娅纳惜生贺-晚安":"1e6f9b96f9ed121928e4bbaa27a4263156b48d3d.png","星瞳-星想事成":"23dcbf6168d8befa79856764d1a4036662786063.png","请吃红小豆吧-吃薯片":"35aeeddf6f0c96dec6652e6050e34626d6cfdcbf.png","请吃红小豆吧-发呆":"ffdc8f1ab56c4d9ccc6a35a7a6bb7092df93f231.png","请吃红小豆吧-告辞":"463fb9facfa0d4700b001ef9365e7253f80a0459.png","请吃红小豆吧-害羞":"7e1ae398526c28926767fda86bf41ba6f6d6e7b4.png","请吃红小豆吧-好耶":"905662fe86b316d361a37e64c6d753ee6efb1d2e.png","请吃红小豆吧-坏笑":"9ff8ab26feeb0a7f65c698825192cbbee417dcd3.png","请吃红小豆吧-泪目":"41f2e34af7e0c3cdd726dadbc8933f21f01d1c13.png","请吃红小豆吧-摸摸头":"7fe816a29961559ac6248274087de14b3447f3f2.png","请吃红小豆吧-哇":"be9352ed161a0d0aa222986b5610802bbf18e5a6.png","请吃红小豆吧-我很好":"ad9d73e683990c86e06be15e0187c930826de644.png","请吃红小豆吧-在吗":"865566aa175609d7a018436046407199a4e2b51a.png","请吃红小豆吧-糟糕":"8c8372a8fc9655e1559a764afe3d769fa141c96e.png","请吃红小豆吧-啧":"b033a8a098bb321a6220cd10a534322a7ea94aad.png","最后的召唤师-吃瓜":"72007fc6e0cbc2b2c13b8c3971e333708024785a.png","最后的召唤师-摸摸":"808b65dddecd55c06bde59080823f60030b6be98.png","最后的召唤师-歇歇":"63e50835bad0184129e9382df435efbf6b29a3b0.png","眞白花音-打call":"e3957fbe286f694f215fafdcc6597c9a9cc3a5ae.png","眞白花音-大头":"8cf7b3d9e9b81017d6d616b643373bf57b516ec5.png","眞白花音-对不起":"b12fa885dc14cdc73cdb71f69f70a54350316d92.png","雪绘-比心":"892ec2ea31bae16044c683b68b4744fda62f1eff.png","坎公骑冠剑-YYDS":"207ad2f10f32e138c29761fd3526877e2210c2e2.png","坎公骑冠剑-唱歌":"46dbf43a57841ae840e21e8678b7daa58935a26e.png","坎公骑冠剑-吃鸡腿":"db344ad0fd23621beecb7db3abb7567156bfb8f4.png","坎公骑冠剑-出来玩":"485be2a946e954ba886b50b8ba1033accb056071.png","坎公骑冠剑-干杯":"25cab88e656ea009152ad6364df1b42065d1ffda.png","坎公骑冠剑-乖巧":"c9468c3a6dd02389b2e1364fba39f51efea9f247.png","坎公骑冠剑-惊叹":"30ed9cd688e17cc6c54f7b969b6e89b74580a5db.png","坎公骑冠剑-嗯!":"9d7f7dff618d4fbcb99cfef30141e37105179044.png","坎公骑冠剑-你还好吗":"d48c0e8ef71bc2af28d25ac390c67a9f08533517.png","坎公骑冠剑-你在干嘛":"4521901b073665c42f76a50b07acb19a2d3459bf.png","坎公骑冠剑-欧气传输":"e8f1308e982c818a6d7a6b4ff3ef5d92c24f4fe0.png","坎公骑冠剑-送花":"9fb76616e1cdf524bc254f2b8873b83d43e03b87.png","坎公骑冠剑-哇":"a737de02e1952f2841916cff82e73009f9946dec.png","坎公骑冠剑-晚安":"c223ba1967dd328307f74e2b58f815acb3232cf9.png","坎公骑冠剑-妖妖灵":"2c8eee463117bec38f38d6cf6873d333aa9660a5.png","永雏塔菲-不理你了":"ec38a461c767fd0f4dee7346f82d81e5a88b176c.png","永雏塔菲-嘲笑":"094c321f0829f0894f48195d6671358a1a43b53c.png","永雏塔菲-对呀对呀":"37afa9e099d0c2ca9a4f3ff7d599e86060d6b942.png","永雏塔菲-尴尬":"71a5b730a3c20ddac64f8e7803ffc00da97f7397.png","永雏塔菲-哈哈哈":"b1f89d85b9c9f8553fe021c1e5785bc2995f8751.png","永雏塔菲-累":"889f95e3b36f257cb6b68f420b8238a11c596d19.png","永雏塔菲-摸头":"a826477acfa607224dd4a6771431af3b18ee8f92.png","永雏塔菲-亲嘴":"ce2123ec6b4f15eb8dfc2467f36fa3d69f2f97cd.png","永雏塔菲-闪亮登场":"c7eff8db64b132e6757bacdd51e649e16965f6b9.png","永雏塔菲-生日快乐":"9daed0ba16c89f983c7fcfa38e2bc8d1b80f7957.png","永雏塔菲-太好吃了":"86b760ed0a466b5dc3fa0b1e64b9ba7d6b53b6ed.png","永雏塔菲-嘻嘻喵":"866c99dbf6cb5e054e8e94be60c1b37ff4581eaa.png","永雏塔菲-星星眼":"bf3e961a1c3d4edf5ebdd063418495a1ed4c865f.png","永雏塔菲-嘤嘤嘤":"ba43546b013efffa7821dc21df6c79490cbafe72.png","永雏塔菲-有鬼":"b33d0672a01810a6b26696bf4a56204dadd5ff31.png","永雏塔菲-晕了":"d395fd944642b882a9226db81dcfa2e80307461c.png","永雏塔菲-震惊":"36bea35a3a15b675b2f5f28529582f82cf65b1c9.png","奈姬niki-微笑":"6fdc161f1086c522d90e684639a3bd1c48837507.png","奈姬niki-我超":"8d6d65fa2764084fd17fd18bef5a2bbc58f044f4.png","奈姬niki-无语":"33479daa29101a0846d7735cd5fba0d847be6e51.png","奈姬niki-谢谢":"8eaca252ea780a992261b4f9df7a4e170cfd71f1.png","有栖mana-打call":"0572afd470f86cc73cd5a1dff047cd22b620f336.png","有栖mana-喝可乐":"7788e653641e40f5043267aa6f73afbd73f5dd73.png","有栖mana-嘿嘿嘿嘿":"0500a6063e9828ce5002f0d796b19569db7ea63c.png","有栖mana-你好":"0d1575f7203eaf1705cc1104eaf7c02983cae9f0.png","有栖mana-辛苦了":"1893dad434a59c1f5e9c70e1440a6b323a92c3c6.png","有栖mana-炸毛":"f8d86249f486e3e0eb0b601bdf9994cb76634538.png","有栖mana-做什么？":"eb2eb12a288287b4f46d7a4dbeb71ec645810726.png","幻塔-害羞":"7868841b13f2067418c34becd73fde4be8a8bdfe.png","鹿乃桜帆-早上好":"1b58aba1d2e1372a8c4b7e49cb420db738bce414.png","鹿乃桜帆-恭喜":"584dae2f7faf4ee160c389e4ba0eebfb26aeb910.png","鹿乃桜帆-惊":"b945fc60b60467fc80b1e18ba4ea6d8c7b3ae0f9.png","鹿乃桜帆-期待":"5ae064b9deefdce14129d24659f0ee605a0e341b.png","鹿乃桜帆-神":"863c349b44abb098fecac479772f23ef1edd10f5.png","鹿乃桜帆-3Q":"9bee9ccc87c3ffe392e5572c4f67dae92a031e35.png","尼奈-妙!！":"3c2439d868818711b6c2cee035c4d51818c07c99.png","蕾尔娜Leona-反弹":"bc82f5b4e8525efeac017a1a9a3ea94d811d4463.png","蕾尔娜Leona-好耶":"f5269730d3156ba2a6cbe5c127d65753b3143f81.png","约战4-疑惑":"9174bde1afdde014a1b066c1bbb3027dc8dbb834.png","夏日青春欧皇套装-谢谢老板":"ca607626747f23cf37dbe8bb81397985dcb0ab17.png","夏日限定宅家手册-期待":"aaf3de49543253272e7eaeabff07ef0d162db67a.png","夏日限定宅家手册-重在参与":"aeafdb2f36c2cfde1ff4dadfecde48241ee31f15.png"},"el":"#valine-comments","path":"/chinese-broadcasting-announcing/"}</script>
+<script class="next-config" data-name="valine" type="application/json">{"enable":true,"appId":"zulMeib4pyC6zB1a65OmVtHz-gzGzoHsz","appKey":"TEjUlOUBz3KwSUmDQ35ROxpw","serverURLs":"https://zulmeib4.lc-cn-n1-shared.com","placeholder":"说点什么好呢~","avatar":"wavatar","meta":["nick","mail","link"],"pageSize":10,"lang":null,"visitor":false,"comment_count":true,"recordIP":false,"enableQQ":true,"requiredFields":[],"emojiCDN":"//i0.hdslb.com/bfs/emote/","emojiMaps":{"团宝":"311f83d568e2fd702b08f40d4c838572a07ebea0.png","少前小剧场-心虚":"61ea3a788ec43241860ed984672eb588963bc98a.png","少前小剧场-卖萌":"bbe8c979922144e667efd63dcce0320437425a00.png","泠鸢yousa-打call":"718e9495846db4172eb87d2f7f02015a34d35ea2.png","泠鸢yousa-大哭":"3f757b147b9b1e201470eae7dac9cc0360172569.png","泠鸢yousa-好人卡":"e3907b3bb20b18e7ecb11cd86829c9a4ce5b1b2f.png","泠鸢yousa-加大力度":"a0393a2d4b522f07a319dfd2e91754a3cdff2c48.png","泠鸢yousa-滑稽":"a8057c0e0579b93c16010a270e261fd0a64034af.png","泠鸢yousa-请吃桃":"e92276d9d8c28f85f7dbcc0fbbb6ecb3345ce33e.png","泠鸢yousa-生气":"9e6ba9ff34101e04d3e321cad486f845f892050e.png","泠鸢yousa-真棒":"02ea49543a3ac52feee185c156ab08fb2bfdd89e.png","初音未来-GKD":"44caa7ec800837d8860482c214ac792f4c37c490.png","初音未来-加油":"4943a9be0a3134125c7d585b4dafde79a9a1990a.png","初音未来-哭了":"db9b01e5808967a32ed644b490ab47faf0f29ce3.png","花园Serena-？？？":"42f7ab2a562d000929979976d30669bec042662f.png","花园Serena-安详去世":"cdf595646132b98dcf1d230d351b2738d68f49c3.png","花园Serena-mua":"20319d3948da83f666a643b2c8103e6da0e36721.png","花园Serena-到点了":"af2f6c0dd1155f4aefb610cc6d09c135df9e6752.png","花园Serena-恭喜":"c1d8361755bb135d24b3b4680fe6ba03c086b395.png","花园Serena-喵":"4159859e6c9c2e0476299454b6015c2659149e3c.png","花园Serena-睡":"ae8ad8fd2a8d14e53938ba7dc7ca22681143dc09.png","白上吹雪-狐狐祟祟":"14f8be6955ee392baccd7d82b4371765a0c18523.png","白上吹雪-摸摸":"218cc0fb954a3dadde61eed03e3a376f277f36ee.png","白上吹雪-一派狐言":"7d504e583857d68edf4fe0706be0b426f0d3cfb1.png","白上吹雪-emmm":"709bc019cf7960d9dcb40a0d5a444f8a78e376d3.png","原神-哦":"4b8b6f0e451c600abf2d83560125d03cfa97fe28.png","原神-哼哼":"62d09fa482842dabbd4a51176abc0ec20a64a359.png","原神-干杯":"966f0b307bf4d07e81162dc32bf1e71c83bf997a.png","原神-吃惊":"d8d07498a567ea109a8fc4b58ffccdc33643cd99.png","2233塔罗牌-撒花":"0d301be888e87aed6cc8e6548fbc74a23421dedc.png","2233塔罗牌-我觉得星":"1aa7391b61aa7be88644db2672cd4603559f1469.png","2233塔罗牌-下次一定":"294690ac14a2adc6ee50b138229aa5c53636e46f.png","洛天依·夜航星-爷青回":"d1202872850a335b357e702adaf3d2a79db72e13.png","洛天依·夜航星-萌妹初醒":"3159931d9afa243c6cf5939753e3c82acb69a554.png","洛天依·夜航星-冲鸭":"659efad4a6aa25ed6a98efe611564c26f497f436.png","洛天依·夜航星-Lucky":"bbeb9d231773a168397697072a11373893d7c01a.png","洛天依·夜航星-锦鲤":"35ab588061c32f07743b07f1ac3f62a16f34438c.png","神乐七奈-变猫猫":"9f699c56da1178079b18be27dc3f219138e4a164.png","神乐七奈-辛苦辣":"7b22908d4afac2c0ad1ba96177ac7a24855f4a2e.png","2021拜年纪-投币":"d2d0a3a4621dede09506264110cefcbfa9561572.png","双鱼座-做白日梦":"ba03f95ebe480106806377024e0c93ddb9c0f836.png","崩坏3-吃饭团":"62173e795139cfaf60b5665165400e99bb8a14ac.png","崩坏3-饿了":"8b6160dfc5f8a8608e88bcb380f4e812b8a165cb.png","崩坏3-干杯":"8de5f3a1cc3dfd9f7be8f12662a489214d3e72fb.png","不问天-大哭":"aea0c17a62f825621a1273f100c17330180b7b01.png","进击的冰糖-探头":"ae834e6efdd568f7e30aec059a8646b75438d896.png","干物妹！小埋-？？？":"d2d0955e6ddf2d3528c6f2364b7002b114907c94.png","干物妹！小埋-抱抱":"f7d5a5150733a15386d98015114630e893f5281b.png","Hiiro-亲亲":"0b54433d978f51a7031a965f2981832129eb8ef5.png","C酱-问号":"4fb6f0d8fcedef1624c5999609036346748b31e2.png","C酱-AWSL":"4b8ac5c1fa7358d949ecfe089e02b252b29d6082.png","C酱-害怕":"f5f777b059df8c40cbc240586aeaf4f63af97f91.png","C酱-嘻嘻":"65cf8762af542e8a72edc466b05bb1a19600dc2d.png","C酱-不要啊":"86994300b58eb3cb91fc99818dd87a691deed564.png","一周年纪念-抱大腿":"0800070155b5dabc3097793c0e086420057a7e2f.png","咩栗-nya":"b8011132b40b4f9807523db3d21581f82c2dce91.png","咩栗-打call":"01b6ee0712d13daa323dbd89217018ea7f6794a5.png","咩栗-聪明":"750542d25fcf1675baf143c2ab7e945445e8b078.png","咩栗-好耶":"9aa9b53211a938c1859c15407cee57cc7519fefd.png","咩栗-惊":"8c4ecf43c895bc9ed23eea9274328ba6cf24481e.png","咩栗-咩？":"bb305147beb88a101061dff54cbcb9062635670b.png","咩栗-咩呀！":"a36a0973f1c9935577db05bc90b602dc61236c0f.png","咩栗-斯米马三":"a46bc117192aa2495c492acca03e27393258c015.png","咩栗-羊名立万":"8fd2b4174f94c1c9b7cf4cf132a54838db40ddff.png","咩栗-羊羊得意":"dd55311765d00d768acb157958e85413ae25578c.png","嘉然-mua":"74ea9b89f8923df6a123cabe6053762b9e776387.png","嘉然-安详":"312359401cc72c34fcea3654cdba42db0f9f3dd0.png","嘉然-暗中观察":"3acf0b43facfd0601f5ab88cca6e401aa4f5a02e.png","嘉然-锤头丧气":"e6342840311ffeba8f2c58d1c360d76644e75dff.png","嘉然-点赞":"7017d90d4ceb9ea042cef8adc70d35eeb1f95e7e.png","嘉然-嘉人们":"d270845c9590da372e9b311cd6d976459acd1087.png","嘉然-嘉速心动":"387035168f40ca81afce8b38303c60ceb0c5dc6c.png","嘉然-流口水":"78bfeff475ad56a6d9379164b099f1ad8ecd7086.png","嘉然-你好":"d1530f972a59bca97bc4b8acf4f7e16f989f37c3.png","嘉然-一眼真":"ff436f5821db8b871517d0e5bb7ade7b64d3d0bf.png","嘉然-绷不住了":"4f0a9ee7708d71083dba4e79768ff0b7c308eaf4.png","嘉然-笔芯":"332a6df0e6def8da77e09310a62f3bffdc397640.png","嘉然-我有嘉心糖":"7579c6085f984f39ff0f6a2cb710301a2b113fac.png","银杏鎏金-幸运喷雾":"89e550f628333fe35f0b010337bdc5c4bf713cfc.png","2022拜年纪-HAHA":"ece69ad87284eb12324572be2a9009c0bc5e65b8.png","2022拜年纪-比心":"5001d623ddbe81d704e0093343ced12e2b38a3db.png","2022拜年纪-不愧是我":"ab807d0265a5c834c0d4d54b676c54da4feb38ce.png","2022拜年纪-不要啊":"80a74addbae8dd5bccc71728181e1d7e11a79d19.png","2022拜年纪-馋":"5012311cfa88687663f636f044f020a611a49848.png","2022拜年纪-打call":"54f99d1e613b42b0241a7f7c9ef5d8f5331fc754.png","2022拜年纪-瞪大双眼":"7def07a3a1829c7e26cfa6a3f1259fe3f9b9d4d3.png","2022拜年纪-放空":"823ea6f47ef1dda2d85317f635dc7d42a58c1545.png","2022拜年纪-干了这杯":"de06e28d6afee561556c6e3cbd199d21f4e4fd09.png","2022拜年纪-哈？":"206ddfebe778cf4f4c2c3f6f87330db32d4e1708.png","2022拜年纪-擦擦":"7b5fb834faccffe090db5ae3406468a306018bfd.png","2022拜年纪-哭哭":"365002e8c6007564b92fe4eb7ab0f815e988995e.png","2022拜年纪-恰柠檬":"5d2e17818c67eaff2de2890d808cc1f7a2bb8232.png","2022拜年纪-无情吃瓜":"3342b9aa0c6fc6f7ddfec0bcc611fa4ea6987c60.png","2022拜年纪-眼前一黑":"9cf5e735e64525c59f26ccbcb4ddf6ba5a29ed11.png","2022拜年纪-星星眼":"ef49e822e72ced75f71950f4c296192dae543486.png","2022拜年纪-晕":"460d02950b4d676604e9d4686fa769a866d21191.png","拜年纪2022-火了":"20ee37d0695247f6f32e71de264fe7e955d74835.png","月隐空夜-咕咕咕":"df59993b9ea4255e8666bd417f75b3857bd67627.png","月隐空夜-回家了":"3c796d34b61c18fd1d03443a4a144c1133859600.png","月隐空夜-欧拉":"36465ab94e113a0557cff76bed5c6266277430f3.png","月隐空夜-欧气满满":"fce384d8ad9dd6ba2b87e6a8c6fec1e3f8576984.png","月隐空夜-天才":"542eaddb1b04f85a04068f31bfe1c133a5270a66.png","月隐空夜-完了":"1289c9f89244342b83f784d3bf6c18dcd548f1e3.png","新月冰冰!-心脏骤停":"04f0e3087d39629079bbfc7f2b2d0e3cdd3eada6.png","新月冰冰!-加油":"46be9e14a41ec1f392240c5c7f3006cbff5b3744.png","新月冰冰!-不可以色色":"116f93998c4c50a8c801103b9037f793f936a896.png","新月冰冰!-大哭":"50a0ad849ffae469cd376f5e4afeb0ab64b74887.png","新月冰冰!-单推":"542fbbc36493831ec98ed64b51d60a1191afa63e.png","新月冰冰!-诶嘿":"dae8436e7042b1440748993da11d5c93e55e0c13.png","新月冰冰!-给花花":"fac1c332932004b3922e19b1d8f20208ddb7ea23.png","新月冰冰!-滑稽":"c2dfb168f43d334ff291042e81ddf80a8a059913.png","新月冰冰!-开车":"83630b278dd62d2dde701021d98be2d5fcbf00f3.png","新月冰冰!-穷醒":"9cc02af9592ceceb795006cf2611b4a423ec4a19.png","新月冰冰!-谢谢老板":"ddc6b7389787bec178ab24eb842ee949d2d79be2.png","新月冰冰!-kira":"f50869288aa706cf9f1aa9e5d3f7274eac558f68.png","Hiiro二周年-吃瓜":"f5dd831cd8dc9fc93a8cf21247f2e1bdbfa65eff.png","Hiiro二周年-大的要来了":"7cb1ccd578c1946ff68cbcf55add6527cc7826e1.png","Hiiro二周年-好耶":"3250844f983fad2e8888a69f9438a925492630b1.png","Hiiro二周年-坏女人":"74f02465c6c057aebb0df5cb3ab785616b5f077b.png","Hiiro二周年-击剑":"3212b33d39221df349dea0695701bbce07971b00.png","Hiiro二周年-寄":"22ce9c662192d858231ffd02190db7338e0b6e8c.png","Hiiro二周年-辣眼睛":"8ea839758e87947326711297ca7c08a9ad3af906.png","Hiiro二周年-流口水":"0648c8bf4f3836de0902b4ab8e9b1c1b68505a5e.png","Hiiro二周年-麻了":"a7b0deef902b639e40c9b4dc3d3a9df5793cf538.png","Hiiro二周年-无语":"5a61e12360c94b413fa6d370829b8d7f4733c897.png","Hiiro二周年-吓":"cbaca277bcc77739abf41bfc5c377b61ff8527d9.png","Hiiro二周年-两眼一黑":"9b6d393c8f9248e9f8ea8e1d075cc88a300972f3.png","崩坏学园2-好耶":"f1fe88c6d201f2b5d91ad70bcad15288d4569f00.png","崩坏学园2-偷瞄":"31406161e268ab3a3ae24befacc64ab9812d478b.png","崩坏学园2-乖巧":"fb397421eaea8f271acfe135a8dc49bffa7605be.png","扶桑大红花-疑惑":"5d3d9164fd05da8a1690d7a1dff210bdf822a64d.png","崩坏3-幸福":"714cc90d3485a003f53eecec336bea8a0b2dc12d.png","扶桑大红花-略略略":"e1fd8c1f6947c94e3227e7f7afe8de61aa277a24.png","扶桑大红花-生气":"6adad591921aa4d51a8399b6efdf18f84e7144f6.png","扶桑大红花-好诶":"1acaf75c1f900e827922169b8512a5c38695f620.png","扶桑大红花-啪":"0f06e1363cbfd72ed411c2385f3c64d098fdac18.png","扶桑大红花-入脑":"6b343b588735140442460054a4b64e81a6ee9dd9.png","扶桑大红花-不行":"b21a234b272c952b012af2cfa097693b126bd445.png","扶桑大红花-rua":"50053d5c3c485fda2c110ed0874a6a5a2d7f1dff.png","暹罗猫小豆泥-抱大腿":"1e309b348e969e7ff1c7d873352799a2005494d5.png","暹罗猫小豆泥-惊讶":"d6024fd52d7e66241062c045559974e2a4c6e87f.png","暹罗猫小豆泥-哭":"9153d549e425cc02eb911695fff29cb59b338da0.png","暹罗猫小豆泥-探头":"4741a1d527c52365850368b2f480d5818b23cb8f.png","小可学妹-老板大气":"f5fadc61fd4da10fca13cc352e9a37663c21daf6.png","小可学妹-好热":"6892a3b67b1968c550fdd110e9ff8f995973a44b.png","小可学妹-两眼一黑":"66b17fa948ce00a66f260b202dff5bb943103c6c.png","Akie秋绘-可爱":"d1e9aeb4fee6a64e1cbc17c6fe129d3b74e41f50.png","Akie秋绘-哭哭":"06fb34e4d4d33477fcbf13cb5d8327c2bd746e76.png","天涯明月刀伙伴-？？？":"6b7815e08667c6fd7905b7c640c5b46b2bc4dec0.png","天涯明月刀伙伴-馋":"0467b117ad55f21d2b13b8230dc28bc06039d842.png","天涯明月刀伙伴-emo":"8b0cf44f7311445e1590391c7a091a664bad353b.png","祖娅纳惜生贺-懒":"97029c26e7b2700dd30f9ac53842e4806872f262.png","祖娅纳惜生贺-泪奔":"1486e90eea32c556b21a8a0c9474cb8b04f04eae.png","祖娅纳惜生贺-恰饭":"780146c9ea1b35d7b8efad3de8a6a153d42d760e.png","祖娅纳惜生贺-生气":"115705216f64896f40b0bab9ee0b127c315e3721.png","祖娅纳惜生贺-晚安":"1e6f9b96f9ed121928e4bbaa27a4263156b48d3d.png","星瞳-星想事成":"23dcbf6168d8befa79856764d1a4036662786063.png","请吃红小豆吧-吃薯片":"35aeeddf6f0c96dec6652e6050e34626d6cfdcbf.png","请吃红小豆吧-发呆":"ffdc8f1ab56c4d9ccc6a35a7a6bb7092df93f231.png","请吃红小豆吧-告辞":"463fb9facfa0d4700b001ef9365e7253f80a0459.png","请吃红小豆吧-害羞":"7e1ae398526c28926767fda86bf41ba6f6d6e7b4.png","请吃红小豆吧-好耶":"905662fe86b316d361a37e64c6d753ee6efb1d2e.png","请吃红小豆吧-泪目":"41f2e34af7e0c3cdd726dadbc8933f21f01d1c13.png","请吃红小豆吧-摸摸头":"7fe816a29961559ac6248274087de14b3447f3f2.png","请吃红小豆吧-哇":"be9352ed161a0d0aa222986b5610802bbf18e5a6.png","请吃红小豆吧-我很好":"ad9d73e683990c86e06be15e0187c930826de644.png","请吃红小豆吧-在吗":"865566aa175609d7a018436046407199a4e2b51a.png","请吃红小豆吧-糟糕":"8c8372a8fc9655e1559a764afe3d769fa141c96e.png","请吃红小豆吧-啧":"b033a8a098bb321a6220cd10a534322a7ea94aad.png","最后的召唤师-吃瓜":"72007fc6e0cbc2b2c13b8c3971e333708024785a.png","最后的召唤师-摸摸":"808b65dddecd55c06bde59080823f60030b6be98.png","眞白花音-打call":"e3957fbe286f694f215fafdcc6597c9a9cc3a5ae.png","眞白花音-大头":"8cf7b3d9e9b81017d6d616b643373bf57b516ec5.png","眞白花音-对不起":"b12fa885dc14cdc73cdb71f69f70a54350316d92.png","雪绘-比心":"892ec2ea31bae16044c683b68b4744fda62f1eff.png","坎公骑冠剑-YYDS":"207ad2f10f32e138c29761fd3526877e2210c2e2.png","坎公骑冠剑-唱歌":"46dbf43a57841ae840e21e8678b7daa58935a26e.png","坎公骑冠剑-吃鸡腿":"db344ad0fd23621beecb7db3abb7567156bfb8f4.png","坎公骑冠剑-出来玩":"485be2a946e954ba886b50b8ba1033accb056071.png","坎公骑冠剑-干杯":"25cab88e656ea009152ad6364df1b42065d1ffda.png","坎公骑冠剑-乖巧":"c9468c3a6dd02389b2e1364fba39f51efea9f247.png","坎公骑冠剑-惊叹":"30ed9cd688e17cc6c54f7b969b6e89b74580a5db.png","坎公骑冠剑-嗯!":"9d7f7dff618d4fbcb99cfef30141e37105179044.png","坎公骑冠剑-你还好吗":"d48c0e8ef71bc2af28d25ac390c67a9f08533517.png","坎公骑冠剑-你在干嘛":"4521901b073665c42f76a50b07acb19a2d3459bf.png","坎公骑冠剑-欧气传输":"e8f1308e982c818a6d7a6b4ff3ef5d92c24f4fe0.png","坎公骑冠剑-送花":"9fb76616e1cdf524bc254f2b8873b83d43e03b87.png","坎公骑冠剑-哇":"a737de02e1952f2841916cff82e73009f9946dec.png","坎公骑冠剑-晚安":"c223ba1967dd328307f74e2b58f815acb3232cf9.png","永雏塔菲-不理你了":"ec38a461c767fd0f4dee7346f82d81e5a88b176c.png","永雏塔菲-嘲笑":"094c321f0829f0894f48195d6671358a1a43b53c.png","永雏塔菲-对呀对呀":"37afa9e099d0c2ca9a4f3ff7d599e86060d6b942.png","永雏塔菲-尴尬":"71a5b730a3c20ddac64f8e7803ffc00da97f7397.png","永雏塔菲-哈哈哈":"b1f89d85b9c9f8553fe021c1e5785bc2995f8751.png","永雏塔菲-累":"889f95e3b36f257cb6b68f420b8238a11c596d19.png","永雏塔菲-摸头":"a826477acfa607224dd4a6771431af3b18ee8f92.png","永雏塔菲-亲嘴":"ce2123ec6b4f15eb8dfc2467f36fa3d69f2f97cd.png","永雏塔菲-闪亮登场":"c7eff8db64b132e6757bacdd51e649e16965f6b9.png","永雏塔菲-生日快乐":"9daed0ba16c89f983c7fcfa38e2bc8d1b80f7957.png","永雏塔菲-太好吃了":"86b760ed0a466b5dc3fa0b1e64b9ba7d6b53b6ed.png","永雏塔菲-嘻嘻喵":"866c99dbf6cb5e054e8e94be60c1b37ff4581eaa.png","永雏塔菲-星星眼":"bf3e961a1c3d4edf5ebdd063418495a1ed4c865f.png","永雏塔菲-嘤嘤嘤":"ba43546b013efffa7821dc21df6c79490cbafe72.png","永雏塔菲-有鬼":"b33d0672a01810a6b26696bf4a56204dadd5ff31.png","永雏塔菲-晕了":"d395fd944642b882a9226db81dcfa2e80307461c.png","永雏塔菲-震惊":"36bea35a3a15b675b2f5f28529582f82cf65b1c9.png","奈姬niki-无语":"33479daa29101a0846d7735cd5fba0d847be6e51.png","有栖mana-打call":"0572afd470f86cc73cd5a1dff047cd22b620f336.png","有栖mana-喝可乐":"7788e653641e40f5043267aa6f73afbd73f5dd73.png","有栖mana-嘿嘿嘿嘿":"0500a6063e9828ce5002f0d796b19569db7ea63c.png","有栖mana-你好":"0d1575f7203eaf1705cc1104eaf7c02983cae9f0.png","有栖mana-辛苦了":"1893dad434a59c1f5e9c70e1440a6b323a92c3c6.png","有栖mana-炸毛":"f8d86249f486e3e0eb0b601bdf9994cb76634538.png","有栖mana-做什么？":"eb2eb12a288287b4f46d7a4dbeb71ec645810726.png","幻塔-害羞":"7868841b13f2067418c34becd73fde4be8a8bdfe.png","鹿乃桜帆-早上好":"1b58aba1d2e1372a8c4b7e49cb420db738bce414.png","鹿乃桜帆-恭喜":"584dae2f7faf4ee160c389e4ba0eebfb26aeb910.png","鹿乃桜帆-惊":"b945fc60b60467fc80b1e18ba4ea6d8c7b3ae0f9.png","鹿乃桜帆-期待":"5ae064b9deefdce14129d24659f0ee605a0e341b.png","鹿乃桜帆-神":"863c349b44abb098fecac479772f23ef1edd10f5.png","鹿乃桜帆-3Q":"9bee9ccc87c3ffe392e5572c4f67dae92a031e35.png","尼奈-妙!！":"3c2439d868818711b6c2cee035c4d51818c07c99.png","蕾尔娜Leona-反弹":"bc82f5b4e8525efeac017a1a9a3ea94d811d4463.png","蕾尔娜Leona-好耶":"f5269730d3156ba2a6cbe5c127d65753b3143f81.png","约战4-疑惑":"9174bde1afdde014a1b066c1bbb3027dc8dbb834.png","夏日青春欧皇套装-谢谢老板":"ca607626747f23cf37dbe8bb81397985dcb0ab17.png","夏日限定宅家手册-期待":"aaf3de49543253272e7eaeabff07ef0d162db67a.png","夏日限定宅家手册-重在参与":"aeafdb2f36c2cfde1ff4dadfecde48241ee31f15.png"},"el":"#valine-comments","path":"/chinese-broadcasting-announcing/"}</script>
 <script>
 document.addEventListener('page:loaded', () => {
   NexT.utils.loadComments(CONFIG.valine.el)

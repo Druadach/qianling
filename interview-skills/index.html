@@ -3,12 +3,11 @@
 <head>
   <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width">
-<meta name="theme-color" content="#222"><meta name="generator" content="Hexo 5.4.0">
-
+<meta name="theme-color" content="#222"><meta name="generator" content="Hexo 6.3.0">
 
   <link rel="apple-touch-icon" sizes="180x180" href="/images/apple-touch-icon-next.png">
-  <link rel="icon" type="image/png" sizes="32x32" href="/images/favicon-32x32.png">
-  <link rel="icon" type="image/png" sizes="16x16" href="/images/favicon-16x16.png">
+  <link rel="icon" type="image/png" sizes="32x32" href="/images/favicon-32x32-next.png">
+  <link rel="icon" type="image/png" sizes="16x16" href="/images/favicon-16x16-next.png">
   <link rel="mask-icon" href="/images/logo.svg" color="#222">
 
 <link rel="stylesheet" href="/css/main.css">
@@ -21,7 +20,7 @@
   <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/pace/1.2.4/themes/blue/pace-theme-minimal.css">
   <script src="https://cdnjs.cloudflare.com/ajax/libs/pace/1.2.4/pace.min.js" integrity="sha256-gqd7YTjg/BtfqWSwsJOvndl0Bxc8gFImLEkXQT8+qj0=" crossorigin="anonymous"></script>
 
-<script class="next-config" data-name="main" type="application/json">{"hostname":"qianling.pw","root":"/","images":"/images","scheme":"Muse","darkmode":false,"version":"8.11.1","exturl":false,"sidebar":{"position":"right","display":"hide","padding":18,"offset":12},"copycode":true,"bookmark":{"enable":false,"color":"#222","save":"auto"},"mediumzoom":false,"lazyload":true,"pangu":false,"comments":{"style":"tabs","active":"valine","storage":true,"lazyload":true,"nav":null,"activeClass":"valine"},"stickytabs":false,"motion":{"enable":true,"async":true,"transition":{"post_block":"none","post_header":"fadeInDown","post_body":"none","coll_header":"none","sidebar":"none"}},"prism":false,"i18n":{"placeholder":"搜索...","empty":"没有找到任何搜索结果：${query}","hits_time":"找到 ${hits} 个搜索结果（用时 ${time} 毫秒）","hits":"找到 ${hits} 个搜索结果"},"path":"/search.xml","localsearch":{"enable":true,"trigger":"auto","top_n_per_article":1,"unescape":false,"preload":true}}</script><script src="/js/config.js"></script>
+<script class="next-config" data-name="main" type="application/json">{"hostname":"qianling.pw","root":"/","images":"/images","scheme":"Muse","darkmode":false,"version":"8.14.0","exturl":false,"sidebar":{"position":"right","display":"hide","padding":18,"offset":12},"copycode":{"enable":true,"style":"flat"},"bookmark":{"enable":false,"color":"#222","save":"auto"},"mediumzoom":false,"lazyload":true,"pangu":false,"comments":{"style":"tabs","active":"valine","storage":true,"lazyload":true,"nav":null,"activeClass":"valine"},"stickytabs":false,"motion":{"enable":true,"async":true,"transition":{"menu_item":"fadeIn","post_block":"fadeIn","post_header":"fadeInDown","post_body":"fadeIn","coll_header":"fadeInLeft","sidebar":"fadeInUp"}},"prism":false,"i18n":{"placeholder":"搜索...","empty":"没有找到任何搜索结果：${query}","hits_time":"找到 ${hits} 个搜索结果（用时 ${time} 毫秒）","hits":"找到 ${hits} 个搜索结果"},"path":"/search.xml","localsearch":{"enable":true,"trigger":"auto","top_n_per_article":1,"unescape":false,"preload":true}}</script><script src="/js/config.js"></script>
 
     <meta property="og:type" content="article">
 <meta property="og:title" content="《面试加分项》笔记">
@@ -56,6 +55,11 @@
 
 
 
+
+  <script async defer data-website-id="" src=""></script>
+
+  <script defer data-domain="" src=""></script>
+
   <noscript>
     <link rel="stylesheet" href="/css/noscript.css">
   </noscript>
@@ -66,8 +70,8 @@
   <div class="headband"></div>
 
   <main class="main">
-    <header class="header" itemscope itemtype="http://schema.org/WPHeader">
-      <div class="header-inner"><div class="site-brand-container">
+    <div class="column">
+      <header class="header" itemscope itemtype="http://schema.org/WPHeader"><div class="site-brand-container">
   <div class="site-nav-toggle">
     <div class="toggle" aria-label="切换导航栏" role="button">
         <span class="toggle-line"></span>
@@ -86,7 +90,7 @@
   </div>
 
   <div class="site-nav-right">
-    <div class="toggle popup-trigger">
+    <div class="toggle popup-trigger" aria-label="搜索" role="button">
         <i class="fa fa-search fa-fw fa-lg"></i>
     </div>
   </div>
@@ -181,15 +185,9 @@ if( !/Android|webOS|iPhone|iPod|iPad|BlackBerry/i.test(navigator.userAgent)){
     POWERMODE.shake = false; // false 为禁用震动特效
     document.body.addEventListener('input', POWERMODE);
 </script>
-</div>
+</header>
         
   
-  <div class="toggle sidebar-toggle" role="button">
-    <span class="toggle-line"></span>
-    <span class="toggle-line"></span>
-    <span class="toggle-line"></span>
-  </div>
-
   <aside class="sidebar">
 
     <div class="sidebar-inner sidebar-nav-active sidebar-toc-active">
@@ -210,13 +208,13 @@ if( !/Android|webOS|iPhone|iPod|iPad|BlackBerry/i.test(navigator.userAgent)){
         <!--/noindex-->
 
         <div class="site-overview-wrap sidebar-panel">
-          <div class="site-author site-overview-item animated" itemprop="author" itemscope itemtype="http://schema.org/Person">
+          <div class="site-author animated" itemprop="author" itemscope itemtype="http://schema.org/Person">
     <img class="site-author-image" itemprop="image" alt="千灵夙赋"
       src="/images/avatar.png">
   <p class="site-author-name" itemprop="name">千灵夙赋</p>
   <div class="site-description" itemprop="description"></div>
 </div>
-<div class="site-state-wrap site-overview-item animated">
+<div class="site-state-wrap animated">
   <nav class="site-state">
       <div class="site-state-item site-state-posts">
         <a href="/archives/">
@@ -237,24 +235,25 @@ if( !/Android|webOS|iPhone|iPod|iPad|BlackBerry/i.test(navigator.userAgent)){
   </nav>
 </div>
 
-
-  <div class="links-of-blogroll site-overview-item animated">
-    <div class="links-of-blogroll-title"><i class="fa fa-link fa-fw"></i>
-      Friends
-    </div>
-    <ul class="links-of-blogroll-list">
-        <li class="links-of-blogroll-item">
-          <a href="https://meow3.family.blog/" title="https:&#x2F;&#x2F;meow3.family.blog&#x2F;" rel="noopener" target="_blank">恶魔菌の记事簿</a>
-        </li>
-        <li class="links-of-blogroll-item">
-          <a href="https://lanyundev.vercel.app/" title="https:&#x2F;&#x2F;lanyundev.vercel.app&#x2F;" rel="noopener" target="_blank">LanYun</a>
-        </li>
-        <li class="links-of-blogroll-item">
-          <a href="https://www.julydate.com/" title="https:&#x2F;&#x2F;www.julydate.com&#x2F;" rel="noopener" target="_blank">七夏浅笑</a>
-        </li>
-    </ul>
-  </div>
-<div id="aplayer" class="aplayer"></div>
+          
+          <div class="sidebar-inner sidebar-blogroll">
+            <div class="links-of-blogroll animated">
+              <div class="links-of-blogroll-title"><i class="fa fa-link fa-fw"></i>
+                Friends
+              </div>
+              <ul class="links-of-blogroll-list">
+                  <li class="links-of-blogroll-item">
+                    <a href="https://meow3.family.blog/" title="https:&#x2F;&#x2F;meow3.family.blog&#x2F;" rel="noopener" target="_blank">恶魔菌の记事簿</a>
+                  </li>
+                  <li class="links-of-blogroll-item">
+                    <a href="https://lanyundev.vercel.app/" title="https:&#x2F;&#x2F;lanyundev.vercel.app&#x2F;" rel="noopener" target="_blank">LanYun</a>
+                  </li>
+                  <li class="links-of-blogroll-item">
+                    <a href="https://www.julydate.com/" title="https:&#x2F;&#x2F;www.julydate.com&#x2F;" rel="noopener" target="_blank">七夏浅笑</a>
+                  </li>
+              </ul>
+            </div>
+          </div><div id="aplayer" class="aplayer"></div>
 <script>
 if( !/Android|webOS|iPhone|iPod|iPad|BlackBerry/i.test(navigator.userAgent)){
   document.write('<script type="text/javascript" src="/js/custom/APlayer.min.js"><\/script>');
@@ -301,25 +300,14 @@ var ap = new APlayer({
   });
 </script>
 
+          
         </div>
       </div>
     </div>
   </aside>
-  <div class="sidebar-dimmer"></div>
 
 
-    </header>
-
-    
-  <div class="back-to-top" role="button" aria-label="返回顶部">
-    <i class=" fa fa-chevron-up"></i>
-    <span>0%</span>
-  </div>
-
-<noscript>
-  <div class="noscript-warning">Theme NexT works best with JavaScript enabled</div>
-</noscript>
-
+    </div>
 
     <div class="main-inner post posts-expand">
 
@@ -362,7 +350,7 @@ var ap = new APlayer({
       <span class="post-meta-item-text">发表于</span>
       
 
-      <time title="创建时间 2021-08-08 13:19:35 / 修改时间 15:03:12" itemprop="dateCreated datePublished" datetime="2021-08-08T13:19:35+08:00">2021-08-08</time>
+      <time title="创建时间2021-08-08 13:19:35 / 修改时间15:03:12" itemprop="dateCreated datePublished" datetime="2021-08-08T13:19:35+08:00">2021-08-08</time>
     </span>
     <span class="post-meta-item">
       <span class="post-meta-item-icon">
@@ -379,7 +367,7 @@ var ap = new APlayer({
       <span class="post-meta-item-icon">
         <i class="far fa-eye"></i>
       </span>
-      <span class="post-meta-item-text">阅读次数 </span>
+      <span class="post-meta-item-text">阅读次数</span>
       <span class="leancloud-visitors-count"></span>
     </span>
   
@@ -409,7 +397,7 @@ var ap = new APlayer({
 <span id="more"></span>
 
 <hr>
-<p><strong><div class="center">面试加分项——知乎徐强作品 / 徐强著. — 浙江：浙江出版集团数字传媒有限公司，2016.11<br>ZHI-BN 8-0055-0000161117-1</div></strong></p>
+<p><strong><div class="center">面试加分项——知乎徐强作品 &#x2F; 徐强著. — 浙江：浙江出版集团数字传媒有限公司，2016.11<br>ZHI-BN 8-0055-0000161117-1</div></strong></p>
 <hr>
 <h1 id="准备工作"><a href="#准备工作" class="headerlink" title="准备工作"></a>准备工作</h1><p>在写简历、参加面试之前，一定要做的准备工作，是完成下面的职位需求匹配表。</p>
 <table>
@@ -445,10 +433,10 @@ var ap = new APlayer({
 <h1 id="总分"><a href="#总分" class="headerlink" title="总分"></a>总分</h1><p>使用总分或者总分总结构。在表达的开始，就概括要讲的内容是什么。<br>下面的例子中，候选人的第一句话，就给出了核心的回答。<br>问题：您是否遇到过比较大的挑战？您是如何处理的？<br>我曾经在 2 天内，将课程开发效率提高了 6 倍以上。<br>这是 2007 年，在保时捷的年度头号项目中，我作为主要培训师，和我的老板、同事一起，设计培训课程。<br>我们面临的挑战是：时间紧迫，我们必须在一个月内拿出最终的培训设计开始打印。包括 PPT、学员手册、演示案例、测试题等。参照往期进度，几乎不可能按期完成。<br>我觉得需要提升效率。所以，我采取了如下的措施：<br>……<br>请问有什么我讲的不清楚的地方吗？</p>
 <p>我们常使用的逻辑提示词，诸如：<br>「第一点、第二点、第三点……」<br>「第一步、第二步、第三步……」<br>「首先……然后……」</p>
 <h1 id="过渡性总结"><a href="#过渡性总结" class="headerlink" title="过渡性总结"></a>过渡性总结</h1><p>当表达内容比较长的时候，在中间，可以进行承上启下的过渡性总结。例如：<br>「前面我讨论了，为了赢得市场，所需要做的前两点：缩减产品功能、定位工业市场。接下来，我会谈第三点：改进营销沟通。」<br>这会加深对方对你「逻辑清晰」的印象，方便面试官理解你的表达，其实同时也有助于自己整理思路。</p>
-<h1 id="求职信"><a href="#求职信" class="headerlink" title="求职信"></a>求职信</h1><p>英文编辑候选人邮件：<br>John，我是 Frank。通过搜寻 5 星级雇主，我发现了你的招聘广告。<br>尽管这是我第一次在 XX（招聘网站）上寻求工作机会，但此前，我工作在 XX 杂志，有 3 年的校验/编辑经验，曾经获得 XX 最佳编辑奖。我大学时学习英文文学专业，熟悉美式英语、英式英语以及其他 5 种英语方言，可以根据您的目标区域，进行针对性的校对/编辑。在附件中，您可以看到我的工作样例。<br>我刚刚了解并注册了 XX（招聘网站），希望找到高质量的雇主，建立长期合作关系。通过搜索 5 星级雇主，我看到了您的招聘广告，并且发现以往的工作者，都给了您很高的评价。因此希望尝试与您的合作。<br>通常我的报价，在 60 美元/小时以上。但是由于缺乏历史记录，这次我会给您 6 美元/小时价格，让您可以低风险地体验到我的工作质量。<br>期待您的回复。如有任何问题，请随时与我联系。</p>
+<h1 id="求职信"><a href="#求职信" class="headerlink" title="求职信"></a>求职信</h1><p>英文编辑候选人邮件：<br>John，我是 Frank。通过搜寻 5 星级雇主，我发现了你的招聘广告。<br>尽管这是我第一次在 XX（招聘网站）上寻求工作机会，但此前，我工作在 XX 杂志，有 3 年的校验&#x2F;编辑经验，曾经获得 XX 最佳编辑奖。我大学时学习英文文学专业，熟悉美式英语、英式英语以及其他 5 种英语方言，可以根据您的目标区域，进行针对性的校对&#x2F;编辑。在附件中，您可以看到我的工作样例。<br>我刚刚了解并注册了 XX（招聘网站），希望找到高质量的雇主，建立长期合作关系。通过搜索 5 星级雇主，我看到了您的招聘广告，并且发现以往的工作者，都给了您很高的评价。因此希望尝试与您的合作。<br>通常我的报价，在 60 美元&#x2F;小时以上。但是由于缺乏历史记录，这次我会给您 6 美元&#x2F;小时价格，让您可以低风险地体验到我的工作质量。<br>期待您的回复。如有任何问题，请随时与我联系。</p>
 <p>这封求职信的第一段，只有一句话：John，我是 Frank。通过搜寻 5 星级雇主，我发现了你的招聘广告。<br>这段话告诉我他是如何找到我的，而这种方式说明，他在寻找工作机会时，是有所思考选择而不是海投。雇主不喜欢海投的求职者。海投通常说明，求职者自己还没搞清楚自己想要什么、特长在哪里，也不知道如何有效满足雇主的需求。</p>
-<p>在第二段，他快速总结了自己和这份工作的关键匹配处，简单明了的价值阐述：尽管这是我第一次在 XX（招聘网站）上寻求工作机会，但此前，我工作在 XX 杂志，有 3 年的校验/编辑经验，曾经获得 XX 最佳编辑奖。我大学时学习英文文学专业，熟悉美国英语、英式英语以及其他 5 种英语方言，可以根据您的目标区域，进行针对性的校对/编辑。在附件中，您可以看到我的工作样例。</p>
-<p>求职信看到了这里，我觉得对方应该很适合，但是疑惑又来了：为什么他要如此低的价钱呢？低价往往也可能意味着低质量。他在第三、四段中，给出了回答：我刚刚了解并注册 XX（招聘网站），希望找到高质量的雇主，建立长期合作关系。通过搜索 5 星级雇主的招聘广告，阅读档案，我发现以往的工作者，都给了您很高的评价。因此我希望尝试与您的合作。通常我的报价，在 60 美元/小时以上。但是由于缺乏历史记录，这次我会给您 6 美元/小时的价格，让您可以低风险地体验到我的工作质量。<br>这段话，是非常出色的销售沟通。<br>第一点：如果没有这段说明，他的报价会让自己看上去很廉价，也让之前的经历感觉不真实。看了这段内容，我马上有了捡便宜的感觉。这种感觉是促使客户买单的重要因素。乔布斯说：「客户不喜欢廉价的东西，他们喜欢超值的东西。」<br>第二点：他谈到「希望找到高质量的雇主，建立长期合作关系」。在我的招聘广告中，明确写着「这是一份短期工作。成功完成此任务，将会获得长期合作机会」。这又是一个匹配这项工作的地方。<br>第三点：他告诉我「通过搜索 5 星级雇主的招聘广告，阅读档案，我发现以往的工作者，都给了您很高的评价。因此我希望尝试与您的合作」。这让我知道，他对于这份工作，进行了充分的调研。这除了说明他本身很职业之外，而且也说明他知道自己想要什么，大幅度降低了雇佣他的风险。<br>第四点：这段话的内容，意味着他在筛选雇主。这是一个高价值候选人的特征。求职是一种心理战。大多数求职者，处于被动的、被挑选的地位，这会让你变得比较廉价。一流的求职者，需要让雇主感觉到自己也在被筛选。这种心理上的感觉，会影响到招聘中的各方面。<br>第五点：他给我设置了对于未来价格的预期（60 美元/小时），为将来争取到更高收入，埋下伏笔。</p>
+<p>在第二段，他快速总结了自己和这份工作的关键匹配处，简单明了的价值阐述：尽管这是我第一次在 XX（招聘网站）上寻求工作机会，但此前，我工作在 XX 杂志，有 3 年的校验&#x2F;编辑经验，曾经获得 XX 最佳编辑奖。我大学时学习英文文学专业，熟悉美国英语、英式英语以及其他 5 种英语方言，可以根据您的目标区域，进行针对性的校对&#x2F;编辑。在附件中，您可以看到我的工作样例。</p>
+<p>求职信看到了这里，我觉得对方应该很适合，但是疑惑又来了：为什么他要如此低的价钱呢？低价往往也可能意味着低质量。他在第三、四段中，给出了回答：我刚刚了解并注册 XX（招聘网站），希望找到高质量的雇主，建立长期合作关系。通过搜索 5 星级雇主的招聘广告，阅读档案，我发现以往的工作者，都给了您很高的评价。因此我希望尝试与您的合作。通常我的报价，在 60 美元&#x2F;小时以上。但是由于缺乏历史记录，这次我会给您 6 美元&#x2F;小时的价格，让您可以低风险地体验到我的工作质量。<br>这段话，是非常出色的销售沟通。<br>第一点：如果没有这段说明，他的报价会让自己看上去很廉价，也让之前的经历感觉不真实。看了这段内容，我马上有了捡便宜的感觉。这种感觉是促使客户买单的重要因素。乔布斯说：「客户不喜欢廉价的东西，他们喜欢超值的东西。」<br>第二点：他谈到「希望找到高质量的雇主，建立长期合作关系」。在我的招聘广告中，明确写着「这是一份短期工作。成功完成此任务，将会获得长期合作机会」。这又是一个匹配这项工作的地方。<br>第三点：他告诉我「通过搜索 5 星级雇主的招聘广告，阅读档案，我发现以往的工作者，都给了您很高的评价。因此我希望尝试与您的合作」。这让我知道，他对于这份工作，进行了充分的调研。这除了说明他本身很职业之外，而且也说明他知道自己想要什么，大幅度降低了雇佣他的风险。<br>第四点：这段话的内容，意味着他在筛选雇主。这是一个高价值候选人的特征。求职是一种心理战。大多数求职者，处于被动的、被挑选的地位，这会让你变得比较廉价。一流的求职者，需要让雇主感觉到自己也在被筛选。这种心理上的感觉，会影响到招聘中的各方面。<br>第五点：他给我设置了对于未来价格的预期（60 美元&#x2F;小时），为将来争取到更高收入，埋下伏笔。</p>
 <p>这就是，在满足雇主需求的过程中，引导雇主来主动选择你。<br>在求职过程中，重点应该是引导面试官来选择你，而不是去说服面试官来录用你。在求职时想「我应该怎样说服」雇主，恐怕力气用错了地方。真正重要的是思考「我应该给他们什么，让他们确定：我才是最好的选择」。</p>
 <h1 id="抽象词"><a href="#抽象词" class="headerlink" title="抽象词"></a>抽象词</h1><p>抽象词是那种可以用在各种场合，你却又很难理解它到底在表达什么的词汇。 例如：「很多、部分、更好、良好、优秀、能力、一些、一下……」</p>
 <h1 id="自我介绍"><a href="#自我介绍" class="headerlink" title="自我介绍"></a>自我介绍</h1><p>面试重点不是表达你的兴趣，而是如何抓住对方的心。<br>保时捷正在寻找培训师。几乎每一个候选人自我介绍都说：「我很喜欢保时捷、很希望得到这个机会」。这种话其实是在自我降低身价。<br>我自我介绍说：<br>「大家好，我是徐强，毕业于同济大学。在大学里我的爱好是电子游戏。其中，有两个我的最爱。第一个是帝国时代。」<br>说到这里我故意停顿了一下，看到面试官脸上都露出很迷惑的表情：你要做的工作是职业培训，讨论游戏干吗？<br>意料之中，我继续：<br>「它来自微软，我的前任雇主。而另外一个游戏是极品飞车。在游戏中，我首选的车是保时捷 911。很高兴有这次机会，与这家伟大的品牌合作。」<br>面试官开始朝我微笑、点头。气氛变得非常轻松。<br>我并没有说「我很喜欢保时捷」，但是通过一个具体的故事，他们可以体会到这一点。通过意外开局导致的悬念，加深了他们的感觉。<br>所以这就是为什么我们要讲事实，因为事实会支撑你的观点，甚至在很多时候，都不需要你把观点直接说出来。<br>如果在面试中，你要进行高价值的自我展示，就要避免廉价的言行。<br>我花了一周的时间来准备这 3 分钟的自我介绍。</p>
@@ -464,7 +452,7 @@ var ap = new APlayer({
 <li>明确字面问题</li>
 <li>理解面试官动机</li>
 <li>定义要回答的问题</li>
-<li>确定答案主题/逻辑框架</li>
+<li>确定答案主题&#x2F;逻辑框架</li>
 <li>确定细节内容</li>
 <li>回答问题</li>
 <li>获得反馈</li>
@@ -484,7 +472,7 @@ var ap = new APlayer({
 </tr>
 <tr>
 <td align="center">业务：咨询服务，包括中国市场进入策略，消费者研究，市场评估</td>
-<td align="center">牛排店客户忠诚度研究项目、球鞋出口市场可行性分析项目、中国/印度市场业务分析</td>
+<td align="center">牛排店客户忠诚度研究项目、球鞋出口市场可行性分析项目、中国&#x2F;印度市场业务分析</td>
 </tr>
 <tr>
 <td align="center">地点：上海</td>
@@ -541,7 +529,7 @@ var ap = new APlayer({
 <p>在求职时，明确三个价格：最低薪资、满意薪资、市场薪资范围。<br>最低薪资：低于这个你肯定就不干的。当然，根据不同的公司，你的最低薪资可能会变化。比如有些公司你特别想去的，免费也愿意。<br>满意薪资：高于这个数字，你就几乎不用看别的机会了。<br>市场薪资范围：按照你的能力、业绩和经验、目标职位，在当前市场上，最可能得到的薪资范围。关于市场薪资范围，自己求职的经历、同事与朋友、猎头等等，都是可以得知的渠道。</p>
 <p>在简历中注明你的最低薪资，可以将太穷或者太不愿意花钱的雇主先过滤掉。否则不是在浪费你的时间吗。<br>但是，如果你所应聘的职位市场机会很少，需要抓住每一个机会，就不要注明最低薪资了。<br>不用担心 HR 看到你在简历中谈钱，就会觉得你态度不端正。大家都是出来「卖」的。HR 并不是反感你谈钱，而是反感你还没让他感受到你的价值，就谈钱。<br>谈价格的语气和心态 不少人在谈价格时会感觉心虚。这种感觉在神态上（语气犹豫、眼神飘忽等）自然流露出来，面试官一看就知道：底气不足。解决这个问题，除了树立核心优势和高价值展示外，还有就是多谈几家。毕竟市场价格这个东西，货比三家才能体会出来。<br>在谈薪资时，有 3 种常见的错误语气：<br>商量型：「你看 3500 元怎么样？」<br>犹豫型：想了半天「嗯，3500 元吧。」<br>说服型：「我希望是 8000 元。因为……」<br>上述种种行为，都会让面试官感到你对于薪资并非无可妥协，而是有商量余地。</p>
 <p>所以在谈到价格时，你要使用描述事实的语气，简单干脆不带情感，就像说「明天上海是晴天」、「10 月 1 日是中国的国庆节」一样报出你的要求。例如：「年收入税后 10 万以上。」让对方感觉不到你的情绪。这可能需要一定的心理练习。一种方式就是把几个事实和你的报价串在一起练。明天上海是晴天。10 月 1 日是中国的国庆节。税后 8000 以上。之所以这样做，是你在讲「上海明天是晴天」之类事实的时候，心态是平和不带情感的。所以当讲到最后一句，你的心态可以保持到前面的状况，从而体会到讲这话时候的感觉，形成惯性反应。更重要的是，你要在心里树立一个观念：这就是一个事实而已，你要求这个价格，无需说服。而你的说服工作，则体现在前面的沟通中。到这一步，说服通常只会有反作用。</p>
-<h1 id="潜力"><a href="#潜力" class="headerlink" title="潜力"></a>潜力</h1><p>雇主对于职场新人的学习能力更为重视。毕竟和有经验的员工相比，公司招应届生，你的潜力还是一个关键因素。<br>有这样一种说法，优秀的面试官不仅会关注求职者已经具备的技能，更关注他/她的学习能力。那么面试官究竟如何考察抽象的「学习能力」？</p>
+<h1 id="潜力"><a href="#潜力" class="headerlink" title="潜力"></a>潜力</h1><p>雇主对于职场新人的学习能力更为重视。毕竟和有经验的员工相比，公司招应届生，你的潜力还是一个关键因素。<br>有这样一种说法，优秀的面试官不仅会关注求职者已经具备的技能，更关注他&#x2F;她的学习能力。那么面试官究竟如何考察抽象的「学习能力」？</p>
 <p>考察方法 1：给一本几百页的书，一小时后，考察候选人掌握的状况。 这个是之前在微软，从一个同事那里学到的。老板要他考察被面试者的学习能力。于是他拿了一本技术书，厚厚的几百页，给候选人一个小时的时间，然后进行考察。<br>我很欣赏这个做法，因为：<br>首先，这会考察候选人快速建立知识框架的能力。<br>在我看来，超过 90% 的人，学习能力都很糟糕。因为他们忽略了建立自己知识框架的重要性。人们往往更习惯于扎进细节里。<br>这么短的时间，一流的学习者会更关注理解和建立整体的知识架构，而一般的学习者会在几百页当中撞墙攒砖头水泥。<br>其次，这会考察候选人抓重点的能力。<br>1 小时显然不可能看完所有的内容。工作的现实也是如此：我们往往缺乏足够的时间去学习。比如第二天要和客户谈一个自己都还没见过的产品，你只有一个晚上的时间，大多数时候，还得让对方觉得你很专业。<br>知道学什么，甚至要比如何学更关键。很多人会把自己喜欢看书当作会学习的例证。但是没压力的读书，和在压力的情况下快速地确定你的学习目标以及实现步骤，是两回事。一流的学习者在看书的时候，常常会根据自己的重点和知识框架去决定自己的阅读。一般的学习者，通常只会根据书籍的进度走。 <br>最后，这会考察候选人触类旁通的能力，以及相关知识积累的广度和深度。 例如，你让一个人去看 iPhone 的开发书籍。尽管他从来没学过 iPhone 开发，但是，通过 1 小时的考察，你可以发现对方在技术领域的积累、思维方式，以及触类旁通的能力。<br>我们从来不是完全从头开始去学习新的知识，而是通过与已有事物的关联来建立自己的知识体系。这种触类旁通的能力，又是学习的关键技能。<br>比如面试。我发现大多数人都指望「面试官教他们怎么面试」。我觉得这是缺乏「触类旁通」能力的表现。因为面试本质上也是一种销售行为，而「面试官」本质上是你的潜在客户。了解潜在客户，当然是销售的关键步骤。但是一流的销售，绝不会指望客户把自己培养成一流的销售人员。他们需要比客户更懂得客户心理、成交技能、价值评估、产品知识等一大堆你的潜在客户不会的东西。<br>如果你还在「面试官教我怎么面试」的套子里，那就跳出来，从销售的角度去看面试。 我们在学校里都见过这样的人，拼命地尝试把很多知识塞到脑子里去，搞得很痛苦且效果很差。其实，人的大脑是不擅长死记硬背的。我们擅长的是处理知识架构，擅长的是用逻辑和关联去管理知识。</p>
 <p>考察方法 2：连续问为什么。<br>「为什么你要上 Linked In？」<br>「因为可以找到潜在客户。」<br>「为什么可以找到潜在客户？」<br>「因为他们会把自己的经历放到 Linked In。」<br>「为什么他们要把自己的经历放到 Linked In 上？」<br>……</p>
 <p>这个方法的重点，是考察候选人认识问题的深度和好奇心。认识问题的深度，是学习能力的重要表现。而好奇心是求知欲的关键驱动因素。如果你有强烈的渴望，通常在某一方面就会做得更好。同样的，爱问为什么的人通常是出色的学习者，看一下小孩子你就知道了。</p>
@@ -553,7 +541,7 @@ var ap = new APlayer({
 <p>错误二：提出空洞的问题。<br>比如，你遇到一家公司的 HR，上去就问：我该如何面试？ 那么 HR 很可能回答你：首先，阅读 JD 搞清楚公司需要什么；然后，简历要写得清晰，突出你的优势；面试的时候，要围绕雇主需求展开；最后，准备是关键。<br>好啦！你得到了一个正确但无用的回答。<br>能怪别人吗？不能。因为你的问题太空，人家的答案也只能跟着空。<br>要把你的问题具体化，例如：你在求职什么类型的企业？你的优势和弱点是什么？你已经做了哪些调研工作？你遇到什么挑战？期望别人怎么帮你？<br>具体的问题，才能引出具体的答案。</p>
 <h1 id="适合自己的工作"><a href="#适合自己的工作" class="headerlink" title="适合自己的工作"></a>适合自己的工作</h1><p>大多数人从来没有办法掌控「工作」这个游戏，无论是作为行政助理、营销专员、HR 经理。缺乏热情是自然的结果。遗憾的是，这批人是社会的主流，甚至在不少知名的公司，也是如此。所以你得到的不少观点，都是来自于他们。</p>
 <p>我好几次听到：「大学时代是最美好的时光，你们要好好珍惜。」<br>如果大学是最美好的时光，这岂不是意味着你的人生在 20 岁左右就到高峰了吗？岂不是越活越没有意思？这让他们觉得「哇，大学真是最美好的时光。工作是枯燥的。」<br>使用你的独立思考能力去判断，避免盲目地接受。他们可能是没有能够享受到工作乐趣的人，是没有掌控职业这个游戏的人。</p>
-<p>春节的饭局上，听到了好几个职业建议：有人建议考公务员，有人建议考教师证，有人建议去做会计。<br>无论哪一个选项，都有同样一个关键词：安稳。<br>跟一位大学生聊起职业问题。他说考虑进入地方的一家国企，因为安稳，而且收入高，但又不喜欢那种沉闷、缺乏生气、按资排辈的环境。<br>我问他一个问题：「安稳值多少钱？」<br>他愣住了，说：「这个能用钱衡量吗？」 我说：「你的这份工作，用 30 年计算合理吧？30 年，我们谁知道会发生什么？」 他说：「合理。」<br>我问：「平均每个月 8000 块，是不是合理？」<br>这是在人均收入 2000-3000 的小县城，他同意。<br>那么 8000x12x30=288 万。<br>不考虑通货膨胀、利息、现值等因素。<br>「那么这样算下来，这份工作的价值是 288 万。也就是说你为了 288 万，去选择一份自己不喜欢的工作。当然这里有很多简化，但重要的是关注全局。那么，如果你有 288 万，你在选择工作的时候，还会把安稳作为首要标准吗？」<br>他说：「不会。」<br>「所以，对你而言做出这个选择，追求安稳其实只是表象，而主导的因素却是钱。可以这样理解吗？」<br>「可以。」<br>「如果钱是关键的因素，那么你在选择第一份工作时，应该考虑的关键标准是什么呢？」<br>他开始进入思考状态。「收入，还有赚钱的能力。」<br>「哪一个更重要。」<br>「赚钱的能力。收入嘛，反正一开始多少也差别不到哪里去。」<br>「那么在你现在的目标国企中，你突破赚钱能力的概率有多大？」<br>「恐怕很小。」<br>那么，为什么不去找一份帮你突破赚钱能力的工作呢？</p>
+<p>春节的饭局上，听到了好几个职业建议：有人建议考公务员，有人建议考教师证，有人建议去做会计。<br>无论哪一个选项，都有同样一个关键词：安稳。<br>跟一位大学生聊起职业问题。他说考虑进入地方的一家国企，因为安稳，而且收入高，但又不喜欢那种沉闷、缺乏生气、按资排辈的环境。<br>我问他一个问题：「安稳值多少钱？」<br>他愣住了，说：「这个能用钱衡量吗？」 我说：「你的这份工作，用 30 年计算合理吧？30 年，我们谁知道会发生什么？」 他说：「合理。」<br>我问：「平均每个月 8000 块，是不是合理？」<br>这是在人均收入 2000-3000 的小县城，他同意。<br>那么 8000x12x30&#x3D;288 万。<br>不考虑通货膨胀、利息、现值等因素。<br>「那么这样算下来，这份工作的价值是 288 万。也就是说你为了 288 万，去选择一份自己不喜欢的工作。当然这里有很多简化，但重要的是关注全局。那么，如果你有 288 万，你在选择工作的时候，还会把安稳作为首要标准吗？」<br>他说：「不会。」<br>「所以，对你而言做出这个选择，追求安稳其实只是表象，而主导的因素却是钱。可以这样理解吗？」<br>「可以。」<br>「如果钱是关键的因素，那么你在选择第一份工作时，应该考虑的关键标准是什么呢？」<br>他开始进入思考状态。「收入，还有赚钱的能力。」<br>「哪一个更重要。」<br>「赚钱的能力。收入嘛，反正一开始多少也差别不到哪里去。」<br>「那么在你现在的目标国企中，你突破赚钱能力的概率有多大？」<br>「恐怕很小。」<br>那么，为什么不去找一份帮你突破赚钱能力的工作呢？</p>
 <p>安稳和乏味常常是孪生兄弟。<br>一个学生跟我说：他的首选目标是公务员，然后是国企。尽管他觉得这两类工作都比较乏味，而且人际关系复杂。<br>我问他：「如果你能拿到 Google 的 offer，你会选什么？」<br>他说：「当然选 Google」。<br>他的首选目标，其实并不是心里真正的理想目标，而是权衡现实之后，自动打折的一个平衡产物。在「自动打折」的背后，通常有一个心理因素：觉得自己能力不足，缺乏自信。<br>记得以前上学的时候，学过「效率优先，兼顾公平」。抛开这个策略本身，看一个人对「效率和公平」的态度，很能反映他的心理。<br>强者看重效率，弱者期望公平。<br>说明一下，弱者眼中的公平，很多时候是「保障」、「平均」、「按劳按资历」而不是「按效果」。<br>在企业招聘中，大多数简历其实从来没有打开过。有人会说：「这不公平。HR 为什么不能认真对待每份简历？」这是一种典型的弱者心态。你期望对方「公平」的对待，而不是从效率的角度看待它的合理性。<br>国企、公务员（不是做官——做官和公务员是两码事）之类的职业，与完全自由化的企业相比，有一个很大的区别：前者更注重公平保障（当然仅针对圈内人）、后者更注重效率。<br>如果你觉得自己能力很强，做出的贡献大大超出一般同事，你通常不会甘心于一个公平优先的系统。凭什么你做出了两倍的业绩，但是收入还要比「老同志」低？就因为他们是工作了十年的老同志？你很可能会选择高度竞争的市场机制，能者多得，弱者淘汰。<br>但反过来，如果你觉得自己能力弱，那么选择一个「公平」的地方，一个「有保障」的制度，就是自然的结果。你希望干一天活就能拿到钱，签订终生合同，每年收入上调 10%，只要不出错误，3 年就可以升职。「老同志」得到优待。5 年后会给你买房提供无息贷款，养老金丰厚。永远不会炒人，只要进去了就有了一辈子的保障。</p>
 <p>我参加了各种公益讲座和培训，我想传播一个理念：选择你所热爱的、让你兴奋的工作，而不是一份安稳乏味的「好工作」。 但实际上收效甚微。虽然人们觉得「很有道理」，但依然会走原来的道路。<br>根源在哪里呢？大多数人都有弱者心态，自然做出了弱者的选择。强者看重「出结果」，弱者关注「不犯错」。安稳是「不犯错」的选择。我的感觉是：如果要激励人们跟随自己的内心，改变弱者心态是关键所在。<br>那么，什么是改变弱者心态的有效方法呢？ 和一位做培训的 HR 聊天，他谈到：他们各个区域的销售经理，要求最多的就是员工心态培训。因为经理们觉得员工心态不够积极、自信。<br>我问 HR：「你觉得心态培训，真正是解决问题的方法吗？」 他说：「不是，但是既然大家有要求，就做呗。」效果吗？你懂的。<br>你也应该有这样的经历：看到一段名言、文章、视频，或者听到一段讲座，热血沸腾，浑身充满了斗志。可三天后，一切回到解放前。<br>即使是乔布斯的斯坦福演讲，看到的人当中，真正从此改变人生的又有多少？可能受到影响的，是那些已经在奋斗当中的人，只差这么一口气。<br>成功学会告诉你：改变心态才能成功。其实对大多数人而言，这条路的失败概率极高。<br>更有效的道路恰恰相反：成功才能改变心态。持续的成功会帮助你树立强者心态；持续的失败会导致你强化弱者心态。<br>与其培训销售员「积极思考」，不如培训他们「如何把客户响应率从 5% 提高到 50% 」。你发两封邮件就能够得到一个客户的响应，心态自然就会自信很多。<br>我与其告诉你要「积极思考」，不如教你如何让简历抓住 HR 的眼球。面试机会多了有的挑，自然你就更自信。<br>能搞定就有自信，搞不定就缺自信。如果你缺乏信心，更需要去寻找到有效的方法，来达成突破。<br>但是大多数人走上了一条相反的道路。他们越缺乏能力缺乏信心，越渴望「安稳」的工作。而安稳的环境，常常更难于让人在能力上达成突破。例如垄断性企业，你很难看到自己的工作，对于最终绩效产生的影响。而能力的下降，导致他们更依赖于安稳。如此恶性循环……<br>关注「安稳」得到安稳难，关注「方法」获取安稳易。</p>
 
@@ -562,8 +550,6 @@ var ap = new APlayer({
     
     
     
-      
-
 
     <footer class="post-footer">
           
@@ -571,14 +557,14 @@ var ap = new APlayer({
 <div class="post-copyright">
 <ul>
   <li class="post-copyright-author">
-      <strong>本文作者  </strong>千灵夙赋
+      <strong>本文作者： </strong>千灵夙赋
   </li>
   <li class="post-copyright-link">
-      <strong>本文链接 </strong>
+      <strong>本文链接：</strong>
       <a href="https://qianling.pw/interview-skills/" title="《面试加分项》笔记">https://qianling.pw/interview-skills/</a>
   </li>
   <li class="post-copyright-license">
-    <strong>版权声明  </strong>本博客所有文章除特别声明外，均采用 <a href="https://creativecommons.org/licenses/by-nc-sa/4.0/" rel="noopener" target="_blank"><i class="fab fa-fw fa-creative-commons"></i>BY-NC-SA</a> 许可协议。转载请注明出处！
+    <strong>版权声明： </strong>本博客所有文章除特别声明外，均采用 <a href="https://creativecommons.org/licenses/by-nc-sa/4.0/" rel="noopener" target="_blank"><i class="fab fa-fw fa-creative-commons"></i>BY-NC-SA</a> 许可协议。转载请注明出处！
   </li>
 </ul>
 </div>
@@ -589,13 +575,13 @@ var ap = new APlayer({
   <div class="social-list">
 
       <div class="social-item">
-        <a target="_blank" class="social-link" href="/atom.xml">
-          <span class="icon">
-            <i class="fa fa-rss"></i>
-          </span>
+          <a target="_blank" class="social-link" href="/atom.xml">
+            <span class="icon">
+              <i class="fa fa-rss"></i>
+            </span>
 
-          <span class="label">RSS</span>
-        </a>
+            <span class="label">RSS</span>
+          </a>
       </div>
   </div>
 </div>
@@ -666,15 +652,31 @@ var ap = new APlayer({
   </footer>
 
   
+  <div class="toggle sidebar-toggle" role="button">
+    <span class="toggle-line"></span>
+    <span class="toggle-line"></span>
+    <span class="toggle-line"></span>
+  </div>
+  <div class="sidebar-dimmer"></div>
+  <div class="back-to-top" role="button" aria-label="返回顶部">
+    <i class="fa fa-chevron-up fa-lg"></i>
+    <span>0%</span>
+  </div>
+
+<noscript>
+  <div class="noscript-warning">Theme NexT works best with JavaScript enabled</div>
+</noscript>
+
+
+  
   <script src="https://cdnjs.cloudflare.com/ajax/libs/animejs/3.2.1/anime.min.js" integrity="sha256-XL2inqUJaslATFnHdJOi9GfQ60on8Wx1C2H8DYiN1xY=" crossorigin="anonymous"></script>
-  <script src="https://cdnjs.cloudflare.com/ajax/libs/next-theme-pjax/0.5.0/pjax.min.js" integrity="sha256-3NkoLDrmHLTYj7csHIZSr0MHAFTXth7Ua/DDt4MRUAg=" crossorigin="anonymous"></script>
-  <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.6.0/jquery.min.js" integrity="sha256-/xUj+3OJU5yExlq6GSYGSHk7tPXikynS7ogEvDej/m4=" crossorigin="anonymous"></script>
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/next-theme-pjax/0.6.0/pjax.min.js" integrity="sha256-vxLn1tSKWD4dqbMRyv940UYw4sXgMtYcK6reefzZrao=" crossorigin="anonymous"></script>
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.6.1/jquery.min.js" integrity="sha256-o88AwQnZB+VDvE9tvIXrMQaPlFFSUTR+nldQm1LuPXQ=" crossorigin="anonymous"></script>
   <script src="https://cdnjs.cloudflare.com/ajax/libs/fancybox/3.5.7/jquery.fancybox.min.js" integrity="sha256-yt2kYMy0w8AbtF89WXb2P1rfjcP/HTHLT7097U8Y5b8=" crossorigin="anonymous"></script>
   <script src="https://cdnjs.cloudflare.com/ajax/libs/lozad.js/1.16.0/lozad.min.js" integrity="sha256-mOFREFhqmHeQbXpK2lp4nA3qooVgACfh88fpJftLBbc=" crossorigin="anonymous"></script>
 <script src="/js/comments.js"></script><script src="/js/utils.js"></script><script src="/js/motion.js"></script><script src="/js/schemes/muse.js"></script><script src="/js/next-boot.js"></script><script src="/js/pjax.js"></script>
 
-  
-<script src="https://cdnjs.cloudflare.com/ajax/libs/hexo-generator-searchdb/1.4.0/search.js" integrity="sha256-vXZMYLEqsROAXkEw93GGIvaB2ab+QW6w3+1ahD9nXXA=" crossorigin="anonymous"></script>
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/hexo-generator-searchdb/1.4.1/search.js" integrity="sha256-1kfA5uHPf65M5cphT2dvymhkuyHPQp5A53EGZOnOLmc=" crossorigin="anonymous"></script>
 <script src="/js/third-party/search/local-search.js"></script>
 
 
@@ -691,12 +693,12 @@ var ap = new APlayer({
   <script src="/js/third-party/statistics/lean-analytics.js"></script>
 
 
-  <script src="https://cdnjs.cloudflare.com/ajax/libs/quicklink/2.2.0/quicklink.umd.js" integrity="sha256-4kQf9z5ntdQrzsBC3YSHnEz02Z9C1UeW/E9OgnvlzSY=" crossorigin="anonymous"></script>
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/quicklink/2.3.0/quicklink.umd.js" integrity="sha256-yvJQOINiH9fWemHn0vCA5lsHWJaHs6/ZmO+1Ft04SvM=" crossorigin="anonymous"></script>
   <script class="next-config" data-name="quicklink" type="application/json">{"enable":true,"home":false,"archive":false,"delay":true,"timeout":3000,"priority":true,"url":"https://qianling.pw/interview-skills/"}</script>
   <script src="/js/third-party/quicklink.js"></script>
 
 
-<script class="next-config" data-name="valine" type="application/json">{"enable":true,"appId":"zulMeib4pyC6zB1a65OmVtHz-gzGzoHsz","appKey":"TEjUlOUBz3KwSUmDQ35ROxpw","serverURLs":"https://zulmeib4.lc-cn-n1-shared.com","placeholder":"说点什么好呢~","avatar":"wavatar","meta":["nick","mail","link"],"pageSize":10,"lang":null,"visitor":false,"comment_count":true,"recordIP":false,"enableQQ":true,"requiredFields":[],"emojiCDN":"//i0.hdslb.com/bfs/emote/","emojiMaps":{"团宝":"311f83d568e2fd702b08f40d4c838572a07ebea0.png","少前小剧场-心虚":"61ea3a788ec43241860ed984672eb588963bc98a.png","少前小剧场-卖萌":"bbe8c979922144e667efd63dcce0320437425a00.png","泠鸢yousa-打call":"718e9495846db4172eb87d2f7f02015a34d35ea2.png","泠鸢yousa-大哭":"3f757b147b9b1e201470eae7dac9cc0360172569.png","泠鸢yousa-好人卡":"e3907b3bb20b18e7ecb11cd86829c9a4ce5b1b2f.png","泠鸢yousa-加大力度":"a0393a2d4b522f07a319dfd2e91754a3cdff2c48.png","泠鸢yousa-滑稽":"a8057c0e0579b93c16010a270e261fd0a64034af.png","泠鸢yousa-请吃桃":"e92276d9d8c28f85f7dbcc0fbbb6ecb3345ce33e.png","泠鸢yousa-生气":"9e6ba9ff34101e04d3e321cad486f845f892050e.png","泠鸢yousa-真棒":"02ea49543a3ac52feee185c156ab08fb2bfdd89e.png","初音未来-GKD":"44caa7ec800837d8860482c214ac792f4c37c490.png","初音未来-加油":"4943a9be0a3134125c7d585b4dafde79a9a1990a.png","初音未来-哭了":"db9b01e5808967a32ed644b490ab47faf0f29ce3.png","花园Serena-？？？":"42f7ab2a562d000929979976d30669bec042662f.png","花园Serena-安详去世":"cdf595646132b98dcf1d230d351b2738d68f49c3.png","花园Serena-mua":"20319d3948da83f666a643b2c8103e6da0e36721.png","花园Serena-到点了":"af2f6c0dd1155f4aefb610cc6d09c135df9e6752.png","花园Serena-恭喜":"c1d8361755bb135d24b3b4680fe6ba03c086b395.png","花园Serena-喵":"4159859e6c9c2e0476299454b6015c2659149e3c.png","花园Serena-睡":"ae8ad8fd2a8d14e53938ba7dc7ca22681143dc09.png","白上吹雪-狐狐祟祟":"14f8be6955ee392baccd7d82b4371765a0c18523.png","白上吹雪-摸摸":"218cc0fb954a3dadde61eed03e3a376f277f36ee.png","白上吹雪-围观":"04d66a7b0b7b4f78bf45297cd91c0059de71b8bb.png","白上吹雪-一派狐言":"7d504e583857d68edf4fe0706be0b426f0d3cfb1.png","白上吹雪-emmm":"709bc019cf7960d9dcb40a0d5a444f8a78e376d3.png","原神-哦":"4b8b6f0e451c600abf2d83560125d03cfa97fe28.png","原神-哼哼":"62d09fa482842dabbd4a51176abc0ec20a64a359.png","原神-鸽子":"d03a8f9f490eb007aae2d826f9143e3a29a3be5a.png","原神-干杯":"966f0b307bf4d07e81162dc32bf1e71c83bf997a.png","原神-吃惊":"d8d07498a567ea109a8fc4b58ffccdc33643cd99.png","原神-不要啊":"8ea92be976beb8126adc7cabc2aa7f2b02b9bee2.png","原神-拜托":"2f2817b84caf9d81fdce171d18a3f99983f1ec64.png","2233塔罗牌-撒花":"0d301be888e87aed6cc8e6548fbc74a23421dedc.png","2233塔罗牌-我觉得星":"1aa7391b61aa7be88644db2672cd4603559f1469.png","2233塔罗牌-下次一定":"294690ac14a2adc6ee50b138229aa5c53636e46f.png","洛天依·夜航星-爷青回":"d1202872850a335b357e702adaf3d2a79db72e13.png","洛天依·夜航星-萌妹初醒":"3159931d9afa243c6cf5939753e3c82acb69a554.png","洛天依·夜航星-冲鸭":"659efad4a6aa25ed6a98efe611564c26f497f436.png","洛天依·夜航星-Lucky":"bbeb9d231773a168397697072a11373893d7c01a.png","洛天依·夜航星-锦鲤":"35ab588061c32f07743b07f1ac3f62a16f34438c.png","神乐七奈-变猫猫":"9f699c56da1178079b18be27dc3f219138e4a164.png","神乐七奈-辛苦辣":"7b22908d4afac2c0ad1ba96177ac7a24855f4a2e.png","2021拜年纪-投币":"d2d0a3a4621dede09506264110cefcbfa9561572.png","双鱼座-做白日梦":"ba03f95ebe480106806377024e0c93ddb9c0f836.png","崩坏3-吃饭团":"62173e795139cfaf60b5665165400e99bb8a14ac.png","崩坏3-饿了":"8b6160dfc5f8a8608e88bcb380f4e812b8a165cb.png","崩坏3-干杯":"8de5f3a1cc3dfd9f7be8f12662a489214d3e72fb.png","不问天-大哭":"aea0c17a62f825621a1273f100c17330180b7b01.png","进击的冰糖-探头":"ae834e6efdd568f7e30aec059a8646b75438d896.png","干物妹！小埋-？？？":"d2d0955e6ddf2d3528c6f2364b7002b114907c94.png","干物妹！小埋-抱抱":"f7d5a5150733a15386d98015114630e893f5281b.png","Hiiro-亲亲":"0b54433d978f51a7031a965f2981832129eb8ef5.png","C酱-问号":"4fb6f0d8fcedef1624c5999609036346748b31e2.png","C酱-AWSL":"4b8ac5c1fa7358d949ecfe089e02b252b29d6082.png","C酱-害怕":"f5f777b059df8c40cbc240586aeaf4f63af97f91.png","C酱-嘻嘻":"65cf8762af542e8a72edc466b05bb1a19600dc2d.png","C酱-不要啊":"86994300b58eb3cb91fc99818dd87a691deed564.png","一周年纪念-抱大腿":"0800070155b5dabc3097793c0e086420057a7e2f.png","咩栗-nya":"b8011132b40b4f9807523db3d21581f82c2dce91.png","咩栗-打call":"01b6ee0712d13daa323dbd89217018ea7f6794a5.png","咩栗-聪明":"750542d25fcf1675baf143c2ab7e945445e8b078.png","咩栗-好耶":"9aa9b53211a938c1859c15407cee57cc7519fefd.png","咩栗-惊":"8c4ecf43c895bc9ed23eea9274328ba6cf24481e.png","咩栗-咩？":"bb305147beb88a101061dff54cbcb9062635670b.png","咩栗-咩呀！":"a36a0973f1c9935577db05bc90b602dc61236c0f.png","咩栗-斯米马三":"a46bc117192aa2495c492acca03e27393258c015.png","咩栗-羊名立万":"8fd2b4174f94c1c9b7cf4cf132a54838db40ddff.png","咩栗-羊羊得意":"dd55311765d00d768acb157958e85413ae25578c.png","嘉然-mua":"74ea9b89f8923df6a123cabe6053762b9e776387.png","嘉然-安详":"312359401cc72c34fcea3654cdba42db0f9f3dd0.png","嘉然-暗中观察":"3acf0b43facfd0601f5ab88cca6e401aa4f5a02e.png","嘉然-锤头丧气":"e6342840311ffeba8f2c58d1c360d76644e75dff.png","嘉然-点赞":"7017d90d4ceb9ea042cef8adc70d35eeb1f95e7e.png","嘉然-嘉人们":"d270845c9590da372e9b311cd6d976459acd1087.png","嘉然-嘉速心动":"387035168f40ca81afce8b38303c60ceb0c5dc6c.png","嘉然-流口水":"78bfeff475ad56a6d9379164b099f1ad8ecd7086.png","嘉然-你好":"d1530f972a59bca97bc4b8acf4f7e16f989f37c3.png","嘉然-一眼真":"ff436f5821db8b871517d0e5bb7ade7b64d3d0bf.png","嘉然-绷不住了":"4f0a9ee7708d71083dba4e79768ff0b7c308eaf4.png","嘉然-笔芯":"332a6df0e6def8da77e09310a62f3bffdc397640.png","嘉然-我有嘉心糖":"7579c6085f984f39ff0f6a2cb710301a2b113fac.png","银杏鎏金-幸运喷雾":"89e550f628333fe35f0b010337bdc5c4bf713cfc.png","2022拜年纪-HAHA":"ece69ad87284eb12324572be2a9009c0bc5e65b8.png","2022拜年纪-比心":"5001d623ddbe81d704e0093343ced12e2b38a3db.png","2022拜年纪-不愧是我":"ab807d0265a5c834c0d4d54b676c54da4feb38ce.png","2022拜年纪-不要啊":"80a74addbae8dd5bccc71728181e1d7e11a79d19.png","2022拜年纪-馋":"5012311cfa88687663f636f044f020a611a49848.png","2022拜年纪-打call":"54f99d1e613b42b0241a7f7c9ef5d8f5331fc754.png","2022拜年纪-瞪大双眼":"7def07a3a1829c7e26cfa6a3f1259fe3f9b9d4d3.png","2022拜年纪-放空":"823ea6f47ef1dda2d85317f635dc7d42a58c1545.png","2022拜年纪-干了这杯":"de06e28d6afee561556c6e3cbd199d21f4e4fd09.png","2022拜年纪-哈？":"206ddfebe778cf4f4c2c3f6f87330db32d4e1708.png","2022拜年纪-擦擦":"7b5fb834faccffe090db5ae3406468a306018bfd.png","2022拜年纪-哭哭":"365002e8c6007564b92fe4eb7ab0f815e988995e.png","2022拜年纪-捂脸":"380d5814aa70370f57f990ab68b4cd2a195830a6.png","2022拜年纪-恰柠檬":"5d2e17818c67eaff2de2890d808cc1f7a2bb8232.png","2022拜年纪-无情吃瓜":"3342b9aa0c6fc6f7ddfec0bcc611fa4ea6987c60.png","2022拜年纪-眼前一黑":"9cf5e735e64525c59f26ccbcb4ddf6ba5a29ed11.png","2022拜年纪-星星眼":"ef49e822e72ced75f71950f4c296192dae543486.png","2022拜年纪-晕":"460d02950b4d676604e9d4686fa769a866d21191.png","拜年纪2022-火了":"20ee37d0695247f6f32e71de264fe7e955d74835.png","月隐空夜-咕咕咕":"df59993b9ea4255e8666bd417f75b3857bd67627.png","月隐空夜-回家了":"3c796d34b61c18fd1d03443a4a144c1133859600.png","月隐空夜-欧拉":"36465ab94e113a0557cff76bed5c6266277430f3.png","月隐空夜-欧气满满":"fce384d8ad9dd6ba2b87e6a8c6fec1e3f8576984.png","月隐空夜-天才":"542eaddb1b04f85a04068f31bfe1c133a5270a66.png","月隐空夜-完了":"1289c9f89244342b83f784d3bf6c18dcd548f1e3.png","新月冰冰!-心脏骤停":"04f0e3087d39629079bbfc7f2b2d0e3cdd3eada6.png","新月冰冰!-加油":"46be9e14a41ec1f392240c5c7f3006cbff5b3744.png","新月冰冰!-不可以色色":"116f93998c4c50a8c801103b9037f793f936a896.png","新月冰冰!-大哭":"50a0ad849ffae469cd376f5e4afeb0ab64b74887.png","新月冰冰!-单推":"542fbbc36493831ec98ed64b51d60a1191afa63e.png","新月冰冰!-诶嘿":"dae8436e7042b1440748993da11d5c93e55e0c13.png","新月冰冰!-给花花":"fac1c332932004b3922e19b1d8f20208ddb7ea23.png","新月冰冰!-滑稽":"c2dfb168f43d334ff291042e81ddf80a8a059913.png","新月冰冰!-开车":"83630b278dd62d2dde701021d98be2d5fcbf00f3.png","新月冰冰!-穷醒":"9cc02af9592ceceb795006cf2611b4a423ec4a19.png","新月冰冰!-谢谢老板":"ddc6b7389787bec178ab24eb842ee949d2d79be2.png","新月冰冰!-kira":"f50869288aa706cf9f1aa9e5d3f7274eac558f68.png","Hiiro二周年-吃瓜":"f5dd831cd8dc9fc93a8cf21247f2e1bdbfa65eff.png","Hiiro二周年-大的要来了":"7cb1ccd578c1946ff68cbcf55add6527cc7826e1.png","Hiiro二周年-好耶":"3250844f983fad2e8888a69f9438a925492630b1.png","Hiiro二周年-坏女人":"74f02465c6c057aebb0df5cb3ab785616b5f077b.png","Hiiro二周年-击剑":"3212b33d39221df349dea0695701bbce07971b00.png","Hiiro二周年-寄":"22ce9c662192d858231ffd02190db7338e0b6e8c.png","Hiiro二周年-辣眼睛":"8ea839758e87947326711297ca7c08a9ad3af906.png","Hiiro二周年-流口水":"0648c8bf4f3836de0902b4ab8e9b1c1b68505a5e.png","Hiiro二周年-麻了":"a7b0deef902b639e40c9b4dc3d3a9df5793cf538.png","Hiiro二周年-无语":"5a61e12360c94b413fa6d370829b8d7f4733c897.png","Hiiro二周年-吓":"cbaca277bcc77739abf41bfc5c377b61ff8527d9.png","Hiiro二周年-两眼一黑":"9b6d393c8f9248e9f8ea8e1d075cc88a300972f3.png","崩坏学园2-好耶":"f1fe88c6d201f2b5d91ad70bcad15288d4569f00.png","崩坏学园2-偷瞄":"31406161e268ab3a3ae24befacc64ab9812d478b.png","崩坏学园2-乖巧":"fb397421eaea8f271acfe135a8dc49bffa7605be.png","扶桑大红花-疑惑":"5d3d9164fd05da8a1690d7a1dff210bdf822a64d.png","崩坏3-幸福":"714cc90d3485a003f53eecec336bea8a0b2dc12d.png","扶桑大红花-略略略":"e1fd8c1f6947c94e3227e7f7afe8de61aa277a24.png","扶桑大红花-生气":"6adad591921aa4d51a8399b6efdf18f84e7144f6.png","扶桑大红花-好诶":"1acaf75c1f900e827922169b8512a5c38695f620.png","扶桑大红花-啪":"0f06e1363cbfd72ed411c2385f3c64d098fdac18.png","扶桑大红花-入脑":"6b343b588735140442460054a4b64e81a6ee9dd9.png","扶桑大红花-不行":"b21a234b272c952b012af2cfa097693b126bd445.png","扶桑大红花-rua":"50053d5c3c485fda2c110ed0874a6a5a2d7f1dff.png","暹罗猫小豆泥-抱大腿":"1e309b348e969e7ff1c7d873352799a2005494d5.png","暹罗猫小豆泥-惊讶":"d6024fd52d7e66241062c045559974e2a4c6e87f.png","暹罗猫小豆泥-哭":"9153d549e425cc02eb911695fff29cb59b338da0.png","暹罗猫小豆泥-探头":"4741a1d527c52365850368b2f480d5818b23cb8f.png","小可学妹-老板大气":"f5fadc61fd4da10fca13cc352e9a37663c21daf6.png","小可学妹-好热":"6892a3b67b1968c550fdd110e9ff8f995973a44b.png","小可学妹-两眼一黑":"66b17fa948ce00a66f260b202dff5bb943103c6c.png","Akie秋绘-可爱":"d1e9aeb4fee6a64e1cbc17c6fe129d3b74e41f50.png","Akie秋绘-哭哭":"06fb34e4d4d33477fcbf13cb5d8327c2bd746e76.png","天涯明月刀伙伴-？？？":"6b7815e08667c6fd7905b7c640c5b46b2bc4dec0.png","天涯明月刀伙伴-馋":"0467b117ad55f21d2b13b8230dc28bc06039d842.png","天涯明月刀伙伴-emo":"8b0cf44f7311445e1590391c7a091a664bad353b.png","祖娅纳惜生贺-懒":"97029c26e7b2700dd30f9ac53842e4806872f262.png","祖娅纳惜生贺-泪奔":"1486e90eea32c556b21a8a0c9474cb8b04f04eae.png","祖娅纳惜生贺-恰饭":"780146c9ea1b35d7b8efad3de8a6a153d42d760e.png","祖娅纳惜生贺-生气":"115705216f64896f40b0bab9ee0b127c315e3721.png","祖娅纳惜生贺-晚安":"1e6f9b96f9ed121928e4bbaa27a4263156b48d3d.png","星瞳-星想事成":"23dcbf6168d8befa79856764d1a4036662786063.png","请吃红小豆吧-吃薯片":"35aeeddf6f0c96dec6652e6050e34626d6cfdcbf.png","请吃红小豆吧-发呆":"ffdc8f1ab56c4d9ccc6a35a7a6bb7092df93f231.png","请吃红小豆吧-告辞":"463fb9facfa0d4700b001ef9365e7253f80a0459.png","请吃红小豆吧-害羞":"7e1ae398526c28926767fda86bf41ba6f6d6e7b4.png","请吃红小豆吧-好耶":"905662fe86b316d361a37e64c6d753ee6efb1d2e.png","请吃红小豆吧-坏笑":"9ff8ab26feeb0a7f65c698825192cbbee417dcd3.png","请吃红小豆吧-泪目":"41f2e34af7e0c3cdd726dadbc8933f21f01d1c13.png","请吃红小豆吧-摸摸头":"7fe816a29961559ac6248274087de14b3447f3f2.png","请吃红小豆吧-哇":"be9352ed161a0d0aa222986b5610802bbf18e5a6.png","请吃红小豆吧-我很好":"ad9d73e683990c86e06be15e0187c930826de644.png","请吃红小豆吧-在吗":"865566aa175609d7a018436046407199a4e2b51a.png","请吃红小豆吧-糟糕":"8c8372a8fc9655e1559a764afe3d769fa141c96e.png","请吃红小豆吧-啧":"b033a8a098bb321a6220cd10a534322a7ea94aad.png","最后的召唤师-吃瓜":"72007fc6e0cbc2b2c13b8c3971e333708024785a.png","最后的召唤师-摸摸":"808b65dddecd55c06bde59080823f60030b6be98.png","最后的召唤师-歇歇":"63e50835bad0184129e9382df435efbf6b29a3b0.png","眞白花音-打call":"e3957fbe286f694f215fafdcc6597c9a9cc3a5ae.png","眞白花音-大头":"8cf7b3d9e9b81017d6d616b643373bf57b516ec5.png","眞白花音-对不起":"b12fa885dc14cdc73cdb71f69f70a54350316d92.png","雪绘-比心":"892ec2ea31bae16044c683b68b4744fda62f1eff.png","坎公骑冠剑-YYDS":"207ad2f10f32e138c29761fd3526877e2210c2e2.png","坎公骑冠剑-唱歌":"46dbf43a57841ae840e21e8678b7daa58935a26e.png","坎公骑冠剑-吃鸡腿":"db344ad0fd23621beecb7db3abb7567156bfb8f4.png","坎公骑冠剑-出来玩":"485be2a946e954ba886b50b8ba1033accb056071.png","坎公骑冠剑-干杯":"25cab88e656ea009152ad6364df1b42065d1ffda.png","坎公骑冠剑-乖巧":"c9468c3a6dd02389b2e1364fba39f51efea9f247.png","坎公骑冠剑-惊叹":"30ed9cd688e17cc6c54f7b969b6e89b74580a5db.png","坎公骑冠剑-嗯!":"9d7f7dff618d4fbcb99cfef30141e37105179044.png","坎公骑冠剑-你还好吗":"d48c0e8ef71bc2af28d25ac390c67a9f08533517.png","坎公骑冠剑-你在干嘛":"4521901b073665c42f76a50b07acb19a2d3459bf.png","坎公骑冠剑-欧气传输":"e8f1308e982c818a6d7a6b4ff3ef5d92c24f4fe0.png","坎公骑冠剑-送花":"9fb76616e1cdf524bc254f2b8873b83d43e03b87.png","坎公骑冠剑-哇":"a737de02e1952f2841916cff82e73009f9946dec.png","坎公骑冠剑-晚安":"c223ba1967dd328307f74e2b58f815acb3232cf9.png","坎公骑冠剑-妖妖灵":"2c8eee463117bec38f38d6cf6873d333aa9660a5.png","永雏塔菲-不理你了":"ec38a461c767fd0f4dee7346f82d81e5a88b176c.png","永雏塔菲-嘲笑":"094c321f0829f0894f48195d6671358a1a43b53c.png","永雏塔菲-对呀对呀":"37afa9e099d0c2ca9a4f3ff7d599e86060d6b942.png","永雏塔菲-尴尬":"71a5b730a3c20ddac64f8e7803ffc00da97f7397.png","永雏塔菲-哈哈哈":"b1f89d85b9c9f8553fe021c1e5785bc2995f8751.png","永雏塔菲-累":"889f95e3b36f257cb6b68f420b8238a11c596d19.png","永雏塔菲-摸头":"a826477acfa607224dd4a6771431af3b18ee8f92.png","永雏塔菲-亲嘴":"ce2123ec6b4f15eb8dfc2467f36fa3d69f2f97cd.png","永雏塔菲-闪亮登场":"c7eff8db64b132e6757bacdd51e649e16965f6b9.png","永雏塔菲-生日快乐":"9daed0ba16c89f983c7fcfa38e2bc8d1b80f7957.png","永雏塔菲-太好吃了":"86b760ed0a466b5dc3fa0b1e64b9ba7d6b53b6ed.png","永雏塔菲-嘻嘻喵":"866c99dbf6cb5e054e8e94be60c1b37ff4581eaa.png","永雏塔菲-星星眼":"bf3e961a1c3d4edf5ebdd063418495a1ed4c865f.png","永雏塔菲-嘤嘤嘤":"ba43546b013efffa7821dc21df6c79490cbafe72.png","永雏塔菲-有鬼":"b33d0672a01810a6b26696bf4a56204dadd5ff31.png","永雏塔菲-晕了":"d395fd944642b882a9226db81dcfa2e80307461c.png","永雏塔菲-震惊":"36bea35a3a15b675b2f5f28529582f82cf65b1c9.png","奈姬niki-微笑":"6fdc161f1086c522d90e684639a3bd1c48837507.png","奈姬niki-我超":"8d6d65fa2764084fd17fd18bef5a2bbc58f044f4.png","奈姬niki-无语":"33479daa29101a0846d7735cd5fba0d847be6e51.png","奈姬niki-谢谢":"8eaca252ea780a992261b4f9df7a4e170cfd71f1.png","有栖mana-打call":"0572afd470f86cc73cd5a1dff047cd22b620f336.png","有栖mana-喝可乐":"7788e653641e40f5043267aa6f73afbd73f5dd73.png","有栖mana-嘿嘿嘿嘿":"0500a6063e9828ce5002f0d796b19569db7ea63c.png","有栖mana-你好":"0d1575f7203eaf1705cc1104eaf7c02983cae9f0.png","有栖mana-辛苦了":"1893dad434a59c1f5e9c70e1440a6b323a92c3c6.png","有栖mana-炸毛":"f8d86249f486e3e0eb0b601bdf9994cb76634538.png","有栖mana-做什么？":"eb2eb12a288287b4f46d7a4dbeb71ec645810726.png","幻塔-害羞":"7868841b13f2067418c34becd73fde4be8a8bdfe.png","鹿乃桜帆-早上好":"1b58aba1d2e1372a8c4b7e49cb420db738bce414.png","鹿乃桜帆-恭喜":"584dae2f7faf4ee160c389e4ba0eebfb26aeb910.png","鹿乃桜帆-惊":"b945fc60b60467fc80b1e18ba4ea6d8c7b3ae0f9.png","鹿乃桜帆-期待":"5ae064b9deefdce14129d24659f0ee605a0e341b.png","鹿乃桜帆-神":"863c349b44abb098fecac479772f23ef1edd10f5.png","鹿乃桜帆-3Q":"9bee9ccc87c3ffe392e5572c4f67dae92a031e35.png","尼奈-妙!！":"3c2439d868818711b6c2cee035c4d51818c07c99.png","蕾尔娜Leona-反弹":"bc82f5b4e8525efeac017a1a9a3ea94d811d4463.png","蕾尔娜Leona-好耶":"f5269730d3156ba2a6cbe5c127d65753b3143f81.png","约战4-疑惑":"9174bde1afdde014a1b066c1bbb3027dc8dbb834.png","夏日青春欧皇套装-谢谢老板":"ca607626747f23cf37dbe8bb81397985dcb0ab17.png","夏日限定宅家手册-期待":"aaf3de49543253272e7eaeabff07ef0d162db67a.png","夏日限定宅家手册-重在参与":"aeafdb2f36c2cfde1ff4dadfecde48241ee31f15.png"},"el":"#valine-comments","path":"/interview-skills/"}</script>
+<script class="next-config" data-name="valine" type="application/json">{"enable":true,"appId":"zulMeib4pyC6zB1a65OmVtHz-gzGzoHsz","appKey":"TEjUlOUBz3KwSUmDQ35ROxpw","serverURLs":"https://zulmeib4.lc-cn-n1-shared.com","placeholder":"说点什么好呢~","avatar":"wavatar","meta":["nick","mail","link"],"pageSize":10,"lang":null,"visitor":false,"comment_count":true,"recordIP":false,"enableQQ":true,"requiredFields":[],"emojiCDN":"//i0.hdslb.com/bfs/emote/","emojiMaps":{"团宝":"311f83d568e2fd702b08f40d4c838572a07ebea0.png","少前小剧场-心虚":"61ea3a788ec43241860ed984672eb588963bc98a.png","少前小剧场-卖萌":"bbe8c979922144e667efd63dcce0320437425a00.png","泠鸢yousa-打call":"718e9495846db4172eb87d2f7f02015a34d35ea2.png","泠鸢yousa-大哭":"3f757b147b9b1e201470eae7dac9cc0360172569.png","泠鸢yousa-好人卡":"e3907b3bb20b18e7ecb11cd86829c9a4ce5b1b2f.png","泠鸢yousa-加大力度":"a0393a2d4b522f07a319dfd2e91754a3cdff2c48.png","泠鸢yousa-滑稽":"a8057c0e0579b93c16010a270e261fd0a64034af.png","泠鸢yousa-请吃桃":"e92276d9d8c28f85f7dbcc0fbbb6ecb3345ce33e.png","泠鸢yousa-生气":"9e6ba9ff34101e04d3e321cad486f845f892050e.png","泠鸢yousa-真棒":"02ea49543a3ac52feee185c156ab08fb2bfdd89e.png","初音未来-GKD":"44caa7ec800837d8860482c214ac792f4c37c490.png","初音未来-加油":"4943a9be0a3134125c7d585b4dafde79a9a1990a.png","初音未来-哭了":"db9b01e5808967a32ed644b490ab47faf0f29ce3.png","花园Serena-？？？":"42f7ab2a562d000929979976d30669bec042662f.png","花园Serena-安详去世":"cdf595646132b98dcf1d230d351b2738d68f49c3.png","花园Serena-mua":"20319d3948da83f666a643b2c8103e6da0e36721.png","花园Serena-到点了":"af2f6c0dd1155f4aefb610cc6d09c135df9e6752.png","花园Serena-恭喜":"c1d8361755bb135d24b3b4680fe6ba03c086b395.png","花园Serena-喵":"4159859e6c9c2e0476299454b6015c2659149e3c.png","花园Serena-睡":"ae8ad8fd2a8d14e53938ba7dc7ca22681143dc09.png","白上吹雪-狐狐祟祟":"14f8be6955ee392baccd7d82b4371765a0c18523.png","白上吹雪-摸摸":"218cc0fb954a3dadde61eed03e3a376f277f36ee.png","白上吹雪-一派狐言":"7d504e583857d68edf4fe0706be0b426f0d3cfb1.png","白上吹雪-emmm":"709bc019cf7960d9dcb40a0d5a444f8a78e376d3.png","原神-哦":"4b8b6f0e451c600abf2d83560125d03cfa97fe28.png","原神-哼哼":"62d09fa482842dabbd4a51176abc0ec20a64a359.png","原神-干杯":"966f0b307bf4d07e81162dc32bf1e71c83bf997a.png","原神-吃惊":"d8d07498a567ea109a8fc4b58ffccdc33643cd99.png","2233塔罗牌-撒花":"0d301be888e87aed6cc8e6548fbc74a23421dedc.png","2233塔罗牌-我觉得星":"1aa7391b61aa7be88644db2672cd4603559f1469.png","2233塔罗牌-下次一定":"294690ac14a2adc6ee50b138229aa5c53636e46f.png","洛天依·夜航星-爷青回":"d1202872850a335b357e702adaf3d2a79db72e13.png","洛天依·夜航星-萌妹初醒":"3159931d9afa243c6cf5939753e3c82acb69a554.png","洛天依·夜航星-冲鸭":"659efad4a6aa25ed6a98efe611564c26f497f436.png","洛天依·夜航星-Lucky":"bbeb9d231773a168397697072a11373893d7c01a.png","洛天依·夜航星-锦鲤":"35ab588061c32f07743b07f1ac3f62a16f34438c.png","神乐七奈-变猫猫":"9f699c56da1178079b18be27dc3f219138e4a164.png","神乐七奈-辛苦辣":"7b22908d4afac2c0ad1ba96177ac7a24855f4a2e.png","2021拜年纪-投币":"d2d0a3a4621dede09506264110cefcbfa9561572.png","双鱼座-做白日梦":"ba03f95ebe480106806377024e0c93ddb9c0f836.png","崩坏3-吃饭团":"62173e795139cfaf60b5665165400e99bb8a14ac.png","崩坏3-饿了":"8b6160dfc5f8a8608e88bcb380f4e812b8a165cb.png","崩坏3-干杯":"8de5f3a1cc3dfd9f7be8f12662a489214d3e72fb.png","不问天-大哭":"aea0c17a62f825621a1273f100c17330180b7b01.png","进击的冰糖-探头":"ae834e6efdd568f7e30aec059a8646b75438d896.png","干物妹！小埋-？？？":"d2d0955e6ddf2d3528c6f2364b7002b114907c94.png","干物妹！小埋-抱抱":"f7d5a5150733a15386d98015114630e893f5281b.png","Hiiro-亲亲":"0b54433d978f51a7031a965f2981832129eb8ef5.png","C酱-问号":"4fb6f0d8fcedef1624c5999609036346748b31e2.png","C酱-AWSL":"4b8ac5c1fa7358d949ecfe089e02b252b29d6082.png","C酱-害怕":"f5f777b059df8c40cbc240586aeaf4f63af97f91.png","C酱-嘻嘻":"65cf8762af542e8a72edc466b05bb1a19600dc2d.png","C酱-不要啊":"86994300b58eb3cb91fc99818dd87a691deed564.png","一周年纪念-抱大腿":"0800070155b5dabc3097793c0e086420057a7e2f.png","咩栗-nya":"b8011132b40b4f9807523db3d21581f82c2dce91.png","咩栗-打call":"01b6ee0712d13daa323dbd89217018ea7f6794a5.png","咩栗-聪明":"750542d25fcf1675baf143c2ab7e945445e8b078.png","咩栗-好耶":"9aa9b53211a938c1859c15407cee57cc7519fefd.png","咩栗-惊":"8c4ecf43c895bc9ed23eea9274328ba6cf24481e.png","咩栗-咩？":"bb305147beb88a101061dff54cbcb9062635670b.png","咩栗-咩呀！":"a36a0973f1c9935577db05bc90b602dc61236c0f.png","咩栗-斯米马三":"a46bc117192aa2495c492acca03e27393258c015.png","咩栗-羊名立万":"8fd2b4174f94c1c9b7cf4cf132a54838db40ddff.png","咩栗-羊羊得意":"dd55311765d00d768acb157958e85413ae25578c.png","嘉然-mua":"74ea9b89f8923df6a123cabe6053762b9e776387.png","嘉然-安详":"312359401cc72c34fcea3654cdba42db0f9f3dd0.png","嘉然-暗中观察":"3acf0b43facfd0601f5ab88cca6e401aa4f5a02e.png","嘉然-锤头丧气":"e6342840311ffeba8f2c58d1c360d76644e75dff.png","嘉然-点赞":"7017d90d4ceb9ea042cef8adc70d35eeb1f95e7e.png","嘉然-嘉人们":"d270845c9590da372e9b311cd6d976459acd1087.png","嘉然-嘉速心动":"387035168f40ca81afce8b38303c60ceb0c5dc6c.png","嘉然-流口水":"78bfeff475ad56a6d9379164b099f1ad8ecd7086.png","嘉然-你好":"d1530f972a59bca97bc4b8acf4f7e16f989f37c3.png","嘉然-一眼真":"ff436f5821db8b871517d0e5bb7ade7b64d3d0bf.png","嘉然-绷不住了":"4f0a9ee7708d71083dba4e79768ff0b7c308eaf4.png","嘉然-笔芯":"332a6df0e6def8da77e09310a62f3bffdc397640.png","嘉然-我有嘉心糖":"7579c6085f984f39ff0f6a2cb710301a2b113fac.png","银杏鎏金-幸运喷雾":"89e550f628333fe35f0b010337bdc5c4bf713cfc.png","2022拜年纪-HAHA":"ece69ad87284eb12324572be2a9009c0bc5e65b8.png","2022拜年纪-比心":"5001d623ddbe81d704e0093343ced12e2b38a3db.png","2022拜年纪-不愧是我":"ab807d0265a5c834c0d4d54b676c54da4feb38ce.png","2022拜年纪-不要啊":"80a74addbae8dd5bccc71728181e1d7e11a79d19.png","2022拜年纪-馋":"5012311cfa88687663f636f044f020a611a49848.png","2022拜年纪-打call":"54f99d1e613b42b0241a7f7c9ef5d8f5331fc754.png","2022拜年纪-瞪大双眼":"7def07a3a1829c7e26cfa6a3f1259fe3f9b9d4d3.png","2022拜年纪-放空":"823ea6f47ef1dda2d85317f635dc7d42a58c1545.png","2022拜年纪-干了这杯":"de06e28d6afee561556c6e3cbd199d21f4e4fd09.png","2022拜年纪-哈？":"206ddfebe778cf4f4c2c3f6f87330db32d4e1708.png","2022拜年纪-擦擦":"7b5fb834faccffe090db5ae3406468a306018bfd.png","2022拜年纪-哭哭":"365002e8c6007564b92fe4eb7ab0f815e988995e.png","2022拜年纪-恰柠檬":"5d2e17818c67eaff2de2890d808cc1f7a2bb8232.png","2022拜年纪-无情吃瓜":"3342b9aa0c6fc6f7ddfec0bcc611fa4ea6987c60.png","2022拜年纪-眼前一黑":"9cf5e735e64525c59f26ccbcb4ddf6ba5a29ed11.png","2022拜年纪-星星眼":"ef49e822e72ced75f71950f4c296192dae543486.png","2022拜年纪-晕":"460d02950b4d676604e9d4686fa769a866d21191.png","拜年纪2022-火了":"20ee37d0695247f6f32e71de264fe7e955d74835.png","月隐空夜-咕咕咕":"df59993b9ea4255e8666bd417f75b3857bd67627.png","月隐空夜-回家了":"3c796d34b61c18fd1d03443a4a144c1133859600.png","月隐空夜-欧拉":"36465ab94e113a0557cff76bed5c6266277430f3.png","月隐空夜-欧气满满":"fce384d8ad9dd6ba2b87e6a8c6fec1e3f8576984.png","月隐空夜-天才":"542eaddb1b04f85a04068f31bfe1c133a5270a66.png","月隐空夜-完了":"1289c9f89244342b83f784d3bf6c18dcd548f1e3.png","新月冰冰!-心脏骤停":"04f0e3087d39629079bbfc7f2b2d0e3cdd3eada6.png","新月冰冰!-加油":"46be9e14a41ec1f392240c5c7f3006cbff5b3744.png","新月冰冰!-不可以色色":"116f93998c4c50a8c801103b9037f793f936a896.png","新月冰冰!-大哭":"50a0ad849ffae469cd376f5e4afeb0ab64b74887.png","新月冰冰!-单推":"542fbbc36493831ec98ed64b51d60a1191afa63e.png","新月冰冰!-诶嘿":"dae8436e7042b1440748993da11d5c93e55e0c13.png","新月冰冰!-给花花":"fac1c332932004b3922e19b1d8f20208ddb7ea23.png","新月冰冰!-滑稽":"c2dfb168f43d334ff291042e81ddf80a8a059913.png","新月冰冰!-开车":"83630b278dd62d2dde701021d98be2d5fcbf00f3.png","新月冰冰!-穷醒":"9cc02af9592ceceb795006cf2611b4a423ec4a19.png","新月冰冰!-谢谢老板":"ddc6b7389787bec178ab24eb842ee949d2d79be2.png","新月冰冰!-kira":"f50869288aa706cf9f1aa9e5d3f7274eac558f68.png","Hiiro二周年-吃瓜":"f5dd831cd8dc9fc93a8cf21247f2e1bdbfa65eff.png","Hiiro二周年-大的要来了":"7cb1ccd578c1946ff68cbcf55add6527cc7826e1.png","Hiiro二周年-好耶":"3250844f983fad2e8888a69f9438a925492630b1.png","Hiiro二周年-坏女人":"74f02465c6c057aebb0df5cb3ab785616b5f077b.png","Hiiro二周年-击剑":"3212b33d39221df349dea0695701bbce07971b00.png","Hiiro二周年-寄":"22ce9c662192d858231ffd02190db7338e0b6e8c.png","Hiiro二周年-辣眼睛":"8ea839758e87947326711297ca7c08a9ad3af906.png","Hiiro二周年-流口水":"0648c8bf4f3836de0902b4ab8e9b1c1b68505a5e.png","Hiiro二周年-麻了":"a7b0deef902b639e40c9b4dc3d3a9df5793cf538.png","Hiiro二周年-无语":"5a61e12360c94b413fa6d370829b8d7f4733c897.png","Hiiro二周年-吓":"cbaca277bcc77739abf41bfc5c377b61ff8527d9.png","Hiiro二周年-两眼一黑":"9b6d393c8f9248e9f8ea8e1d075cc88a300972f3.png","崩坏学园2-好耶":"f1fe88c6d201f2b5d91ad70bcad15288d4569f00.png","崩坏学园2-偷瞄":"31406161e268ab3a3ae24befacc64ab9812d478b.png","崩坏学园2-乖巧":"fb397421eaea8f271acfe135a8dc49bffa7605be.png","扶桑大红花-疑惑":"5d3d9164fd05da8a1690d7a1dff210bdf822a64d.png","崩坏3-幸福":"714cc90d3485a003f53eecec336bea8a0b2dc12d.png","扶桑大红花-略略略":"e1fd8c1f6947c94e3227e7f7afe8de61aa277a24.png","扶桑大红花-生气":"6adad591921aa4d51a8399b6efdf18f84e7144f6.png","扶桑大红花-好诶":"1acaf75c1f900e827922169b8512a5c38695f620.png","扶桑大红花-啪":"0f06e1363cbfd72ed411c2385f3c64d098fdac18.png","扶桑大红花-入脑":"6b343b588735140442460054a4b64e81a6ee9dd9.png","扶桑大红花-不行":"b21a234b272c952b012af2cfa097693b126bd445.png","扶桑大红花-rua":"50053d5c3c485fda2c110ed0874a6a5a2d7f1dff.png","暹罗猫小豆泥-抱大腿":"1e309b348e969e7ff1c7d873352799a2005494d5.png","暹罗猫小豆泥-惊讶":"d6024fd52d7e66241062c045559974e2a4c6e87f.png","暹罗猫小豆泥-哭":"9153d549e425cc02eb911695fff29cb59b338da0.png","暹罗猫小豆泥-探头":"4741a1d527c52365850368b2f480d5818b23cb8f.png","小可学妹-老板大气":"f5fadc61fd4da10fca13cc352e9a37663c21daf6.png","小可学妹-好热":"6892a3b67b1968c550fdd110e9ff8f995973a44b.png","小可学妹-两眼一黑":"66b17fa948ce00a66f260b202dff5bb943103c6c.png","Akie秋绘-可爱":"d1e9aeb4fee6a64e1cbc17c6fe129d3b74e41f50.png","Akie秋绘-哭哭":"06fb34e4d4d33477fcbf13cb5d8327c2bd746e76.png","天涯明月刀伙伴-？？？":"6b7815e08667c6fd7905b7c640c5b46b2bc4dec0.png","天涯明月刀伙伴-馋":"0467b117ad55f21d2b13b8230dc28bc06039d842.png","天涯明月刀伙伴-emo":"8b0cf44f7311445e1590391c7a091a664bad353b.png","祖娅纳惜生贺-懒":"97029c26e7b2700dd30f9ac53842e4806872f262.png","祖娅纳惜生贺-泪奔":"1486e90eea32c556b21a8a0c9474cb8b04f04eae.png","祖娅纳惜生贺-恰饭":"780146c9ea1b35d7b8efad3de8a6a153d42d760e.png","祖娅纳惜生贺-生气":"115705216f64896f40b0bab9ee0b127c315e3721.png","祖娅纳惜生贺-晚安":"1e6f9b96f9ed121928e4bbaa27a4263156b48d3d.png","星瞳-星想事成":"23dcbf6168d8befa79856764d1a4036662786063.png","请吃红小豆吧-吃薯片":"35aeeddf6f0c96dec6652e6050e34626d6cfdcbf.png","请吃红小豆吧-发呆":"ffdc8f1ab56c4d9ccc6a35a7a6bb7092df93f231.png","请吃红小豆吧-告辞":"463fb9facfa0d4700b001ef9365e7253f80a0459.png","请吃红小豆吧-害羞":"7e1ae398526c28926767fda86bf41ba6f6d6e7b4.png","请吃红小豆吧-好耶":"905662fe86b316d361a37e64c6d753ee6efb1d2e.png","请吃红小豆吧-泪目":"41f2e34af7e0c3cdd726dadbc8933f21f01d1c13.png","请吃红小豆吧-摸摸头":"7fe816a29961559ac6248274087de14b3447f3f2.png","请吃红小豆吧-哇":"be9352ed161a0d0aa222986b5610802bbf18e5a6.png","请吃红小豆吧-我很好":"ad9d73e683990c86e06be15e0187c930826de644.png","请吃红小豆吧-在吗":"865566aa175609d7a018436046407199a4e2b51a.png","请吃红小豆吧-糟糕":"8c8372a8fc9655e1559a764afe3d769fa141c96e.png","请吃红小豆吧-啧":"b033a8a098bb321a6220cd10a534322a7ea94aad.png","最后的召唤师-吃瓜":"72007fc6e0cbc2b2c13b8c3971e333708024785a.png","最后的召唤师-摸摸":"808b65dddecd55c06bde59080823f60030b6be98.png","眞白花音-打call":"e3957fbe286f694f215fafdcc6597c9a9cc3a5ae.png","眞白花音-大头":"8cf7b3d9e9b81017d6d616b643373bf57b516ec5.png","眞白花音-对不起":"b12fa885dc14cdc73cdb71f69f70a54350316d92.png","雪绘-比心":"892ec2ea31bae16044c683b68b4744fda62f1eff.png","坎公骑冠剑-YYDS":"207ad2f10f32e138c29761fd3526877e2210c2e2.png","坎公骑冠剑-唱歌":"46dbf43a57841ae840e21e8678b7daa58935a26e.png","坎公骑冠剑-吃鸡腿":"db344ad0fd23621beecb7db3abb7567156bfb8f4.png","坎公骑冠剑-出来玩":"485be2a946e954ba886b50b8ba1033accb056071.png","坎公骑冠剑-干杯":"25cab88e656ea009152ad6364df1b42065d1ffda.png","坎公骑冠剑-乖巧":"c9468c3a6dd02389b2e1364fba39f51efea9f247.png","坎公骑冠剑-惊叹":"30ed9cd688e17cc6c54f7b969b6e89b74580a5db.png","坎公骑冠剑-嗯!":"9d7f7dff618d4fbcb99cfef30141e37105179044.png","坎公骑冠剑-你还好吗":"d48c0e8ef71bc2af28d25ac390c67a9f08533517.png","坎公骑冠剑-你在干嘛":"4521901b073665c42f76a50b07acb19a2d3459bf.png","坎公骑冠剑-欧气传输":"e8f1308e982c818a6d7a6b4ff3ef5d92c24f4fe0.png","坎公骑冠剑-送花":"9fb76616e1cdf524bc254f2b8873b83d43e03b87.png","坎公骑冠剑-哇":"a737de02e1952f2841916cff82e73009f9946dec.png","坎公骑冠剑-晚安":"c223ba1967dd328307f74e2b58f815acb3232cf9.png","永雏塔菲-不理你了":"ec38a461c767fd0f4dee7346f82d81e5a88b176c.png","永雏塔菲-嘲笑":"094c321f0829f0894f48195d6671358a1a43b53c.png","永雏塔菲-对呀对呀":"37afa9e099d0c2ca9a4f3ff7d599e86060d6b942.png","永雏塔菲-尴尬":"71a5b730a3c20ddac64f8e7803ffc00da97f7397.png","永雏塔菲-哈哈哈":"b1f89d85b9c9f8553fe021c1e5785bc2995f8751.png","永雏塔菲-累":"889f95e3b36f257cb6b68f420b8238a11c596d19.png","永雏塔菲-摸头":"a826477acfa607224dd4a6771431af3b18ee8f92.png","永雏塔菲-亲嘴":"ce2123ec6b4f15eb8dfc2467f36fa3d69f2f97cd.png","永雏塔菲-闪亮登场":"c7eff8db64b132e6757bacdd51e649e16965f6b9.png","永雏塔菲-生日快乐":"9daed0ba16c89f983c7fcfa38e2bc8d1b80f7957.png","永雏塔菲-太好吃了":"86b760ed0a466b5dc3fa0b1e64b9ba7d6b53b6ed.png","永雏塔菲-嘻嘻喵":"866c99dbf6cb5e054e8e94be60c1b37ff4581eaa.png","永雏塔菲-星星眼":"bf3e961a1c3d4edf5ebdd063418495a1ed4c865f.png","永雏塔菲-嘤嘤嘤":"ba43546b013efffa7821dc21df6c79490cbafe72.png","永雏塔菲-有鬼":"b33d0672a01810a6b26696bf4a56204dadd5ff31.png","永雏塔菲-晕了":"d395fd944642b882a9226db81dcfa2e80307461c.png","永雏塔菲-震惊":"36bea35a3a15b675b2f5f28529582f82cf65b1c9.png","奈姬niki-无语":"33479daa29101a0846d7735cd5fba0d847be6e51.png","有栖mana-打call":"0572afd470f86cc73cd5a1dff047cd22b620f336.png","有栖mana-喝可乐":"7788e653641e40f5043267aa6f73afbd73f5dd73.png","有栖mana-嘿嘿嘿嘿":"0500a6063e9828ce5002f0d796b19569db7ea63c.png","有栖mana-你好":"0d1575f7203eaf1705cc1104eaf7c02983cae9f0.png","有栖mana-辛苦了":"1893dad434a59c1f5e9c70e1440a6b323a92c3c6.png","有栖mana-炸毛":"f8d86249f486e3e0eb0b601bdf9994cb76634538.png","有栖mana-做什么？":"eb2eb12a288287b4f46d7a4dbeb71ec645810726.png","幻塔-害羞":"7868841b13f2067418c34becd73fde4be8a8bdfe.png","鹿乃桜帆-早上好":"1b58aba1d2e1372a8c4b7e49cb420db738bce414.png","鹿乃桜帆-恭喜":"584dae2f7faf4ee160c389e4ba0eebfb26aeb910.png","鹿乃桜帆-惊":"b945fc60b60467fc80b1e18ba4ea6d8c7b3ae0f9.png","鹿乃桜帆-期待":"5ae064b9deefdce14129d24659f0ee605a0e341b.png","鹿乃桜帆-神":"863c349b44abb098fecac479772f23ef1edd10f5.png","鹿乃桜帆-3Q":"9bee9ccc87c3ffe392e5572c4f67dae92a031e35.png","尼奈-妙!！":"3c2439d868818711b6c2cee035c4d51818c07c99.png","蕾尔娜Leona-反弹":"bc82f5b4e8525efeac017a1a9a3ea94d811d4463.png","蕾尔娜Leona-好耶":"f5269730d3156ba2a6cbe5c127d65753b3143f81.png","约战4-疑惑":"9174bde1afdde014a1b066c1bbb3027dc8dbb834.png","夏日青春欧皇套装-谢谢老板":"ca607626747f23cf37dbe8bb81397985dcb0ab17.png","夏日限定宅家手册-期待":"aaf3de49543253272e7eaeabff07ef0d162db67a.png","夏日限定宅家手册-重在参与":"aeafdb2f36c2cfde1ff4dadfecde48241ee31f15.png"},"el":"#valine-comments","path":"/interview-skills/"}</script>
 <script>
 document.addEventListener('page:loaded', () => {
   NexT.utils.loadComments(CONFIG.valine.el)
