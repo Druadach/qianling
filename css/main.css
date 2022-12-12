@@ -2950,7 +2950,7 @@ mark.search-keyword {
   vertical-align: middle;
 }
 .links-of-author a::before {
-  background: #c93e2e;
+  background: #4da8ff;
   display: inline-block;
   margin-right: 3px;
   transform: translateY(-2px);
@@ -3131,7 +3131,7 @@ a {
   padding-bottom: 20px;
 }
 .sidebar-inner.sidebar-blogroll {
-  margin-top: 20px;
+  margin-top: 10px;
 }
 .post-block:first-of-type {
   padding-top: 30px;
