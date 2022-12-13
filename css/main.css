@@ -2974,7 +2974,7 @@ mark.search-keyword {
   vertical-align: middle;
 }
 .links-of-author a::before {
-  background: #ff0353;
+  background: #b99cff;
   display: inline-block;
   margin-right: 3px;
   transform: translateY(-2px);
@@ -3206,6 +3206,16 @@ a {
   .post-sticky-flag {
     display: none;
   }
+}
+.links-of-blogroll-title {
+  font-size: 1.6rem !important;
+  text-align: left;
+}
+.popular-posts .popular-posts-item {
+  font-size: 1.125rem !important;
+  display: list-item;
+  margin-left: 30px;
+  color: #222;
 }
 .post-copyright {
   margin: 2em 0 0;
