@@ -2974,7 +2974,7 @@ mark.search-keyword {
   vertical-align: middle;
 }
 .links-of-author a::before {
-  background: #53369f;
+  background: #ffbe5e;
   display: inline-block;
   margin-right: 3px;
   transform: translateY(-2px);
@@ -3216,7 +3216,11 @@ a {
   display: list-item;
   margin-left: 20px;
   color: #222;
-  padding: 5px 0px;
+  padding: 0;
+}
+.links-of-blogroll.animated.fadeInRight .links-of-blogroll-title {
+  font-size: 1.025rem !important;
+  text-align: center;
 }
 .post-copyright {
   margin: 2em 0 0;
@@ -3646,17 +3650,6 @@ span.wp-star {
 .local-search-popup #local-search-result {
   background-color: #f7f8f5;
 }
-.popular-posts-header {
-  font-size: 1.5em;
-  font-weight: bold;
-  border-bottom: none;
-}
-ul.popular-posts {
-  list-style: circle;
-}
-li.popular-posts-item {
-  font-size: 1.25em;
-}
 @media (max-width: 767px) {
   h1 {
     font-size: -0.6875em;
@@ -3736,6 +3729,9 @@ li.popular-posts-item {
   }
   .btn:hover {
     background: #1a1919;
+  }
+  .popular-posts .popular-posts-item {
+    color: #ccc;
   }
   .post-nav,
   .post-widgets {
