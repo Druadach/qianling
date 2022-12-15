@@ -27,17 +27,17 @@
 <meta property="og:url" content="https://qianling.pw/service-worker/index.html">
 <meta property="og:site_name" content="千灵">
 <meta property="og:locale" content="zh_CN">
-<meta property="og:image" content="https://qianling.pw/images/covers/6.png">
-<meta property="og:image" content="https://qianling.pw/images/posts/service-worker/service-worker1.png">
-<meta property="og:image" content="https://qianling.pw/images/posts/service-worker/service-worker2.png">
-<meta property="og:image" content="https://qianling.pw/images/posts/service-worker/service-worker3.png">
+<meta property="og:image" content="https://qianling.pw/images/covers/6.webp">
+<meta property="og:image" content="https://qianling.pw/images/posts/service-worker/service-worker1.webp">
+<meta property="og:image" content="https://qianling.pw/images/posts/service-worker/service-worker2.webp">
+<meta property="og:image" content="https://qianling.pw/images/posts/service-worker/service-worker3.webp">
 <meta property="article:published_time" content="2018-02-01T10:18:43.000Z">
 <meta property="article:modified_time" content="2020-02-18T11:26:31.000Z">
 <meta property="article:author" content="千灵夙赋">
 <meta property="article:tag" content="Hexo">
 <meta property="article:tag" content="前端">
 <meta name="twitter:card" content="summary">
-<meta name="twitter:image" content="https://qianling.pw/images/covers/6.png">
+<meta name="twitter:image" content="https://qianling.pw/images/covers/6.webp">
 
 
 <link rel="canonical" href="https://qianling.pw/service-worker/">
@@ -222,7 +222,7 @@ if( !/Android|webOS|iPhone|iPod|iPad|BlackBerry/i.test(navigator.userAgent)){
   <nav class="site-state">
       <div class="site-state-item site-state-posts">
         <a href="/archives/">
-          <span class="site-state-item-count">210</span>
+          <span class="site-state-item-count">211</span>
           <span class="site-state-item-name">日志</span>
         </a>
       </div>
@@ -403,7 +403,7 @@ var ap = new APlayer({
     
     
     <div class="post-body" itemprop="articleBody">
-        <p><img data-src="/images/covers/6.png"></p>
+        <p><img data-src="/images/covers/6.webp"></p>
 <span id="more"></span>
 
 <hr>
@@ -426,7 +426,7 @@ var ap = new APlayer({
 <p><span style="color:#3a87ad;font-weight:600">注：</span></p>
 <p>将<code>sw.js</code>文件放在网站的根目录下，Service Worker 将会收到网站的所有 fetch 事件。</p>
 <p>如果将 Service Worker 文件注册为<code>/example/sw.js</code>，那么，Service Worker 只能收到<code>/example/</code>路径下的 fetch 事件（例如： <code>/example/page1/</code>, <code>/example/page2/</code>）<br><br /></p>
-<h2 id="2-设定缓存规则"><a href="#2-设定缓存规则" class="headerlink" title="2. 设定缓存规则"></a><span style="color:#2aa198">2. 设定缓存规则</span></h2><p>请打开<code>开发者工具-Source</code>自行定义<br><img data-src="/images/posts/service-worker/service-worker1.png"></p>
+<h2 id="2-设定缓存规则"><a href="#2-设定缓存规则" class="headerlink" title="2. 设定缓存规则"></a><span style="color:#2aa198">2. 设定缓存规则</span></h2><p>请打开<code>开发者工具-Source</code>自行定义<br><img data-src="/images/posts/service-worker/service-worker1.webp"></p>
 <h3 id="①载入-sw-toolbox-js-与定义缓存版本、名称、最大缓存数量"><a href="#①载入-sw-toolbox-js-与定义缓存版本、名称、最大缓存数量" class="headerlink" title="①载入 sw-toolbox.js 与定义缓存版本、名称、最大缓存数量"></a><span style="color:#2aa198">①载入 sw-toolbox.js 与定义缓存版本、名称、最大缓存数量</span></h3><p><span style="color:#3a87ad;font-weight:600">打开　</span><code>\blog\source\sw.js</code></p>
 <p><span style="color:#3a87ad;font-weight:600">写入</span></p>
 <figure class="highlight js"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br><span class="line">7</span><br></pre></td><td class="code"><pre><span class="line">importScripts(<span class="string">&quot;/js/custom/sw-toolbox.js&quot;</span>);</span><br><span class="line"><span class="keyword">var</span> cacheVersion = <span class="string">&quot;-17104&quot;</span>;</span><br><span class="line"><span class="keyword">var</span> staticImageCacheName = <span class="string">&quot;image&quot;</span> + cacheVersion;</span><br><span class="line"><span class="keyword">var</span> staticAssetsCacheName = <span class="string">&quot;assets&quot;</span> + cacheVersion;</span><br><span class="line"><span class="keyword">var</span> contentCacheName = <span class="string">&quot;content&quot;</span> + cacheVersion;</span><br><span class="line"><span class="keyword">var</span> vendorCacheName = <span class="string">&quot;vendor&quot;</span> + cacheVersion;</span><br><span class="line"><span class="keyword">var</span> maxEntries = <span class="number">100</span>;</span><br></pre></td></tr></table></figure>
@@ -449,10 +449,10 @@ var ap = new APlayer({
 <br />
 <br />
 
-<h1 id="四-缓存管理"><a href="#四-缓存管理" class="headerlink" title="四. 缓存管理"></a><span style="color:#2aa198">四. 缓存管理</span></h1><p><img data-src="/images/posts/service-worker/service-worker2.png"></p>
+<h1 id="四-缓存管理"><a href="#四-缓存管理" class="headerlink" title="四. 缓存管理"></a><span style="color:#2aa198">四. 缓存管理</span></h1><p><img data-src="/images/posts/service-worker/service-worker2.webp"></p>
 <p><span style="color:#3a87ad;word-wrap: break-word;font-weight:600">访问　</span><code>chrome://inspect/#service-workers</code></p>
 <p><span style="color:#3a87ad;font-weight:600">打开　</span><code>Service workers</code><br><br /><br><br /></p>
-<h1 id="五-Demo"><a href="#五-Demo" class="headerlink" title="五. Demo"></a><span style="color:#2aa198">五. Demo</span></h1><p><img data-src="/images/posts/service-worker/service-worker3.png"><br><span style="color:#3a87ad;font-weight:600">打开　</span><code>开发者工具-Appliaction-Service Workers</code></p>
+<h1 id="五-Demo"><a href="#五-Demo" class="headerlink" title="五. Demo"></a><span style="color:#2aa198">五. Demo</span></h1><p><img data-src="/images/posts/service-worker/service-worker3.webp"><br><span style="color:#3a87ad;font-weight:600">打开　</span><code>开发者工具-Appliaction-Service Workers</code></p>
 <p><span style="color:#3a87ad;font-weight:600">勾选　</span><code>Offline</code></p>
 <p><span style="color:#3a87ad;font-weight:600">NetWork 出现 ⚠，刷新即可体验离线版本</span></p>
 <br />
@@ -488,13 +488,13 @@ var ap = new APlayer({
       </a>
     </li>
     <li class="popular-posts-item">
-      <a class="popular-posts-link" href="/custom-web-page/" rel="bookmark">
-      Hexo 跳过渲染，创建自定义网页
+      <a class="popular-posts-link" href="/base64-fonts/" rel="bookmark">
+      内联引入 base64 字体
       </a>
     </li>
     <li class="popular-posts-item">
-      <a class="popular-posts-link" href="/base64-fonts/" rel="bookmark">
-      内联引入 base64 字体
+      <a class="popular-posts-link" href="/custom-web-page/" rel="bookmark">
+      Hexo 跳过渲染，创建自定义网页
       </a>
     </li>
   </ul>
