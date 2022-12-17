@@ -2974,7 +2974,7 @@ mark.search-keyword {
   vertical-align: middle;
 }
 .links-of-author a::before {
-  background: #ff4f3c;
+  background: #009086;
   display: inline-block;
   margin-right: 3px;
   transform: translateY(-2px);
@@ -3830,11 +3830,11 @@ span.wp-star {
     border-bottom: 0px !important;
   }
   .search-header {
-    background-color: #1e2021 !important;
+    background-color: #111 !important;
   }
   .search-popup .search-header input,
   .search-popup {
-    background-color: #000;
+    background-color: #111;
   }
   .toggle.popup-trigger {
     color: #303335;
