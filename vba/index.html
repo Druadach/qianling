@@ -27,7 +27,7 @@
 <meta property="og:url" content="https://qianling.pw/vba/index.html">
 <meta property="og:site_name" content="千灵">
 <meta property="og:locale" content="zh_CN">
-<meta property="og:image" content="https://qianling.pw/images/covers/265.webp">
+<meta property="og:image" content="https://qianling.pw/images/covers/268.webp">
 <meta property="article:published_time" content="2022-11-24T15:18:02.000Z">
 <meta property="article:modified_time" content="2022-12-17T09:48:30.000Z">
 <meta property="article:author" content="千灵夙赋">
@@ -36,7 +36,7 @@
 <meta property="article:tag" content="VBA">
 <meta property="article:tag" content="电商">
 <meta name="twitter:card" content="summary">
-<meta name="twitter:image" content="https://qianling.pw/images/covers/265.webp">
+<meta name="twitter:image" content="https://qianling.pw/images/covers/268.webp">
 
 
 <link rel="canonical" href="https://qianling.pw/vba/">
@@ -401,7 +401,7 @@ var ap = new APlayer({
     
     
     <div class="post-body" itemprop="articleBody">
-        <p><img data-src="/images/covers/265.webp"></p>
+        <p><img data-src="/images/covers/268.webp"></p>
 <span id="more"></span>
 
 <hr>
@@ -422,7 +422,7 @@ var ap = new APlayer({
 
 <figure class="highlight vb"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br></pre></td><td class="code"><pre><span class="line"><span class="comment">&#x27;&lt;取消选中 Begin&gt;</span></span><br><span class="line">SendKeys<span class="string">&quot;&#123;ESC&#125;&quot;</span></span><br><span class="line"><span class="comment">&#x27;&lt;取消选中 End&gt;</span></span><br></pre></td></tr></table></figure>
 
-<figure class="highlight vb"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br></pre></td><td class="code"><pre><span class="line"><span class="comment">&#x27;&lt;选择 F 列到 AM 列已使用行 Begin&gt;</span></span><br><span class="line">Range(<span class="string">&quot;F:AM&quot;</span>).Resize(ActiveSheet.UsedRange.Rows.Count).<span class="keyword">Select</span></span><br><span class="line"><span class="comment">&#x27;&lt;选择 F 列到 AM 列已使用行 End&gt;</span></span><br></pre></td></tr></table></figure>
+<figure class="highlight vb"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br><span class="line">7</span><br><span class="line">8</span><br></pre></td><td class="code"><pre><span class="line"><span class="comment">&#x27;&lt;选择 F 列到 AM 列已使用行 Begin&gt;</span></span><br><span class="line">Range(<span class="string">&quot;F:AM&quot;</span>).Resize(ActiveSheet.UsedRange.Rows.Count).<span class="keyword">Select</span></span><br><span class="line"><span class="comment">&#x27;&lt;选择 F 列到 AM 列已使用行 End&gt;</span></span><br><span class="line"><span class="comment">&#x27;&lt;选择表头外 A 列到 B 列已使用行 Begin&gt;</span></span><br><span class="line"><span class="keyword">Dim</span> usedRange <span class="keyword">As</span> Range</span><br><span class="line"><span class="keyword">Set</span> usedRange = ActiveSheet.Range(<span class="string">&quot;A2:B&quot;</span> &amp; ActiveSheet.usedRange.Rows.Count)</span><br><span class="line">usedRange.<span class="keyword">Select</span></span><br><span class="line"><span class="comment">&#x27;&lt;选择表头外 A 列到 B 列已使用行 End&gt;</span></span><br></pre></td></tr></table></figure>
 
 <figure class="highlight vb"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br><span class="line">7</span><br><span class="line">8</span><br><span class="line">9</span><br><span class="line">10</span><br></pre></td><td class="code"><pre><span class="line"><span class="keyword">Sub</span> 已使用单元格专题()</span><br><span class="line">    <span class="keyword">With</span> ActiveSheet</span><br><span class="line">        .UsedRange.Columns(<span class="string">&quot;I&quot;</span>).Value = .UsedRange.Columns(<span class="string">&quot;I&quot;</span>).Value <span class="comment">&#x27;将 I 列单元格格式设为常规格式</span></span><br><span class="line">        .UsedRange.Columns(<span class="string">&quot;D&quot;</span>).<span class="keyword">Select</span> <span class="comment">&#x27;选择 D 列已使用单元格</span></span><br><span class="line">        .UsedRange.Columns(<span class="string">&quot;D&quot;</span>).Offset(<span class="number">1</span>).<span class="keyword">Select</span> <span class="comment">&#x27;选择 D 列向下偏移 1 行已使用单元格</span></span><br><span class="line">        .UsedRange.Columns(<span class="string">&quot;D:E&quot;</span>).Clear <span class="comment">&#x27;清除 D 列、E 列已使用单元格数据</span></span><br><span class="line">        .UsedRange.Offset(<span class="number">1</span>).Clear <span class="comment">&#x27;清除表头外所有已使用单元格数据</span></span><br><span class="line">    <span class="keyword">End</span> <span class="keyword">With</span></span><br><span class="line">    ActiveSheet.UsedRange.Columns(<span class="string">&quot;I&quot;</span>).Value = ActiveSheet.UsedRange.Columns(<span class="string">&quot;I&quot;</span>).Value <span class="comment">&#x27;非 With 写法</span></span><br><span class="line"><span class="keyword">End</span> <span class="keyword">Sub</span></span><br></pre></td></tr></table></figure>
     </div>
