@@ -38,7 +38,7 @@
 <meta property="og:image" content="https://qianling.pw/redmibook-s3-enable/redmibook-s3-enable-5.webp">
 <meta property="og:image" content="https://qianling.pw/redmibook-s3-enable/redmibook-s3-enable-6.webp">
 <meta property="og:image" content="https://qianling.pw/redmibook-s3-enable/redmibook-s3-enable-9.webp">
-<meta property="og:image" content="https://qianling.pw/redmibook-s3-enable/redmibook-s3-enable-7.jpg">
+<meta property="og:image" content="https://qianling.pw/redmibook-s3-enable/redmibook-s3-enable-7.webp">
 <meta property="og:image" content="https://qianling.pw/redmibook-s3-enable/redmibook-s3-enable-10.webp">
 <meta property="og:image" content="https://qianling.pw/redmibook-s3-enable/redmibook-s3-enable-14.webp">
 <meta property="og:image" content="https://qianling.pw/redmibook-s3-enable/redmibook-s3-enable-13.webp">
@@ -241,12 +241,12 @@ if( !/Android|webOS|iPhone|iPod|iPad|BlackBerry/i.test(navigator.userAgent)){
       </div>
       <div class="site-state-item site-state-categories">
           <a href="/categories/">
-        <span class="site-state-item-count">36</span>
+        <span class="site-state-item-count">35</span>
         <span class="site-state-item-name">分类</span></a>
       </div>
       <div class="site-state-item site-state-tags">
           <a href="/tags/">
-        <span class="site-state-item-count">59</span>
+        <span class="site-state-item-count">58</span>
         <span class="site-state-item-name">标签</span></a>
       </div>
   </nav>
@@ -412,7 +412,7 @@ var ap = new APlayer({
     <div class="post-body" itemprop="articleBody">
         <p><img data-src="/images/covers/267.webp"></p>
 <hr>
-<p>本文参考自：<a href="https://zhuanlan.zhihu.com/p/587609347">睡眠后风扇还在转，鼠标一动就亮屏？电脑只能s0睡眠，不能s3睡眠怎么办？固件bios不支持s3睡眠?RedmiG 高级BIOS（看这篇文章就够了）</a><br>作者 @蛋壳 所用型号为 Redmi G 2021 锐龙版。<br>本文机型虽不同，但使用作者提供的高级 BIOS 引导包同样操作成功，推测 RedmiBook 锐龙版均可通用，在此重述步骤并补充部分注意事项。</p>
+<p><strong><div class="center">本文参考自：<a href="https://zhuanlan.zhihu.com/p/587609347">睡眠后风扇还在转，鼠标一动就亮屏？电脑只能s0睡眠，不能s3睡眠怎么办？固件bios不支持s3睡眠?RedmiG 高级BIOS（看这篇文章就够了）</a><br>作者 @蛋壳 所用型号为 Redmi G 2021 锐龙版。<br>本文机型虽不同，但使用作者提供的高级 BIOS 引导包同样操作成功，推测 RedmiBook 锐龙版均可通用，在此重述步骤并补充部分注意事项。</div></strong></p>
 <span id="more"></span>
 
 <hr>
@@ -432,7 +432,7 @@ var ap = new APlayer({
 <h1 id="操作环境"><a href="#操作环境" class="headerlink" title="操作环境"></a>操作环境</h1><ul>
 <li>笔记本型号：RedmiBook Pro 15 2021 锐龙版</li>
 <li>处理器型号：AMD Ryzen 5 5600H</li>
-<li>系统版本：Windows 10 企业版 LTSC 21H2</li>
+<li>系统版本：Windows 10 企业版 LTSC 21H2（19044.1381）</li>
 </ul>
 <h1 id="前期准备"><a href="#前期准备" class="headerlink" title="前期准备"></a>前期准备</h1><ul>
 <li>U 盘</li>
@@ -461,10 +461,10 @@ var ap = new APlayer({
 <li>进入「启动菜单」，按下 F5 恢复启动设备顺序；</li>
 <li>按下 F10 保存并退出 BIOS；</li>
 <li>等待自动重启，开机后按下 Win+R，输入 cmd 打开命令提示符；</li>
-<li>输入 <code>powercfg -a</code> 查看已启用睡眠状态；<br><img data-src="/redmibook-s3-enable/redmibook-s3-enable-7.jpg">  </li>
+<li>输入 <code>powercfg -a</code> 查看已启用睡眠状态；<br><img data-src="/redmibook-s3-enable/redmibook-s3-enable-7.webp">  </li>
 <li><code>待机（S3）</code>启用则代表修改成功。</li>
 </ol>
-<h1 id="彩蛋"><a href="#彩蛋" class="headerlink" title="彩蛋"></a>彩蛋</h1><p>出于未知原因，在高级 BIOS 内修改完毕后，启动菜单里出现了 5 个新启动项。<br><img data-src="/redmibook-s3-enable/redmibook-s3-enable-10.webp"><br>当选择 <code>UEFI Misc Device 3</code> 后，即使不插入 U 盘，也能进入 高级 BIOS，且 UI 变为 MIUI，支持鼠标操控。<br><img data-src="/redmibook-s3-enable/redmibook-s3-enable-14.webp"><br><img data-src="/redmibook-s3-enable/redmibook-s3-enable-13.webp"><br>选择 <code>UEFI Misc Device 5</code> 甚至能够进入 Redmi G BIOS 界面。<br><img data-src="/redmibook-s3-enable/redmibook-s3-enable-12.webp"><br>推测与高级 BIOS 内此项 <code>Reset</code> 有关，如想开启高级 BIOS 入口，可尝试该选项。<br><img data-src="/redmibook-s3-enable/redmibook-s3-enable-11.webp">  </p>
+<h1 id="彩蛋"><a href="#彩蛋" class="headerlink" title="彩蛋"></a>彩蛋</h1><p>出于未知原因，在高级 BIOS 内修改完毕后，启动菜单里出现了 5 个新启动项。<br><img data-src="/redmibook-s3-enable/redmibook-s3-enable-10.webp"><br>当选择 <code>UEFI Misc Device 3</code> 后，即使不插入 U 盘，也能进入 高级 BIOS，且 UI 变为 MIUI，支持鼠标操控。<br><img data-src="/redmibook-s3-enable/redmibook-s3-enable-14.webp"><br><img data-src="/redmibook-s3-enable/redmibook-s3-enable-13.webp"><br>选择 <code>UEFI Misc Device 5</code> 甚至能够进入 Redmi G BIOS 界面。<br><img data-src="/redmibook-s3-enable/redmibook-s3-enable-12.webp"><br>推测与高级 BIOS 内此项 <code>Reset</code> 有关，如想开启高级 BIOS 入口，可尝试 <code>Reset</code> 重置 BIOS。<br><img data-src="/redmibook-s3-enable/redmibook-s3-enable-11.webp">  </p>
 
     </div>
 
