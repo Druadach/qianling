@@ -53,13 +53,6 @@ a:hover::after {
   padding: 0.3em 0.4em;
   margin: 2px 5px 2px 0px;
 }
-.center {
-  text-align: center;
-}
-.summary {
-  text-align: center;
-  font-weight: bold;
-}
 .underline {
   border-bottom: solid 1px;
 }
@@ -2427,6 +2420,13 @@ mark.search-keyword {
   color: #ff2a2a;
   font-weight: bold;
 }
+mjx-container[jax='CHTML'][display='true'],
+.has-jax {
+  overflow: auto hidden;
+}
+mjx-container[display='true'] + br {
+  display: none;
+}
 .use-motion .animated {
   animation-fill-mode: none;
   visibility: inherit;
@@ -2608,7 +2608,7 @@ mark.search-keyword {
   vertical-align: middle;
 }
 .links-of-author a::before {
-  background: #ecffff;
+  background: #794549;
   display: inline-block;
   margin-right: 3px;
   transform: translateY(-2px);

@@ -27,14 +27,14 @@
 <meta property="og:url" content="https://qianling.pw/js-notes/index.html">
 <meta property="og:site_name" content="千灵">
 <meta property="og:locale" content="zh_CN">
-<meta property="og:image" content="https://qianling.pw/images/covers/128.webp">
+<meta property="og:image" content="https://qianling.pw/covers/128.webp">
 <meta property="article:published_time" content="2018-07-08T08:29:22.000Z">
 <meta property="article:modified_time" content="2018-07-07T16:00:00.000Z">
 <meta property="article:author" content="千灵夙赋">
 <meta property="article:tag" content="JavaScript">
 <meta property="article:tag" content="前端">
 <meta name="twitter:card" content="summary">
-<meta name="twitter:image" content="https://qianling.pw/images/covers/128.webp">
+<meta name="twitter:image" content="https://qianling.pw/covers/128.webp">
 
 
 <link rel="canonical" href="https://qianling.pw/js-notes/">
@@ -204,7 +204,7 @@ if( !/Android|webOS|iPhone|iPod|iPad|BlackBerry/i.test(navigator.userAgent)){
       <div class="sidebar-panel-container">
         <!--noindex-->
         <div class="post-toc-wrap sidebar-panel">
-            <div class="post-toc animated"><ol class="nav"><li class="nav-item nav-level-2"><a class="nav-link" href="#N-x2F-A"><span class="nav-text">N&#x2F;A</span></a></li><li class="nav-item nav-level-2"><a class="nav-link" href="#%E7%A7%91%E5%AD%A6%E8%AE%A1%E6%95%B0%E6%B3%95"><span class="nav-text">科学计数法</span></a></li><li class="nav-item nav-level-2"><a class="nav-link" href="#%E9%A9%BC%E5%B3%B0%E5%91%BD%E5%90%8D%E6%B3%95"><span class="nav-text">驼峰命名法</span></a></li><li class="nav-item nav-level-2"><a class="nav-link" href="#%E6%B3%A8%E9%87%8A"><span class="nav-text">注释</span></a></li><li class="nav-item nav-level-2"><a class="nav-link" href="#%E5%88%86%E5%8F%B7"><span class="nav-text">分号</span></a></li></ol></div>
+            <div class="post-toc animated"><ol class="nav"><li class="nav-item nav-level-2"><a class="nav-link" href="#N-A"><span class="nav-text">N&#x2F;A</span></a></li><li class="nav-item nav-level-2"><a class="nav-link" href="#%E7%A7%91%E5%AD%A6%E8%AE%A1%E6%95%B0%E6%B3%95"><span class="nav-text">科学计数法</span></a></li><li class="nav-item nav-level-2"><a class="nav-link" href="#%E9%A9%BC%E5%B3%B0%E5%91%BD%E5%90%8D%E6%B3%95"><span class="nav-text">驼峰命名法</span></a></li><li class="nav-item nav-level-2"><a class="nav-link" href="#%E6%B3%A8%E9%87%8A"><span class="nav-text">注释</span></a></li><li class="nav-item nav-level-2"><a class="nav-link" href="#%E5%88%86%E5%8F%B7"><span class="nav-text">分号</span></a></li></ol></div>
         </div>
         <!--/noindex-->
 
@@ -394,17 +394,17 @@ var ap = new APlayer({
     
     
     <div class="post-body" itemprop="articleBody">
-        <p><img data-src="/images/covers/128.webp"></p>
+        <p><img data-src="/covers/128.webp"></p>
 <span id="more"></span>
 
 <hr>
-<h2 id="N-x2F-A"><a href="#N-x2F-A" class="headerlink" title="N&#x2F;A"></a>N&#x2F;A</h2><p>n&#x2F;a（或 N&#x2F;A），是 not applicable 的缩写，意思是“不适用”</p>
+<h2 id="N-A"><a href="#N-A" class="headerlink" title="N/A"></a>N/A</h2><p>n/a（或 N/A），是 not applicable 的缩写，意思是“不适用”</p>
 <h2 id="科学计数法"><a href="#科学计数法" class="headerlink" title="科学计数法"></a>科学计数法</h2><p>对于那些极大或极小的数值，可以用 e 表示法（即科学计数法）表示的浮点数值表示。用 e 表示法表示的数值等于 e 前面的数值乘以 10 的指数次幂。ECMAScript 中 e 表示法的格式也是如此，即前面是一个数值（可以是整数也可以是浮点数），中间是一个大写或小写的字母 E，后面是 10 的幂中的指数，该幂值将用来与前面的数相乘。下面是一个使用 e 表示法表示数值的例子：</p>
 <figure class="highlight js"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line"><span class="keyword">var</span> floatNum = <span class="number">3.125e7</span>;     <span class="comment">//等于 31250000</span></span><br></pre></td></tr></table></figure>
 <p>在这个例子中，使用 e 表示法表示的变量 floatNum 的形式虽然简洁，但它的实际值则是 31250000。在此，e 表示法的实际含义就是“3.125 乘以 10”。<br>也可以使用 e 表示法表示极小的数值，如 0.000000000000000003，这个数值可以使用更简洁的 3e-17 表示。在默认情况下，ECMAScript 会将那些小数点后面带有 6 个零以上的浮点数值转换为以 e 表示法表示的数值（例如，0.0000003 会被转换成 3e-7）。</p>
 <h2 id="驼峰命名法"><a href="#驼峰命名法" class="headerlink" title="驼峰命名法"></a>驼峰命名法</h2><ul>
-<li>小驼峰法<br>变量一般用小驼峰法标识。驼峰法的意思是：除第一个单词之外，其他单词首字母大写。譬如<br>int myStudentCount;<br>变量 myStudentCount 第一个单词是全部小写，后面的单词首字母大写。</li>
-<li>大驼峰法<br>相比小驼峰法，大驼峰法（即帕斯卡命名法）把第一个单词的首字母也大写了。常用于类名，命名空间等。譬如<br>public class DataBaseUser;</li>
+<li>  小驼峰法<br>变量一般用小驼峰法标识。驼峰法的意思是：除第一个单词之外，其他单词首字母大写。譬如<br>int myStudentCount;<br>变量 myStudentCount 第一个单词是全部小写，后面的单词首字母大写。</li>
+<li>  大驼峰法<br>相比小驼峰法，大驼峰法（即帕斯卡命名法）把第一个单词的首字母也大写了。常用于类名，命名空间等。譬如<br>public class DataBaseUser;</li>
 </ul>
 <h2 id="注释"><a href="#注释" class="headerlink" title="注释"></a>注释</h2><figure class="highlight js"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br></pre></td><td class="code"><pre><span class="line"><span class="comment">//  单行注释</span></span><br><span class="line"><span class="comment">/*</span></span><br><span class="line"><span class="comment"> *  这是一个多行</span></span><br><span class="line"><span class="comment"> *  （块级）注释</span></span><br><span class="line"><span class="comment"> */</span></span><br></pre></td></tr></table></figure>
 
@@ -559,6 +559,12 @@ var ap = new APlayer({
 
   <script class="next-config" data-name="leancloud_visitors" type="application/json">{"enable":true,"app_id":"zulMeib4pyC6zB1a65OmVtHz-gzGzoHsz","app_key":"TEjUlOUBz3KwSUmDQ35ROxpw","server_url":null,"security":false}</script>
   <script src="/js/third-party/statistics/lean-analytics.js"></script>
+
+
+  
+
+  <script class="next-config" data-name="enableMath" type="application/json">false</script><script class="next-config" data-name="mathjax" type="application/json">{"enable":true,"tags":"none","js":{"url":"https://cdnjs.cloudflare.com/ajax/libs/mathjax/3.2.2/es5/tex-mml-chtml.js","integrity":"sha256-MASABpB4tYktI2Oitl4t+78w/lyA+D7b/s9GEP0JOGI="}}</script>
+<script src="/js/third-party/math/mathjax.js"></script>
 
 
   <script src="https://cdnjs.cloudflare.com/ajax/libs/quicklink/2.3.0/quicklink.umd.js" integrity="sha256-yvJQOINiH9fWemHn0vCA5lsHWJaHs6/ZmO+1Ft04SvM=" crossorigin="anonymous"></script>

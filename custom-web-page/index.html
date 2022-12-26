@@ -27,15 +27,15 @@
 <meta property="og:url" content="https://qianling.pw/custom-web-page/index.html">
 <meta property="og:site_name" content="千灵">
 <meta property="og:locale" content="zh_CN">
-<meta property="og:image" content="https://qianling.pw/images/covers/80.webp">
-<meta property="og:image" content="https://qianling.pw/images/posts/custom-web-page/custom-web-page1.webp">
-<meta property="og:image" content="https://qianling.pw/images/posts/custom-web-page/custom-web-page2.webp">
+<meta property="og:image" content="https://qianling.pw/covers/80.webp">
+<meta property="og:image" content="https://qianling.pw/custom-web-page/custom-web-page1.webp">
+<meta property="og:image" content="https://qianling.pw/custom-web-page/custom-web-page2.webp">
 <meta property="article:published_time" content="2017-07-28T05:32:37.000Z">
 <meta property="article:modified_time" content="2017-07-28T05:32:37.000Z">
 <meta property="article:author" content="千灵夙赋">
 <meta property="article:tag" content="Hexo">
 <meta name="twitter:card" content="summary">
-<meta name="twitter:image" content="https://qianling.pw/images/covers/80.webp">
+<meta name="twitter:image" content="https://qianling.pw/covers/80.webp">
 
 
 <link rel="canonical" href="https://qianling.pw/custom-web-page/">
@@ -394,7 +394,7 @@ var ap = new APlayer({
     
     
     <div class="post-body" itemprop="articleBody">
-        <p><img data-src="/images/covers/80.webp"></p>
+        <p><img data-src="/covers/80.webp"></p>
 <span id="more"></span>
 
 <hr>
@@ -407,7 +407,7 @@ var ap = new APlayer({
 <h4 id="2-1-在html文件中添加跳过渲染指令"><a href="#2-1-在html文件中添加跳过渲染指令" class="headerlink" title="2.1. 在html文件中添加跳过渲染指令"></a>2.1. 在html文件中添加跳过渲染指令</h4><p>用编辑器打开\Hexo\source\创建的文件夹中的 index.html 文件，在开头添加如下代码即可</p>
 <figure class="highlight plaintext"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br></pre></td><td class="code"><pre><span class="line">---</span><br><span class="line">layout: false</span><br><span class="line">---</span><br></pre></td></tr></table></figure>
 <p>添加该指令后，执行 hexo g命令时便会跳过该 index.html文件，使得index.html不受当前 hexo 主题影响，完全是一个独立的网页，如果网页引用了 css 或 js ，这些 css 和 js 必须使用外链，如下图所示。</p>
-<p><img data-src="/images/posts/custom-web-page/custom-web-page1.webp"></p>
+<p><img data-src="/custom-web-page/custom-web-page1.webp"></p>
 <h4 id="2-2-在-config-yml文件中设置skip-render"><a href="#2-2-在-config-yml文件中设置skip-render" class="headerlink" title="2.2. 在_config.yml文件中设置skip_render"></a>2.2. 在_config.yml文件中设置skip_render</h4><p>使用编辑器打开 Hexo 目录下的_config.yml文件，找到skip_render</p>
 <p>skip_render一般有以下四种常用参数：</p>
 <ol>
@@ -415,10 +415,10 @@ var ap = new APlayer({
 <li>跳过source目录下 test 文件夹内所有文件：<code>skip_render: test/*</code></li>
 <li>跳过source目录下 <code>test</code> 文件夹内所有文件包括子文件夹以及子文件夹内的文件：<code>skip_render: test/**</code></li>
 <li>跳过多个路径：<figure class="highlight plaintext"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br></pre></td><td class="code"><pre><span class="line">skip_render:</span><br><span class="line">    - test.html</span><br><span class="line">    - test/*</span><br></pre></td></tr></table></figure>
-_config.yml对格式要求严格，注意填写参数时的格式，添加完成后便不会渲染指定文件&#x2F;文件夹。<br>如果网页引用了 css 或 js ，并将整个网页目录设置为跳过渲染，则不必再为 css 和 js 创建外链，可以直接引用</li>
+_config.yml对格式要求严格，注意填写参数时的格式，添加完成后便不会渲染指定文件/文件夹。<br>如果网页引用了 css 或 js ，并将整个网页目录设置为跳过渲染，则不必再为 css 和 js 创建外链，可以直接引用</li>
 </ol>
 <h3 id="3-完成"><a href="#3-完成" class="headerlink" title="3. 完成"></a>3. 完成</h3><p>执行hexo g和hexo deploy命令后便可以在博客上看到自己创建的网页。<br>也可以在博客首页为这些页面增加一个入口。</p>
-<p><img data-src="/images/posts/custom-web-page/custom-web-page2.webp"></p>
+<p><img data-src="/custom-web-page/custom-web-page2.webp"></p>
 <span style="color:#1A95A5;font-weight:900">
 转载自 [<span style="color:#00b8e6">Raintone</span>](https://login926.top/%E5%9C%A8-hexo-%E5%8D%9A%E5%AE%A2%E4%B8%AD%E8%B7%B3%E8%BF%87%E6%B8%B2%E6%9F%93%EF%BC%8C%E5%88%9B%E5%BB%BA%E8%87%AA%E5%AE%9A%E4%B9%89%E7%BD%91%E9%A1%B5.html)
 </span>
@@ -606,6 +606,12 @@ _config.yml对格式要求严格，注意填写参数时的格式，添加完成
 
   <script class="next-config" data-name="leancloud_visitors" type="application/json">{"enable":true,"app_id":"zulMeib4pyC6zB1a65OmVtHz-gzGzoHsz","app_key":"TEjUlOUBz3KwSUmDQ35ROxpw","server_url":null,"security":false}</script>
   <script src="/js/third-party/statistics/lean-analytics.js"></script>
+
+
+  
+
+  <script class="next-config" data-name="enableMath" type="application/json">false</script><script class="next-config" data-name="mathjax" type="application/json">{"enable":true,"tags":"none","js":{"url":"https://cdnjs.cloudflare.com/ajax/libs/mathjax/3.2.2/es5/tex-mml-chtml.js","integrity":"sha256-MASABpB4tYktI2Oitl4t+78w/lyA+D7b/s9GEP0JOGI="}}</script>
+<script src="/js/third-party/math/mathjax.js"></script>
 
 
   <script src="https://cdnjs.cloudflare.com/ajax/libs/quicklink/2.3.0/quicklink.umd.js" integrity="sha256-yvJQOINiH9fWemHn0vCA5lsHWJaHs6/ZmO+1Ft04SvM=" crossorigin="anonymous"></script>

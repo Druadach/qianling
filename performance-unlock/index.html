@@ -27,14 +27,14 @@
 <meta property="og:url" content="https://qianling.pw/performance-unlock/index.html">
 <meta property="og:site_name" content="千灵">
 <meta property="og:locale" content="zh_CN">
-<meta property="og:image" content="https://qianling.pw/images/covers/148.webp">
-<meta property="og:image" content="https://qianling.pw/images/posts/performance-unlock/performance-unlock1.webp">
+<meta property="og:image" content="https://qianling.pw/covers/148.webp">
+<meta property="og:image" content="https://qianling.pw/performance-unlock/performance-unlock1.webp">
 <meta property="article:published_time" content="2017-05-24T13:03:56.000Z">
 <meta property="article:modified_time" content="2017-05-24T13:03:56.000Z">
 <meta property="article:author" content="千灵夙赋">
 <meta property="article:tag" content="Android">
 <meta name="twitter:card" content="summary">
-<meta name="twitter:image" content="https://qianling.pw/images/covers/148.webp">
+<meta name="twitter:image" content="https://qianling.pw/covers/148.webp">
 
 
 <link rel="canonical" href="https://qianling.pw/performance-unlock/">
@@ -393,7 +393,7 @@ var ap = new APlayer({
     
     
     <div class="post-body" itemprop="articleBody">
-        <p><img data-src="/images/covers/148.webp"></p>
+        <p><img data-src="/covers/148.webp"></p>
 <span id="more"></span>
 <hr>
 <p><strong>警告：请确保您的内核支持 init.d 脚本</strong></p>
@@ -401,61 +401,41 @@ var ap = new APlayer({
 <p>　<br>参考设备型号： MI 5<br>参考系统版本： Resurrection Remix OS v5.8.3-gemini-Official<br>参考内核版本： Linux version 3.18.31-gb1f50470 (Offain@BuildENV) (gcc version 4.9 20150123 (prerelease) (GCC) ) #1 SMP PREEMPT Sat May 20 12:33:16 CEST 2017</p>
 <hr>
 <h2 id="预期效果"><a href="#预期效果" class="headerlink" title="预期效果"></a>预期效果</h2><ul>
-<li><pre><code>发热增加
-</code></pre>
-<ul>
-<li><pre><code>充电速度提升
-</code></pre>
-<ul>
-<li><pre><code>CPU及GPU频率动态调整
-</code></pre>
-<ul>
-<li><pre><code>运行速度提升
-</code></pre>
-<ul>
-<li><pre><code>耗电小幅提升
-</code></pre>
-</li>
+<li>   发热增加</li>
+<li>   充电速度提升</li>
+<li>   CPU及GPU频率动态调整</li>
+<li>   运行速度提升</li>
+<li>   耗电小幅提升</li>
 </ul>
-</li>
-</ul>
-</li>
-</ul>
-</li>
-</ul>
-</li>
-</ul>
-<p><img data-src="/images/posts/performance-unlock/performance-unlock1.webp"></p>
+<p><img data-src="/performance-unlock/performance-unlock1.webp"></p>
 <div style="margin: -20px auto 15px;text-align: center;font-size: 14px;color: #999;font-weight: 700;line-height: 1;">修改后</div>
-![](/images/posts/performance-unlock/performance-unlock2.webp)
+![](performance-unlock/performance-unlock2.webp)
 <div style="margin: -20px auto 15px;text-align: center;font-size: 14px;color: #999;font-weight: 700;line-height: 1;">设备平均分</div>
 
 <br>
 
 <h2 id="必要准备"><a href="#必要准备" class="headerlink" title="必要准备"></a>必要准备</h2><ul>
-<li><pre><code>获取手机 Root 权限
-</code></pre>
-<ul>
-<li><pre><code>安装 Root Explorer 软件
-</code></pre>
-</li>
-</ul>
-</li>
+<li>   获取手机 Root 权限</li>
+<li>   安装 Root Explorer 软件</li>
 </ul>
 <br>
 
-<h2 id="开始行动"><a href="#开始行动" class="headerlink" title="开始行动"></a>开始行动</h2><h3 id="删除温控文件"><a href="#删除温控文件" class="headerlink" title="删除温控文件"></a>删除温控文件</h3><p>使用  Root Explorer删除以下文件<br>*	&#x2F;etc&#x2F;thermal-engine-89996.conf<br>*	&#x2F;etc&#x2F;thermal-engine-89996-a1.conf （部分ROM没有）</p>
+<h2 id="开始行动"><a href="#开始行动" class="headerlink" title="开始行动"></a>开始行动</h2><h3 id="删除温控文件"><a href="#删除温控文件" class="headerlink" title="删除温控文件"></a>删除温控文件</h3><p>使用  Root Explorer删除以下文件</p>
+<ul>
+<li>   /etc/thermal-engine-89996.conf </li>
+<li>   /etc/thermal-engine-89996-a1.conf （部分ROM没有）</li>
+</ul>
 <br>
 ### 禁用核心控制并调整 GPU 运行模式
 原理： sys文件夹重启后会自动还原，因此可以使用内核自带的 init.d 脚本实现开机自动修改
 
 <p>操作：</p>
 <ol>
-<li>打开目录 &#x2F;system&#x2F;etc&#x2F;init.d</li>
-<li>新建文件 xx.sh（文件名为任意英文）</li>
-<li>粘贴下列代码并保存</li>
-<li>修改权限 0777　rwxrwxrwx</li>
-<li>重启以应用<figure class="highlight plaintext"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br></pre></td><td class="code"><pre><span class="line">echo -n disable &gt; /sys/devices/soc/soc:qcom,bcl/mode</span><br><span class="line">echo 0 &gt; /sys/module/msm_thermal/core_control/enabled</span><br><span class="line">echo performance &gt; /sys/class/kgsl/kgsl-3d0/devfreq/governor</span><br></pre></td></tr></table></figure></li>
+<li> 打开目录 /system/etc/init.d</li>
+<li> 新建文件 xx.sh（文件名为任意英文）</li>
+<li> 粘贴下列代码并保存</li>
+<li> 修改权限 0777　rwxrwxrwx</li>
+<li> 重启以应用<figure class="highlight plaintext"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br></pre></td><td class="code"><pre><span class="line">echo -n disable &gt; /sys/devices/soc/soc:qcom,bcl/mode</span><br><span class="line">echo 0 &gt; /sys/module/msm_thermal/core_control/enabled</span><br><span class="line">echo performance &gt; /sys/class/kgsl/kgsl-3d0/devfreq/governor</span><br></pre></td></tr></table></figure></li>
 </ol>
 <br>
 
@@ -464,18 +444,18 @@ var ap = new APlayer({
 <br>
 ### 怎样才算修改成功呢
 出现以下情况则表明修改成功：
-*	打开  内核调校，在  首页（概况）略微划动， CPU所有核心频率均提高、GPU频率跳转至最高，之后所有核心又跳转回最低频率；
-*	打开子菜单  温控，其中的  核心控制已关闭；
-*	打开子菜单  GPU，其中的  GPU 调速器项为  performance。
+*    打开  内核调校，在  首页（概况）略微划动， CPU所有核心频率均提高、GPU频率跳转至最高，之后所有核心又跳转回最低频率；
+*    打开子菜单  温控，其中的  核心控制已关闭；
+*    打开子菜单  GPU，其中的  GPU 调速器项为  performance。
 
 <br>
 ### 为什么我修改后无效呢
 进行检查后，若 GPU频率无变化且子菜单  温控中的  核心控制未关闭，请进行以下步骤：
 
 <ol>
-<li>打开菜单中  init.d 启动脚本表单，执行之前添加的脚本</li>
-<li>打开子菜单  温控，若  核心控制已关闭，则未授予 .sh脚本的执行权限。</li>
-<li>打开 RE管理器，将 .sh 脚本的权限全部打勾，确定即解决。</li>
+<li> 打开菜单中  init.d 启动脚本表单，执行之前添加的脚本</li>
+<li> 打开子菜单  温控，若  核心控制已关闭，则未授予 .sh脚本的执行权限。</li>
+<li> 打开 RE管理器，将 .sh 脚本的权限全部打勾，确定即解决。</li>
 </ol>
 <p>若仅其中任意一项失效或排错后仍未生效，为代码错误，请反馈结果给我。</p>
 <br>
@@ -508,11 +488,6 @@ var ap = new APlayer({
     <li class="popular-posts-item">
       <a class="popular-posts-link" href="/open-hi-fi/" rel="bookmark">
       高通处理器强制开启 Hi-Fi
-      </a>
-    </li>
-    <li class="popular-posts-item">
-      <a class="popular-posts-link" href="/miui-noise/" rel="bookmark">
-      去除 MIUI 底噪
       </a>
     </li>
   </ul>
@@ -660,6 +635,12 @@ var ap = new APlayer({
 
   <script class="next-config" data-name="leancloud_visitors" type="application/json">{"enable":true,"app_id":"zulMeib4pyC6zB1a65OmVtHz-gzGzoHsz","app_key":"TEjUlOUBz3KwSUmDQ35ROxpw","server_url":null,"security":false}</script>
   <script src="/js/third-party/statistics/lean-analytics.js"></script>
+
+
+  
+
+  <script class="next-config" data-name="enableMath" type="application/json">false</script><script class="next-config" data-name="mathjax" type="application/json">{"enable":true,"tags":"none","js":{"url":"https://cdnjs.cloudflare.com/ajax/libs/mathjax/3.2.2/es5/tex-mml-chtml.js","integrity":"sha256-MASABpB4tYktI2Oitl4t+78w/lyA+D7b/s9GEP0JOGI="}}</script>
+<script src="/js/third-party/math/mathjax.js"></script>
 
 
   <script src="https://cdnjs.cloudflare.com/ajax/libs/quicklink/2.3.0/quicklink.umd.js" integrity="sha256-yvJQOINiH9fWemHn0vCA5lsHWJaHs6/ZmO+1Ft04SvM=" crossorigin="anonymous"></script>

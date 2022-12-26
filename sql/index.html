@@ -27,14 +27,14 @@
 <meta property="og:url" content="https://qianling.pw/sql/index.html">
 <meta property="og:site_name" content="千灵">
 <meta property="og:locale" content="zh_CN">
-<meta property="og:image" content="https://qianling.pw/images/covers/181.webp">
+<meta property="og:image" content="https://qianling.pw/covers/181.webp">
 <meta property="article:published_time" content="2020-03-17T13:10:36.000Z">
 <meta property="article:modified_time" content="2020-04-21T11:57:23.000Z">
 <meta property="article:author" content="千灵夙赋">
 <meta property="article:tag" content="计算机科学">
 <meta property="article:tag" content="编程">
 <meta name="twitter:card" content="summary">
-<meta name="twitter:image" content="https://qianling.pw/images/covers/181.webp">
+<meta name="twitter:image" content="https://qianling.pw/covers/181.webp">
 
 
 <link rel="canonical" href="https://qianling.pw/sql/">
@@ -400,12 +400,12 @@ var ap = new APlayer({
     
     
     <div class="post-body" itemprop="articleBody">
-        <p><img data-src="/images/covers/181.webp"></p>
+        <p><img data-src="/covers/181.webp"></p>
 <span id="more"></span>
 
 <hr>
-<p><strong><div class="center">SQL基础教程 &#x2F; (日) MICK 著 ; 孙淼, 罗勇译. -- 2版 -- 北京 : 人民邮电出版社, 2017.6<br>（图灵程序设计丛书）<br>ISBN 978-7-115-45502-4</div></strong></p>
-<p><strong><div class="center">下载 <i class="fa fa-download"></i> <a href="http://o.qianling.pw/f/25078497-749519455-760ea8?p=320860" target="_blank">SQL基础教程（第2版）</a></div></strong> </p>
+<p><strong><center>SQL基础教程 / (日) MICK 著 ; 孙淼, 罗勇译. -- 2版 -- 北京 : 人民邮电出版社, 2017.6<br>（图灵程序设计丛书）<br>ISBN 978-7-115-45502-4</center></strong></p>
+<p><strong><center>下载 <i class="fa fa-download"></i> <a href="http://o.qianling.pw/f/25078497-749519455-760ea8?p=320860" target="_blank">SQL基础教程（第2版）</a></center></strong> </p>
 <hr>
 <h1 id="第0章-绪论——搭建SQL的学习环境"><a href="#第0章-绪论——搭建SQL的学习环境" class="headerlink" title="第0章　绪论——搭建SQL的学习环境"></a>第0章　绪论——搭建SQL的学习环境</h1><p>切断与 SQL 的连接</p>
 <ul>
@@ -464,8 +464,8 @@ var ap = new APlayer({
 </ol>
 <ul>
 <li>SQL 语句中含有字符串的时候，需要像’abc’这样，使用单引号（’）将字符串括起来，用来标识这是一个字符串。</li>
-<li>SQL 语句中含有日期的时候，同样需要使用单引号将其括起来。日期的格式有很多种（’26 Jan 2010’ 或者’10&#x2F;01&#x2F;26’等），本书统一使用’2010-01-26’这种’年-月-日’的格式。</li>
-<li>在 SQL 语句中书写数字的时候，不需要使用任何符号标识，直接写成 1000 这样的数字即可。</li>
+<li> SQL 语句中含有日期的时候，同样需要使用单引号将其括起来。日期的格式有很多种（’26 Jan 2010’ 或者’10/01/26’等），本书统一使用’2010-01-26’这种’年-月-日’的格式。</li>
+<li> 在 SQL 语句中书写数字的时候，不需要使用任何符号标识，直接写成 1000 这样的数字即可。</li>
 </ul>
 <ol start="4">
 <li>单词需要用半角空格或者换行来分隔，不能使用全角空格作为单词的分隔符。</li>
@@ -534,7 +534,7 @@ var ap = new APlayer({
 <p>　　单行注释：<code>--</code><br>　　多行注释：<code>/*…*/</code></p>
 <figure class="highlight sql"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br></pre></td><td class="code"><pre><span class="line"><span class="keyword">SELECT</span> <span class="keyword">DISTINCT</span> product_id, purchase_price</span><br><span class="line"><span class="comment">/* 本SELECT语句，</span></span><br><span class="line"><span class="comment">   会从结果中删除重复行。*/</span></span><br><span class="line">  <span class="keyword">FROM</span> Product;</span><br></pre></td></tr></table></figure>
 
-<h2 id="2-2-算术运算符和比较运算符"><a href="#2-2-算术运算符和比较运算符" class="headerlink" title="2-2　算术运算符和比较运算符"></a>2-2　算术运算符和比较运算符</h2><h3 id="算术运算符"><a href="#算术运算符" class="headerlink" title="算术运算符"></a>算术运算符</h3><p>　　SQL 语句中可以使用计算表达式。<br>　　四则运算所使用的运算符（+、-、*、&#x2F;）称为算术运算符。</p>
+<h2 id="2-2-算术运算符和比较运算符"><a href="#2-2-算术运算符和比较运算符" class="headerlink" title="2-2　算术运算符和比较运算符"></a>2-2　算术运算符和比较运算符</h2><h3 id="算术运算符"><a href="#算术运算符" class="headerlink" title="算术运算符"></a>算术运算符</h3><p>　　SQL 语句中可以使用计算表达式。<br>　　四则运算所使用的运算符（+、-、*、/）称为算术运算符。</p>
 <figure class="highlight sql"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br></pre></td><td class="code"><pre><span class="line"><span class="keyword">SELECT</span> product_name, sale_price,</span><br><span class="line">       sale_price <span class="operator">*</span> <span class="number">2</span> <span class="keyword">AS</span> &quot;sale_price_x2&quot;</span><br><span class="line">  <span class="keyword">FROM</span> Product;</span><br></pre></td></tr></table></figure>
 
 <p>　　SQL 中也可以使用括号()。括号中运算表达式的优先级会得到提升，优先进行运算。<br>　　括号的使用并不仅仅局限于四则运算，还可以用在 SQL 语句的任何表达式当中。具体的使用方法今后会慢慢介绍给大家。</p>
@@ -584,7 +584,7 @@ var ap = new APlayer({
 <p>　　计算销售价格极差：</p>
 <figure class="highlight sql"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br></pre></td><td class="code"><pre><span class="line"><span class="keyword">SELECT</span> <span class="built_in">MAX</span>(sale_price) <span class="operator">-</span> <span class="built_in">MIN</span>(sale_price)</span><br><span class="line">  <span class="keyword">FROM</span> Product;</span><br></pre></td></tr></table></figure>
 
-<p>　　MAX&#x2F;MIN 函数几乎适用于所有数据类型的列。SUM&#x2F;AVG 函数只适用于数值类型的列。</p>
+<p>　　MAX/MIN 函数几乎适用于所有数据类型的列。SUM/AVG 函数只适用于数值类型的列。</p>
 <figure class="highlight sql"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br></pre></td><td class="code"><pre><span class="line"><span class="keyword">SELECT</span> <span class="built_in">MAX</span>(regist_date), <span class="built_in">MIN</span>(regist_date)</span><br><span class="line">  <span class="keyword">FROM</span> Product;</span><br></pre></td></tr></table></figure>
 
 <p>　　使用聚合函数删除重复值，计算值的种类：</p>
@@ -689,8 +689,8 @@ var ap = new APlayer({
 <figure class="highlight sql"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br></pre></td><td class="code"><pre><span class="line"><span class="keyword">SELECT</span> <span class="built_in">EXTRACT</span>(<span class="keyword">YEAR</span>   <span class="keyword">FROM</span> <span class="built_in">CURRENT_TIMESTAMP</span>)   <span class="keyword">AS</span> <span class="keyword">year</span>,</span><br><span class="line">       <span class="built_in">EXTRACT</span>(<span class="keyword">MONTH</span>  <span class="keyword">FROM</span> <span class="built_in">CURRENT_TIMESTAMP</span>)   <span class="keyword">AS</span> <span class="keyword">month</span>,</span><br><span class="line">       <span class="built_in">EXTRACT</span>(<span class="keyword">DAY</span>    <span class="keyword">FROM</span> <span class="built_in">CURRENT_TIMESTAMP</span>)   <span class="keyword">AS</span> <span class="keyword">day</span>,</span><br><span class="line">       <span class="built_in">EXTRACT</span>(<span class="keyword">HOUR</span>   <span class="keyword">FROM</span> <span class="built_in">CURRENT_TIMESTAMP</span>)   <span class="keyword">AS</span> <span class="keyword">hour</span>,</span><br><span class="line">       <span class="built_in">EXTRACT</span>(<span class="keyword">MINUTE</span> <span class="keyword">FROM</span> <span class="built_in">CURRENT_TIMESTAMP</span>)   <span class="keyword">AS</span> <span class="keyword">minute</span>,</span><br><span class="line">       <span class="built_in">EXTRACT</span>(<span class="keyword">SECOND</span> <span class="keyword">FROM</span> <span class="built_in">CURRENT_TIMESTAMP</span>)   <span class="keyword">AS</span> <span class="keyword">second</span>;</span><br></pre></td></tr></table></figure>
 
 <h3 id="转换函数"><a href="#转换函数" class="headerlink" title="转换函数"></a>转换函数</h3><p>类型转换：<code>CAST（转换前的值 AS 想要转换的数据类型）</code><br><code>SELECT CAST(&#39;2009-12-14&#39; AS DATE) AS date_col;</code><br>将 NULL 转换为其他值：<code>COALESCE(数据1，数据2，数据3……)</code>　会返回参数中从左数第 1 个非 NULL 的值。<br><code>SELECT COALESCE(NULL, 1);</code></p>
-<h2 id="6-2-谓词"><a href="#6-2-谓词" class="headerlink" title="6-2　谓词"></a>6-2　谓词</h2><p>　　谓词就是返回值为真值的函数。<br>　　通常的函数返回值有可能是数字、字符串或者日期等，但是谓词的返回值全都是真值（TRUE&#x2F;FALSE&#x2F;UNKNOWN）<br>　　<code>=、&lt;、&gt;、&lt;&gt;</code>等比较运算符，其正式的名称就是比较谓词。</p>
-<p>模式匹配：<br>　　LIKE 谓词比 &#x3D; 更模糊，需要字符串部分一致时使用。<br>　　部分一致大体可以分为前方一致、中间一致和后方一致三种类型。<br>　　<code>%</code>是代表“0 字符以上的任意字符串”的特殊符号。<br>　　前方一致：<code>ddd%</code><br>　　中间一致：<code>%ddd%</code><br>　　后方一致：<code>%ddd</code></p>
+<h2 id="6-2-谓词"><a href="#6-2-谓词" class="headerlink" title="6-2　谓词"></a>6-2　谓词</h2><p>　　谓词就是返回值为真值的函数。<br>　　通常的函数返回值有可能是数字、字符串或者日期等，但是谓词的返回值全都是真值（TRUE/FALSE/UNKNOWN）<br>　　<code>=、&lt;、&gt;、&lt;&gt;</code>等比较运算符，其正式的名称就是比较谓词。</p>
+<p>模式匹配：<br>　　LIKE 谓词比 = 更模糊，需要字符串部分一致时使用。<br>　　部分一致大体可以分为前方一致、中间一致和后方一致三种类型。<br>　　<code>%</code>是代表“0 字符以上的任意字符串”的特殊符号。<br>　　前方一致：<code>ddd%</code><br>　　中间一致：<code>%ddd%</code><br>　　后方一致：<code>%ddd</code></p>
 <figure class="highlight sql"><figcaption><span>查询以 ddd 开头的所有字符串</span></figcaption><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br></pre></td><td class="code"><pre><span class="line"><span class="keyword">SELECT</span> <span class="operator">*</span></span><br><span class="line">  <span class="keyword">FROM</span> SampleLike</span><br><span class="line"> <span class="keyword">WHERE</span> strcol <span class="keyword">LIKE</span> <span class="string">&#x27;ddd%&#x27;</span>;</span><br></pre></td></tr></table></figure>
 <p>　　还可以使用<code>_</code>（下划线）来代替<code>%</code>，代表任意一个字符。</p>
 <figure class="highlight sql"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br></pre></td><td class="code"><pre><span class="line"><span class="keyword">SELECT</span> <span class="operator">*</span></span><br><span class="line">  <span class="keyword">FROM</span> SampleLike</span><br><span class="line"> <span class="keyword">WHERE</span> strcol <span class="keyword">LIKE</span> <span class="string">&#x27;abc_ _&#x27;</span>;</span><br></pre></td></tr></table></figure>
@@ -729,7 +729,7 @@ var ap = new APlayer({
 <figure class="highlight sql"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br></pre></td><td class="code"><pre><span class="line"><span class="keyword">SELECT</span> SP.shop_id, SP.shop_name, SP.product_id, P.product_name, P.sale_price</span><br><span class="line">  <span class="keyword">FROM</span> ShopProduct <span class="keyword">AS</span> SP <span class="keyword">INNER</span> <span class="keyword">JOIN</span> Product <span class="keyword">AS</span> P</span><br><span class="line">    <span class="keyword">ON</span> SP.product_id <span class="operator">=</span> P.product_id;</span><br></pre></td></tr></table></figure>
 <figure class="highlight sql"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br></pre></td><td class="code"><pre><span class="line"><span class="keyword">SELECT</span> SP.shop_id, SP.shop_name, SP.product_id, P.product_name, P.sale_price, IP.inventory_quantity</span><br><span class="line">  <span class="keyword">FROM</span> ShopProduct <span class="keyword">AS</span> SP <span class="keyword">INNER</span> <span class="keyword">JOIN</span> Product <span class="keyword">AS</span> P</span><br><span class="line">    <span class="keyword">ON</span> SP.product_id <span class="operator">=</span> P.product_id</span><br><span class="line">          <span class="keyword">INNER</span> <span class="keyword">JOIN</span> InventoryProduct <span class="keyword">AS</span> IP</span><br><span class="line">             <span class="keyword">ON</span> SP.product_id <span class="operator">=</span> IP.product_id</span><br><span class="line"> <span class="keyword">WHERE</span> IP.inventory_id <span class="operator">=</span> <span class="string">&#x27;P001&#x27;</span>;</span><br></pre></td></tr></table></figure>
 
-<p>　　<code>INNER</code>可省略。<br>　　<code>SP</code>和<code>P</code>分别是这两张表的别名，并不是必需的。但由于表名太长会影响语句的可读性，因此还是希望大家能够习惯使用别名。<br>　　<code>ON</code>是专门用来指定联结条件的，它能起到与<code>WHERE</code>相同的作用。需要指定多个键时，同样可以使用<code>AND</code>、<code>OR</code>。<br>　　联结条件也可以使用“&#x3D;”来记述。还可以使用<code>&lt;=</code>和<code>BETWEEN</code>等谓词。但因为实际应用中九成以上都可以用“&#x3D;”进行联结，所以开始时只要记住使用“&#x3D;”就可以了。<br>　　使用联结时<code>SELECT</code>子句中的列需要按照<code>&lt;表的别名&gt;.&lt;列名&gt;</code>的格式书写。</p>
+<p>　　<code>INNER</code>可省略。<br>　　<code>SP</code>和<code>P</code>分别是这两张表的别名，并不是必需的。但由于表名太长会影响语句的可读性，因此还是希望大家能够习惯使用别名。<br>　　<code>ON</code>是专门用来指定联结条件的，它能起到与<code>WHERE</code>相同的作用。需要指定多个键时，同样可以使用<code>AND</code>、<code>OR</code>。<br>　　联结条件也可以使用“=”来记述。还可以使用<code>&lt;=</code>和<code>BETWEEN</code>等谓词。但因为实际应用中九成以上都可以用“=”进行联结，所以开始时只要记住使用“=”就可以了。<br>　　使用联结时<code>SELECT</code>子句中的列需要按照<code>&lt;表的别名&gt;.&lt;列名&gt;</code>的格式书写。</p>
 <h3 id="外联结"><a href="#外联结" class="headerlink" title="外联结"></a>外联结</h3><p>　　外联结中使用LEFT、RIGHT来指定主表。使用二者所得到的结果完全相同。</p>
 <figure class="highlight sql"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br></pre></td><td class="code"><pre><span class="line"><span class="keyword">SELECT</span> SP.shop_id, SP.shop_name, SP.product_id, P.product_name, P.sale_price</span><br><span class="line">  <span class="keyword">FROM</span> ShopProduct <span class="keyword">AS</span> SP <span class="keyword">RIGHT</span> <span class="keyword">OUTER</span> <span class="keyword">JOIN</span> Product <span class="keyword">AS</span> P</span><br><span class="line">    <span class="keyword">ON</span> SP.product_id <span class="operator">=</span> P.product_id;</span><br></pre></td></tr></table></figure>
 
@@ -895,6 +895,12 @@ var ap = new APlayer({
 
   <script class="next-config" data-name="leancloud_visitors" type="application/json">{"enable":true,"app_id":"zulMeib4pyC6zB1a65OmVtHz-gzGzoHsz","app_key":"TEjUlOUBz3KwSUmDQ35ROxpw","server_url":null,"security":false}</script>
   <script src="/js/third-party/statistics/lean-analytics.js"></script>
+
+
+  
+
+  <script class="next-config" data-name="enableMath" type="application/json">false</script><script class="next-config" data-name="mathjax" type="application/json">{"enable":true,"tags":"none","js":{"url":"https://cdnjs.cloudflare.com/ajax/libs/mathjax/3.2.2/es5/tex-mml-chtml.js","integrity":"sha256-MASABpB4tYktI2Oitl4t+78w/lyA+D7b/s9GEP0JOGI="}}</script>
+<script src="/js/third-party/math/mathjax.js"></script>
 
 
   <script src="https://cdnjs.cloudflare.com/ajax/libs/quicklink/2.3.0/quicklink.umd.js" integrity="sha256-yvJQOINiH9fWemHn0vCA5lsHWJaHs6/ZmO+1Ft04SvM=" crossorigin="anonymous"></script>
