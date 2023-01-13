@@ -431,7 +431,106 @@ var ap = new APlayer({
 <h1 id="流量数据处理"><a href="#流量数据处理" class="headerlink" title="流量数据处理"></a>流量数据处理</h1><p>本程序适用于「抖音电商罗盘-商家视角-直播-直播列表-直播间明细-数据详情-下载」所导出报表。</p>
 <p>功能：自动匹配直播间流量数据并清除公式。</p>
 <p><img data-src="/douyin-vba/douyin-vba-7.png" alt="处理效果"></p>
-<p>需提前预备以下匹配源，全选复制即可粘贴至表格内：<br>|匹配数据列|各渠道流量|12月1日|<br>|—|—|—|<br>|推荐feed渠道_直播间进入次数|推荐feed | |<br>|短视频引流渠道_直播间进入次数|短视频引流 | |<br>|关注渠道_直播间进入次数|关注 | |<br>|搜索渠道_直播间进入次数|搜索 | |<br>|千川PC版渠道_直播间进入次数|千川PC版 | |<br>|抖音商城推荐渠道_直播间进入次数|抖音商城推荐 | |<br>|个人主页&amp;店铺&amp;橱窗渠道_直播间进入次数|个人主页&amp;店铺&amp;橱窗 | |<br>|头条西瓜渠道_直播间进入次数|头条西瓜 | |<br>|其他渠道_直播间进入次数|其他 | |<br>|品牌广告渠道_直播间进入次数|品牌广告 | |<br>|其他广告渠道_直播间进入次数|其他广告 | |<br>|直播广场渠道_直播间进入次数|直播广场 | |<br>|活动页渠道_直播间进入次数|活动页 | |<br>|同城渠道_直播间进入次数|同城 | |<br>|其他推荐场景渠道_直播间进入次数|其他推荐场景 | |<br>|小店随心推渠道_直播间进入次数|小店随心推 | |<br>|千川品牌广告渠道_直播间进入次数|千川品牌广告 | |<br>|合计| ||</p>
+<p>需提前预备以下匹配源，全选复制即可粘贴至表格内：</p>
+<table>
+<thead>
+<tr>
+<th>匹配数据列</th>
+<th>各渠道流量</th>
+<th>12月1日</th>
+</tr>
+</thead>
+<tbody><tr>
+<td>推荐feed渠道_直播间进入次数</td>
+<td>推荐feed</td>
+<td></td>
+</tr>
+<tr>
+<td>短视频引流渠道_直播间进入次数</td>
+<td>短视频引流</td>
+<td></td>
+</tr>
+<tr>
+<td>关注渠道_直播间进入次数</td>
+<td>关注</td>
+<td></td>
+</tr>
+<tr>
+<td>搜索渠道_直播间进入次数</td>
+<td>搜索</td>
+<td></td>
+</tr>
+<tr>
+<td>千川PC版渠道_直播间进入次数</td>
+<td>千川PC版</td>
+<td></td>
+</tr>
+<tr>
+<td>抖音商城推荐渠道_直播间进入次数</td>
+<td>抖音商城推荐</td>
+<td></td>
+</tr>
+<tr>
+<td>个人主页&amp;店铺&amp;橱窗渠道_直播间进入次数</td>
+<td>个人主页&amp;店铺&amp;橱窗</td>
+<td></td>
+</tr>
+<tr>
+<td>头条西瓜渠道_直播间进入次数</td>
+<td>头条西瓜</td>
+<td></td>
+</tr>
+<tr>
+<td>其他渠道_直播间进入次数</td>
+<td>其他</td>
+<td></td>
+</tr>
+<tr>
+<td>品牌广告渠道_直播间进入次数</td>
+<td>品牌广告</td>
+<td></td>
+</tr>
+<tr>
+<td>其他广告渠道_直播间进入次数</td>
+<td>其他广告</td>
+<td></td>
+</tr>
+<tr>
+<td>直播广场渠道_直播间进入次数</td>
+<td>直播广场</td>
+<td></td>
+</tr>
+<tr>
+<td>活动页渠道_直播间进入次数</td>
+<td>活动页</td>
+<td></td>
+</tr>
+<tr>
+<td>同城渠道_直播间进入次数</td>
+<td>同城</td>
+<td></td>
+</tr>
+<tr>
+<td>其他推荐场景渠道_直播间进入次数</td>
+<td>其他推荐场景</td>
+<td></td>
+</tr>
+<tr>
+<td>小店随心推渠道_直播间进入次数</td>
+<td>小店随心推</td>
+<td></td>
+</tr>
+<tr>
+<td>千川品牌广告渠道_直播间进入次数</td>
+<td>千川品牌广告</td>
+<td></td>
+</tr>
+<tr>
+<td>合计</td>
+<td></td>
+<td></td>
+</tr>
+</tbody></table>
 <p>请按注释设置 <code>ChDir</code>、<code>XFD</code>、<code>RC</code> 三项参数再运行本程序。</p>
 <figure class="highlight vb"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br><span class="line">7</span><br><span class="line">8</span><br><span class="line">9</span><br><span class="line">10</span><br><span class="line">11</span><br><span class="line">12</span><br><span class="line">13</span><br><span class="line">14</span><br><span class="line">15</span><br><span class="line">16</span><br><span class="line">17</span><br><span class="line">18</span><br><span class="line">19</span><br><span class="line">20</span><br><span class="line">21</span><br><span class="line">22</span><br><span class="line">23</span><br><span class="line">24</span><br><span class="line">25</span><br></pre></td><td class="code"><pre><span class="line"><span class="keyword">Sub</span> 流量数据处理()</span><br><span class="line">    <span class="comment">&#x27;&lt;禁止屏幕刷新 Begin&gt;</span></span><br><span class="line">    Application.ScreenUpdating = <span class="literal">False</span></span><br><span class="line">    <span class="comment">&#x27;&lt;禁止屏幕刷新 End&gt;</span></span><br><span class="line">    <span class="comment">&#x27;&lt;更新流量数据源 Begin&gt;</span></span><br><span class="line">    ChDir <span class="string">&quot;C:\Users\Haku\Downloads&quot;</span> <span class="comment">&#x27;此处设置为下载文件夹地址</span></span><br><span class="line">    Range(<span class="string">&quot;XFD22&quot;</span>).<span class="keyword">End</span>(xlToLeft).Offset(<span class="number">0</span>, <span class="number">1</span>).Resize(<span class="number">17</span>, <span class="number">1</span>).<span class="keyword">Select</span> <span class="comment">&#x27;XFD后数字设置为「推荐feed」单元格所在行号</span></span><br><span class="line">    Selection.FormulaR1C1 = _</span><br><span class="line">        <span class="string">&quot;=VLOOKUP(RC2,&#x27;[直播间详情页.xlsx]流量分析-流量转化&#x27;!C1:C2,2,FALSE)&quot;</span> <span class="comment">&#x27;RC后数字设置为「匹配数据列」所在列号</span></span><br><span class="line">    <span class="comment">&#x27;&lt;更新流量数据源 End&gt;</span></span><br><span class="line">    <span class="comment">&#x27;&lt;清除公式 Begin&gt;</span></span><br><span class="line">    Selection.Value = Selection.Value</span><br><span class="line">    <span class="comment">&#x27;&lt;清除公式 End&gt;</span></span><br><span class="line">    <span class="comment">&#x27;&lt;替换汉字万 Begin&gt;</span></span><br><span class="line">    Selection.Replace What:=<span class="string">&quot;万&quot;</span>, Replacement:=<span class="string">&quot;e4&quot;</span>, LookAt:=xlPart, _</span><br><span class="line">    SearchOrder:=xlByRows, MatchCase:=<span class="literal">False</span>, SearchFormat:=<span class="literal">False</span>, _</span><br><span class="line">    ReplaceFormat:=<span class="literal">False</span>, FormulaVersion:=xlReplaceFormula2</span><br><span class="line">    <span class="comment">&#x27;&lt;替换汉字万 End&gt;</span></span><br><span class="line">    <span class="comment">&#x27;&lt;将单元格格式设为不保留小数的数字 Begin&gt;</span></span><br><span class="line">    Selection.NumberFormatLocal = <span class="string">&quot;0&quot;</span></span><br><span class="line">    <span class="comment">&#x27;&lt;将单元格格式设为不保留小数的数字 End&gt;</span></span><br><span class="line">    <span class="comment">&#x27;&lt;启用屏幕刷新 Begin&gt;</span></span><br><span class="line">    Application.ScreenUpdating = <span class="literal">True</span></span><br><span class="line">    <span class="comment">&#x27;&lt;启用屏幕刷新 End&gt;</span></span><br><span class="line"><span class="keyword">End</span> <span class="keyword">Sub</span></span><br></pre></td></tr></table></figure>
 
@@ -592,7 +691,7 @@ var ap = new APlayer({
   <script data-pjax async src="https://busuanzi.ibruce.info/busuanzi/2.3/busuanzi.pure.mini.js"></script>
 
 
-  <script class="next-config" data-name="leancloud_visitors" type="application/json">{"enable":true,"app_id":"7LLkavsVs5B9mCUhA4fVIVq8-MdYXbMMI","app_key":"PBN5LxdUQBXR0dvByI5Vm432","server_url":null,"security":false}</script>
+  <script class="next-config" data-name="leancloud_visitors" type="application/json">{"enable":true,"app_id":"7LLkavsVs5B9mCUhA4fVIVq8-MdYXbMMI","app_key":"PBN5LxdUQBXR0dvByI5Vm432","server_url":"https://qianling.avosapps.us/","security":false}</script>
   <script src="/js/third-party/statistics/lean-analytics.js"></script>
 
 
