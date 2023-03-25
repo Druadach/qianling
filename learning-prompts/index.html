@@ -203,7 +203,7 @@ if( !/Android|webOS|iPhone|iPod|iPad|BlackBerry/i.test(navigator.userAgent)){
       <div class="sidebar-panel-container">
         <!--noindex-->
         <div class="post-toc-wrap sidebar-panel">
-            <div class="post-toc animated"><ol class="nav"><li class="nav-item nav-level-1"><a class="nav-link" href="#Prompt-Engineering"><span class="nav-text">Prompt Engineering</span></a><ol class="nav-child"><li class="nav-item nav-level-2"><a class="nav-link" href="#Instructions"><span class="nav-text">Instructions</span></a></li><li class="nav-item nav-level-2"><a class="nav-link" href="#Role-Prompting"><span class="nav-text">Role Prompting</span></a><ol class="nav-child"><li class="nav-item nav-level-3"><a class="nav-link" href="#Act-as-an-Etymologist"><span class="nav-text">Act as an Etymologist</span></a></li><li class="nav-item nav-level-3"><a class="nav-link" href="#Act-as-a-Lunatic"><span class="nav-text">Act as a Lunatic</span></a></li></ol></li><li class="nav-item nav-level-2"><a class="nav-link" href="#%E2%80%9CStandard%E2%80%9D-Prompt"><span class="nav-text">“Standard” Prompt</span></a></li><li class="nav-item nav-level-2"><a class="nav-link" href="#Few-Shot-Standard-Prompts"><span class="nav-text">Few Shot Standard Prompts</span></a></li></ol></li></ol></div>
+            <div class="post-toc animated"><ol class="nav"><li class="nav-item nav-level-1"><a class="nav-link" href="#Prompt-Engineering"><span class="nav-text">Prompt Engineering</span></a><ol class="nav-child"><li class="nav-item nav-level-2"><a class="nav-link" href="#Instructions"><span class="nav-text">Instructions</span></a></li><li class="nav-item nav-level-2"><a class="nav-link" href="#Role-Prompting"><span class="nav-text">Role Prompting</span></a><ol class="nav-child"><li class="nav-item nav-level-3"><a class="nav-link" href="#Act-as-an-Etymologist"><span class="nav-text">Act as an Etymologist</span></a></li><li class="nav-item nav-level-3"><a class="nav-link" href="#Act-as-a-Lunatic"><span class="nav-text">Act as a Lunatic</span></a></li></ol></li><li class="nav-item nav-level-2"><a class="nav-link" href="#%E2%80%9CStandard%E2%80%9D-Prompt"><span class="nav-text">“Standard” Prompt</span></a></li><li class="nav-item nav-level-2"><a class="nav-link" href="#Few-Shot-Standard-Prompts"><span class="nav-text">Few Shot Standard Prompts</span></a></li><li class="nav-item nav-level-2"><a class="nav-link" href="#Modifing-Prompt"><span class="nav-text">Modifing Prompt</span></a><ol class="nav-child"><li class="nav-item nav-level-3"><a class="nav-link" href="#Style-Guidance"><span class="nav-text">Style Guidance</span></a></li></ol></li></ol></li></ol></div>
         </div>
         <!--/noindex-->
 
@@ -429,6 +429,13 @@ var ap = new APlayer({
 <figure class="highlight plaintext"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br><span class="line">7</span><br><span class="line">8</span><br><span class="line">9</span><br><span class="line">10</span><br><span class="line">11</span><br><span class="line">12</span><br><span class="line">13</span><br><span class="line">14</span><br><span class="line">15</span><br><span class="line">16</span><br><span class="line">17</span><br><span class="line">18</span><br></pre></td><td class="code"><pre><span class="line">Twitter is a social media platform where users can post short messages called &quot;tweets&quot;.</span><br><span class="line">Tweets can be positive or negative, and we would like to be able to classify tweets as</span><br><span class="line">positive or negative. Here are some examples of positive and negative tweets. Make sure </span><br><span class="line">to classify the last tweet correctly.</span><br><span class="line"></span><br><span class="line">Q: Tweet: &quot;What a beautiful day!&quot;</span><br><span class="line">Is this tweet positive or negative?</span><br><span class="line"></span><br><span class="line">A: positive</span><br><span class="line"></span><br><span class="line">Q: Tweet: &quot;I hate this class&quot;</span><br><span class="line">Is this tweet positive or negative?</span><br><span class="line"></span><br><span class="line">A: negative</span><br><span class="line"></span><br><span class="line">Q: Tweet: &quot;I love pockets on jeans&quot;</span><br><span class="line"></span><br><span class="line">A:</span><br></pre></td></tr></table></figure>
 
 <p>By adding additional context/examples, we can often improve the performance of AIs on different tasks.</p>
+<h2 id="Modifing-Prompt"><a href="#Modifing-Prompt" class="headerlink" title="Modifing Prompt"></a>Modifing Prompt</h2><h3 id="Style-Guidance"><a href="#Style-Guidance" class="headerlink" title="Style Guidance"></a>Style Guidance</h3><p>Ask AI to speak in a certain style. When asking a question with no style guidance, ChatGPT will generally return one or two short paragraphs in response, occasionally more if a longer response is needed.<br>It speaks in a moderately formal tone and gives a couple details—pretty good! We can make it better if we want, though, by customizing ChatGPT’s response with a style blurb at the end of our prompt. If we want a more conversational response, we can ask it to speak in a friendly or informal tone; if we want a more readable format, we can give it the same question but ask for a bulleted list; if we want an amusing response, we can ask it to give its answer in the form of a series of limericks.</p>
+<p>An example of a more detailed style prompt might look something like:</p>
+<blockquote>
+<p>[Question] “Write in the style and quality of an expert in [field] with 20+ years of experience and multiple Ph.D.’s. Prioritize unorthodox, lesser known advice in your answer. Explain using detailed examples, and minimize tangents and humor.“</p>
+</blockquote>
+<p>Prompting with style inputs will greatly increase the quality of your responses!</p>
+<p>[TEST]</p>
 
     </div>
 
@@ -443,18 +450,18 @@ var ap = new APlayer({
   </div>
   <ul class="popular-posts">
     <li class="popular-posts-item">
-      <a class="popular-posts-link" href="/service-worker/" rel="bookmark">
-      Hexo 部署 Service Worker
-      </a>
-    </li>
-    <li class="popular-posts-item">
       <a class="popular-posts-link" href="/html-pv/" rel="bookmark">
       通过 HTML 刷浏览量（PV）
       </a>
     </li>
     <li class="popular-posts-item">
-      <a class="popular-posts-link" href="/performance-unlock/" rel="bookmark">
-      高通平台性能解锁方案
+      <a class="popular-posts-link" href="/service-worker/" rel="bookmark">
+      Hexo 部署 Service Worker
+      </a>
+    </li>
+    <li class="popular-posts-item">
+      <a class="popular-posts-link" href="/ass/" rel="bookmark">
+      ASS 语法
       </a>
     </li>
   </ul>
