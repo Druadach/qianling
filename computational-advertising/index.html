@@ -1,0 +1,629 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+  <meta charset="UTF-8">
+<meta name="viewport" content="width=device-width">
+<meta name="theme-color" content="#222"><meta name="generator" content="Hexo 6.3.0">
+
+  <link rel="apple-touch-icon" sizes="180x180" href="/images/apple-touch-icon-next.png">
+  <link rel="icon" type="image/png" sizes="32x32" href="/images/favicon-32x32-next.png">
+  <link rel="icon" type="image/png" sizes="16x16" href="/images/favicon-16x16-next.png">
+  <link rel="mask-icon" href="/images/logo.svg" color="#222">
+
+<link rel="stylesheet" href="/css/main.css">
+
+<link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Noto+Serif+SC:300,300italic,400,400italic,700,700italic%7CHYJiangNanKaiSongW:300,300italic,400,400italic,700,700italic&display=swap&subset=latin,latin-ext">
+
+<link rel="stylesheet" href="/fontawesome/all.min.css">
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/animate.css/3.1.1/animate.min.css" integrity="sha256-PR7ttpcvz8qrF57fur/yAx1qXMFJeJFiA6pSzWi0OIE=" crossorigin="anonymous">
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/fancybox/3.5.7/jquery.fancybox.min.css" integrity="sha256-Vzbj7sDDS/woiFS3uNKo8eIuni59rjyNGtXfstRzStA=" crossorigin="anonymous">
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/pace/1.2.4/themes/blue/pace-theme-minimal.css">
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/pace/1.2.4/pace.min.js" integrity="sha256-gqd7YTjg/BtfqWSwsJOvndl0Bxc8gFImLEkXQT8+qj0=" crossorigin="anonymous"></script>
+
+<script class="next-config" data-name="main" type="application/json">{"hostname":"qianling.pw","root":"/","images":"/images","scheme":"Muse","darkmode":false,"version":"8.14.0","exturl":false,"sidebar":{"position":"right","display":"hide","padding":18,"offset":12},"copycode":{"enable":true,"style":"flat"},"bookmark":{"enable":false,"color":"#222","save":"auto"},"mediumzoom":false,"lazyload":true,"pangu":false,"comments":{"style":"tabs","active":"valine","storage":true,"lazyload":false,"nav":null,"activeClass":"valine"},"stickytabs":false,"motion":{"enable":true,"async":true,"transition":{"menu_item":"fadeIn","post_block":"fadeIn","post_header":"fadeInDown","post_body":"fadeIn","coll_header":"fadeInLeft","sidebar":"fadeInUp"}},"prism":false,"i18n":{"placeholder":"搜索...","empty":"没有找到任何搜索结果：${query}","hits_time":"找到 ${hits} 个搜索结果（用时 ${time} 毫秒）","hits":"找到 ${hits} 个搜索结果"},"path":"/search.xml","localsearch":{"enable":true,"trigger":"auto","top_n_per_article":1,"unescape":false,"preload":true}}</script><script src="/js/config.js"></script>
+
+    <meta property="og:type" content="article">
+<meta property="og:title" content="《计算广告》笔记">
+<meta property="og:url" content="https://qianling.pw/computational-advertising/index.html">
+<meta property="og:site_name" content="千灵">
+<meta property="og:locale" content="zh_CN">
+<meta property="og:image" content="https://qianling.pw/images/covers/250.webp">
+<meta property="og:image" content="https://qianling.pw/computational-advertising/computational-advertising-1.png">
+<meta property="og:image" content="https://qianling.pw/computational-advertising/computational-advertising-2.png">
+<meta property="og:image" content="https://qianling.pw/computational-advertising/computational-advertising-3.png">
+<meta property="og:image" content="https://qianling.pw/computational-advertising/computational-advertising-4.png">
+<meta property="og:image" content="https://qianling.pw/computational-advertising/computational-advertising-5.png">
+<meta property="og:image" content="https://qianling.pw/computational-advertising/computational-advertising-6.png">
+<meta property="og:image" content="https://qianling.pw/computational-advertising/computational-advertising-7.png">
+<meta property="og:image" content="https://qianling.pw/computational-advertising/computational-advertising-8.png">
+<meta property="og:image" content="https://qianling.pw/computational-advertising/computational-advertising-9.png">
+<meta property="article:published_time" content="2023-11-01T03:25:12.000Z">
+<meta property="article:modified_time" content="2023-11-01T13:20:55.583Z">
+<meta property="article:author" content="千灵夙赋">
+<meta property="article:tag" content="计算机科学">
+<meta property="article:tag" content="广告学">
+<meta property="article:tag" content="教材">
+<meta name="twitter:card" content="summary">
+<meta name="twitter:image" content="https://qianling.pw/images/covers/250.webp">
+
+
+<link rel="canonical" href="https://qianling.pw/computational-advertising/">
+
+
+
+<script class="next-config" data-name="page" type="application/json">{"sidebar":"","isHome":false,"isPost":true,"lang":"zh-CN","comments":true,"permalink":"https://qianling.pw/computational-advertising/","path":"computational-advertising/","title":"《计算广告》笔记"}</script>
+
+<script class="next-config" data-name="calendar" type="application/json">""</script>
+<title>《计算广告》笔记 | 千灵</title>
+  
+    <script async src="https://www.googletagmanager.com/gtag/js?id=UA-141264217-1"></script>
+  <script class="next-config" data-name="google_analytics" type="application/json">{"tracking_id":"UA-141264217-1","only_pageview":false}</script>
+  <script src="/js/third-party/analytics/google-analytics.js"></script>
+
+  <script src="/js/third-party/analytics/baidu-analytics.js"></script>
+  <script async src="https://hm.baidu.com/hm.js?b95f636e57f871a4ea1faeae2b4f30e5"></script>
+
+
+
+
+
+  <script async defer data-website-id="" src=""></script>
+
+  <script defer data-domain="" src=""></script>
+
+  <noscript>
+    <link rel="stylesheet" href="/css/noscript.css">
+  </noscript>
+<link rel="alternate" href="/atom.xml" title="千灵" type="application/atom+xml">
+</head>
+
+<body itemscope itemtype="http://schema.org/WebPage" class="use-motion">
+  <div class="headband"></div>
+
+  <main class="main">
+    <div class="column">
+      <header class="header" itemscope itemtype="http://schema.org/WPHeader"><div class="site-brand-container">
+  <div class="site-nav-toggle">
+    <div class="toggle" aria-label="切换导航栏" role="button">
+        <span class="toggle-line"></span>
+        <span class="toggle-line"></span>
+        <span class="toggle-line"></span>
+    </div>
+  </div>
+
+  <div class="site-meta">
+
+    <a href="/" class="brand" rel="start">
+      <i class="logo-line"></i>
+      <p class="site-title">千灵</p>
+      <i class="logo-line"></i>
+    </a>
+  </div>
+
+  <div class="site-nav-right">
+    <div class="toggle popup-trigger" aria-label="搜索" role="button">
+        <i class="fa fa-search fa-fw fa-lg"></i>
+    </div>
+  </div>
+</div>
+
+
+
+<nav class="site-nav">
+  <ul class="main-menu menu"><li class="menu-item menu-item-home"><a href="/" rel="section"><i class="fas fa-flower fa-fw"></i>首页</a></li><li class="menu-item menu-item-categories"><a href="/categories/" rel="section"><i class="fa fa-cookie fa-fw"></i>分类</a></li><li class="menu-item menu-item-archives"><a href="/archives/" rel="section"><i class="fas fa-acorn fa-fw"></i>归档</a></li><li class="menu-item menu-item-play"><a href="/play/" rel="section"><i class="fa fa-fish fa-fw"></i>游戏</a></li><li class="menu-item menu-item-message"><a href="/message/" rel="section"><i class="fa fa-dog fa-fw"></i>留言</a></li><li class="menu-item menu-item-about"><a href="/about/" rel="section"><i class="fa fa-carrot fa-fw"></i>自述</a></li>
+      <li class="menu-item menu-item-search">
+        <a role="button" class="popup-trigger"><i class="fa fa-search fa-fw"></i>搜索
+        </a>
+      </li>
+  </ul>
+</nav>
+
+
+
+  <div class="search-pop-overlay">
+    <div class="popup search-popup"><div class="search-header">
+  <span class="search-icon">
+    <i class="fa fa-search"></i>
+  </span>
+  <div class="search-input-container">
+    <input autocomplete="off" autocapitalize="off" maxlength="80"
+           placeholder="搜索..." spellcheck="false"
+           type="search" class="search-input">
+  </div>
+  <span class="popup-btn-close" role="button">
+    <i class="fa fa-times-circle"></i>
+  </span>
+</div>
+<div class="search-result-container no-result">
+  <div class="search-result-icon">
+    <i class="fa fa-spinner fa-pulse fa-5x"></i>
+  </div>
+</div>
+
+    </div>
+  </div>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.6.0/jquery.min.js"></script>
+
+<div class="top-scroll-bar"></div>
+
+<canvas class="fireworks" id="canvas" style="position: fixed;left: 0;top: 0;z-index: 1; pointer-events: none;" ></canvas>
+
+<script>
+  document.write('<script type="text/javascript" defer src="/js/custom/custom.js"><\/script>');
+if( !/Android|webOS|iPhone|iPod|iPad|BlackBerry/i.test(navigator.userAgent)){
+  document.write('<script type="text/javascript" defer src="//cdn.bootcss.com/animejs/2.2.0/anime.min.js"><\/script> <script type="text/javascript" defer src="/js/custom/fireworks.js"><\/script>');
+}
+</script>
+
+<!-- 动态背景 -->
+<script>
+if( !/Android|webOS|iPhone|iPod|iPad|BlackBerry/i.test(navigator.userAgent)){
+  document.write('<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/jquery-backstretch/2.1.18/jquery.backstretch.min.js"><\/script>');
+}
+</script>
+<script type="text/javascript">
+  $("body").backstretch([
+    "/images/background/background (1).webp",
+    "/images/background/background (2).webp",
+    "/images/background/background (3).webp",
+    "/images/background/background (4).webp",
+    "/images/background/background (5).webp",
+    "/images/background/background (6).webp",
+    "/images/background/background (7).webp",
+    "/images/background/background (8).webp",
+  ], {duration: 60000, fade: 1000, animateFirst: true});
+</script>
+
+<!-- live2d -->
+<div id="waifu">
+  <div class="waifu-tips" style="opacity: 0;"></div>
+  <canvas id="live2d" width="280" height="250" class="live2d"></canvas>
+</div>
+<script>
+if( !/Android|webOS|iPhone|iPod|iPad|BlackBerry/i.test(navigator.userAgent)){
+  document.write('<script type="text/javascript" defer src="/live2d/live2d.js"><\/script> <script type="text/javascript" defer src="/live2d/waifu-tips.js"><\/script>');
+}
+</script>
+
+<!-- 打字礼花及震动特效 -->
+<script>
+if( !/Android|webOS|iPhone|iPod|iPad|BlackBerry/i.test(navigator.userAgent)){
+  document.write('<script type="text/javascript" defer src="/js/custom/activate-power-mode.js"><\/script>');
+}
+</script>
+<script>
+    POWERMODE.colorful = true; // ture 为启用礼花特效
+    POWERMODE.shake = false; // false 为禁用震动特效
+    document.body.addEventListener('input', POWERMODE);
+</script>
+</header>
+        
+  
+  <aside class="sidebar">
+
+    <div class="sidebar-inner sidebar-nav-active sidebar-toc-active">
+      <ul class="sidebar-nav">
+        <li class="sidebar-nav-toc">
+          文章目录
+        </li>
+        <li class="sidebar-nav-overview">
+          站点概览
+        </li>
+      </ul>
+
+      <div class="sidebar-panel-container">
+        <!--noindex-->
+        <div class="post-toc-wrap sidebar-panel">
+            <div class="post-toc animated"><ol class="nav"><li class="nav-item nav-level-1"><a class="nav-link" href="#%E5%89%8D%E8%A8%80"><span class="nav-text">前言</span></a></li><li class="nav-item nav-level-1"><a class="nav-link" href="#%E7%AC%AC%E4%B8%80%E9%83%A8%E5%88%86-%E5%9C%A8%E7%BA%BF%E5%B9%BF%E5%91%8A%E5%B8%82%E5%9C%BA%E4%B8%8E%E8%83%8C%E6%99%AF"><span class="nav-text">第一部分 在线广告市场与背景</span></a><ol class="nav-child"><li class="nav-item nav-level-2"><a class="nav-link" href="#%E7%AC%AC1%E7%AB%A0-%E5%9C%A8%E7%BA%BF%E5%B9%BF%E5%91%8A%E7%BB%BC%E8%BF%B0"><span class="nav-text">第1章 在线广告综述</span></a><ol class="nav-child"><li class="nav-item nav-level-3"><a class="nav-link" href="#1-1-%E5%85%8D%E8%B4%B9%E6%A8%A1%E5%BC%8F%E4%B8%8E%E4%BA%92%E8%81%94%E7%BD%91%E6%A0%B8%E5%BF%83%E8%B5%84%E4%BA%A7"><span class="nav-text">1.1 免费模式与互联网核心资产</span></a></li><li class="nav-item nav-level-3"><a class="nav-link" href="#1-2-%E5%A4%A7%E6%95%B0%E6%8D%AE%E4%B8%8E%E5%B9%BF%E5%91%8A%E7%9A%84%E5%85%B3%E7%B3%BB"><span class="nav-text">1.2 大数据与广告的关系</span></a></li><li class="nav-item nav-level-3"><a class="nav-link" href="#1-3-%E5%B9%BF%E5%91%8A%E7%9A%84%E5%AE%9A%E4%B9%89%E4%B8%8E%E7%9B%AE%E7%9A%84"><span class="nav-text">1.3 广告的定义与目的</span></a></li><li class="nav-item nav-level-3"><a class="nav-link" href="#1-4-%E5%9C%A8%E7%BA%BF%E5%B9%BF%E5%91%8A%E8%A1%A8%E7%8E%B0%E5%BD%A2%E5%BC%8F"><span class="nav-text">1.4 在线广告表现形式</span></a></li><li class="nav-item nav-level-3"><a class="nav-link" href="#1-5-%E5%9C%A8%E7%BA%BF%E5%B9%BF%E5%91%8A%E7%AE%80%E5%8F%B2"><span class="nav-text">1.5 在线广告简史</span></a></li></ol></li></ol></li></ol></div>
+        </div>
+        <!--/noindex-->
+
+        <div class="site-overview-wrap sidebar-panel">
+          <div class="site-author animated" itemprop="author" itemscope itemtype="http://schema.org/Person">
+    <img class="site-author-image" itemprop="image" alt="千灵夙赋"
+      src="/images/avatar.webp">
+  <p class="site-author-name" itemprop="name">千灵夙赋</p>
+  <div class="site-description" itemprop="description"></div>
+</div>
+<div class="site-state-wrap animated">
+  <nav class="site-state">
+      <div class="site-state-item site-state-posts">
+        <a href="/archives/">
+          <span class="site-state-item-count">228</span>
+          <span class="site-state-item-name">文章</span>
+        </a>
+      </div>
+      <div class="site-state-item site-state-categories">
+          <a href="/categories/">
+        <span class="site-state-item-count">36</span>
+        <span class="site-state-item-name">分类</span></a>
+      </div>
+      <div class="site-state-item site-state-tags">
+          <a href="/tags/">
+        <span class="site-state-item-count">64</span>
+        <span class="site-state-item-name">标签</span></a>
+      </div>
+  </nav>
+</div>
+
+          
+          <div class="sidebar-inner sidebar-blogroll">
+            <div class="links-of-blogroll animated">
+              <div class="links-of-blogroll-title"><i class="fa fa-link fa-fw"></i>
+                Friends
+              </div>
+              <ul class="links-of-blogroll-list">
+                  <li class="links-of-blogroll-item">
+                    <a href="https://meow3.family.blog/" title="https:&#x2F;&#x2F;meow3.family.blog&#x2F;" rel="noopener" target="_blank">恶魔菌の记事簿</a>
+                  </li>
+                  <li class="links-of-blogroll-item">
+                    <a href="https://lanyundev.vercel.app/" title="https:&#x2F;&#x2F;lanyundev.vercel.app&#x2F;" rel="noopener" target="_blank">LanYun</a>
+                  </li>
+                  <li class="links-of-blogroll-item">
+                    <a href="https://www.julydate.com/" title="https:&#x2F;&#x2F;www.julydate.com&#x2F;" rel="noopener" target="_blank">七夏浅笑</a>
+                  </li>
+              </ul>
+            </div>
+          </div><div id="aplayer" class="aplayer"></div>
+<script>
+if( !/Android|webOS|iPhone|iPod|iPad|BlackBerry/i.test(navigator.userAgent)){
+  document.write('<script type="text/javascript" src="/js/custom/APlayer.min.js"><\/script>');
+}
+
+</script>
+<script type="text/javascript">
+var ap = new APlayer({
+    element: document.getElementById('aplayer'),                       // Optional, player element
+    narrow: false,                                                     // Optional, narrow style
+    autoplay: false,                                                    // Optional, autoplay song(s), not supported by mobile browsers
+    showlrc: 0,                                                        // Optional, show lrc, can be 0, 1, 2, see: ###With lrc
+    mutex: true,                                                       // Optional, pause other players when this player playing
+    theme: '#e6d0b2',                                                  // Optional, theme color, default: #b7daff
+    mode: 'random',                                                    // Optional, play mode, can be `random` `single` `circulation`(loop) `order`(no loop), default: `circulation`
+    preload: 'none',                                               // Optional, the way to load music, can be 'none' 'metadata' 'auto', default: 'auto'
+    listmaxheight: '513px',                                             // Optional, max height of play list
+    music: [{
+      title: '世末歌者',
+      author: '双笙 囧菌',
+      url: '/music/双笙 囧菌 - 世末歌者（Cover 乐正绫）.mp3',
+      pic: '/images/aplayer/双笙 囧菌 - 世末歌者.webp',
+    }, {
+      title: '幹物女(WeiWei)',
+      author: '封茗囧菌',
+      url: '/music/%E5%B0%81%E8%8C%97%E5%9B%A7%E8%8F%8C%20-%20%E5%B9%B9%E7%89%A9%E5%A5%B3(WeiWei).mp3',
+      pic: '/images/aplayer/封茗囧菌 - 幹物女(WeiWei).webp',
+    }, {
+      title: '东京不太热',
+      author: '封茗囧菌',
+      url: '/music/%E5%B0%81%E8%8C%97%E5%9B%A7%E8%8F%8C%20-%20%E4%B8%9C%E4%BA%AC%E4%B8%8D%E5%A4%AA%E7%83%AD.mp3',
+      pic: '/images/aplayer/封茗囧菌 - 东京不太热.webp',
+    }, {
+      title: '有故事的小仙女（Cover 初音ミク）',
+      author: '井宿',
+      url: '/music/%E4%BA%95%E5%AE%BF%20-%20%E6%9C%89%E6%95%85%E4%BA%8B%E7%9A%84%E5%B0%8F%E4%BB%99%E5%A5%B3%EF%BC%88Cover%20%E5%88%9D%E9%9F%B3%E3%83%9F%E3%82%AF%EF%BC%89.mp3',
+      pic: '/images/aplayer/井宿 - 有故事的小仙女（Cover 初音ミク）.webp',
+    }, {
+      title: '拼凑的断音（Cover 洛天依）',
+      author: '泡泡Hansy',
+      url: '/music/%E6%B3%A1%E6%B3%A1Hansy%20-%20%E6%8B%BC%E5%87%91%E7%9A%84%E6%96%AD%E9%9F%B3%EF%BC%88Cover%20%E6%B4%9B%E5%A4%A9%E4%BE%9D%EF%BC%89.mp3',
+      pic: '/images/aplayer/泡泡Hansy - 拼凑的断音（Cover 洛天依）.webp',
+    }]
+  });
+</script>
+
+          
+        </div>
+      </div>
+    </div>
+  </aside>
+
+
+    </div>
+
+    <div class="main-inner post posts-expand">
+
+
+  
+
+
+<div class="post-block">
+  
+  
+
+  <article itemscope itemtype="http://schema.org/Article" class="post-content" lang="zh-CN">
+    <link itemprop="mainEntityOfPage" href="https://qianling.pw/computational-advertising/">
+
+    <span hidden itemprop="author" itemscope itemtype="http://schema.org/Person">
+      <meta itemprop="image" content="/images/avatar.webp">
+      <meta itemprop="name" content="千灵夙赋">
+    </span>
+
+    <span hidden itemprop="publisher" itemscope itemtype="http://schema.org/Organization">
+      <meta itemprop="name" content="千灵">
+      <meta itemprop="description" content="">
+    </span>
+
+    <span hidden itemprop="post" itemscope itemtype="http://schema.org/CreativeWork">
+      <meta itemprop="name" content="《计算广告》笔记 | 千灵">
+      <meta itemprop="description" content="">
+    </span>
+      <header class="post-header">
+        <h1 class="post-title" itemprop="name headline">
+          《计算广告》笔记
+        </h1>
+
+        <div class="post-meta-container">
+          <div class="post-meta">
+    <span class="post-meta-item">
+      <span class="post-meta-item-icon">
+        <i class="far fa-calendar"></i>
+      </span>
+      <span class="post-meta-item-text">发表于</span>
+      
+
+      <time title="创建时间2023-11-01 11:25:12 / 修改时间21:20:55" itemprop="dateCreated datePublished" datetime="2023-11-01T11:25:12+08:00">2023-11-01</time>
+    </span>
+    <span class="post-meta-item">
+      <span class="post-meta-item-icon">
+        <i class="far fa-folder"></i>
+      </span>
+      <span class="post-meta-item-text">分类于</span>
+        <span itemprop="about" itemscope itemtype="http://schema.org/Thing">
+          <a href="/categories/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%A7%91%E5%AD%A6/" itemprop="url" rel="index"><span itemprop="name">计算机科学</span></a>
+        </span>
+    </span>
+
+  
+    <span id="/computational-advertising/" class="post-meta-item leancloud_visitors" data-flag-title="《计算广告》笔记" title="阅读次数">
+      <span class="post-meta-item-icon">
+        <i class="far fa-eye"></i>
+      </span>
+      <span class="post-meta-item-text">阅读次数</span>
+      <span class="leancloud-visitors-count"></span>
+    </span>
+  
+  <span class="post-meta-item">
+    <a title="valine" href="/computational-advertising/#valine-comments" itemprop="discussionUrl">
+    
+    <span class="post-meta-item-icon">
+      <i class="far fa-comment"></i>
+    </span>
+    <span class="post-meta-item-text">评论数</span>
+  
+      <span class="post-comments-count valine-comment-count" data-xid="/computational-advertising/" itemprop="commentCount"></span>
+    </a>
+  </span>
+  
+  
+</div>
+
+        </div>
+      </header>
+
+    
+    
+    
+    <div class="post-body" itemprop="articleBody">
+        <p><img data-src="/images/covers/250.webp"></p>
+<span id="more"></span>
+
+<hr>
+<p><strong><center>计算广告 ：互联网商业变现的市场与技术 / 刘鹏，王超著. -- 3版. -- 北京：人民邮电出版社，2022.8<br>ISBN 978-7-115-59255-2 </center></strong></p>
+<hr>
+<h1 id="前言"><a href="#前言" class="headerlink" title="前言"></a>前言</h1><p>在能够获得充分的流量或高价值的数据后，我们认为，所有能够传播信息的商品，其售价都会趋向其边际成本。这样的观点对许多传统行业商业模式的影响是深远的，也是我们认为大家应该在互联网时代深入了解广告、了解变现产品的原因。本书的核心目的，是让读者在清晰地了解互联网广告全貌的基础上，在遇到与后向变现相关的产品问题时，能够以合理的思维逻辑和背景知识来应对。对其中最重要的几类问题，我们来看看下面几个具体的例子。<br>（1）商业模式探索。例如，电影是一种边际成本很低、信息传播量又很大的典型商品。那么现在电影的票价为什么这么高？能否探索一种售价很低，而充分利用其信息传播能力的电影行业发行模式，获得更高的经济效益和社会效益？<br>（2）流量变现。例如，互联网电视厂商除了硬件销售的回报以外，还可以获得一部分用户流量。这些流量的性质和价值如何，应该以什么样的方式变现？<br>（3）数据变现。例如，室内导航技术是近年来快速发展的新型互联网应用，如果以向用户免费的方式运营室内导航产品，会得到什么有价值的数据资产，从而支撑相应的后向变现，又应该采用哪种具体的商业产品来支撑？<br>（4）商业产品建设和运营。例如，团购、游戏联运、返利购买、积分墙这些推广模式与一般的展示广告或搜索广告有什么内在联系？是否可以共用某些产品和技术平台？</p>
+<p>在互联网广告中，服务于中小商家、以直接销售为目的的广告取代品牌广告成为主流，这也创造了全新的巨大市场：其次，它的关键不再是创意、策略等人工服务，而是以数据支撑的流量规模化交易为典型特点。也就是说，机器和算法取代了人员与服务，成为在线广告最鲜明的特色。可以说，互联网广告的灵魂就在于数据与计算，因此，也就产生了“计算广告”这个名词，以及其背后复杂的产品与技术。</p>
+<h1 id="第一部分-在线广告市场与背景"><a href="#第一部分-在线广告市场与背景" class="headerlink" title="第一部分 在线广告市场与背景"></a>第一部分 在线广告市场与背景</h1><h2 id="第1章-在线广告综述"><a href="#第1章-在线广告综述" class="headerlink" title="第1章 在线广告综述"></a>第1章 在线广告综述</h2><h3 id="1-1-免费模式与互联网核心资产"><a href="#1-1-免费模式与互联网核心资产" class="headerlink" title="1.1 免费模式与互联网核心资产"></a>1.1 免费模式与互联网核心资产</h3><p>互联网免费模式的本质是将那些能够规模化、个性化传播信息的商品，以边际成本的价格出售。<br>网站等软件产品多服务一个用户的边际成本很小，因此这些产品都不收费，这是狭义的免费，而手机等硬件产品，边际成本即是量产成本，因此以毛利为零左右的价格出售，这是广义的免费。当然，这些产品的共同特点是能够传播信息，并且能够对不同用户个性化地传播信息，而像矿泉水、充电器这类无法传播信息的商品，是无法被互联网的免费模式改造的。<br>既然产品本身没有利润，这些产品的开发者的利润从哪里来呢？其实，这类免费产品在传播信息的过程中，获得了 3 项可变现的核心资产，这就是流量、数据和影响力。<br>（1）流量。流量的价值是，有人使用你的产品，你便可以在产品本身的功能之外夹带一些付费内容（sponsored content），或者称为广告，这样就把流量变成了收入。<br>（2）数据。有人在使用你的产品的过程中留下了一些行为和属性，比如搜过某个关键词，浏览过某个商品，填写过自己的性别，这些都是数据。根据这些数据，你可以更好地了解该用户的属性、偏好等信息。基于这些信息，可以调整投放付费内容的策略以提高效率。<br>（3）影响力。影响力指的是你的产品或内容获得了高于普通水准的关注与信任。当然，你投放的付费内容也就同时获得了更好的关注效果，而这些对于提高转化率同样是至关重要的（参见 2.1 节）。因此，具备影响力的产品或内容在投放广告时可以获得品牌溢价。<br>值得指出的是，近年来迅速崛起的大量网红和自媒体，实际上主要靠影响力而非流量和数据变现。如果将从公众号软文（影响力变现）标价与文末展示广告（流量和数据变现）收入进行对比，前者的价格往往是后者的数十倍。现有的在线广告体系并不能很好地处理这种以影响力为主要资产的媒体变现，这也是未来一个有趣的探索方向。<br>将这 3 项资产通过商业产品的形式转变成收入的过程，即商业化（monetization）过程，与用户使用免费产品的过程是分离的，因此称为后向变现。从上面的介绍可以看出，无论是数据变现还是影响力变现，都是建立在流量变现的基础上的，而这样的体系也就是计算广告技术所支撑的、现代的商业化产品体系。</p>
+<h3 id="1-2-大数据与广告的关系"><a href="#1-2-大数据与广告的关系" class="headerlink" title="1.2 大数据与广告的关系"></a>1.2 大数据与广告的关系</h3><p>自从互联网公司开始挖掘海量用户行为数据中的价值，大数据这一概念就进入实践阶段了。它在工业界最显著的特点是区别于以往数据处理系统的低成本、分布式计算架构。从数据来源、处理方式和应用方向这 3 个角度来看，大数据问题都有鲜明的特点。<br>（1）行为数据。传统的数据处理任务往往面对的是交易数据。所谓交易数据指的是商业活动中必须记录的数据，如电信运营商的话费充值、通话记录，银行的存取款、利息等。交易数据处理的规模往往并不太大，但是对一致性和实时性的要求非常高，IOE（IBM、Oracle 和EMC）的计算架构为交易数据处理提供了成熟的方案。与此相对，商业活动中产生的非必须记录的数据，就是行为数据。电信运营商采集到的用户位置、银行的窗口排队以及网站的用户访问日志等，都属于行为数据。与交易数据相比，行为数据的加工有两个特点，首先是规模巨大，其次是对一致性的要求要低得多，例如，网站的日志丢失千分之一，往往并不是什么严重事故。由于这两个特点，传统的 IOE 架构并不合适，这些是大数据架构产生的原动力。<br>（2）全量加工。如果数据规模很大，并且问题无法通过采样来降低处理的复杂程度，那就必须利用一些专门为海量数据处理而设计的计算和存储技术（如 MapReduce、NoSQL 数据库等）来实现。如图 1-1 所示，我们考察某数据处理过程的目标函数，就有可能存在如下两类有代表性的情形。</p>
+<p>使用数据的应用有两种类型。一种是洞察（insight）应用，即对数据进行统计分析后得到整体的结果报表，再由决策者根据结果进行决策。洞察应用传统典型的例子是企业的财务报表，而商业智能（Business Intelligence, BI）也属于洞察应用。另外一种是自动化（automation）应用，即将数据处理的结果直接送给对业务进行自动决策的引擎。计算广告正是典型的自动化应用，从用户行为数据收集，到受众定向，再到线上根据用户标签的自动决策，整个过程都是自动进行的，人的作用只是建立流程和调整策略。电商的自动进货系统，也是一种大数据的自动化应用。<br>洞察应用由于业务决策过程中有人的参与环节，因此报表的数据规模不能太大，这会带来一定的信息量损失。另外，对洞察报表的解读和决策，实际上需要相当专业的训练，这一点读者想想财务报表的例子就可以明白。而自动化应用由于是由机器进行决策的，数据可以在个体粒度上进行处理，这使得数据能够发挥更大的效果。因此，我们认为，相对于传统的洞察应用，自动化应用才是真正发挥大数据优势的应用形态。</p>
+<p>由于存在商业上的限制条件，计算广告产品和技术比推荐系统更加复杂。</p>
+<h3 id="1-3-广告的定义与目的"><a href="#1-3-广告的定义与目的" class="headerlink" title="1.3 广告的定义与目的"></a>1.3 广告的定义与目的</h3><p>出资人、媒体和受众这三者的利益博弈关系是广告活动的主线，这一主线将贯穿于商业和产品形态的整个演化过程。</p>
+<p>在传统媒体时代，供给方与需求方在市场地位上有相当的距离，不论是电视台、机场还是杂志，都与大多数广告主需要的转化行为之间有相当大的差距。因此，传统广告的目的主要是借助媒体的力量来快速接触大量用户，以达到宣传品牌形象，提升中长期购买率与利润空间的目的。我们称这种目的的广告为品牌广告（brand awareness）。当然，也有许多广告商希望能利用广告手段马上带来大量的购买或其他转化行为，我们称这种目的的广告为直接效果广告（direct response），有时简称为效果广告。<br>传统媒体投送和优化效果广告的能力显然是缺乏的。这是因为，对短期效果的追求要求广告精准地送达目标人群，而这在传统媒体上缺乏有效的技术手段。我们能够想起的以效果为目的的传统广告，恐怕只有在写字楼下散发的快餐传单，这被称为直接营销(Direct Marketing,DM)。而数字媒体的出现使效果广告空前蓬勃地发展起来，这主要有两方面的原因：一是数字媒体的特点可以让我们低成本地投送个性化广告，这本质上是在变现流量；二是一些在线服务，如搜索、电子商务，由于可以更清楚地了解用户的意图，也就使广告效果的优化更加容易，这本质上是在变现数据。<br>在线广告兼有品牌和效果两方面的功能。不过，互联网广告行业的高速发展主要是因为效果广告市场带来的巨大红利。从 2007 年到 2015 年，网络广告的市场规模发展迅猛，目前已经全面超越了电视广告，在中国甚至占据了整个广告市场的一多半份额；与此同时，传统广告渠道则增长乏力或快速下降。对比来看，在线广告的迅猛成长并没有导致电视广告市场的显著萎缩。这是因为网络广告的主要场景仍然集中在搜索引擎营销、移动应用下载、电商再营销等直接效果广告上，而这部分相对于电视广告更多的是增量而非替代。另外，报纸广告快速下降，这首先是因为报纸占据的用户时间大幅被互联网抢走，其次是因为报纸上部分分类信息广告与互联网效果类广告重叠较大。目前，随着数字媒体越来越多地占据了人们的时间，以及在线视频等冲击力更强的媒体越来越普及，在线广告也必将在品牌广告方面有更大的空间。</p>
+<p>广告的根本目的是广告主通过媒体达到低成本的用户接触。<br>也就是说，按某种市场意图接触相应的人群，进而影响其中的潜在用户，使他们选择某产品的概率增加，或者对产品性价比的求程度降低，这才是广告的根本目的。至于短期内的转化效果，由于市场意图或媒体性质的不同，并不是直接可比的。换句话说，如果仅仅以转化效果为目的来思考问题，可能会背离投放广告的正确方法论。举个例子，某感冒药广告商如果以短期效果为导向，那么最佳的策略是把广告投放给那些现在已经感冒的人，不过这显然是一个荒谬的决策；再比如，某汽车广告商为了提升自己的品牌形象，希望对自己竞品品牌的用户加强宣传，而对于这部分人群，广告的直接效果甚至有可能比随机投放还要差。认清这一概念，有助于在遇到多种广告渠道的效果比较时，避免得出偏颇的结论。<br>广告活动的总投入容易确定，但总产出却不一定明确且可衡量，特别是在投放以中长期收益为目标的品牌广告时。因此，绝对的 ROI 有时难以计算，不过通过各个渠道之间的对比，我们仍然可以评估广告的成本是否令人满意。<br>在互联网环境中，广告的本质虽然没有变化，但是由于大量直接效果需求的产生，其表现形式越来越丰富和灵活。不论是与线下类似的横幅、搜索竞价排名，还是软文，甚至是表面上与广告并不相干的游戏联运，其本质都是付费的信息推广，从产品的角度来看都可以归在广告的范畴下。因此，对于互联网广告，我们有如下认识：<br>一切付费的信息、产品或服务的传播渠道，都是广告。</p>
+<h3 id="1-4-在线广告表现形式"><a href="#1-4-在线广告表现形式" class="headerlink" title="1.4 在线广告表现形式"></a>1.4 在线广告表现形式</h3><p>（1）横幅广告（bannerad）：它是嵌入在页面中的图片，往往需要占据固定大小的版面。目前，横幅广告大多数也都不再是静止的图片，而是由 Flash 或 HTML5 等方式实现的动态素材。</p>
+<p><img data-src="/computational-advertising/computational-advertising-1.png" alt="图1-2　横幅广告示例"></p>
+<p>（2）文字链广告（。textual ad）：一段链接到广告主落地页的文字，是搜索广告的主流形式。</p>
+<p><img data-src="/computational-advertising/computational-advertising-2.png" alt="图1-3　文字链广告示例"></p>
+<p>（3）富媒体广告（rich media ad）。这类广告利用视觉冲击力较强的表现形式，向用户侵入式地投送广告素材。富媒体广告常见的形式有弹窗、对联、全屏等。它比较适合在高质量的媒体做品牌性质较强的广告投放，但是对用户的使用体验往往影响也较大。</p>
+<p><img data-src="/computational-advertising/computational-advertising-3.png" alt="图1-4　富媒体广告示例"></p>
+<p>（4）视频广告（video ad）。视频广告指的是广告的创意由静态素材变成了一段视频，其信息的传播量和冲击力都得以大大提高。有关视频广告的效果评价，除了点击率等，还可以采用用户观看时长等更接近用户印象的指标。<br>视频广告有几种主要的形式。</p>
+<ul>
+<li>在视频内容播放之前的前插片广告。根据插入位置的不同，视频广告又可以分为前插片、后插片、暂停等类型。图 1-5 给出了视频广告的示例。视频广告由于载体的独特性质，其效果和广告创意会比较类似于线下的电视广告。这种广告一般采用短视频的形式，创意的表现力要远远强于普通的展示广告，因此价格往往也比较高。</li>
+<li>在信息流中插入的视频广告。在 Wi-Fi 场景下往往自动播放，其效果远优于普通的信息流展示广告。</li>
+<li>手机游戏中的激励视频广告。它主要是利用游戏中的积分奖励，刺激用户主动观看视频广告，这种广告往往观看率较高，广告效果也较好。</li>
+</ul>
+<p><img data-src="/computational-advertising/computational-advertising-4.png" alt="图1-5　视频广告示例：前插片广告（左），暂停广告（右）"></p>
+<p>（5）交互式广告（playablead）。视频广告承载了更多的创意信息，因此会带来较好的推广效果。于是，在移动场景下，业界开始探索让用户直接在创意上完成交互，体验被推广产品的交互式方案。在移动应用和游戏推广中，交互式创意可以让用户不用下载 App 就可以体验其内容，有时可以带来更高的转化率，但同时对媒体也有用户注意力上的损失。交互式创意有两种</p>
+<p><img data-src="/computational-advertising/computational-advertising-5.png" alt="图1-6　交互式广告示例"></p>
+<p>（6）社交广告（socialad）。社交网络的兴起给广告传播的渠道和能力都赋予了新的空间。在社交网络中嵌入的广告，可以统称为社交广告。社交广告中最典型的形式是插入在信息流中的广告，这种方式最早见于 Twitter 的“PromotedTweets”产品。它力求在用户的交互过程中尽可能自然地插入广告，被归于原生广告的范畴中。“社交广告”与“社交网络中的广告”是两个不同的概念，例如，在社交网络页面上竞价售卖的文字链或横幅广告，其本质与普通网站上的展示广告并无太大区别。社交广告希望达到的效果是通过用户的扩散式传播获得更大的影响力，从这个意义上讲，在信息流的交互中挖掘价值前景光明。图 1-7 给出了社交网络信息流广告的一个示例。</p>
+<p><img data-src="/computational-advertising/computational-advertising-6.png" alt="图1-7　社交网络信息流广告"></p>
+<p>（7）移动广告（mobile ad）。</p>
+<p>（8）邮件营销广告(Email Direct Marketing,EDM)。<br>这是通过电子邮件向用户推广信息的一种营销手段。与上面各种广告形式都不同，EDM 是一种主动营销方式，可以随时向合适的用户发送信息。不过也正因为如此，EDM 非常容易变成垃圾邮件的主要来源。对 EDM 的运营者而言，精准地把握用户兴趣，非常有节制地向用户提供相关信息非常关键。比起展示广告，EDM 中受众定向的利用更加直接，也更为重要。另外，通过短信、iMessage 等方式投放的广告，与邮件营销广告也非常相似。</p>
+<p>（9）激励广告（incentivead）。直接激励用户产生转化以提高效果，这类广告称为激励广告。激励广告的典型代表之一是移动上常用的积分墙模式，如图1-10所示。</p>
+<p><img data-src="/computational-advertising/computational-advertising-7.png" alt="图1-10　积分墙广告示例"></p>
+<p>返利购买是电商行业常见的一种推广模式，它采用折扣或积分激励用户购买，也属于激励广告的一种。显然，这种方式可以获得任意高的投资回报率(ROI),但是也会带来一些老用户转由返利网下单。<br>除了积分墙、返利，激励广告，还有内容锁、锁屏等多种形式。特别需要注意的是，天下没有免费的午餐，激励广告虽然能显著提高转化效率，但是由于用户对产品的真实需求并不强，因此后续效果会大打折扣，特别是在获取新客方面的价值比较差。因此，激励广告的价格一般会显著低于非激励广告。</p>
+<p>（10）团购。团购本质上是一种按照效果付费的泛广告产品，其本质也是一种激励性广告。团购推广的主要广告主是一些本地化的店铺，主要目的是为了获得新客。对团购平台来说，团购商品的排序与广告是一样的问题。传统的团购销售很少采用竞价的方式，而多是预先约定价格，不过目前各团购网站也在采用竞价的方式直接售卖。另外，团购的广告库中是付费信息而非创意，这有利于发展原生广告的推广方式，具体讲解参见第 9 章。</p>
+<p>（11）游戏联运。游戏联运是根据用户的最终游戏内消费在推广渠道和游戏开发商之间分成的商业产品，这仍然是一种按效果付费的泛广告产品。在页游和手游的推广中，联运是一种非常常见的发行模式，读者在各种产品中看到的图 1-12 所示的游戏下载专区，其背后的商业模式往往都是联运。实际上，在中国的各大 Android 应用市场中，游戏联运的收入远远超过其他类型广告的收入。不同的联运渠道分成比例可能相差很大，在 Apple Store 这样典型的国外市场中，渠道的分成比例一般为 30%，但是在中国，有些强势的联运渠道分成比例甚至可以达到 90% 以上。游戏联运完全可以按照广告产品思路来设计和运营。</p>
+<p><img data-src="/computational-advertising/computational-advertising-8.png" alt="图1-12　游戏联运产品示例"></p>
+<p>（12）固定位导航。这主要包括网址导航站的位置入口（如图 1-13 所示）、应用分发平台的推荐位置等付费推广位置。一般来说，这种产品的销售都采用按时间付费的模式，而不是动态的竞价模式。这是因为广告主除了引流以外，往往更加关注这些入口位置的橱窗效应。这种广告的销售和运营模式与按天购买的合约广告相同。</p>
+<p><img data-src="/computational-advertising/computational-advertising-9.png" alt="图1-13　网址导航产品示例"></p>
+<h3 id="1-5-在线广告简史"><a href="#1-5-在线广告简史" class="headerlink" title="1.5 在线广告简史"></a>1.5 在线广告简史</h3><p>合约广告（agreement-based advertising），即采用合同的方式约定某一广告位在某一时间段为特定广告主所独占，并且根据双方的要求，制定广告创意和投放策略。</p>
+<p>定向广告系统对计算技术提出了两个需求：一是受众定向（audience targeting），即通过技术手段标定某个用户的性别、年龄或其他标签；二是广告投放（ad serving），即将广告投送由直接嵌入页面变为实时响应前端请求，并动态决策和返回合适的广告创意。由于是从传统广告延伸而来，此时的定向广告仍然以合约的方式进行：媒体与广告主约定广告位、时间段和投放量，并在此基础上确定合同的总金额以及量未达标的情况下的赔偿方案。这种担保式投送（guaranteed delivery，GD）的交易方式，逐渐成为互联网合约式广告的主要模式。一般来说，这样的合约仍然主要面向品牌广告主，并且采用按千次展示付费（cost per mille，CPM）的计费模式。<br>担保式投送广告系统中有一个重要的计算问题，即保证满足各合约目标量的要求的同时，尽可能为广告主分配到效果更好的流量。这个问题有两个难点：一是如何有效地将流量分配到各个合约互相交叉的人群覆盖上；二是要在在线的环境下实时地完成每一次展示决策。这就是在线分配（online allocation）问题。如果将各合约的量看作约束条件，将广告效果看作目标函数，则可以利用带约束优化（constrained optimization）的数学框架来解决。<br>展示广告领域定向投放的最初动机，是媒体为了拆分流量以获得更高的营收。但是如果提供非常精细的定向，反而会造成售卖率的下降，因此，最初的定向标签往往是人口属性等粒度较粗的标签。不过，精细受众定向显然更符合需求方的口味和利益——不要忘了，广告市场的钱全部是来自需求方的，他们的利益被满足得越好，市场的规模就会越大。因此，受众定向产生以后，有两方面的发展趋势：一是定向标签变得越来越精准，例如具体某件商品的购物兴趣；二是广告主的数量不断膨胀。在这些趋势下，按照合约方式售卖广告遇到了越来越多的麻烦：首先，很难对这些细粒度标签组合的流量做准确预估；其次，当一次展示同时满足多个合约的时候，仅按照在线分配策略决策，有可能浪费了部分本可以卖得更贵的流量。既然量的约束带来了这些麻烦，有没有可能抛弃它呢？这样的思路催生了计算广告历史上革命性的产品模式——竞价广告（auction-based advertising）。在竞价模式下，供给方只向广告主保证质即单位流量的成本，但不再给出量的保证。对于每一次展示，则按照收益最高这样的简单原则来决策。</p>
+<p>付费搜索显然也是一种定向广告，即根据用户即时兴趣定向投送的广告，而即时兴趣的标签就是关键词。<br>除了变现搜索流量本身，搜索引擎也开始考虑将关键词竞价的方式推广到其他媒体上：如果将用户的搜索词换成正在页面中的关键词，可以将此产品从搜索结果页照搬到媒体页面上，这就产生了上下文广告（contextual advertising）。</p>
+<p>从宏观市场上看，竞价广告与合约广告有很大的不同。没有了合约的保证，大量的广告主处在一个多方博弈的环境中。与直觉不同的是，在如何向广告主收取每次竞价费用这一点上，并不是按照微观上最优的方案实施就可以达到整个市场最大的收益。关于定价机制的深入研究，产生了广义第二高价（generalized second price，GSP）这一竞价重要的理论。<br>基于竞价和精准人群定向这两个核心功能，产生了广告网络（ad network，ADN）这种新的产品形式。它批量地运营媒体的广告位，按照人群或上下文标签售卖给需求方，并用竞价的方式分配流量。广告网络的计费模式以按点击计费（cost per click，CPC）模式为主，这里有数据和业务等方面的原因，我们将在 2.3.2 节中具体探讨。这种产品的千次展示收益（revenue per mille，RPM）一般来说达不到合约广告的水平，但它使大量媒体的剩余流量（remnant inventory），即没有能力通过合约售卖的流量，有了可行的变现手段：这些媒体可以直接把自己的库存（inventory）托管给 ADN，借助 ADN 的销售和代理团队让自己的流量变现。<br>搜索广告、广告网络只有出价接口，是否意味着广告主不再需要量的保证呢？实践中，往往还会由需求方产品来保量。竞价广告产生以后，流量采买形式发生了变化：一是更多地面向受众而非广告位进行采买；二是越来越需要技术手段保证广告主量的要求，并在此基础上优化效果。这又是一个与在线分配类似的带约束优化问题。但是实际上，这个问题有很大不同：因为只能在供给方定义好的标签组合上指定出价，而不能控制每一次展示的出价，市场看起来更像一个黑盒子，所以需求方只能靠选择合适的标签组合，以及阶段性调整出价来间接控制效果。这种面向多个 ADN 或媒体按人群一站式采买广告，并进行量和质优化的需求方产品，称为交易终端（trading desk，TD）。<br>广告网络的竞价过程是内部进行的，这无法满足广告主定制化的人群选择和优化要求。设想下面的两种情形。<br>（1）某电商网站准备通过广告召回它的流失用户。<br>（2）某银行准备通过已有的信用卡用户找到相似的潜在用户群，并通过广告触达他们。<br>显然，这些人群仅靠广告平台自己的数据无法得到。这样的需求催生了一种开放的竞价逻辑，让需求方按自己的人群定义来挑选流量，这就是实时竞价（real time bidding，RTB），它将竞价过程由广告主预先出价，变成每次展示时实时出价。只要把广告展示的上下文页面 URL，以及访客的用户标识等信息传给需求方，它就能进行完成定制化的人群选择和出价。于是，市场上产生了聚合各媒体流量，采用实时竞价方式进行变现的新产品形态——广告交易平台（ad exchange，ADX）。这个名称让我们很容易联想起股票交易所。事实上，如果我们把 ADN 的交易方式想象成场外交易市场（over-the-counter market），那么 ADX 与股票交易所确实有着类似的作用。<br>通过实时竞价，按照定制化人群标签采买广告，这样的产品就是需求方平台（demand side platform，DSP）。由于实时竞价一般采用按展示次数计费的方式（原因 7.3 节中会具体讨论），DSP 需要尽可能准确地估计每一次展示的期望价值。在这一点上，DSP 比 TD 要方便多了，因为充分的环境信息使得深入的计算和估计成为可能。基于 DSP 的广告采买，非常类似于股票市场上的程序交易，我们把这样的广告采买方式也叫作程序化交易（programmatic trade）。除了 RTB 以外，还有其他几种程序购买的交易方式，我们将在 7.2 节中具体介绍。总体而言，在线广告中程序化交易的地位将会不断加强，这是由广告主利益最大化的趋势所决定的。</p>
+<p>除了这条交易形态的主线，互联网广告产品还有另外一条发展线路，即产品展现逻辑上的发展：在展示广告的最初阶段，广告位被作为与内容相对独立的单元来决策和运营，并且完全以优化收入为目标；同时，人们从搜索广告和社交网络信息流广告中得到了启发——将内容与广告对立起来，未必是一个好的选择，前面这两种广告产品，正是由于与内容的展现和触发逻辑有着高度的一致性，才使得它们的效果很突出。沿着这样的思路，将内容与广告以某种方式统一决策或展示的产品形式——原生广告（native ad）在近年来得到了越来越多的关注。如何将原生的决策方式与已经比较成熟的广告交易相结合，是目前移动互联网广告发展的热点。有关这方面的问题，我们将在第9章中具体讨论。</p>
+
+    </div>
+
+    
+    
+    
+        <div class="pjax">
+        </div>
+    <footer class="post-footer">
+          
+
+<div class="post-copyright">
+<ul>
+  <li class="post-copyright-author">
+      <strong>本文作者： </strong>千灵夙赋
+  </li>
+  <li class="post-copyright-link">
+      <strong>本文链接：</strong>
+      <a href="https://qianling.pw/computational-advertising/" title="《计算广告》笔记">https://qianling.pw/computational-advertising/</a>
+  </li>
+  <li class="post-copyright-license">
+    <strong>版权声明： </strong>本博客所有文章除特别声明外，均采用 <a href="https://creativecommons.org/licenses/by-nc-sa/4.0/" rel="noopener" target="_blank"><i class="fab fa-fw fa-creative-commons"></i>BY-NC-SA</a> 许可协议。转载请注明出处！
+  </li>
+</ul>
+</div>
+
+          <div class="followme">
+  <span>　</span>
+
+  <div class="social-list">
+
+      <div class="social-item">
+          <a target="_blank" class="social-link" href="/atom.xml">
+            <span class="icon">
+              <i class="fa fa-rss"></i>
+            </span>
+
+            <span class="label">RSS</span>
+          </a>
+      </div>
+  </div>
+</div>
+
+          <div class="post-tags">
+              <a href="/tags/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%A7%91%E5%AD%A6/" rel="tag"># 计算机科学</a>
+              <a href="/tags/%E5%B9%BF%E5%91%8A%E5%AD%A6/" rel="tag"># 广告学</a>
+              <a href="/tags/%E6%95%99%E6%9D%90/" rel="tag"># 教材</a>
+          </div>
+
+        
+
+          <div class="post-nav">
+            <div class="post-nav-item">
+                <a href="/deep-learning-recommender-systems/" rel="prev" title="《深度学习推荐系统》笔记">
+                  <i class="fa fa-chevron-left"></i> 《深度学习推荐系统》笔记
+                </a>
+            </div>
+            <div class="post-nav-item">
+            </div>
+          </div>
+    </footer>
+  </article>
+</div>
+
+
+
+
+
+
+    <div class="comments" id="valine-comments"></div>
+</div>
+  </main>
+
+  <footer class="footer">
+    <div class="footer-inner">
+
+
+<div class="copyright">
+  &copy; 
+  <span itemprop="copyrightYear">2023</span>
+  <span class="with-love">
+    <i class="fab fa-github-alt"></i>
+  </span>
+  <span class="author" itemprop="copyrightHolder">千灵夙赋</span>
+</div>
+<div class="busuanzi-count">
+    <span class="post-meta-item" id="busuanzi_container_site_uv">
+      <span class="post-meta-item-icon">
+        <i class=""></i>
+      </span>你是第
+      <span class="site-uv" title="总访客量">
+        <span id="busuanzi_value_site_uv"></span>位到访的小伙伴喔
+      </span>
+    </span>
+    <span class="post-meta-item" id="busuanzi_container_site_pv">
+      <span class="post-meta-item-icon">
+        <i class=""></i>
+      </span>本站已被访问
+      <span class="site-pv" title="总访问量">
+        <span id="busuanzi_value_site_pv"></span>次啦
+      </span>
+    </span>
+</div>
+
+    </div>
+  </footer>
+
+  
+  <div class="toggle sidebar-toggle" role="button">
+    <span class="toggle-line"></span>
+    <span class="toggle-line"></span>
+    <span class="toggle-line"></span>
+  </div>
+  <div class="sidebar-dimmer"></div>
+  <div class="back-to-top" role="button" aria-label="返回顶部">
+    <i class="fa fa-chevron-up fa-lg"></i>
+    <span>0%</span>
+  </div>
+
+<noscript>
+  <div class="noscript-warning">Theme NexT works best with JavaScript enabled</div>
+</noscript>
+
+
+  
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/animejs/3.2.1/anime.min.js" integrity="sha256-XL2inqUJaslATFnHdJOi9GfQ60on8Wx1C2H8DYiN1xY=" crossorigin="anonymous"></script>
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/next-theme-pjax/0.6.0/pjax.min.js" integrity="sha256-vxLn1tSKWD4dqbMRyv940UYw4sXgMtYcK6reefzZrao=" crossorigin="anonymous"></script>
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.6.1/jquery.min.js" integrity="sha256-o88AwQnZB+VDvE9tvIXrMQaPlFFSUTR+nldQm1LuPXQ=" crossorigin="anonymous"></script>
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/fancybox/3.5.7/jquery.fancybox.min.js" integrity="sha256-yt2kYMy0w8AbtF89WXb2P1rfjcP/HTHLT7097U8Y5b8=" crossorigin="anonymous"></script>
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/lozad.js/1.16.0/lozad.min.js" integrity="sha256-mOFREFhqmHeQbXpK2lp4nA3qooVgACfh88fpJftLBbc=" crossorigin="anonymous"></script>
+<script src="/js/comments.js"></script><script src="/js/utils.js"></script><script src="/js/motion.js"></script><script src="/js/schemes/muse.js"></script><script src="/js/next-boot.js"></script><script src="/js/pjax.js"></script>
+
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/hexo-generator-searchdb/1.4.1/search.js" integrity="sha256-1kfA5uHPf65M5cphT2dvymhkuyHPQp5A53EGZOnOLmc=" crossorigin="anonymous"></script>
+<script src="/js/third-party/search/local-search.js"></script>
+
+
+
+  <script src="/js/third-party/fancybox.js"></script>
+
+  <script src="/js/third-party/pace.js"></script>
+
+  
+  <script data-pjax async src="https://busuanzi.ibruce.info/busuanzi/2.3/busuanzi.pure.mini.js"></script>
+
+
+  <script class="next-config" data-name="leancloud_visitors" type="application/json">{"enable":true,"app_id":"7LLkavsVs5B9mCUhA4fVIVq8-MdYXbMMI","app_key":"PBN5LxdUQBXR0dvByI5Vm432","server_url":"https://api.qianling.pw","security":false}</script>
+  <script src="/js/third-party/statistics/lean-analytics.js"></script>
+
+
+  
+
+  <script class="next-config" data-name="enableMath" type="application/json">false</script><script class="next-config" data-name="mathjax" type="application/json">{"enable":true,"tags":"none","js":{"url":"https://cdnjs.cloudflare.com/ajax/libs/mathjax/3.2.2/es5/tex-mml-chtml.js","integrity":"sha256-MASABpB4tYktI2Oitl4t+78w/lyA+D7b/s9GEP0JOGI="}}</script>
+<script src="/js/third-party/math/mathjax.js"></script>
+
+
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/quicklink/2.3.0/quicklink.umd.js" integrity="sha256-yvJQOINiH9fWemHn0vCA5lsHWJaHs6/ZmO+1Ft04SvM=" crossorigin="anonymous"></script>
+  <script class="next-config" data-name="quicklink" type="application/json">{"enable":true,"home":false,"archive":false,"delay":true,"timeout":3000,"priority":true,"url":"https://qianling.pw/computational-advertising/"}</script>
+  <script src="/js/third-party/quicklink.js"></script>
+
+
+<script class="next-config" data-name="valine" type="application/json">{"enable":true,"appId":"7LLkavsVs5B9mCUhA4fVIVq8-MdYXbMMI","appKey":"PBN5LxdUQBXR0dvByI5Vm432","serverURLs":"https://api.qianling.pw","placeholder":"说点什么好呢~","avatar":"wavatar","meta":["nick","mail","link"],"pageSize":10,"lang":null,"visitor":false,"comment_count":true,"recordIP":false,"enableQQ":true,"requiredFields":[],"emojiCDN":"//i0.hdslb.com/bfs/emote/","emojiMaps":{"团宝":"311f83d568e2fd702b08f40d4c838572a07ebea0.png","少前小剧场-心虚":"61ea3a788ec43241860ed984672eb588963bc98a.png","少前小剧场-卖萌":"bbe8c979922144e667efd63dcce0320437425a00.png","泠鸢yousa-打call":"718e9495846db4172eb87d2f7f02015a34d35ea2.png","泠鸢yousa-大哭":"3f757b147b9b1e201470eae7dac9cc0360172569.png","泠鸢yousa-好人卡":"e3907b3bb20b18e7ecb11cd86829c9a4ce5b1b2f.png","泠鸢yousa-加大力度":"a0393a2d4b522f07a319dfd2e91754a3cdff2c48.png","泠鸢yousa-滑稽":"a8057c0e0579b93c16010a270e261fd0a64034af.png","泠鸢yousa-生气":"9e6ba9ff34101e04d3e321cad486f845f892050e.png","泠鸢yousa-真棒":"02ea49543a3ac52feee185c156ab08fb2bfdd89e.png","初音未来-GKD":"44caa7ec800837d8860482c214ac792f4c37c490.png","初音未来-加油":"4943a9be0a3134125c7d585b4dafde79a9a1990a.png","初音未来-哭了":"db9b01e5808967a32ed644b490ab47faf0f29ce3.png","花园Serena-？？？":"42f7ab2a562d000929979976d30669bec042662f.png","花园Serena-安详去世":"cdf595646132b98dcf1d230d351b2738d68f49c3.png","花园Serena-mua":"20319d3948da83f666a643b2c8103e6da0e36721.png","花园Serena-到点了":"af2f6c0dd1155f4aefb610cc6d09c135df9e6752.png","花园Serena-恭喜":"c1d8361755bb135d24b3b4680fe6ba03c086b395.png","花园Serena-喵":"4159859e6c9c2e0476299454b6015c2659149e3c.png","花园Serena-睡":"ae8ad8fd2a8d14e53938ba7dc7ca22681143dc09.png","白上吹雪-摸摸":"218cc0fb954a3dadde61eed03e3a376f277f36ee.png","原神-哦":"4b8b6f0e451c600abf2d83560125d03cfa97fe28.png","原神-哼哼":"62d09fa482842dabbd4a51176abc0ec20a64a359.png","原神-干杯":"966f0b307bf4d07e81162dc32bf1e71c83bf997a.png","原神-吃惊":"d8d07498a567ea109a8fc4b58ffccdc33643cd99.png","2233塔罗牌-撒花":"0d301be888e87aed6cc8e6548fbc74a23421dedc.png","2233塔罗牌-我觉得星":"1aa7391b61aa7be88644db2672cd4603559f1469.png","2233塔罗牌-下次一定":"294690ac14a2adc6ee50b138229aa5c53636e46f.png","洛天依·夜航星-爷青回":"d1202872850a335b357e702adaf3d2a79db72e13.png","洛天依·夜航星-萌妹初醒":"3159931d9afa243c6cf5939753e3c82acb69a554.png","洛天依·夜航星-冲鸭":"659efad4a6aa25ed6a98efe611564c26f497f436.png","洛天依·夜航星-Lucky":"bbeb9d231773a168397697072a11373893d7c01a.png","洛天依·夜航星-锦鲤":"35ab588061c32f07743b07f1ac3f62a16f34438c.png","神乐七奈-变猫猫":"9f699c56da1178079b18be27dc3f219138e4a164.png","神乐七奈-辛苦辣":"7b22908d4afac2c0ad1ba96177ac7a24855f4a2e.png","2021拜年纪-投币":"d2d0a3a4621dede09506264110cefcbfa9561572.png","双鱼座-做白日梦":"ba03f95ebe480106806377024e0c93ddb9c0f836.png","崩坏3-吃饭团":"62173e795139cfaf60b5665165400e99bb8a14ac.png","崩坏3-饿了":"8b6160dfc5f8a8608e88bcb380f4e812b8a165cb.png","崩坏3-干杯":"8de5f3a1cc3dfd9f7be8f12662a489214d3e72fb.png","不问天-大哭":"aea0c17a62f825621a1273f100c17330180b7b01.png","进击的冰糖-探头":"ae834e6efdd568f7e30aec059a8646b75438d896.png","干物妹！小埋-？？？":"d2d0955e6ddf2d3528c6f2364b7002b114907c94.png","干物妹！小埋-抱抱":"f7d5a5150733a15386d98015114630e893f5281b.png","Hiiro-亲亲":"0b54433d978f51a7031a965f2981832129eb8ef5.png","C酱-问号":"4fb6f0d8fcedef1624c5999609036346748b31e2.png","C酱-AWSL":"4b8ac5c1fa7358d949ecfe089e02b252b29d6082.png","C酱-害怕":"f5f777b059df8c40cbc240586aeaf4f63af97f91.png","C酱-嘻嘻":"65cf8762af542e8a72edc466b05bb1a19600dc2d.png","C酱-不要啊":"86994300b58eb3cb91fc99818dd87a691deed564.png","一周年纪念-抱大腿":"0800070155b5dabc3097793c0e086420057a7e2f.png","咩栗-nya":"b8011132b40b4f9807523db3d21581f82c2dce91.png","咩栗-打call":"01b6ee0712d13daa323dbd89217018ea7f6794a5.png","咩栗-聪明":"750542d25fcf1675baf143c2ab7e945445e8b078.png","咩栗-好耶":"9aa9b53211a938c1859c15407cee57cc7519fefd.png","咩栗-惊":"8c4ecf43c895bc9ed23eea9274328ba6cf24481e.png","咩栗-咩？":"bb305147beb88a101061dff54cbcb9062635670b.png","咩栗-咩呀！":"a36a0973f1c9935577db05bc90b602dc61236c0f.png","咩栗-斯米马三":"a46bc117192aa2495c492acca03e27393258c015.png","咩栗-羊名立万":"8fd2b4174f94c1c9b7cf4cf132a54838db40ddff.png","咩栗-羊羊得意":"dd55311765d00d768acb157958e85413ae25578c.png","嘉然-mua":"74ea9b89f8923df6a123cabe6053762b9e776387.png","嘉然-安详":"312359401cc72c34fcea3654cdba42db0f9f3dd0.png","嘉然-暗中观察":"3acf0b43facfd0601f5ab88cca6e401aa4f5a02e.png","嘉然-锤头丧气":"e6342840311ffeba8f2c58d1c360d76644e75dff.png","嘉然-点赞":"7017d90d4ceb9ea042cef8adc70d35eeb1f95e7e.png","嘉然-嘉人们":"d270845c9590da372e9b311cd6d976459acd1087.png","嘉然-嘉速心动":"387035168f40ca81afce8b38303c60ceb0c5dc6c.png","嘉然-流口水":"78bfeff475ad56a6d9379164b099f1ad8ecd7086.png","嘉然-你好":"d1530f972a59bca97bc4b8acf4f7e16f989f37c3.png","嘉然-一眼真":"ff436f5821db8b871517d0e5bb7ade7b64d3d0bf.png","嘉然-绷不住了":"4f0a9ee7708d71083dba4e79768ff0b7c308eaf4.png","嘉然-笔芯":"332a6df0e6def8da77e09310a62f3bffdc397640.png","嘉然-我有嘉心糖":"7579c6085f984f39ff0f6a2cb710301a2b113fac.png","银杏鎏金-幸运喷雾":"89e550f628333fe35f0b010337bdc5c4bf713cfc.png","2022拜年纪-HAHA":"ece69ad87284eb12324572be2a9009c0bc5e65b8.png","2022拜年纪-比心":"5001d623ddbe81d704e0093343ced12e2b38a3db.png","2022拜年纪-不愧是我":"ab807d0265a5c834c0d4d54b676c54da4feb38ce.png","2022拜年纪-不要啊":"80a74addbae8dd5bccc71728181e1d7e11a79d19.png","2022拜年纪-馋":"5012311cfa88687663f636f044f020a611a49848.png","2022拜年纪-打call":"54f99d1e613b42b0241a7f7c9ef5d8f5331fc754.png","2022拜年纪-放空":"823ea6f47ef1dda2d85317f635dc7d42a58c1545.png","2022拜年纪-干了这杯":"de06e28d6afee561556c6e3cbd199d21f4e4fd09.png","2022拜年纪-擦擦":"7b5fb834faccffe090db5ae3406468a306018bfd.png","2022拜年纪-哭哭":"365002e8c6007564b92fe4eb7ab0f815e988995e.png","2022拜年纪-星星眼":"ef49e822e72ced75f71950f4c296192dae543486.png","2022拜年纪-晕":"460d02950b4d676604e9d4686fa769a866d21191.png","月隐空夜-咕咕咕":"df59993b9ea4255e8666bd417f75b3857bd67627.png","月隐空夜-回家了":"3c796d34b61c18fd1d03443a4a144c1133859600.png","月隐空夜-欧气满满":"fce384d8ad9dd6ba2b87e6a8c6fec1e3f8576984.png","月隐空夜-天才":"542eaddb1b04f85a04068f31bfe1c133a5270a66.png","月隐空夜-完了":"1289c9f89244342b83f784d3bf6c18dcd548f1e3.png","新月冰冰!-心脏骤停":"04f0e3087d39629079bbfc7f2b2d0e3cdd3eada6.png","新月冰冰!-加油":"46be9e14a41ec1f392240c5c7f3006cbff5b3744.png","新月冰冰!-大哭":"50a0ad849ffae469cd376f5e4afeb0ab64b74887.png","新月冰冰!-单推":"542fbbc36493831ec98ed64b51d60a1191afa63e.png","新月冰冰!-诶嘿":"dae8436e7042b1440748993da11d5c93e55e0c13.png","新月冰冰!-给花花":"fac1c332932004b3922e19b1d8f20208ddb7ea23.png","新月冰冰!-滑稽":"c2dfb168f43d334ff291042e81ddf80a8a059913.png","新月冰冰!-穷醒":"9cc02af9592ceceb795006cf2611b4a423ec4a19.png","新月冰冰!-谢谢老板":"ddc6b7389787bec178ab24eb842ee949d2d79be2.png","新月冰冰!-kira":"f50869288aa706cf9f1aa9e5d3f7274eac558f68.png","Hiiro二周年-吃瓜":"f5dd831cd8dc9fc93a8cf21247f2e1bdbfa65eff.png","Hiiro二周年-大的要来了":"7cb1ccd578c1946ff68cbcf55add6527cc7826e1.png","Hiiro二周年-好耶":"3250844f983fad2e8888a69f9438a925492630b1.png","Hiiro二周年-坏女人":"74f02465c6c057aebb0df5cb3ab785616b5f077b.png","Hiiro二周年-击剑":"3212b33d39221df349dea0695701bbce07971b00.png","Hiiro二周年-寄":"22ce9c662192d858231ffd02190db7338e0b6e8c.png","Hiiro二周年-辣眼睛":"8ea839758e87947326711297ca7c08a9ad3af906.png","Hiiro二周年-流口水":"0648c8bf4f3836de0902b4ab8e9b1c1b68505a5e.png","Hiiro二周年-麻了":"a7b0deef902b639e40c9b4dc3d3a9df5793cf538.png","Hiiro二周年-无语":"5a61e12360c94b413fa6d370829b8d7f4733c897.png","Hiiro二周年-吓":"cbaca277bcc77739abf41bfc5c377b61ff8527d9.png","Hiiro二周年-两眼一黑":"9b6d393c8f9248e9f8ea8e1d075cc88a300972f3.png","崩坏学园2-好耶":"f1fe88c6d201f2b5d91ad70bcad15288d4569f00.png","崩坏学园2-乖巧":"fb397421eaea8f271acfe135a8dc49bffa7605be.png","扶桑大红花-疑惑":"5d3d9164fd05da8a1690d7a1dff210bdf822a64d.png","崩坏3-幸福":"714cc90d3485a003f53eecec336bea8a0b2dc12d.png","扶桑大红花-略略略":"e1fd8c1f6947c94e3227e7f7afe8de61aa277a24.png","扶桑大红花-生气":"6adad591921aa4d51a8399b6efdf18f84e7144f6.png","扶桑大红花-好诶":"1acaf75c1f900e827922169b8512a5c38695f620.png","扶桑大红花-啪":"0f06e1363cbfd72ed411c2385f3c64d098fdac18.png","扶桑大红花-入脑":"6b343b588735140442460054a4b64e81a6ee9dd9.png","扶桑大红花-不行":"b21a234b272c952b012af2cfa097693b126bd445.png","扶桑大红花-rua":"50053d5c3c485fda2c110ed0874a6a5a2d7f1dff.png","暹罗猫小豆泥-抱大腿":"1e309b348e969e7ff1c7d873352799a2005494d5.png","暹罗猫小豆泥-惊讶":"d6024fd52d7e66241062c045559974e2a4c6e87f.png","暹罗猫小豆泥-哭":"9153d549e425cc02eb911695fff29cb59b338da0.png","暹罗猫小豆泥-探头":"4741a1d527c52365850368b2f480d5818b23cb8f.png","小可学妹-老板大气":"f5fadc61fd4da10fca13cc352e9a37663c21daf6.png","小可学妹-好热":"6892a3b67b1968c550fdd110e9ff8f995973a44b.png","小可学妹-两眼一黑":"66b17fa948ce00a66f260b202dff5bb943103c6c.png","Akie秋绘-可爱":"d1e9aeb4fee6a64e1cbc17c6fe129d3b74e41f50.png","Akie秋绘-哭哭":"06fb34e4d4d33477fcbf13cb5d8327c2bd746e76.png","天涯明月刀伙伴-？？？":"6b7815e08667c6fd7905b7c640c5b46b2bc4dec0.png","天涯明月刀伙伴-馋":"0467b117ad55f21d2b13b8230dc28bc06039d842.png","天涯明月刀伙伴-emo":"8b0cf44f7311445e1590391c7a091a664bad353b.png","祖娅纳惜生贺-懒":"97029c26e7b2700dd30f9ac53842e4806872f262.png","祖娅纳惜生贺-恰饭":"780146c9ea1b35d7b8efad3de8a6a153d42d760e.png","祖娅纳惜生贺-晚安":"1e6f9b96f9ed121928e4bbaa27a4263156b48d3d.png","星瞳-星想事成":"23dcbf6168d8befa79856764d1a4036662786063.png","请吃红小豆吧-发呆":"ffdc8f1ab56c4d9ccc6a35a7a6bb7092df93f231.png","请吃红小豆吧-告辞":"463fb9facfa0d4700b001ef9365e7253f80a0459.png","请吃红小豆吧-害羞":"7e1ae398526c28926767fda86bf41ba6f6d6e7b4.png","请吃红小豆吧-好耶":"905662fe86b316d361a37e64c6d753ee6efb1d2e.png","请吃红小豆吧-泪目":"41f2e34af7e0c3cdd726dadbc8933f21f01d1c13.png","请吃红小豆吧-摸摸头":"7fe816a29961559ac6248274087de14b3447f3f2.png","请吃红小豆吧-哇":"be9352ed161a0d0aa222986b5610802bbf18e5a6.png","请吃红小豆吧-在吗":"865566aa175609d7a018436046407199a4e2b51a.png","请吃红小豆吧-啧":"b033a8a098bb321a6220cd10a534322a7ea94aad.png","眞白花音-大头":"8cf7b3d9e9b81017d6d616b643373bf57b516ec5.png","眞白花音-对不起":"b12fa885dc14cdc73cdb71f69f70a54350316d92.png","雪绘-比心":"892ec2ea31bae16044c683b68b4744fda62f1eff.png","坎公骑冠剑-YYDS":"207ad2f10f32e138c29761fd3526877e2210c2e2.png","坎公骑冠剑-唱歌":"46dbf43a57841ae840e21e8678b7daa58935a26e.png","坎公骑冠剑-吃鸡腿":"db344ad0fd23621beecb7db3abb7567156bfb8f4.png","坎公骑冠剑-干杯":"25cab88e656ea009152ad6364df1b42065d1ffda.png","坎公骑冠剑-乖巧":"c9468c3a6dd02389b2e1364fba39f51efea9f247.png","坎公骑冠剑-嗯!":"9d7f7dff618d4fbcb99cfef30141e37105179044.png","坎公骑冠剑-你还好吗":"d48c0e8ef71bc2af28d25ac390c67a9f08533517.png","坎公骑冠剑-你在干嘛":"4521901b073665c42f76a50b07acb19a2d3459bf.png","坎公骑冠剑-欧气传输":"e8f1308e982c818a6d7a6b4ff3ef5d92c24f4fe0.png","坎公骑冠剑-送花":"9fb76616e1cdf524bc254f2b8873b83d43e03b87.png","坎公骑冠剑-哇":"a737de02e1952f2841916cff82e73009f9946dec.png","坎公骑冠剑-晚安":"c223ba1967dd328307f74e2b58f815acb3232cf9.png","永雏塔菲-不理你了":"ec38a461c767fd0f4dee7346f82d81e5a88b176c.png","永雏塔菲-嘲笑":"094c321f0829f0894f48195d6671358a1a43b53c.png","永雏塔菲-对呀对呀":"37afa9e099d0c2ca9a4f3ff7d599e86060d6b942.png","永雏塔菲-尴尬":"71a5b730a3c20ddac64f8e7803ffc00da97f7397.png","永雏塔菲-哈哈哈":"b1f89d85b9c9f8553fe021c1e5785bc2995f8751.png","永雏塔菲-累":"889f95e3b36f257cb6b68f420b8238a11c596d19.png","永雏塔菲-摸头":"a826477acfa607224dd4a6771431af3b18ee8f92.png","永雏塔菲-亲嘴":"ce2123ec6b4f15eb8dfc2467f36fa3d69f2f97cd.png","永雏塔菲-闪亮登场":"c7eff8db64b132e6757bacdd51e649e16965f6b9.png","永雏塔菲-生日快乐":"9daed0ba16c89f983c7fcfa38e2bc8d1b80f7957.png","永雏塔菲-太好吃了":"86b760ed0a466b5dc3fa0b1e64b9ba7d6b53b6ed.png","永雏塔菲-嘻嘻喵":"866c99dbf6cb5e054e8e94be60c1b37ff4581eaa.png","永雏塔菲-星星眼":"bf3e961a1c3d4edf5ebdd063418495a1ed4c865f.png","永雏塔菲-嘤嘤嘤":"ba43546b013efffa7821dc21df6c79490cbafe72.png","永雏塔菲-有鬼":"b33d0672a01810a6b26696bf4a56204dadd5ff31.png","永雏塔菲-晕了":"d395fd944642b882a9226db81dcfa2e80307461c.png","永雏塔菲-震惊":"36bea35a3a15b675b2f5f28529582f82cf65b1c9.png","有栖mana-打call":"0572afd470f86cc73cd5a1dff047cd22b620f336.png","有栖mana-喝可乐":"7788e653641e40f5043267aa6f73afbd73f5dd73.png","有栖mana-嘿嘿嘿嘿":"0500a6063e9828ce5002f0d796b19569db7ea63c.png","有栖mana-你好":"0d1575f7203eaf1705cc1104eaf7c02983cae9f0.png","有栖mana-辛苦了":"1893dad434a59c1f5e9c70e1440a6b323a92c3c6.png","有栖mana-炸毛":"f8d86249f486e3e0eb0b601bdf9994cb76634538.png","有栖mana-做什么？":"eb2eb12a288287b4f46d7a4dbeb71ec645810726.png","幻塔-害羞":"7868841b13f2067418c34becd73fde4be8a8bdfe.png","鹿乃桜帆-早上好":"1b58aba1d2e1372a8c4b7e49cb420db738bce414.png","鹿乃桜帆-恭喜":"584dae2f7faf4ee160c389e4ba0eebfb26aeb910.png","鹿乃桜帆-惊":"b945fc60b60467fc80b1e18ba4ea6d8c7b3ae0f9.png","鹿乃桜帆-期待":"5ae064b9deefdce14129d24659f0ee605a0e341b.png","鹿乃桜帆-神":"863c349b44abb098fecac479772f23ef1edd10f5.png","鹿乃桜帆-3Q":"9bee9ccc87c3ffe392e5572c4f67dae92a031e35.png","尼奈-妙!！":"3c2439d868818711b6c2cee035c4d51818c07c99.png","蕾尔娜Leona-反弹":"bc82f5b4e8525efeac017a1a9a3ea94d811d4463.png","蕾尔娜Leona-好耶":"f5269730d3156ba2a6cbe5c127d65753b3143f81.png","约战4-疑惑":"9174bde1afdde014a1b066c1bbb3027dc8dbb834.png","夏日青春欧皇套装-谢谢老板":"ca607626747f23cf37dbe8bb81397985dcb0ab17.png","夏日限定宅家手册-期待":"aaf3de49543253272e7eaeabff07ef0d162db67a.png","夏日限定宅家手册-重在参与":"aeafdb2f36c2cfde1ff4dadfecde48241ee31f15.png"},"el":"#valine-comments","path":"/computational-advertising/"}</script>
+<script>
+document.addEventListener('page:loaded', () => {
+  NexT.utils.loadComments(CONFIG.valine.el)
+    .then(() => NexT.utils.getScript(
+      '/js/custom/Valine.min.js',
+      { condition: window.Valine }
+    ))
+    .then(() => {
+      new Valine(CONFIG.valine);
+    });
+});
+</script>
+
+</body>
+</html>
