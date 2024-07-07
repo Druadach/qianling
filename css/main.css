@@ -2613,7 +2613,7 @@ mjx-container[display='true'] + br {
   vertical-align: middle;
 }
 .links-of-author a::before {
-  background: #ff9546;
+  background: #0aff57;
   display: inline-block;
   margin-right: 3px;
   transform: translateY(-2px);
@@ -3262,7 +3262,8 @@ code {
 }
 td,
 th {
-  background-color: #fff;
+  background-color: rgba(255,255,255,0.8);
+  border: 1px solid #3a3e41;
 }
 .posts-expand .post-body ul li {
   list-style: circle;
