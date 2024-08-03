@@ -23,14 +23,14 @@
 <script class="next-config" data-name="main" type="application/json">{"hostname":"qianling.pw","root":"/","images":"/images","scheme":"Muse","darkmode":false,"version":"8.14.0","exturl":false,"sidebar":{"position":"right","display":"hide","padding":18,"offset":12},"copycode":{"enable":true,"style":"flat"},"bookmark":{"enable":false,"color":"#222","save":"auto"},"mediumzoom":false,"lazyload":true,"pangu":false,"comments":{"style":"tabs","active":"valine","storage":true,"lazyload":false,"nav":null,"activeClass":"valine"},"stickytabs":false,"motion":{"enable":true,"async":true,"transition":{"menu_item":"fadeIn","post_block":"fadeIn","post_header":"fadeInDown","post_body":"fadeIn","coll_header":"fadeInLeft","sidebar":"fadeInUp"}},"prism":false,"i18n":{"placeholder":"搜索...","empty":"没有找到任何搜索结果：${query}","hits_time":"找到 ${hits} 个搜索结果（用时 ${time} 毫秒）","hits":"找到 ${hits} 个搜索结果"},"path":"/search.xml","localsearch":{"enable":true,"trigger":"auto","top_n_per_article":1,"unescape":false,"preload":true}}</script><script src="/js/config.js"></script>
 
     <meta property="og:type" content="article">
-<meta property="og:title" content="解决Excel保存CSV长数字丢失精度的问题">
+<meta property="og:title" content="解决Excel保存CSV时长数字丢失精度的问题">
 <meta property="og:url" content="https://qianling.pw/solve-excel-save-csv-long-number-loss-precision-issue/index.html">
 <meta property="og:site_name" content="千灵">
 <meta property="og:locale" content="zh_CN">
 <meta property="og:image" content="https://qianling.pw/images/covers/291.webp">
 <meta property="og:image" content="https://qianling.pw/solve-excel-save-csv-long-number-loss-precision-issue/solve-excel-save-csv-long-number-loss-precision-issue-1.webp">
 <meta property="article:published_time" content="2024-08-01T09:12:02.000Z">
-<meta property="article:modified_time" content="2024-08-01T09:11:57.000Z">
+<meta property="article:modified_time" content="2024-08-02T03:12:05.000Z">
 <meta property="article:author" content="千灵夙赋">
 <meta property="article:tag" content="运营">
 <meta property="article:tag" content="数据分析">
@@ -43,10 +43,10 @@
 
 
 
-<script class="next-config" data-name="page" type="application/json">{"sidebar":"","isHome":false,"isPost":true,"lang":"zh-CN","comments":true,"permalink":"https://qianling.pw/solve-excel-save-csv-long-number-loss-precision-issue/","path":"solve-excel-save-csv-long-number-loss-precision-issue/","title":"解决Excel保存CSV长数字丢失精度的问题"}</script>
+<script class="next-config" data-name="page" type="application/json">{"sidebar":"","isHome":false,"isPost":true,"lang":"zh-CN","comments":true,"permalink":"https://qianling.pw/solve-excel-save-csv-long-number-loss-precision-issue/","path":"solve-excel-save-csv-long-number-loss-precision-issue/","title":"解决Excel保存CSV时长数字丢失精度的问题"}</script>
 
 <script class="next-config" data-name="calendar" type="application/json">""</script>
-<title>解决Excel保存CSV长数字丢失精度的问题 | 千灵</title>
+<title>解决Excel保存CSV时长数字丢失精度的问题 | 千灵</title>
   
     <script async src="https://www.googletagmanager.com/gtag/js?id=UA-141264217-1"></script>
   <script class="next-config" data-name="google_analytics" type="application/json">{"tracking_id":"UA-141264217-1","only_pageview":false}</script>
@@ -206,7 +206,7 @@ if( !/Android|webOS|iPhone|iPod|iPad|BlackBerry/i.test(navigator.userAgent)){
       <div class="sidebar-panel-container">
         <!--noindex-->
         <div class="post-toc-wrap sidebar-panel">
-            <div class="post-toc animated"><ol class="nav"><li class="nav-item nav-level-1"><a class="nav-link" href="#1-%E9%97%AE%E9%A2%98"><span class="nav-text">1. 问题</span></a></li><li class="nav-item nav-level-1"><a class="nav-link" href="#2-%E8%A7%A3%E5%86%B3%E6%96%B9%E6%B3%95"><span class="nav-text">2. 解决方法</span></a></li><li class="nav-item nav-level-1"><a class="nav-link" href="#3-%E9%95%BF%E6%95%B0%E5%AD%97%E8%BD%AC%E6%96%87%E6%9C%AC%E7%A8%8B%E5%BA%8F"><span class="nav-text">3. 长数字转文本程序</span></a><ol class="nav-child"><li class="nav-item nav-level-2"><a class="nav-link" href="#3-1-%E4%BD%BF%E7%94%A8"><span class="nav-text">3.1 使用</span></a></li><li class="nav-item nav-level-2"><a class="nav-link" href="#3-2-%E4%BB%A3%E7%A0%81"><span class="nav-text">3.2 代码</span></a></li><li class="nav-item nav-level-2"><a class="nav-link" href="#3-3-%E9%80%BB%E8%BE%91"><span class="nav-text">3.3 逻辑</span></a></li><li class="nav-item nav-level-2"><a class="nav-link" href="#3-4-%E6%80%A7%E8%83%BD%E9%97%AE%E9%A2%98"><span class="nav-text">3.4 性能问题</span></a></li></ol></li></ol></div>
+            <div class="post-toc animated"><ol class="nav"><li class="nav-item nav-level-1"><a class="nav-link" href="#1-%E9%97%AE%E9%A2%98"><span class="nav-text">1. 问题</span></a></li><li class="nav-item nav-level-1"><a class="nav-link" href="#2-%E8%A7%A3%E5%86%B3%E6%96%B9%E6%B3%95"><span class="nav-text">2. 解决方法</span></a></li><li class="nav-item nav-level-1"><a class="nav-link" href="#3-%E9%95%BF%E6%95%B0%E5%AD%97%E8%BD%AC%E6%96%87%E6%9C%AC%E5%AE%8F"><span class="nav-text">3. 长数字转文本宏</span></a><ol class="nav-child"><li class="nav-item nav-level-2"><a class="nav-link" href="#3-1-%E4%BD%BF%E7%94%A8"><span class="nav-text">3.1 使用</span></a></li><li class="nav-item nav-level-2"><a class="nav-link" href="#3-2-%E4%BB%A3%E7%A0%81"><span class="nav-text">3.2 代码</span></a></li><li class="nav-item nav-level-2"><a class="nav-link" href="#3-3-%E9%80%BB%E8%BE%91"><span class="nav-text">3.3 逻辑</span></a></li><li class="nav-item nav-level-2"><a class="nav-link" href="#3-4-%E6%80%A7%E8%83%BD%E9%97%AE%E9%A2%98"><span class="nav-text">3.4 性能问题</span></a></li></ol></li></ol></div>
         </div>
         <!--/noindex-->
 
@@ -339,12 +339,12 @@ var ap = new APlayer({
     </span>
 
     <span hidden itemprop="post" itemscope itemtype="http://schema.org/CreativeWork">
-      <meta itemprop="name" content="解决Excel保存CSV长数字丢失精度的问题 | 千灵">
+      <meta itemprop="name" content="解决Excel保存CSV时长数字丢失精度的问题 | 千灵">
       <meta itemprop="description" content="">
     </span>
       <header class="post-header">
         <h1 class="post-title" itemprop="name headline">
-          解决Excel保存CSV长数字丢失精度的问题
+          解决Excel保存CSV时长数字丢失精度的问题
         </h1>
 
         <div class="post-meta-container">
@@ -354,9 +354,15 @@ var ap = new APlayer({
         <i class="far fa-calendar"></i>
       </span>
       <span class="post-meta-item-text">发表于</span>
-      
 
-      <time title="创建时间2024-08-01 17:12:02 / 修改时间17:11:57" itemprop="dateCreated datePublished" datetime="2024-08-01T17:12:02+08:00">2024-08-01</time>
+      <time title="创建时间2024-08-01 17:12:02" itemprop="dateCreated datePublished" datetime="2024-08-01T17:12:02+08:00">2024-08-01</time>
+    </span>
+    <span class="post-meta-item">
+      <span class="post-meta-item-icon">
+        <i class="far fa-calendar-check"></i>
+      </span>
+      <span class="post-meta-item-text">更新于</span>
+      <time title="修改时间2024-08-02 11:12:05" itemprop="dateModified" datetime="2024-08-02T11:12:05+08:00">2024-08-02</time>
     </span>
     <span class="post-meta-item">
       <span class="post-meta-item-icon">
@@ -364,12 +370,12 @@ var ap = new APlayer({
       </span>
       <span class="post-meta-item-text">分类于</span>
         <span itemprop="about" itemscope itemtype="http://schema.org/Thing">
-          <a href="/categories/%E7%BC%96%E7%A8%8B/" itemprop="url" rel="index"><span itemprop="name">编程</span></a>
+          <a href="/categories/%E8%BF%90%E8%90%A5/" itemprop="url" rel="index"><span itemprop="name">运营</span></a>
         </span>
     </span>
 
   
-    <span id="/solve-excel-save-csv-long-number-loss-precision-issue/" class="post-meta-item leancloud_visitors" data-flag-title="解决Excel保存CSV长数字丢失精度的问题" title="阅读次数">
+    <span id="/solve-excel-save-csv-long-number-loss-precision-issue/" class="post-meta-item leancloud_visitors" data-flag-title="解决Excel保存CSV时长数字丢失精度的问题" title="阅读次数">
       <span class="post-meta-item-icon">
         <i class="far fa-eye"></i>
       </span>
@@ -403,13 +409,13 @@ var ap = new APlayer({
 <span id="more"></span>
 
 <hr>
-<h1 id="1-问题"><a href="#1-问题" class="headerlink" title="1. 问题"></a>1. 问题</h1><p>使用Excel保存CSV文件时，长度大于11位的数字会被强制保存为科学计数法，导致数据丢失精度，例如Unix时间戳<code>1532793600000</code>保存为<code>1.53279E+12</code>，时间由<code>2018-07-29 00:00:00</code>变为<code>2018-07-28 23:00:00</code>。<br><img data-src="/solve-excel-save-csv-long-number-loss-precision-issue/solve-excel-save-csv-long-number-loss-precision-issue-1.webp"></p>
-<h1 id="2-解决方法"><a href="#2-解决方法" class="headerlink" title="2. 解决方法"></a>2. 解决方法</h1><p>此问题为 Excel 软件设计缺陷，将单元格格式改为文本亦无法解决，只能将数据内容本身改为文本格式来避免转换，如在前缀或后缀处增加占位符。</p>
-<h1 id="3-长数字转文本程序"><a href="#3-长数字转文本程序" class="headerlink" title="3. 长数字转文本程序"></a>3. 长数字转文本程序</h1><h2 id="3-1-使用"><a href="#3-1-使用" class="headerlink" title="3.1 使用"></a>3.1 使用</h2><p>在待处理工作表内运行本程序，即可给所有长度大于11位的列的数字末尾添加制表符。<br>若您未使用过 VBA，请先在 Excel 中启用宏，具体方法本文不赘述。</p>
+<h1 id="1-问题"><a href="#1-问题" class="headerlink" title="1. 问题"></a>1. 问题</h1><p>使用 Excel 保存 CSV 文件时，长度大于 11 位的数字会被强制以科学计数法形式储存，导致数据丢失精度，例如 Unix 时间戳<code>1532793600000</code>变为<code>1.53279E+12</code>，导致时间由<code>2018-07-29 00:00:00</code>变为<code>2018-07-28 23:00:00</code>。<br><img data-src="/solve-excel-save-csv-long-number-loss-precision-issue/solve-excel-save-csv-long-number-loss-precision-issue-1.webp"></p>
+<h1 id="2-解决方法"><a href="#2-解决方法" class="headerlink" title="2. 解决方法"></a>2. 解决方法</h1><p>此问题为 Excel 软件设计缺陷，将单元格格式改为文本亦无法解决，只能将数据内容本身改为文本格式来避免转换，如在前缀或后缀处增加占位符，下面是笔者编写的通过添加制表符尾缀实现此功能的程序。</p>
+<h1 id="3-长数字转文本宏"><a href="#3-长数字转文本宏" class="headerlink" title="3. 长数字转文本宏"></a>3. 长数字转文本宏</h1><h2 id="3-1-使用"><a href="#3-1-使用" class="headerlink" title="3.1 使用"></a>3.1 使用</h2><p>在 Excel 待处理 csv 文件内按下 Alt+F11 打开「Microsoft Visual Basic for Applications」，在左侧工程窗口空白处按下鼠标右键，选择「插入(N)」-「模块(M)」，随后在编辑区域内粘贴代码，按下 F5 运行即可给所有长度大于 11 位的列的数字末尾添加制表符。</p>
 <p>使用数据时如何移除制表符：</p>
 <ol>
-<li>如果应用于数据库，在导入时勾选类似「去除字符串两端的空白字符（如空格、制表符、换行符等）」的选项，如 SQLite 勾选 Trim fields，即可去除本程序增加的制表符还原为数字；</li>
-<li>若应用于其他场景或数据库不支持自动去除制表符，可使用文本编辑器查找替换制表符为空白。</li>
+<li>如果应用于数据库，在导入时勾选类似「去除字符串两端的空白字符（如空格、制表符、换行符等）」的选项，如 SQLite 勾选 「Trim fields」，即可去除本程序增加的制表符还原为数字；</li>
+<li>若应用于其他场景或数据库不支持自动去除制表符，可使用文本编辑器查找制表符替换为空白。</li>
 </ol>
 <h2 id="3-2-代码"><a href="#3-2-代码" class="headerlink" title="3.2 代码"></a>3.2 代码</h2><figure class="highlight vb"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br><span class="line">7</span><br><span class="line">8</span><br><span class="line">9</span><br><span class="line">10</span><br><span class="line">11</span><br><span class="line">12</span><br><span class="line">13</span><br><span class="line">14</span><br><span class="line">15</span><br><span class="line">16</span><br><span class="line">17</span><br><span class="line">18</span><br><span class="line">19</span><br><span class="line">20</span><br><span class="line">21</span><br><span class="line">22</span><br><span class="line">23</span><br><span class="line">24</span><br><span class="line">25</span><br><span class="line">26</span><br><span class="line">27</span><br><span class="line">28</span><br><span class="line">29</span><br></pre></td><td class="code"><pre><span class="line"><span class="keyword">Sub</span> 长数字末尾加制表符转文本()</span><br><span class="line">    <span class="keyword">Dim</span> ws <span class="keyword">As</span> Worksheet</span><br><span class="line">    <span class="keyword">Dim</span> lastRow <span class="keyword">As</span> <span class="type">Long</span></span><br><span class="line">    <span class="keyword">Dim</span> lastColumn <span class="keyword">As</span> <span class="type">Long</span></span><br><span class="line">    <span class="keyword">Dim</span> cell <span class="keyword">As</span> Range</span><br><span class="line">    <span class="keyword">Dim</span> data <span class="keyword">As</span> Variant</span><br><span class="line">    <span class="keyword">Dim</span> newData <span class="keyword">As</span> Variant</span><br><span class="line">    <span class="keyword">Dim</span> i <span class="keyword">As</span> <span class="type">Long</span></span><br><span class="line">    <span class="keyword">Dim</span> j <span class="keyword">As</span> <span class="type">Long</span></span><br><span class="line"></span><br><span class="line">    <span class="keyword">Set</span> ws = ActiveSheet</span><br><span class="line">    lastRow = ws.Cells(ws.Rows.Count, <span class="number">1</span>).<span class="keyword">End</span>(xlUp).Row</span><br><span class="line">    lastColumn = ws.Cells(<span class="number">1</span>, ws.Columns.Count).<span class="keyword">End</span>(xlToLeft).Column</span><br><span class="line"></span><br><span class="line">    data = ws.Range(ws.Cells(<span class="number">1</span>, <span class="number">1</span>), ws.Cells(lastRow, lastColumn)).Value</span><br><span class="line">    <span class="keyword">ReDim</span> newData(<span class="number">1</span> <span class="keyword">To</span> UBound(data, <span class="number">1</span>), <span class="number">1</span> <span class="keyword">To</span> UBound(data, <span class="number">2</span>))</span><br><span class="line"></span><br><span class="line">    <span class="keyword">For</span> <span class="keyword">Each</span> cell <span class="keyword">In</span> ws.Range(ws.Cells(<span class="number">1</span>, <span class="number">1</span>), ws.Cells(lastRow, lastColumn))</span><br><span class="line">        i = cell.Row</span><br><span class="line">        j = cell.Column</span><br><span class="line">        <span class="keyword">If</span> IsNumeric(data(i, j)) <span class="built_in">And</span> Len(<span class="built_in">CStr</span>(data(i, j))) &gt; <span class="number">11</span> <span class="keyword">Then</span></span><br><span class="line">            newData(i, j) = data(i, j) &amp; vbTab</span><br><span class="line">        <span class="keyword">Else</span></span><br><span class="line">            newData(i, j) = data(i, j)</span><br><span class="line">        <span class="keyword">End</span> <span class="keyword">If</span></span><br><span class="line">    <span class="keyword">Next</span> cell</span><br><span class="line"></span><br><span class="line">    ws.Range(ws.Cells(<span class="number">1</span>, <span class="number">1</span>), ws.Cells(lastRow, lastColumn)).Value = newData</span><br><span class="line"><span class="keyword">End</span> <span class="keyword">Sub</span></span><br></pre></td></tr></table></figure>
 
@@ -421,11 +427,11 @@ var ap = new APlayer({
 <li><strong>创建新数据数组</strong>：定义 <code>newData</code> 数组以存放处理后的数据，维度与 <code>data</code> 相同；</li>
 <li><strong>遍历单元格</strong>：使用两个嵌套循环遍历每个单元格，外层循环遍历行，内层循环遍历列；</li>
 <li><strong>检查数字长度</strong>：判断每个单元格的值是否为数字且长度是否大于 11；</li>
-<li><strong>添加制表符</strong>：如果条件满足，将该单元格的值末尾添加制表符 <code>vbTab</code>，否则将原始值保留；</li>
+<li><strong>添加制表符</strong>：如果条件满足，将该单元格的值末尾添加制表符 <code>vbTab</code>，否则保留原始值；</li>
 <li><strong>写回数据</strong>：将修改后的 <code>newData</code> 数组写回到工作表，更新所有单元格的值。</li>
 </ol>
 <h2 id="3-4-性能问题"><a href="#3-4-性能问题" class="headerlink" title="3.4 性能问题"></a>3.4 性能问题</h2><p>单元格数量：243789<br>处理时长：2.19s</p>
-<p>为避免避免遗漏，本程序采取逐个单元格遍历判断长度决定是否修改的方法，性能不佳。以下是改为通过读取每列最后一行的值来判断列数据长度的程序，性能提升近一倍，处理时长缩短至 1.14s，仅适用于列数据长度统一的情况。</p>
+<p>为避免遗漏，本程序采取逐个单元格遍历判断长度决定是否修改的方法，性能不佳。以下是改为通过读取每列最后一行的值来判断列数据长度的程序，处理时长缩短至 1.14s，性能提升近一倍，仅适用于列数据长度统一的情况。</p>
 <figure class="highlight vb"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br><span class="line">7</span><br><span class="line">8</span><br><span class="line">9</span><br><span class="line">10</span><br><span class="line">11</span><br><span class="line">12</span><br><span class="line">13</span><br><span class="line">14</span><br><span class="line">15</span><br><span class="line">16</span><br><span class="line">17</span><br><span class="line">18</span><br><span class="line">19</span><br><span class="line">20</span><br><span class="line">21</span><br><span class="line">22</span><br><span class="line">23</span><br><span class="line">24</span><br><span class="line">25</span><br><span class="line">26</span><br></pre></td><td class="code"><pre><span class="line"><span class="keyword">Sub</span> 长数字末尾加制表符转文本()</span><br><span class="line">    <span class="keyword">Dim</span> ws <span class="keyword">As</span> Worksheet</span><br><span class="line">    <span class="keyword">Dim</span> lastRow <span class="keyword">As</span> <span class="type">Long</span></span><br><span class="line">    <span class="keyword">Dim</span> lastColumn <span class="keyword">As</span> <span class="type">Long</span></span><br><span class="line">    <span class="keyword">Dim</span> j <span class="keyword">As</span> <span class="type">Long</span></span><br><span class="line">    <span class="keyword">Dim</span> i <span class="keyword">As</span> <span class="type">Long</span></span><br><span class="line">    <span class="keyword">Dim</span> cellValue <span class="keyword">As</span> Variant</span><br><span class="line">    <span class="keyword">Dim</span> data <span class="keyword">As</span> Variant</span><br><span class="line"></span><br><span class="line">    <span class="keyword">Set</span> ws = ActiveSheet</span><br><span class="line">    lastRow = ws.Cells(ws.Rows.Count, <span class="number">1</span>).<span class="keyword">End</span>(xlUp).Row</span><br><span class="line">    lastColumn = ws.Cells(<span class="number">1</span>, ws.Columns.Count).<span class="keyword">End</span>(xlToLeft).Column</span><br><span class="line"></span><br><span class="line">    data = ws.Range(ws.Cells(<span class="number">1</span>, <span class="number">1</span>), ws.Cells(lastRow, lastColumn)).Value</span><br><span class="line"></span><br><span class="line">    <span class="keyword">For</span> j = <span class="number">1</span> <span class="keyword">To</span> lastColumn</span><br><span class="line">        cellValue = data(lastRow, j)</span><br><span class="line">        <span class="keyword">If</span> IsNumeric(cellValue) <span class="built_in">And</span> Len(<span class="built_in">CStr</span>(cellValue)) &gt; <span class="number">11</span> <span class="keyword">Then</span></span><br><span class="line">            <span class="keyword">For</span> i = <span class="number">1</span> <span class="keyword">To</span> lastRow</span><br><span class="line">                data(i, j) = data(i, j) &amp; vbTab</span><br><span class="line">            <span class="keyword">Next</span> i</span><br><span class="line">        <span class="keyword">End</span> <span class="keyword">If</span></span><br><span class="line">    <span class="keyword">Next</span> j</span><br><span class="line"></span><br><span class="line">    ws.Range(ws.Cells(<span class="number">1</span>, <span class="number">1</span>), ws.Cells(lastRow, lastColumn)).Value = data</span><br><span class="line"><span class="keyword">End</span> <span class="keyword">Sub</span></span><br></pre></td></tr></table></figure>
 
 <p>参考资料：</p>
@@ -450,7 +456,7 @@ var ap = new APlayer({
   </li>
   <li class="post-copyright-link">
       <strong>本文链接：</strong>
-      <a href="https://qianling.pw/solve-excel-save-csv-long-number-loss-precision-issue/" title="解决Excel保存CSV长数字丢失精度的问题">https://qianling.pw/solve-excel-save-csv-long-number-loss-precision-issue/</a>
+      <a href="https://qianling.pw/solve-excel-save-csv-long-number-loss-precision-issue/" title="解决Excel保存CSV时长数字丢失精度的问题">https://qianling.pw/solve-excel-save-csv-long-number-loss-precision-issue/</a>
   </li>
   <li class="post-copyright-license">
     <strong>版权声明： </strong>本博客所有文章除特别声明外，均采用 <a href="https://creativecommons.org/licenses/by-nc-sa/4.0/" rel="noopener" target="_blank"><i class="fab fa-fw fa-creative-commons"></i>BY-NC-SA</a> 许可协议。转载请注明出处！
