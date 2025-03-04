@@ -28,7 +28,7 @@
 <meta property="og:site_name" content="千灵">
 <meta property="og:locale" content="zh_CN">
 <meta property="og:image" content="https://qianling.pw/images/covers/235.webp">
-<meta property="og:image" content="https://qianling.pw/excel-time-accumulation/excel-time-accumulation/excel-time-accumulation-1.webp">
+<meta property="og:image" content="https://qianling.pw/excel-time-accumulation/excel-time-accumulation-1.webp">
 <meta property="article:published_time" content="2024-08-13T07:40:02.000Z">
 <meta property="article:modified_time" content="2024-09-14T15:10:57.000Z">
 <meta property="article:author" content="千灵夙赋">
@@ -207,7 +207,7 @@ if( !/Android|webOS|iPhone|iPod|iPad|BlackBerry/i.test(navigator.userAgent)){
       <div class="sidebar-panel-container">
         <!--noindex-->
         <div class="post-toc-wrap sidebar-panel">
-            <div class="post-toc animated"><ol class="nav"><li class="nav-item nav-level-1"><a class="nav-link" href="#1.-demo"><span class="nav-text">1. Demo</span></a></li><li class="nav-item nav-level-1"><a class="nav-link" href="#2.-%E5%85%AC%E5%BC%8F%E5%8F%8A%E6%BC%94%E7%A4%BA"><span class="nav-text">2. 公式及演示</span></a></li><li class="nav-item nav-level-1"><a class="nav-link" href="#3.-%E6%90%AD%E9%85%8D-sumifs-%E5%87%BD%E6%95%B0%E7%BB%9F%E8%AE%A1%E6%95%B0%E6%8D%AE%E7%9A%84%E6%BC%94%E7%A4%BA"><span class="nav-text">3. 搭配 SUMIFS 函数统计数据的演示</span></a></li></ol></div>
+            <div class="post-toc animated"><ol class="nav"><li class="nav-item nav-level-1"><a class="nav-link" href="#1-Demo"><span class="nav-text">1. Demo</span></a></li><li class="nav-item nav-level-1"><a class="nav-link" href="#2-%E5%85%AC%E5%BC%8F%E5%8F%8A%E6%BC%94%E7%A4%BA"><span class="nav-text">2. 公式及演示</span></a></li><li class="nav-item nav-level-1"><a class="nav-link" href="#3-%E6%90%AD%E9%85%8D-SUMIFS-%E5%87%BD%E6%95%B0%E7%BB%9F%E8%AE%A1%E6%95%B0%E6%8D%AE%E7%9A%84%E6%BC%94%E7%A4%BA"><span class="nav-text">3. 搭配 SUMIFS 函数统计数据的演示</span></a></li></ol></div>
         </div>
         <!--/noindex-->
 
@@ -406,162 +406,150 @@ var ap = new APlayer({
     
     
     <div class="post-body" itemprop="articleBody">
-        <p><img data-src="/images/covers/235.webp" alt=""></p>
+        <p><img data-src="/images/covers/235.webp"></p>
 <span id="more"></span>
+
 <hr>
-<h1 id="1.-demo" tabindex="-1">1. Demo</h1>
-<p><img data-src="excel-time-accumulation/excel-time-accumulation-1.webp" alt=""></p>
+<h1 id="1-Demo"><a href="#1-Demo" class="headerlink" title="1. Demo"></a>1. Demo</h1><p><img data-src="/excel-time-accumulation/excel-time-accumulation-1.webp"></p>
 <blockquote>
 <p>数据已脱敏处理，无实际意义</p>
 </blockquote>
-<h1 id="2.-%E5%85%AC%E5%BC%8F%E5%8F%8A%E6%BC%94%E7%A4%BA" tabindex="-1">2. 公式及演示</h1>
-<p>设 <code>U2</code> 为「基准日期」所在单元格，值为 <code>=Today()-1</code>。<br>
-假设 <code>U2</code> 单元格的值为 <code>2024-08-13</code>，则各时点日期如下：</p>
+<h1 id="2-公式及演示"><a href="#2-公式及演示" class="headerlink" title="2. 公式及演示"></a>2. 公式及演示</h1><p>设 <code>U2</code> 为「基准日期」所在单元格，值为 <code>=Today()-1</code>。<br>假设 <code>U2</code> 单元格的值为 <code>2024-08-13</code>，则各时点日期如下：</p>
 <table>
 <thead>
 <tr>
-<th style="text-align:center">时点</th>
-<th style="text-align:center">日期示例</th>
-<th style="text-align:center">公式</th>
+<th align="center">时点</th>
+<th align="center">日期示例</th>
+<th align="center">公式</th>
 </tr>
 </thead>
-<tbody>
-<tr>
-<td style="text-align:center">现期日</td>
-<td style="text-align:center">2024-08-13</td>
-<td style="text-align:center">U2</td>
+<tbody><tr>
+<td align="center">现期日</td>
+<td align="center">2024-08-13</td>
+<td align="center">U2</td>
 </tr>
 <tr>
-<td style="text-align:center">同期日</td>
-<td style="text-align:center">2023-08-13</td>
-<td style="text-align:center">EDATE(U2,-12)</td>
+<td align="center">同期日</td>
+<td align="center">2023-08-13</td>
+<td align="center">EDATE(U2,-12)</td>
 </tr>
 <tr>
-<td style="text-align:center">现期周初</td>
-<td style="text-align:center">2024-08-12</td>
-<td style="text-align:center">(U2-WEEKDAY(U2,2)+1)</td>
+<td align="center">现期周初</td>
+<td align="center">2024-08-12</td>
+<td align="center">(U2-WEEKDAY(U2,2)+1)</td>
 </tr>
 <tr>
-<td style="text-align:center">现期周末</td>
-<td style="text-align:center">2024-08-18</td>
-<td style="text-align:center">(U2-WEEKDAY(U2,2)+7)</td>
+<td align="center">现期周末</td>
+<td align="center">2024-08-18</td>
+<td align="center">(U2-WEEKDAY(U2,2)+7)</td>
 </tr>
 <tr>
-<td style="text-align:center">现期周累</td>
-<td style="text-align:center">2024-08-13</td>
-<td style="text-align:center">(MIN(U2,U2-WEEKDAY(U2,2)+7))</td>
+<td align="center">现期周累</td>
+<td align="center">2024-08-13</td>
+<td align="center">(MIN(U2,U2-WEEKDAY(U2,2)+7))</td>
 </tr>
 <tr>
-<td style="text-align:center">同期周初</td>
-<td style="text-align:center">2023-08-12</td>
-<td style="text-align:center">(EDATE(U2-WEEKDAY(U2,2)+1,-12))</td>
+<td align="center">同期周初</td>
+<td align="center">2023-08-12</td>
+<td align="center">(EDATE(U2-WEEKDAY(U2,2)+1,-12))</td>
 </tr>
 <tr>
-<td style="text-align:center">同期周末</td>
-<td style="text-align:center">2023-08-18</td>
-<td style="text-align:center">(EDATE(U2-WEEKDAY(U2,2)+7,-12))</td>
+<td align="center">同期周末</td>
+<td align="center">2023-08-18</td>
+<td align="center">(EDATE(U2-WEEKDAY(U2,2)+7,-12))</td>
 </tr>
 <tr>
-<td style="text-align:center">同期周累</td>
-<td style="text-align:center">2023-08-13</td>
-<td style="text-align:center">(EDATE(MIN(U2,U2-WEEKDAY(U2,2)+7),-12))</td>
+<td align="center">同期周累</td>
+<td align="center">2023-08-13</td>
+<td align="center">(EDATE(MIN(U2,U2-WEEKDAY(U2,2)+7),-12))</td>
 </tr>
 <tr>
-<td style="text-align:center">现期月初</td>
-<td style="text-align:center">2024-08-01</td>
-<td style="text-align:center">(EOMONTH(U2,-1)+1)</td>
+<td align="center">现期月初</td>
+<td align="center">2024-08-01</td>
+<td align="center">(EOMONTH(U2,-1)+1)</td>
 </tr>
 <tr>
-<td style="text-align:center">现期月末</td>
-<td style="text-align:center">2024-08-31</td>
-<td style="text-align:center">(EOMONTH(U2,0))</td>
+<td align="center">现期月末</td>
+<td align="center">2024-08-31</td>
+<td align="center">(EOMONTH(U2,0))</td>
 </tr>
 <tr>
-<td style="text-align:center">现期月累</td>
-<td style="text-align:center">2024-08-13</td>
-<td style="text-align:center">(MIN(U2,EOMONTH(U2,0)))</td>
+<td align="center">现期月累</td>
+<td align="center">2024-08-13</td>
+<td align="center">(MIN(U2,EOMONTH(U2,0)))</td>
 </tr>
 <tr>
-<td style="text-align:center">同期月初</td>
-<td style="text-align:center">2023-08-01</td>
-<td style="text-align:center">(EOMONTH(U2,-13)+1)</td>
+<td align="center">同期月初</td>
+<td align="center">2023-08-01</td>
+<td align="center">(EOMONTH(U2,-13)+1)</td>
 </tr>
 <tr>
-<td style="text-align:center">同期月末</td>
-<td style="text-align:center">2023-08-31</td>
-<td style="text-align:center">(EOMONTH(U2,-12))</td>
+<td align="center">同期月末</td>
+<td align="center">2023-08-31</td>
+<td align="center">(EOMONTH(U2,-12))</td>
 </tr>
 <tr>
-<td style="text-align:center">同期月累</td>
-<td style="text-align:center">2023-08-13</td>
-<td style="text-align:center">(MIN(EDATE(U2,-12),EOMONTH(U2,-12)))</td>
+<td align="center">同期月累</td>
+<td align="center">2023-08-13</td>
+<td align="center">(MIN(EDATE(U2,-12),EOMONTH(U2,-12)))</td>
 </tr>
 <tr>
-<td style="text-align:center">现期年初</td>
-<td style="text-align:center">2024-01-01</td>
-<td style="text-align:center">(DATE(YEAR(U2),1,1))</td>
+<td align="center">现期年初</td>
+<td align="center">2024-01-01</td>
+<td align="center">(DATE(YEAR(U2),1,1))</td>
 </tr>
 <tr>
-<td style="text-align:center">现期年末</td>
-<td style="text-align:center">2024-12-31</td>
-<td style="text-align:center">(DATE(YEAR(U2),12,31))</td>
+<td align="center">现期年末</td>
+<td align="center">2024-12-31</td>
+<td align="center">(DATE(YEAR(U2),12,31))</td>
 </tr>
 <tr>
-<td style="text-align:center">现期年累</td>
-<td style="text-align:center">2024-08-13</td>
-<td style="text-align:center">(MIN(U2,DATE(YEAR(U2),12,31)))</td>
+<td align="center">现期年累</td>
+<td align="center">2024-08-13</td>
+<td align="center">(MIN(U2,DATE(YEAR(U2),12,31)))</td>
 </tr>
 <tr>
-<td style="text-align:center">同期年初</td>
-<td style="text-align:center">2023-01-01</td>
-<td style="text-align:center">(DATE(YEAR(U2)-1,1,1))</td>
+<td align="center">同期年初</td>
+<td align="center">2023-01-01</td>
+<td align="center">(DATE(YEAR(U2)-1,1,1))</td>
 </tr>
 <tr>
-<td style="text-align:center">同期年末</td>
-<td style="text-align:center">2023-12-31</td>
-<td style="text-align:center">(DATE(YEAR(U2)-1,12,31))</td>
+<td align="center">同期年末</td>
+<td align="center">2023-12-31</td>
+<td align="center">(DATE(YEAR(U2)-1,12,31))</td>
 </tr>
 <tr>
-<td style="text-align:center">同期年累</td>
-<td style="text-align:center">2023-08-13</td>
-<td style="text-align:center">(MIN(EDATE(U2,-12),DATE(YEAR(U2),12,31)))</td>
+<td align="center">同期年累</td>
+<td align="center">2023-08-13</td>
+<td align="center">(MIN(EDATE(U2,-12),DATE(YEAR(U2),12,31)))</td>
 </tr>
-</tbody>
-</table>
+</tbody></table>
 <blockquote>
 <p>注：月、年同期公式也可简单采用 <code>EDATE(&#123;现期计算公式&#125;,-12)</code> 的嵌套写法，表中不再列出，具体写法可参见周同期公式，缺点是增加一层计算，刷新速度较慢，不过这么点计算量的差异对人类来说感受不出来啦~</p>
 </blockquote>
-<p>优势：<br>
-传统的同期计算方法为<code>日期-365</code>，但会因平年、闰年造成误差，若要规避，则需提取年后除以 4 取余判断是否为闰年（不考虑世纪年特例），条件判断输出日期结果，公式结构复杂。<br>
-而使用 EDATE、EOMONTH 函数计算日期相较 -365、-366 的同期计算方式更简便、精确，且无需考虑平年、闰年误差。</p>
-<h1 id="3.-%E6%90%AD%E9%85%8D-sumifs-%E5%87%BD%E6%95%B0%E7%BB%9F%E8%AE%A1%E6%95%B0%E6%8D%AE%E7%9A%84%E6%BC%94%E7%A4%BA" tabindex="-1">3. 搭配 SUMIFS 函数统计数据的演示</h1>
-<p>数据源：</p>
+<p>优势：<br>传统的同期计算方法为<code>日期-365</code>，但会因平年、闰年造成误差，若要规避，则需提取年后除以 4 取余判断是否为闰年（不考虑世纪年特例），条件判断输出日期结果，公式结构复杂。<br>而使用 EDATE、EOMONTH 函数计算日期相较 -365、-366 的同期计算方式更简便、精确，且无需考虑平年、闰年误差。</p>
+<h1 id="3-搭配-SUMIFS-函数统计数据的演示"><a href="#3-搭配-SUMIFS-函数统计数据的演示" class="headerlink" title="3. 搭配 SUMIFS 函数统计数据的演示"></a>3. 搭配 SUMIFS 函数统计数据的演示</h1><p>数据源：</p>
 <table>
 <thead>
 <tr>
-<th style="text-align:center">日期</th>
-<th style="text-align:center">品牌</th>
-<th style="text-align:center">销额</th>
+<th align="center">日期</th>
+<th align="center">品牌</th>
+<th align="center">销额</th>
 </tr>
 </thead>
-<tbody>
-<tr>
-<td style="text-align:center">1/1/2023</td>
-<td style="text-align:center">品牌1</td>
-<td style="text-align:center">641.9</td>
+<tbody><tr>
+<td align="center">1&#x2F;1&#x2F;2023</td>
+<td align="center">品牌1</td>
+<td align="center">641.9</td>
 </tr>
 <tr>
-<td style="text-align:center">1/1/2023</td>
-<td style="text-align:center">品牌2</td>
-<td style="text-align:center">534.1</td>
+<td align="center">1&#x2F;1&#x2F;2023</td>
+<td align="center">品牌2</td>
+<td align="center">534.1</td>
 </tr>
-</tbody>
-</table>
+</tbody></table>
 <p>以上表为例，格式为：<code>=SUMIFS(销额列,品牌列,品牌名,日期列,&quot;&gt;=&quot;&amp;起始日期,日期列,&quot;&lt;=&quot;&amp;结束日期)</code></p>
-<p>到品牌的现期月累数据求和公式为：<br>
-<code>=SUMIFS(品牌数据!C:C,品牌数据!B:B,B6,品牌数据!A:A,&quot;&gt;=&quot;&amp;(EOMONTH(U$2,-1)+1),品牌数据!A:A,&quot;&lt;=&quot;&amp;(MIN(U$2,EOMONTH(U$2,0))))</code></p>
-<link rel="stylesheet" href="//cdn.jsdelivr.net/npm/katex/dist/katex.min.css">
-<link rel="stylesheet" href="//cdn.jsdelivr.net/npm/markdown-it-texmath/css/texmath.min.css">
+<p>到品牌的现期月累数据求和公式为：<br><code>=SUMIFS(品牌数据!C:C,品牌数据!B:B,B6,品牌数据!A:A,&quot;&gt;=&quot;&amp;(EOMONTH(U$2,-1)+1),品牌数据!A:A,&quot;&lt;=&quot;&amp;(MIN(U$2,EOMONTH(U$2,0))))</code></p>
 
     </div>
 
@@ -717,7 +705,7 @@ var ap = new APlayer({
 
   
 
-  <script class="next-config" data-name="enableMath" type="application/json">false</script><script class="next-config" data-name="mathjax" type="application/json">{"enable":true,"tags":"none","js":{"url":"//cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.5/MathJax.js?config=TeX-MML-AM_CHTML"}}</script>
+  <script class="next-config" data-name="enableMath" type="application/json">true</script><script class="next-config" data-name="mathjax" type="application/json">{"enable":true,"tags":"none","js":{"url":"//cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.5/MathJax.js?config=TeX-MML-AM_CHTML"}}</script>
 <script src="/js/third-party/math/mathjax.js"></script>
 
 

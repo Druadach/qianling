@@ -203,7 +203,7 @@ if( !/Android|webOS|iPhone|iPod|iPad|BlackBerry/i.test(navigator.userAgent)){
       <div class="sidebar-panel-container">
         <!--noindex-->
         <div class="post-toc-wrap sidebar-panel">
-            <div class="post-toc animated"><ol class="nav"><li class="nav-item nav-level-1"><a class="nav-link" href="#%E5%9C%BA%E6%99%AF"><span class="nav-text">场景</span></a></li><li class="nav-item nav-level-1"><a class="nav-link" href="#%E5%8E%9F%E7%90%86"><span class="nav-text">原理</span></a></li><li class="nav-item nav-level-1"><a class="nav-link" href="#%E4%BF%AE%E6%94%B9"><span class="nav-text">修改</span></a></li><li class="nav-item nav-level-1"><a class="nav-link" href="#%E6%B5%8B%E8%AF%95"><span class="nav-text">测试</span></a></li><li class="nav-item nav-level-1"><a class="nav-link" href="#%E5%B8%B8%E8%A7%81-schemes"><span class="nav-text">常见 Schemes</span></a></li></ol></div>
+            <div class="post-toc animated"><ol class="nav"><li class="nav-item nav-level-1"><a class="nav-link" href="#%E5%9C%BA%E6%99%AF"><span class="nav-text">场景</span></a></li><li class="nav-item nav-level-1"><a class="nav-link" href="#%E5%8E%9F%E7%90%86"><span class="nav-text">原理</span></a></li><li class="nav-item nav-level-1"><a class="nav-link" href="#%E4%BF%AE%E6%94%B9"><span class="nav-text">修改</span></a></li><li class="nav-item nav-level-1"><a class="nav-link" href="#%E6%B5%8B%E8%AF%95"><span class="nav-text">测试</span></a></li><li class="nav-item nav-level-1"><a class="nav-link" href="#%E5%B8%B8%E8%A7%81-Schemes"><span class="nav-text">常见 Schemes</span></a></li></ol></div>
         </div>
         <!--/noindex-->
 
@@ -402,19 +402,17 @@ var ap = new APlayer({
     
     
     <div class="post-body" itemprop="articleBody">
-        <p><img data-src="/images/covers/255.webp" alt=""></p>
+        <p><img data-src="/images/covers/255.webp"></p>
 <span id="more"></span>
+
 <hr>
-<h1 id="%E5%9C%BA%E6%99%AF" tabindex="-1">场景</h1>
-<ol>
+<h1 id="场景"><a href="#场景" class="headerlink" title="场景"></a>场景</h1><ol>
 <li>实现在合作登录、分享链接、分享文件时精准跳转至指定多开应用；</li>
 <li>解决在安装 QQ 后应用程序无法调用 TIM 登录的问题；</li>
 <li>……</li>
 </ol>
-<h1 id="%E5%8E%9F%E7%90%86" tabindex="-1">原理</h1>
-<p>URL Schemes 是移动端中让一个应用程序能够打开另一个应用程序的方法，在 <code>info.plist</code> 中定义（不分大小写）。在安装应用程序后，应用程序会解析 <code>info.plist</code>，如检测到 <code>CFBundleURLTypes</code>，则将对应的 <code>Schemes</code> 注册至系统。如有应用程序通过 <code>[[UIApplication sharedApplication] openURL:url]</code> 打开了 URL，系统会对照已经注册的 <code>Schemes</code> 启动相应应用程序。</p>
-<h1 id="%E4%BF%AE%E6%94%B9" tabindex="-1">修改</h1>
-<p><strong>需越狱或 TrollStore</strong></p>
+<h1 id="原理"><a href="#原理" class="headerlink" title="原理"></a>原理</h1><p>URL Schemes 是移动端中让一个应用程序能够打开另一个应用程序的方法，在 <code>info.plist</code> 中定义（不分大小写）。在安装应用程序后，应用程序会解析 <code>info.plist</code>，如检测到 <code>CFBundleURLTypes</code>，则将对应的 <code>Schemes</code> 注册至系统。如有应用程序通过 <code>[[UIApplication sharedApplication] openURL:url]</code> 打开了 URL，系统会对照已经注册的 <code>Schemes</code> 启动相应应用程序。</p>
+<h1 id="修改"><a href="#修改" class="headerlink" title="修改"></a>修改</h1><p><strong>需越狱或 TrollStore</strong></p>
 <ol>
 <li>打开 <a href="http://tigisoftware.com/cydia/">Filza File Manager</a>；</li>
 <li>依地址打开应用程序安装目录：<code>/private/var/containers/Bundle/Application/××/××.app</code>；</li>
@@ -424,19 +422,11 @@ var ap = new APlayer({
 <li>修改完毕后储存文件，打开 <a href="https://yttxcs.com/">iCleaner Pro</a> 清理应用程序缓存或打开 <a href="http://tigisoftware.com/cydia/">Apps Manager</a> 清除应用数据即可生效。</li>
 </ol>
 <p>也可直接使用轻松签的移除 URL Scheme 功能。</p>
-<h1 id="%E6%B5%8B%E8%AF%95" tabindex="-1">测试</h1>
-<p>在备忘录中输入 <code>schemes:</code> 或在 Safari 中输入 <code>schemes://</code>（部分 url 备忘录不生效）。<br>
-如：<code>weixin:</code>、<code>mqqapi://</code>。</p>
-<h1 id="%E5%B8%B8%E8%A7%81-schemes" tabindex="-1">常见 Schemes</h1>
-<p>微信：<code>wexin:</code>、<code>wechat:</code><br>
-微博：<code>weibo:</code><br>
-QQ：<code>mqqflyticket:</code>、<code>mqqapi:</code>、<code>mqq:</code>、<code>mqqopensdkapi:</code>、<code>mqqOpensdkSSoLogin:</code>、<code>mqqapiwallet:</code>、<code>mqqopensdkapiV2:</code></p>
+<h1 id="测试"><a href="#测试" class="headerlink" title="测试"></a>测试</h1><p>在备忘录中输入 <code>schemes:</code> 或在 Safari 中输入 <code>schemes://</code>（部分 url 备忘录不生效）。<br>如：<code>weixin:</code>、<code>mqqapi://</code>。</p>
+<h1 id="常见-Schemes"><a href="#常见-Schemes" class="headerlink" title="常见 Schemes"></a>常见 Schemes</h1><p>微信：<code>wexin:</code>、<code>wechat:</code><br>微博：<code>weibo:</code><br>QQ：<code>mqqflyticket:</code>、<code>mqqapi:</code>、<code>mqq:</code>、<code>mqqopensdkapi:</code>、<code>mqqOpensdkSSoLogin:</code>、<code>mqqapiwallet:</code>、<code>mqqopensdkapiV2:</code></p>
 <br/>
-<p>参考资料：<br>
-<a href="https://iphoneba.cn/archives/777.html">解决IOS微信多开后跳转问题（指定跳转到某个微信）</a><br>
-<a href="https://www.cnblogs.com/zdong/p/4655304.html">iOS URL Schemes 的定义和使用</a></p>
-<link rel="stylesheet" href="//cdn.jsdelivr.net/npm/katex/dist/katex.min.css">
-<link rel="stylesheet" href="//cdn.jsdelivr.net/npm/markdown-it-texmath/css/texmath.min.css">
+
+<p>参考资料：<br><a href="https://iphoneba.cn/archives/777.html">解决IOS微信多开后跳转问题（指定跳转到某个微信）</a><br><a href="https://www.cnblogs.com/zdong/p/4655304.html">iOS URL Schemes 的定义和使用</a></p>
 
     </div>
 

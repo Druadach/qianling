@@ -28,7 +28,7 @@
 <meta property="og:site_name" content="千灵">
 <meta property="og:locale" content="zh_CN">
 <meta property="og:image" content="https://qianling.pw/images/covers/89.webp">
-<meta property="og:image" content="https://qianling.pw/html-pv/html-pv/html-pv.webp">
+<meta property="og:image" content="https://qianling.pw/html-pv/html-pv.webp">
 <meta property="article:published_time" content="2017-07-29T02:59:07.000Z">
 <meta property="article:modified_time" content="2017-07-29T02:59:07.000Z">
 <meta property="article:author" content="千灵夙赋">
@@ -396,21 +396,18 @@ var ap = new APlayer({
     
     
     <div class="post-body" itemprop="articleBody">
-        <p><img data-src="/images/covers/89.webp" alt=""></p>
+        <p><img data-src="/images/covers/89.webp"></p>
 <span id="more"></span>
+
 <hr>
-<h3 id="%E5%8E%9F%E7%90%86" tabindex="-1">原理</h3>
-<p>通过HTML的<code>&lt;meta&gt;标签</code>与<code>&lt;frameset&gt;标签的src属性</code>刷浏览量</p>
-<h3 id="%E5%B1%9E%E6%80%A7" tabindex="-1">属性</h3>
-<p>先来了解一下<code>&lt;meta&gt;标签</code>的属性</p>
+<h3 id="原理"><a href="#原理" class="headerlink" title="原理"></a>原理</h3><p>通过HTML的<code>&lt;meta&gt;标签</code>与<code>&lt;frameset&gt;标签的src属性</code>刷浏览量</p>
+<h3 id="属性"><a href="#属性" class="headerlink" title="属性"></a>属性</h3><p>先来了解一下<code>&lt;meta&gt;标签</code>的属性</p>
 <table><tr><th>属性</th><th>值</th><th>描述</th></tr><tr><td>charset</td><td>character_set</td><td>定义文档的字符编码。</td></tr><tr><td>content</td><td>text</td><td>定义与 http-equiv 或 name 属性相关的元信息。</td></tr><tr><td>http-equiv</td><td>content<br />default-style<br />refresh</td><td>把 content 属性关联到一个名称。</td></tr><tr><td>name</td><td>application-name<br />author<br />description<br />generator<br />keywords<br /></td><td>把 content 属性关联到一个名称。</td></tr><tr><td>scheme</td><td>format/URI</td><td>HTML5不支持。 定义用于翻译 content 属性值的格式。</td></tr></table>
-<h3 id="%E5%BA%94%E7%94%A8" tabindex="-1">应用</h3>
-<p>我们可以使用<code>http-equiv</code>与<code>iframe src</code>属性进行如下应用：<br>
-<code>content</code>为刷新时间，请适当调整</p>
+
+<h3 id="应用"><a href="#应用" class="headerlink" title="应用"></a>应用</h3><p>我们可以使用<code>http-equiv</code>与<code>iframe src</code>属性进行如下应用：<br><code>content</code>为刷新时间，请适当调整</p>
 <figure class="highlight plaintext"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br><span class="line">7</span><br><span class="line">8</span><br><span class="line">9</span><br><span class="line">10</span><br><span class="line">11</span><br></pre></td><td class="code"><pre><span class="line">&lt;!DOCTYPE html&gt;</span><br><span class="line">&lt;html&gt;</span><br><span class="line">&lt;head&gt;</span><br><span class="line">&lt;meta charset=&quot;utf-8&quot;&gt;</span><br><span class="line">&lt;meta http-equiv=&quot;refresh&quot; content=&quot;0&quot;&gt;</span><br><span class="line">&lt;/head&gt;</span><br><span class="line">&lt;body&gt;</span><br><span class="line">&lt;form&gt;</span><br><span class="line">&lt;iframe src=&quot;http://qianling.pw/play/&quot; width=&quot;750&quot; height=&quot;900&quot; frameborder=&quot;0&quot;&gt;&lt;/iframe&gt;</span><br><span class="line">&lt;/body&gt;</span><br><span class="line">&lt;/html&gt;</span><br></pre></td></tr></table></figure>
-<p><img data-src="html-pv/html-pv.webp" alt=""></p>
-<link rel="stylesheet" href="//cdn.jsdelivr.net/npm/katex/dist/katex.min.css">
-<link rel="stylesheet" href="//cdn.jsdelivr.net/npm/markdown-it-texmath/css/texmath.min.css">
+
+<p><img data-src="/html-pv/html-pv.webp"></p>
 
     </div>
 
