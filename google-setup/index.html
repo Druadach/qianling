@@ -203,7 +203,7 @@ if( !/Android|webOS|iPhone|iPod|iPad|BlackBerry/i.test(navigator.userAgent)){
       <div class="sidebar-panel-container">
         <!--noindex-->
         <div class="post-toc-wrap sidebar-panel">
-            <div class="post-toc animated"><ol class="nav"><li class="nav-item nav-level-3"><a class="nav-link" href="#1-build-prop-%E5%85%B3%E9%97%AD%E5%BC%80%E6%9C%BA%E5%BC%95%E5%AF%BC%EF%BC%88%E6%8E%A8%E8%8D%90%EF%BC%89"><span class="nav-text">1. build.prop 关闭开机引导（推荐）</span></a></li><li class="nav-item nav-level-3"><a class="nav-link" href="#2-%E9%A6%96%E5%B1%8F%E5%9B%9B%E8%A7%92%E8%B7%B3%E8%BF%87"><span class="nav-text">2. 首屏四角跳过</span></a></li><li class="nav-item nav-level-3"><a class="nav-link" href="#3-%E8%B7%AF%E7%94%B1%E5%99%A8%E4%BB%A3%E7%90%86"><span class="nav-text">3. 路由器代理</span></a></li><li class="nav-item nav-level-3"><a class="nav-link" href="#4-%E5%BB%B6%E5%90%8E%E5%AE%89%E8%A3%85"><span class="nav-text">4. 延后安装</span></a></li><li class="nav-item nav-level-3"><a class="nav-link" href="#5-%E5%88%A0%E9%99%A4%E9%AA%8C%E8%AF%81%E7%A8%8B%E5%BA%8F"><span class="nav-text">5. 删除验证程序</span></a></li></ol></div>
+            <div class="post-toc animated"><ol class="nav"><li class="nav-item nav-level-3"><a class="nav-link" href="#1.-build.prop-%E5%85%B3%E9%97%AD%E5%BC%80%E6%9C%BA%E5%BC%95%E5%AF%BC%EF%BC%88%E6%8E%A8%E8%8D%90%EF%BC%89"><span class="nav-text">1. build.prop 关闭开机引导（推荐）</span></a></li><li class="nav-item nav-level-3"><a class="nav-link" href="#2.-%E9%A6%96%E5%B1%8F%E5%9B%9B%E8%A7%92%E8%B7%B3%E8%BF%87"><span class="nav-text">2. 首屏四角跳过</span></a></li><li class="nav-item nav-level-3"><a class="nav-link" href="#3.-%E8%B7%AF%E7%94%B1%E5%99%A8%E4%BB%A3%E7%90%86"><span class="nav-text">3. 路由器代理</span></a></li><li class="nav-item nav-level-3"><a class="nav-link" href="#4.-%E5%BB%B6%E5%90%8E%E5%AE%89%E8%A3%85"><span class="nav-text">4. 延后安装</span></a></li><li class="nav-item nav-level-3"><a class="nav-link" href="#5.-%E5%88%A0%E9%99%A4%E9%AA%8C%E8%AF%81%E7%A8%8B%E5%BA%8F"><span class="nav-text">5. 删除验证程序</span></a></li></ol></div>
         </div>
         <!--/noindex-->
 
@@ -402,12 +402,12 @@ var ap = new APlayer({
     
     
     <div class="post-body" itemprop="articleBody">
-        <p><img data-src="/images/covers/130.webp"></p>
+        <p><img data-src="/images/covers/130.webp" alt=""></p>
 <span id="more"></span>
-
 <hr>
 <p>不同系统刷写 Gapps 后的跳过方法不同，在此做一个总结</p>
-<h3 id="1-build-prop-关闭开机引导（推荐）"><a href="#1-build-prop-关闭开机引导（推荐）" class="headerlink" title="1. build.prop 关闭开机引导（推荐）"></a>1. build.prop 关闭开机引导（推荐）</h3><p>打开 TWRP 终端</p>
+<h3 id="1.-build.prop-%E5%85%B3%E9%97%AD%E5%BC%80%E6%9C%BA%E5%BC%95%E5%AF%BC%EF%BC%88%E6%8E%A8%E8%8D%90%EF%BC%89" tabindex="-1">1. build.prop 关闭开机引导（推荐）</h3>
+<p>打开 TWRP 终端</p>
 <p><code>mount -o remount,rw /system</code>　<strong>挂载 system 分区为读写</strong></p>
 <p><code>vi /system/build.prop</code>　<strong>浏览 build.prop</strong></p>
 <p><code>i</code>　<strong>输入 i 进入 Insert 模式</strong></p>
@@ -415,10 +415,18 @@ var ap = new APlayer({
 <p><code>ESC</code>　<strong>按 ESC 回到 Normal 模式</strong></p>
 <p><code>:wq</code>　<strong>输入 :wq 存盘并退出</strong></p>
 <p><code>reboot</code>　<strong>重启手机 enjoy it !</strong></p>
-<h3 id="2-首屏四角跳过"><a href="#2-首屏四角跳过" class="headerlink" title="2. 首屏四角跳过"></a>2. 首屏四角跳过</h3><p>从左上角开始，顺时针依次点击四个角（状态栏以下）</p>
-<h3 id="3-路由器代理"><a href="#3-路由器代理" class="headerlink" title="3. 路由器代理"></a>3. 路由器代理</h3><p>在路由器系统中设置网络代理以连接 Google 服务器通过验证</p>
-<h3 id="4-延后安装"><a href="#4-延后安装" class="headerlink" title="4. 延后安装"></a>4. 延后安装</h3><p>刷写系统完毕并开机后再刷入 Gapps，存在 GooglePlay 服务 停止运行的问题</p>
-<h3 id="5-删除验证程序"><a href="#5-删除验证程序" class="headerlink" title="5. 删除验证程序"></a>5. 删除验证程序</h3><p>进入 TWRP，挂载 system，打开 文件管理，删除或重命名 setupwizard.apk<br><code>system/priv-app/setupwizard/setupwizard.apk</code><br>开机后，挂梯子登录谷歌账户，再把 setupwizard.apk 改回来（前提是不删除源文件，只重命名一下），完成通过向导即可。若未改回会存在任务键、返回键失灵、状态栏无法下拉等问题。</p>
+<h3 id="2.-%E9%A6%96%E5%B1%8F%E5%9B%9B%E8%A7%92%E8%B7%B3%E8%BF%87" tabindex="-1">2. 首屏四角跳过</h3>
+<p>从左上角开始，顺时针依次点击四个角（状态栏以下）</p>
+<h3 id="3.-%E8%B7%AF%E7%94%B1%E5%99%A8%E4%BB%A3%E7%90%86" tabindex="-1">3. 路由器代理</h3>
+<p>在路由器系统中设置网络代理以连接 Google 服务器通过验证</p>
+<h3 id="4.-%E5%BB%B6%E5%90%8E%E5%AE%89%E8%A3%85" tabindex="-1">4. 延后安装</h3>
+<p>刷写系统完毕并开机后再刷入 Gapps，存在 GooglePlay 服务 停止运行的问题</p>
+<h3 id="5.-%E5%88%A0%E9%99%A4%E9%AA%8C%E8%AF%81%E7%A8%8B%E5%BA%8F" tabindex="-1">5. 删除验证程序</h3>
+<p>进入 TWRP，挂载 system，打开 文件管理，删除或重命名 setupwizard.apk<br>
+<code>system/priv-app/setupwizard/setupwizard.apk</code><br>
+开机后，挂梯子登录谷歌账户，再把 setupwizard.apk 改回来（前提是不删除源文件，只重命名一下），完成通过向导即可。若未改回会存在任务键、返回键失灵、状态栏无法下拉等问题。</p>
+<link rel="stylesheet" href="//cdn.jsdelivr.net/npm/katex/dist/katex.min.css">
+<link rel="stylesheet" href="//cdn.jsdelivr.net/npm/markdown-it-texmath/css/texmath.min.css">
 
     </div>
 
@@ -426,36 +434,6 @@ var ap = new APlayer({
     
     
         <div class="pjax">
-        <div class="sidebar-inner sidebar-post-related">
-          <div class="animated">
-              <div class="links-of-blogroll-title"><i class="fa fa-signs-post fa-fw"></i>
-    相关推荐
-  </div>
-  <ul class="popular-posts">
-    <li class="popular-posts-item">
-      <a class="popular-posts-link" href="/open-hi-fi/" rel="bookmark">
-      高通处理器强制开启 Hi-Fi
-      </a>
-    </li>
-    <li class="popular-posts-item">
-      <a class="popular-posts-link" href="/telephony/" rel="bookmark">
-      类原生系统电信卡不能打电话、发短信解决方法
-      </a>
-    </li>
-    <li class="popular-posts-item">
-      <a class="popular-posts-link" href="/miui-noise/" rel="bookmark">
-      去除 MIUI 底噪
-      </a>
-    </li>
-    <li class="popular-posts-item">
-      <a class="popular-posts-link" href="/honour-of-kings-multi-threaded/" rel="bookmark">
-      王者荣耀强制开启多线程优化
-      </a>
-    </li>
-  </ul>
-
-          </div>
-        </div>
         </div>
     <footer class="post-footer">
           
@@ -601,7 +579,7 @@ var ap = new APlayer({
 
   
 
-  <script class="next-config" data-name="enableMath" type="application/json">false</script><script class="next-config" data-name="mathjax" type="application/json">{"enable":true,"tags":"none","js":{"url":"https://unpkg.com/mathjax@3.2.2/es5/tex-mml-chtml.js","integrity":"sha256-MASABpB4tYktI2Oitl4t+78w/lyA+D7b/s9GEP0JOGI="}}</script>
+  <script class="next-config" data-name="enableMath" type="application/json">false</script><script class="next-config" data-name="mathjax" type="application/json">{"enable":true,"tags":"none","js":{"url":"//cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.5/MathJax.js?config=TeX-MML-AM_CHTML"}}</script>
 <script src="/js/third-party/math/mathjax.js"></script>
 
 

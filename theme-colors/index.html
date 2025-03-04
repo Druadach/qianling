@@ -395,26 +395,29 @@ var ap = new APlayer({
     
     
     <div class="post-body" itemprop="articleBody">
-        <p><img data-src="/images/covers/52.webp"></p>
+        <p><img data-src="/images/covers/52.webp" alt=""></p>
 <span id="more"></span>
-
 <hr>
-<h3 id="主题颜色"><a href="#主题颜色" class="headerlink" title="主题颜色"></a>主题颜色</h3><p>打开hexo/themes/next/source/css/_variables/base.styl找到Colors代码段，如下：</p>
+<h3 id="%E4%B8%BB%E9%A2%98%E9%A2%9C%E8%89%B2" tabindex="-1">主题颜色</h3>
+<p>打开hexo/themes/next/source/css/_variables/base.styl找到Colors代码段，如下：</p>
 <figure class="highlight plaintext"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br><span class="line">7</span><br><span class="line">8</span><br><span class="line">9</span><br><span class="line">10</span><br><span class="line">11</span><br><span class="line">12</span><br><span class="line">13</span><br><span class="line">14</span><br><span class="line">15</span><br><span class="line">16</span><br><span class="line">17</span><br><span class="line">18</span><br></pre></td><td class="code"><pre><span class="line">// Colors</span><br><span class="line">// colors for use across theme.</span><br><span class="line">// --------------------------------------------------</span><br><span class="line">  $whitesmoke   = #f5f5f5</span><br><span class="line">  $gainsboro    = #eee  //这个是边栏头像外框的颜色，</span><br><span class="line">  $gray-lighter = #ddd  //文章中插入图片边框颜色</span><br><span class="line">  $grey-light   = #ccc  //文章之间分割线、下划线颜色</span><br><span class="line">  $grey         = #bbb  //页面选中圆点颜色</span><br><span class="line">  $grey-dark    = #999</span><br><span class="line">  $grey-dim     = #666 //侧边栏目录字体颜色</span><br><span class="line">  $black-light  = #555 //修改文章字体颜色</span><br><span class="line">  $black-dim    = #333</span><br><span class="line">  $black-deep   = #495a80  //修改主题的颜色，这里我已经改成老蓝色了。</span><br><span class="line">  $red          = #ff2a2a</span><br><span class="line">  $blue-bright  = #87daff</span><br><span class="line">  $blue         = #0684bd</span><br><span class="line">  $blue-deep    = #262a30</span><br><span class="line">  $orange       = #F39D01 //浏览文章时，目录选中的颜色</span><br></pre></td></tr></table></figure>
 <blockquote>
 <span style="color:#00b8e6;font-weight:900">
-本节参考自 [<span style="color:#1A95A5">晴天·Sunny</span>](http://zhouhuix.cn/2016/11/24/%E4%BF%AE%E6%94%B9Hexo%E7%9A%84Next%E4%B8%BB%E9%A2%98/)
-</span></span>
 </blockquote>
-<h3 id="标题栏背景颜色"><a href="#标题栏背景颜色" class="headerlink" title="标题栏背景颜色"></a>标题栏背景颜色</h3><p>当使用Pisces主题时，网站标题栏背景颜色是黑色的，感觉不好看，可以在<code>source/css/_schemes/Pisces/_brand.styl</code>中修改</p>
+<p>本节参考自 <a href="http://zhouhuix.cn/2016/11/24/%E4%BF%AE%E6%94%B9Hexo%E7%9A%84Next%E4%B8%BB%E9%A2%98/"><span style="color:#1A95A5">晴天·Sunny</span></a><br>
+</span></span></p>
+<h3 id="%E6%A0%87%E9%A2%98%E6%A0%8F%E8%83%8C%E6%99%AF%E9%A2%9C%E8%89%B2" tabindex="-1">标题栏背景颜色</h3>
+<p>当使用Pisces主题时，网站标题栏背景颜色是黑色的，感觉不好看，可以在<code>source/css/_schemes/Pisces/_brand.styl</code>中修改</p>
 <figure class="highlight plaintext"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br><span class="line">7</span><br><span class="line">8</span><br><span class="line">9</span><br><span class="line">10</span><br><span class="line">11</span><br></pre></td><td class="code"><pre><span class="line">.site-meta &#123;</span><br><span class="line">  padding: 20px 0;</span><br><span class="line">  color: white;</span><br><span class="line">  background: $blue-dodger; //修改为自己喜欢的颜色</span><br><span class="line">  +tablet() &#123;</span><br><span class="line">    box-shadow: 0 0 16px rgba(0,0,0,0.5);</span><br><span class="line">  &#125;</span><br><span class="line">  +mobile() &#123;</span><br><span class="line">    box-shadow: 0 0 16px rgba(0,0,0,0.5);</span><br><span class="line">  &#125;</span><br><span class="line">&#125;</span><br></pre></td></tr></table></figure>
 <p>但是，我们一般不主张这样修改源码的，在<code>next/source/css/_custom</code>目录下面专门提供了<code>custom.styl</code>供我们自定义样式的，因此也可以在<code>custom.styl</code>里面添加：</p>
 <figure class="highlight plaintext"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br></pre></td><td class="code"><pre><span class="line">// Custom styles.</span><br><span class="line">.site-meta &#123;</span><br><span class="line">  background: $blue; //修改为自己喜欢的颜色</span><br><span class="line">&#125;</span><br></pre></td></tr></table></figure>
 <blockquote>
 <span style="color:#00b8e6;font-weight:900">
-本节参考自 [<span style="color:#1A95A5">孤舟蓑笠翁，独钓寒江雪</span>](http://www.heqiangfly.com/2016/01/12/blog-optimize-next-theme/)
-</span></span>
 </blockquote>
+<p>本节参考自 <a href="http://www.heqiangfly.com/2016/01/12/blog-optimize-next-theme/"><span style="color:#1A95A5">孤舟蓑笠翁，独钓寒江雪</span></a><br>
+</span></span></p>
+<link rel="stylesheet" href="//cdn.jsdelivr.net/npm/katex/dist/katex.min.css">
+<link rel="stylesheet" href="//cdn.jsdelivr.net/npm/markdown-it-texmath/css/texmath.min.css">
 
     </div>
 
@@ -422,41 +425,6 @@ var ap = new APlayer({
     
     
         <div class="pjax">
-        <div class="sidebar-inner sidebar-post-related">
-          <div class="animated">
-              <div class="links-of-blogroll-title"><i class="fa fa-signs-post fa-fw"></i>
-    相关推荐
-  </div>
-  <ul class="popular-posts">
-    <li class="popular-posts-item">
-      <a class="popular-posts-link" href="/hexo-optimization/" rel="bookmark">
-      Hexo 优化汇总
-      </a>
-    </li>
-    <li class="popular-posts-item">
-      <a class="popular-posts-link" href="/base64-fonts/" rel="bookmark">
-      内联引入 base64 字体
-      </a>
-    </li>
-    <li class="popular-posts-item">
-      <a class="popular-posts-link" href="/service-worker/" rel="bookmark">
-      Hexo 部署 Service Worker
-      </a>
-    </li>
-    <li class="popular-posts-item">
-      <a class="popular-posts-link" href="/custom-web-page/" rel="bookmark">
-      Hexo 跳过渲染，创建自定义网页
-      </a>
-    </li>
-    <li class="popular-posts-item">
-      <a class="popular-posts-link" href="/urlschemes/" rel="bookmark">
-      iOS 修改多开应用跳转目标
-      </a>
-    </li>
-  </ul>
-
-          </div>
-        </div>
         </div>
     <footer class="post-footer">
           
@@ -602,7 +570,7 @@ var ap = new APlayer({
 
   
 
-  <script class="next-config" data-name="enableMath" type="application/json">false</script><script class="next-config" data-name="mathjax" type="application/json">{"enable":true,"tags":"none","js":{"url":"https://unpkg.com/mathjax@3.2.2/es5/tex-mml-chtml.js","integrity":"sha256-MASABpB4tYktI2Oitl4t+78w/lyA+D7b/s9GEP0JOGI="}}</script>
+  <script class="next-config" data-name="enableMath" type="application/json">false</script><script class="next-config" data-name="mathjax" type="application/json">{"enable":true,"tags":"none","js":{"url":"//cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.5/MathJax.js?config=TeX-MML-AM_CHTML"}}</script>
 <script src="/js/third-party/math/mathjax.js"></script>
 
 

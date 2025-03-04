@@ -203,7 +203,7 @@ if( !/Android|webOS|iPhone|iPod|iPad|BlackBerry/i.test(navigator.userAgent)){
       <div class="sidebar-panel-container">
         <!--noindex-->
         <div class="post-toc-wrap sidebar-panel">
-            <div class="post-toc animated"><ol class="nav"><li class="nav-item nav-level-3"><a class="nav-link" href="#%E6%A0%87%E5%87%86%E8%89%B2"><span class="nav-text">标准色</span></a></li><li class="nav-item nav-level-3"><a class="nav-link" href="#API"><span class="nav-text">API</span></a></li></ol></div>
+            <div class="post-toc animated"><ol class="nav"><li class="nav-item nav-level-3"><a class="nav-link" href="#%E6%A0%87%E5%87%86%E8%89%B2"><span class="nav-text">标准色</span></a></li><li class="nav-item nav-level-3"><a class="nav-link" href="#api"><span class="nav-text">API</span></a></li></ol></div>
         </div>
         <!--/noindex-->
 
@@ -402,17 +402,49 @@ var ap = new APlayer({
     
     
     <div class="post-body" itemprop="articleBody">
-        <p><img data-src="/images/covers/141.webp"></p>
+        <p><img data-src="/images/covers/141.webp" alt=""></p>
 <span id="more"></span>
-
 <hr>
-<h3 id="标准色"><a href="#标准色" class="headerlink" title="标准色"></a>标准色</h3><p>#003968 C100 M85 Y40 K10<br>#7fa0b2 C55 M29 Y24 K0<br>#b8c9cc C32 M15 Y18 K0</p>
-<h3 id="API"><a href="#API" class="headerlink" title="API"></a>API</h3><p>学生信息查询<br>/api/index/getStudentByStudentId<br>studentId 学号</p>
-<p>校园卡余额查询<br>/app/index/getBalance<br>username 学号<br>数据更新慢</p>
-<p>图书借阅查询<br>/app/book/findBooksBorrowHistoryList<br>userName 学号<br>pageNum 页码<br>pageSize 每页最大条数<br>部分数据丢失</p>
-<p>课程表查询<br>/app/course/getCourse<br>userName 学号<br>currentTime 时间<br>role 身份</p>
-<p>空教室查询<br>/app/index/findClassRoomFree<br>classRoomAddress<br>currentTime<br>section<br>buildingCode<br>classRoomCode<br>接口故障</p>
-<p>学生成绩查询<br>/api/index/listExamResultByexamResultStudentId<br>examResultStudentId 学号<br>examYear 学年<br>examTerm 学期，无效值 默认值0<br>pageNum 页数 默认值1<br>pageSize 每页最大条数 默认值10000</p>
+<h3 id="%E6%A0%87%E5%87%86%E8%89%B2" tabindex="-1">标准色</h3>
+<p>#003968 C100 M85 Y40 K10<br>
+#7fa0b2 C55 M29 Y24 K0<br>
+#b8c9cc C32 M15 Y18 K0</p>
+<h3 id="api" tabindex="-1">API</h3>
+<p>学生信息查询<br>
+/api/index/getStudentByStudentId<br>
+studentId 学号</p>
+<p>校园卡余额查询<br>
+/app/index/getBalance<br>
+username 学号<br>
+数据更新慢</p>
+<p>图书借阅查询<br>
+/app/book/findBooksBorrowHistoryList<br>
+userName 学号<br>
+pageNum 页码<br>
+pageSize 每页最大条数<br>
+部分数据丢失</p>
+<p>课程表查询<br>
+/app/course/getCourse<br>
+userName 学号<br>
+currentTime 时间<br>
+role 身份</p>
+<p>空教室查询<br>
+/app/index/findClassRoomFree<br>
+classRoomAddress<br>
+currentTime<br>
+section<br>
+buildingCode<br>
+classRoomCode<br>
+接口故障</p>
+<p>学生成绩查询<br>
+/api/index/listExamResultByexamResultStudentId<br>
+examResultStudentId 学号<br>
+examYear 学年<br>
+examTerm 学期，无效值 默认值0<br>
+pageNum 页数 默认值1<br>
+pageSize 每页最大条数 默认值10000</p>
+<link rel="stylesheet" href="//cdn.jsdelivr.net/npm/katex/dist/katex.min.css">
+<link rel="stylesheet" href="//cdn.jsdelivr.net/npm/markdown-it-texmath/css/texmath.min.css">
 
     </div>
 
@@ -420,26 +452,6 @@ var ap = new APlayer({
     
     
         <div class="pjax">
-        <div class="sidebar-inner sidebar-post-related">
-          <div class="animated">
-              <div class="links-of-blogroll-title"><i class="fa fa-signs-post fa-fw"></i>
-    相关推荐
-  </div>
-  <ul class="popular-posts">
-    <li class="popular-posts-item">
-      <a class="popular-posts-link" href="/web-proxy/" rel="bookmark">
-      Web 代理
-      </a>
-    </li>
-    <li class="popular-posts-item">
-      <a class="popular-posts-link" href="/custom-web-page/" rel="bookmark">
-      Hexo 跳过渲染，创建自定义网页
-      </a>
-    </li>
-  </ul>
-
-          </div>
-        </div>
         </div>
     <footer class="post-footer">
           
@@ -585,7 +597,7 @@ var ap = new APlayer({
 
   
 
-  <script class="next-config" data-name="enableMath" type="application/json">false</script><script class="next-config" data-name="mathjax" type="application/json">{"enable":true,"tags":"none","js":{"url":"https://unpkg.com/mathjax@3.2.2/es5/tex-mml-chtml.js","integrity":"sha256-MASABpB4tYktI2Oitl4t+78w/lyA+D7b/s9GEP0JOGI="}}</script>
+  <script class="next-config" data-name="enableMath" type="application/json">false</script><script class="next-config" data-name="mathjax" type="application/json">{"enable":true,"tags":"none","js":{"url":"//cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.5/MathJax.js?config=TeX-MML-AM_CHTML"}}</script>
 <script src="/js/third-party/math/mathjax.js"></script>
 
 

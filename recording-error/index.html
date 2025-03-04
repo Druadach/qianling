@@ -406,13 +406,14 @@ var ap = new APlayer({
     
     
     <div class="post-body" itemprop="articleBody">
-        <p><img data-src="/images/covers/196.webp"></p>
+        <p><img data-src="/images/covers/196.webp" alt=""></p>
 <p><strong><center>本教程适用于修复录屏因断电、崩溃、宕机等种种原因中断后留存的损坏文件。</center></strong></p>
 <span id="more"></span>
-
 <hr>
-<h1 id="前言"><a href="#前言" class="headerlink" title="前言"></a>前言</h1><p>　　建议使用 mkv 格式录制视频，较 mp4 文件修复难度更低，并支持无损修复，不再担心断电、蓝屏、程序崩溃等意外情况。以下是修复教程：</p>
-<h1 id="mp4-文件修复"><a href="#mp4-文件修复" class="headerlink" title="mp4 文件修复"></a>mp4 文件修复</h1><ol>
+<h1 id="%E5%89%8D%E8%A8%80" tabindex="-1">前言</h1>
+<p>建议使用 mkv 格式录制视频，较 mp4 文件修复难度更低，并支持无损修复，不再担心断电、蓝屏、程序崩溃等意外情况。以下是修复教程：</p>
+<h1 id="mp4-%E6%96%87%E4%BB%B6%E4%BF%AE%E5%A4%8D" tabindex="-1">mp4 文件修复</h1>
+<ol>
 <li>下载视频修复工具 <a href="http://o.qianling.pw/f/25078497-749548694-e76e04?p=320860">recovery_MP4.exe</a>（访问密码：320860）；</li>
 <li>下载<a href="https://www.gyan.dev/ffmpeg/builds/ffmpeg-git-essentials.7z"><code>FFmpeg</code></a>，用于合并音视频；</li>
 <li>将损坏的 mp4 文件重命名为<code>bad.mp4</code>；</li>
@@ -424,7 +425,8 @@ var ap = new APlayer({
 <li>输入<code>ffmpeg.exe -r 30 -i recovered.h264 -i recovered.aac -bsf:a aac_adtstoasc -c:v copy -c:a copy recovered.mp4</code>并回车执行，合并流文件，成功后生成<code>recovery.mp4</code>。若失败可使用其他合并软件，经测试，失败的文件可用<code>小丸工具箱</code>成功封装；</li>
 <li>无法自行修复的重要文件，可在 <a href="https://restore.media/">Restore.Media</a> 付费恢复，1 分钟约 2 人民币元。</li>
 </ol>
-<h1 id="mkv-文件修复"><a href="#mkv-文件修复" class="headerlink" title="mkv 文件修复"></a>mkv 文件修复</h1><ol>
+<h1 id="mkv-%E6%96%87%E4%BB%B6%E4%BF%AE%E5%A4%8D" tabindex="-1">mkv 文件修复</h1>
+<ol>
 <li>下载<a href="https://www.gyan.dev/ffmpeg/builds/ffmpeg-git-essentials.7z"><code>FFmpeg</code></a>，用于抽取、封装音视频；</li>
 <li>将损坏的 mkv 文件复制到<code>ffmpeg.exe</code>同一目录下，重命名为<code>bad.mkv</code>；</li>
 <li>在<code>ffmpeg.exe</code>所在文件夹内，按住<code>shift</code>并单击鼠标右键，选择<code>在此处打开命令窗口(W)</code>（若使用<code>PowerShell</code>需要在第 ④ 步的命令<code>ffmpeg.exe</code>前加上<code>./</code>）；</li>
@@ -435,8 +437,11 @@ var ap = new APlayer({
 <li>无损转码为 mp4：<code>ffmpeg -i recovered.mkv -codec copy output.mp4</code>，生成<code>output.mp4</code>。</li>
 </ol>
 <br />
-
-<p>参考资料：<br><a href="https://blog.csdn.net/qq_38125626/article/details/90482994">mp4视频文件修复</a><br><a href="https://restore.media/blog/how-to-fix-corrupted-mp4-files">How to Fix Corrupted MP4 Files – The Definitive Guide</a></p>
+<p>参考资料：<br>
+<a href="https://blog.csdn.net/qq_38125626/article/details/90482994">mp4视频文件修复</a><br>
+<a href="https://restore.media/blog/how-to-fix-corrupted-mp4-files">How to Fix Corrupted MP4 Files – The Definitive Guide</a></p>
+<link rel="stylesheet" href="//cdn.jsdelivr.net/npm/katex/dist/katex.min.css">
+<link rel="stylesheet" href="//cdn.jsdelivr.net/npm/markdown-it-texmath/css/texmath.min.css">
 
     </div>
 
@@ -444,36 +449,6 @@ var ap = new APlayer({
     
     
         <div class="pjax">
-        <div class="sidebar-inner sidebar-post-related">
-          <div class="animated">
-              <div class="links-of-blogroll-title"><i class="fa fa-signs-post fa-fw"></i>
-    相关推荐
-  </div>
-  <ul class="popular-posts">
-    <li class="popular-posts-item">
-      <a class="popular-posts-link" href="/processing/" rel="bookmark">
-      音视频处理
-      </a>
-    </li>
-    <li class="popular-posts-item">
-      <a class="popular-posts-link" href="/sublime-text/" rel="bookmark">
-      Sublime Text3 使用记录
-      </a>
-    </li>
-    <li class="popular-posts-item">
-      <a class="popular-posts-link" href="/installed-necessary/" rel="bookmark">
-      自用 Windows 软件推荐
-      </a>
-    </li>
-    <li class="popular-posts-item">
-      <a class="popular-posts-link" href="/office-link/" rel="bookmark">
-      Office 2019/365 修改默认安装路径及激活方法
-      </a>
-    </li>
-  </ul>
-
-          </div>
-        </div>
         </div>
     <footer class="post-footer">
           
@@ -621,7 +596,7 @@ var ap = new APlayer({
 
   
 
-  <script class="next-config" data-name="enableMath" type="application/json">false</script><script class="next-config" data-name="mathjax" type="application/json">{"enable":true,"tags":"none","js":{"url":"https://unpkg.com/mathjax@3.2.2/es5/tex-mml-chtml.js","integrity":"sha256-MASABpB4tYktI2Oitl4t+78w/lyA+D7b/s9GEP0JOGI="}}</script>
+  <script class="next-config" data-name="enableMath" type="application/json">false</script><script class="next-config" data-name="mathjax" type="application/json">{"enable":true,"tags":"none","js":{"url":"//cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.5/MathJax.js?config=TeX-MML-AM_CHTML"}}</script>
 <script src="/js/third-party/math/mathjax.js"></script>
 
 

@@ -28,7 +28,7 @@
 <meta property="og:site_name" content="千灵">
 <meta property="og:locale" content="zh_CN">
 <meta property="og:image" content="https://qianling.pw/images/covers/291.webp">
-<meta property="og:image" content="https://qianling.pw/solve-excel-save-csv-long-number-loss-precision-issue/solve-excel-save-csv-long-number-loss-precision-issue-1.webp">
+<meta property="og:image" content="https://qianling.pw/solve-excel-save-csv-long-number-loss-precision-issue/solve-excel-save-csv-long-number-loss-precision-issue/solve-excel-save-csv-long-number-loss-precision-issue-1.webp">
 <meta property="article:published_time" content="2024-08-01T09:12:02.000Z">
 <meta property="article:modified_time" content="2024-08-02T03:12:05.000Z">
 <meta property="article:author" content="千灵夙赋">
@@ -206,7 +206,7 @@ if( !/Android|webOS|iPhone|iPod|iPad|BlackBerry/i.test(navigator.userAgent)){
       <div class="sidebar-panel-container">
         <!--noindex-->
         <div class="post-toc-wrap sidebar-panel">
-            <div class="post-toc animated"><ol class="nav"><li class="nav-item nav-level-1"><a class="nav-link" href="#1-%E9%97%AE%E9%A2%98"><span class="nav-text">1. 问题</span></a></li><li class="nav-item nav-level-1"><a class="nav-link" href="#2-%E8%A7%A3%E5%86%B3%E6%96%B9%E6%B3%95"><span class="nav-text">2. 解决方法</span></a></li><li class="nav-item nav-level-1"><a class="nav-link" href="#3-%E9%95%BF%E6%95%B0%E5%AD%97%E8%BD%AC%E6%96%87%E6%9C%AC%E5%AE%8F"><span class="nav-text">3. 长数字转文本宏</span></a><ol class="nav-child"><li class="nav-item nav-level-2"><a class="nav-link" href="#3-1-%E4%BD%BF%E7%94%A8"><span class="nav-text">3.1 使用</span></a></li><li class="nav-item nav-level-2"><a class="nav-link" href="#3-2-%E4%BB%A3%E7%A0%81"><span class="nav-text">3.2 代码</span></a></li><li class="nav-item nav-level-2"><a class="nav-link" href="#3-3-%E9%80%BB%E8%BE%91"><span class="nav-text">3.3 逻辑</span></a></li><li class="nav-item nav-level-2"><a class="nav-link" href="#3-4-%E6%80%A7%E8%83%BD%E9%97%AE%E9%A2%98"><span class="nav-text">3.4 性能问题</span></a></li></ol></li></ol></div>
+            <div class="post-toc animated"><ol class="nav"><li class="nav-item nav-level-1"><a class="nav-link" href="#1.-%E9%97%AE%E9%A2%98"><span class="nav-text">1. 问题</span></a></li><li class="nav-item nav-level-1"><a class="nav-link" href="#2.-%E8%A7%A3%E5%86%B3%E6%96%B9%E6%B3%95"><span class="nav-text">2. 解决方法</span></a></li><li class="nav-item nav-level-1"><a class="nav-link" href="#3.-%E9%95%BF%E6%95%B0%E5%AD%97%E8%BD%AC%E6%96%87%E6%9C%AC%E5%AE%8F"><span class="nav-text">3. 长数字转文本宏</span></a><ol class="nav-child"><li class="nav-item nav-level-2"><a class="nav-link" href="#3.1-%E4%BD%BF%E7%94%A8"><span class="nav-text">3.1 使用</span></a></li><li class="nav-item nav-level-2"><a class="nav-link" href="#3.2-%E4%BB%A3%E7%A0%81"><span class="nav-text">3.2 代码</span></a></li><li class="nav-item nav-level-2"><a class="nav-link" href="#3.3-%E9%80%BB%E8%BE%91"><span class="nav-text">3.3 逻辑</span></a></li><li class="nav-item nav-level-2"><a class="nav-link" href="#3.4-%E6%80%A7%E8%83%BD%E9%97%AE%E9%A2%98"><span class="nav-text">3.4 性能问题</span></a></li></ol></li></ol></div>
         </div>
         <!--/noindex-->
 
@@ -405,21 +405,26 @@ var ap = new APlayer({
     
     
     <div class="post-body" itemprop="articleBody">
-        <p><img data-src="/images/covers/291.webp"></p>
+        <p><img data-src="/images/covers/291.webp" alt=""></p>
 <span id="more"></span>
-
 <hr>
-<h1 id="1-问题"><a href="#1-问题" class="headerlink" title="1. 问题"></a>1. 问题</h1><p>使用 Excel 保存 CSV 文件时，长度大于 11 位的数字会被强制以科学计数法形式储存，导致数据丢失精度，例如 Unix 时间戳<code>1532793600000</code>变为<code>1.53279E+12</code>，导致时间由<code>2018-07-29 00:00:00</code>变为<code>2018-07-28 23:00:00</code>。<br><img data-src="/solve-excel-save-csv-long-number-loss-precision-issue/solve-excel-save-csv-long-number-loss-precision-issue-1.webp"></p>
-<h1 id="2-解决方法"><a href="#2-解决方法" class="headerlink" title="2. 解决方法"></a>2. 解决方法</h1><p>此问题为 Excel 软件设计缺陷，将单元格格式改为文本亦无法解决，只能将数据内容本身改为文本格式来避免转换，如在前缀或后缀处增加占位符，下面是笔者编写的通过添加制表符尾缀实现此功能的程序。</p>
-<h1 id="3-长数字转文本宏"><a href="#3-长数字转文本宏" class="headerlink" title="3. 长数字转文本宏"></a>3. 长数字转文本宏</h1><h2 id="3-1-使用"><a href="#3-1-使用" class="headerlink" title="3.1 使用"></a>3.1 使用</h2><p>在 Excel 待处理 csv 文件内按下 Alt+F11 打开「Microsoft Visual Basic for Applications」，在左侧工程窗口空白处按下鼠标右键，选择「插入(N)」-「模块(M)」，随后在编辑区域内粘贴代码，按下 F5 运行即可给所有长度大于 11 位的列的数字末尾添加制表符。</p>
+<h1 id="1.-%E9%97%AE%E9%A2%98" tabindex="-1">1. 问题</h1>
+<p>使用 Excel 保存 CSV 文件时，长度大于 11 位的数字会被强制以科学计数法形式储存，导致数据丢失精度，例如 Unix 时间戳<code>1532793600000</code>变为<code>1.53279E+12</code>，导致时间由<code>2018-07-29 00:00:00</code>变为<code>2018-07-28 23:00:00</code>。<br>
+<img data-src="solve-excel-save-csv-long-number-loss-precision-issue/solve-excel-save-csv-long-number-loss-precision-issue-1.webp" alt=""></p>
+<h1 id="2.-%E8%A7%A3%E5%86%B3%E6%96%B9%E6%B3%95" tabindex="-1">2. 解决方法</h1>
+<p>此问题为 Excel 软件设计缺陷，将单元格格式改为文本亦无法解决，只能将数据内容本身改为文本格式来避免转换，如在前缀或后缀处增加占位符，下面是笔者编写的通过添加制表符尾缀实现此功能的程序。</p>
+<h1 id="3.-%E9%95%BF%E6%95%B0%E5%AD%97%E8%BD%AC%E6%96%87%E6%9C%AC%E5%AE%8F" tabindex="-1">3. 长数字转文本宏</h1>
+<h2 id="3.1-%E4%BD%BF%E7%94%A8" tabindex="-1">3.1 使用</h2>
+<p>在 Excel 待处理 csv 文件内按下 Alt+F11 打开「Microsoft Visual Basic for Applications」，在左侧工程窗口空白处按下鼠标右键，选择「插入(N)」-「模块(M)」，随后在编辑区域内粘贴代码，按下 F5 运行即可给所有长度大于 11 位的列的数字末尾添加制表符。</p>
 <p>使用数据时如何移除制表符：</p>
 <ol>
 <li>如果应用于数据库，在导入时勾选类似「去除字符串两端的空白字符（如空格、制表符、换行符等）」的选项，如 SQLite 勾选 「Trim fields」，即可去除本程序增加的制表符还原为数字；</li>
 <li>若应用于其他场景或数据库不支持自动去除制表符，可使用文本编辑器查找制表符替换为空白。</li>
 </ol>
-<h2 id="3-2-代码"><a href="#3-2-代码" class="headerlink" title="3.2 代码"></a>3.2 代码</h2><figure class="highlight vb"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br><span class="line">7</span><br><span class="line">8</span><br><span class="line">9</span><br><span class="line">10</span><br><span class="line">11</span><br><span class="line">12</span><br><span class="line">13</span><br><span class="line">14</span><br><span class="line">15</span><br><span class="line">16</span><br><span class="line">17</span><br><span class="line">18</span><br><span class="line">19</span><br><span class="line">20</span><br><span class="line">21</span><br><span class="line">22</span><br><span class="line">23</span><br><span class="line">24</span><br><span class="line">25</span><br><span class="line">26</span><br><span class="line">27</span><br><span class="line">28</span><br><span class="line">29</span><br></pre></td><td class="code"><pre><span class="line"><span class="keyword">Sub</span> 长数字末尾加制表符转文本()</span><br><span class="line">    <span class="keyword">Dim</span> ws <span class="keyword">As</span> Worksheet</span><br><span class="line">    <span class="keyword">Dim</span> lastRow <span class="keyword">As</span> <span class="type">Long</span></span><br><span class="line">    <span class="keyword">Dim</span> lastColumn <span class="keyword">As</span> <span class="type">Long</span></span><br><span class="line">    <span class="keyword">Dim</span> cell <span class="keyword">As</span> Range</span><br><span class="line">    <span class="keyword">Dim</span> data <span class="keyword">As</span> Variant</span><br><span class="line">    <span class="keyword">Dim</span> newData <span class="keyword">As</span> Variant</span><br><span class="line">    <span class="keyword">Dim</span> i <span class="keyword">As</span> <span class="type">Long</span></span><br><span class="line">    <span class="keyword">Dim</span> j <span class="keyword">As</span> <span class="type">Long</span></span><br><span class="line"></span><br><span class="line">    <span class="keyword">Set</span> ws = ActiveSheet</span><br><span class="line">    lastRow = ws.Cells(ws.Rows.Count, <span class="number">1</span>).<span class="keyword">End</span>(xlUp).Row</span><br><span class="line">    lastColumn = ws.Cells(<span class="number">1</span>, ws.Columns.Count).<span class="keyword">End</span>(xlToLeft).Column</span><br><span class="line"></span><br><span class="line">    data = ws.Range(ws.Cells(<span class="number">1</span>, <span class="number">1</span>), ws.Cells(lastRow, lastColumn)).Value</span><br><span class="line">    <span class="keyword">ReDim</span> newData(<span class="number">1</span> <span class="keyword">To</span> UBound(data, <span class="number">1</span>), <span class="number">1</span> <span class="keyword">To</span> UBound(data, <span class="number">2</span>))</span><br><span class="line"></span><br><span class="line">    <span class="keyword">For</span> <span class="keyword">Each</span> cell <span class="keyword">In</span> ws.Range(ws.Cells(<span class="number">1</span>, <span class="number">1</span>), ws.Cells(lastRow, lastColumn))</span><br><span class="line">        i = cell.Row</span><br><span class="line">        j = cell.Column</span><br><span class="line">        <span class="keyword">If</span> IsNumeric(data(i, j)) <span class="built_in">And</span> Len(<span class="built_in">CStr</span>(data(i, j))) &gt; <span class="number">11</span> <span class="keyword">Then</span></span><br><span class="line">            newData(i, j) = data(i, j) &amp; vbTab</span><br><span class="line">        <span class="keyword">Else</span></span><br><span class="line">            newData(i, j) = data(i, j)</span><br><span class="line">        <span class="keyword">End</span> <span class="keyword">If</span></span><br><span class="line">    <span class="keyword">Next</span> cell</span><br><span class="line"></span><br><span class="line">    ws.Range(ws.Cells(<span class="number">1</span>, <span class="number">1</span>), ws.Cells(lastRow, lastColumn)).Value = newData</span><br><span class="line"><span class="keyword">End</span> <span class="keyword">Sub</span></span><br></pre></td></tr></table></figure>
-
-<h2 id="3-3-逻辑"><a href="#3-3-逻辑" class="headerlink" title="3.3 逻辑"></a>3.3 逻辑</h2><ol>
+<h2 id="3.2-%E4%BB%A3%E7%A0%81" tabindex="-1">3.2 代码</h2>
+<figure class="highlight vb"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br><span class="line">7</span><br><span class="line">8</span><br><span class="line">9</span><br><span class="line">10</span><br><span class="line">11</span><br><span class="line">12</span><br><span class="line">13</span><br><span class="line">14</span><br><span class="line">15</span><br><span class="line">16</span><br><span class="line">17</span><br><span class="line">18</span><br><span class="line">19</span><br><span class="line">20</span><br><span class="line">21</span><br><span class="line">22</span><br><span class="line">23</span><br><span class="line">24</span><br><span class="line">25</span><br><span class="line">26</span><br><span class="line">27</span><br><span class="line">28</span><br><span class="line">29</span><br></pre></td><td class="code"><pre><span class="line"><span class="keyword">Sub</span> 长数字末尾加制表符转文本()</span><br><span class="line">    <span class="keyword">Dim</span> ws <span class="keyword">As</span> Worksheet</span><br><span class="line">    <span class="keyword">Dim</span> lastRow <span class="keyword">As</span> <span class="type">Long</span></span><br><span class="line">    <span class="keyword">Dim</span> lastColumn <span class="keyword">As</span> <span class="type">Long</span></span><br><span class="line">    <span class="keyword">Dim</span> cell <span class="keyword">As</span> Range</span><br><span class="line">    <span class="keyword">Dim</span> data <span class="keyword">As</span> Variant</span><br><span class="line">    <span class="keyword">Dim</span> newData <span class="keyword">As</span> Variant</span><br><span class="line">    <span class="keyword">Dim</span> i <span class="keyword">As</span> <span class="type">Long</span></span><br><span class="line">    <span class="keyword">Dim</span> j <span class="keyword">As</span> <span class="type">Long</span></span><br><span class="line"></span><br><span class="line">    <span class="keyword">Set</span> ws = ActiveSheet</span><br><span class="line">    lastRow = ws.Cells(ws.Rows.Count, <span class="number">1</span>).<span class="keyword">End</span>(xlUp).Row</span><br><span class="line">    lastColumn = ws.Cells(<span class="number">1</span>, ws.Columns.Count).<span class="keyword">End</span>(xlToLeft).Column</span><br><span class="line"></span><br><span class="line">    data = ws.Range(ws.Cells(<span class="number">1</span>, <span class="number">1</span>), ws.Cells(lastRow, lastColumn)).Value</span><br><span class="line">    <span class="keyword">ReDim</span> newData(<span class="number">1</span> <span class="keyword">To</span> UBound(data, <span class="number">1</span>), <span class="number">1</span> <span class="keyword">To</span> UBound(data, <span class="number">2</span>))</span><br><span class="line"></span><br><span class="line">    <span class="keyword">For</span> <span class="keyword">Each</span> cell <span class="keyword">In</span> ws.Range(ws.Cells(<span class="number">1</span>, <span class="number">1</span>), ws.Cells(lastRow, lastColumn))</span><br><span class="line">        i = cell.Row</span><br><span class="line">        j = cell.Column</span><br><span class="line">        <span class="keyword">If</span> IsNumeric(data(i, j)) <span class="built_in">And</span> Len(<span class="built_in">CStr</span>(data(i, j))) &gt; <span class="number">11</span> <span class="keyword">Then</span></span><br><span class="line">            newData(i, j) = data(i, j) &amp; vbTab</span><br><span class="line">        <span class="keyword">Else</span></span><br><span class="line">            newData(i, j) = data(i, j)</span><br><span class="line">        <span class="keyword">End</span> <span class="keyword">If</span></span><br><span class="line">    <span class="keyword">Next</span> cell</span><br><span class="line"></span><br><span class="line">    ws.Range(ws.Cells(<span class="number">1</span>, <span class="number">1</span>), ws.Cells(lastRow, lastColumn)).Value = newData</span><br><span class="line"><span class="keyword">End</span> <span class="keyword">Sub</span></span><br></pre></td></tr></table></figure>
+<h2 id="3.3-%E9%80%BB%E8%BE%91" tabindex="-1">3.3 逻辑</h2>
+<ol>
 <li><strong>初始化变量</strong>：创建变量以存储工作表、最后一行和最后一列的位置、单元格值和数据数组；</li>
 <li><strong>获取活动工作表</strong>：设置操作对象 <code>ws</code> 为当前活动工作表；</li>
 <li><strong>确定数据范围</strong>：计算最后一行和最后一列的位置，以确保只处理包含数据的部分；</li>
@@ -430,14 +435,17 @@ var ap = new APlayer({
 <li><strong>添加制表符</strong>：如果条件满足，将该单元格的值末尾添加制表符 <code>vbTab</code>，否则保留原始值；</li>
 <li><strong>写回数据</strong>：将修改后的 <code>newData</code> 数组写回到工作表，更新所有单元格的值。</li>
 </ol>
-<h2 id="3-4-性能问题"><a href="#3-4-性能问题" class="headerlink" title="3.4 性能问题"></a>3.4 性能问题</h2><p>单元格数量：243789<br>处理时长：2.19s</p>
+<h2 id="3.4-%E6%80%A7%E8%83%BD%E9%97%AE%E9%A2%98" tabindex="-1">3.4 性能问题</h2>
+<p>单元格数量：243789<br>
+处理时长：2.19s</p>
 <p>为避免遗漏，本程序采取逐个单元格遍历判断长度决定是否修改的方法，性能不佳。以下是改为通过读取每列最后一行的值来判断列数据长度的程序，处理时长缩短至 1.14s，性能提升近一倍，仅适用于列数据长度统一的情况。</p>
 <figure class="highlight vb"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br><span class="line">7</span><br><span class="line">8</span><br><span class="line">9</span><br><span class="line">10</span><br><span class="line">11</span><br><span class="line">12</span><br><span class="line">13</span><br><span class="line">14</span><br><span class="line">15</span><br><span class="line">16</span><br><span class="line">17</span><br><span class="line">18</span><br><span class="line">19</span><br><span class="line">20</span><br><span class="line">21</span><br><span class="line">22</span><br><span class="line">23</span><br><span class="line">24</span><br><span class="line">25</span><br><span class="line">26</span><br></pre></td><td class="code"><pre><span class="line"><span class="keyword">Sub</span> 长数字末尾加制表符转文本()</span><br><span class="line">    <span class="keyword">Dim</span> ws <span class="keyword">As</span> Worksheet</span><br><span class="line">    <span class="keyword">Dim</span> lastRow <span class="keyword">As</span> <span class="type">Long</span></span><br><span class="line">    <span class="keyword">Dim</span> lastColumn <span class="keyword">As</span> <span class="type">Long</span></span><br><span class="line">    <span class="keyword">Dim</span> j <span class="keyword">As</span> <span class="type">Long</span></span><br><span class="line">    <span class="keyword">Dim</span> i <span class="keyword">As</span> <span class="type">Long</span></span><br><span class="line">    <span class="keyword">Dim</span> cellValue <span class="keyword">As</span> Variant</span><br><span class="line">    <span class="keyword">Dim</span> data <span class="keyword">As</span> Variant</span><br><span class="line"></span><br><span class="line">    <span class="keyword">Set</span> ws = ActiveSheet</span><br><span class="line">    lastRow = ws.Cells(ws.Rows.Count, <span class="number">1</span>).<span class="keyword">End</span>(xlUp).Row</span><br><span class="line">    lastColumn = ws.Cells(<span class="number">1</span>, ws.Columns.Count).<span class="keyword">End</span>(xlToLeft).Column</span><br><span class="line"></span><br><span class="line">    data = ws.Range(ws.Cells(<span class="number">1</span>, <span class="number">1</span>), ws.Cells(lastRow, lastColumn)).Value</span><br><span class="line"></span><br><span class="line">    <span class="keyword">For</span> j = <span class="number">1</span> <span class="keyword">To</span> lastColumn</span><br><span class="line">        cellValue = data(lastRow, j)</span><br><span class="line">        <span class="keyword">If</span> IsNumeric(cellValue) <span class="built_in">And</span> Len(<span class="built_in">CStr</span>(cellValue)) &gt; <span class="number">11</span> <span class="keyword">Then</span></span><br><span class="line">            <span class="keyword">For</span> i = <span class="number">1</span> <span class="keyword">To</span> lastRow</span><br><span class="line">                data(i, j) = data(i, j) &amp; vbTab</span><br><span class="line">            <span class="keyword">Next</span> i</span><br><span class="line">        <span class="keyword">End</span> <span class="keyword">If</span></span><br><span class="line">    <span class="keyword">Next</span> j</span><br><span class="line"></span><br><span class="line">    ws.Range(ws.Cells(<span class="number">1</span>, <span class="number">1</span>), ws.Cells(lastRow, lastColumn)).Value = data</span><br><span class="line"><span class="keyword">End</span> <span class="keyword">Sub</span></span><br></pre></td></tr></table></figure>
-
 <p>参考资料：</p>
 <ol>
 <li><a href="https://segmentfault.com/a/1190000012711114">导出csv文件数字变科学计数法的解决方法</a></li>
 </ol>
+<link rel="stylesheet" href="//cdn.jsdelivr.net/npm/katex/dist/katex.min.css">
+<link rel="stylesheet" href="//cdn.jsdelivr.net/npm/markdown-it-texmath/css/texmath.min.css">
 
     </div>
 
@@ -445,21 +453,6 @@ var ap = new APlayer({
     
     
         <div class="pjax">
-        <div class="sidebar-inner sidebar-post-related">
-          <div class="animated">
-              <div class="links-of-blogroll-title"><i class="fa fa-signs-post fa-fw"></i>
-    相关推荐
-  </div>
-  <ul class="popular-posts">
-    <li class="popular-posts-item">
-      <a class="popular-posts-link" href="/excel-time-accumulation/" rel="bookmark">
-      Excel 周累、月累、年累及同期数据计算
-      </a>
-    </li>
-  </ul>
-
-          </div>
-        </div>
         </div>
     <footer class="post-footer">
           
@@ -607,7 +600,7 @@ var ap = new APlayer({
 
   
 
-  <script class="next-config" data-name="enableMath" type="application/json">false</script><script class="next-config" data-name="mathjax" type="application/json">{"enable":true,"tags":"none","js":{"url":"https://unpkg.com/mathjax@3.2.2/es5/tex-mml-chtml.js","integrity":"sha256-MASABpB4tYktI2Oitl4t+78w/lyA+D7b/s9GEP0JOGI="}}</script>
+  <script class="next-config" data-name="enableMath" type="application/json">false</script><script class="next-config" data-name="mathjax" type="application/json">{"enable":true,"tags":"none","js":{"url":"//cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.5/MathJax.js?config=TeX-MML-AM_CHTML"}}</script>
 <script src="/js/third-party/math/mathjax.js"></script>
 
 

@@ -22,12 +22,12 @@
 
 <script class="next-config" data-name="main" type="application/json">{"hostname":"qianling.pw","root":"/","images":"/images","scheme":"Muse","darkmode":false,"version":"8.14.0","exturl":false,"sidebar":{"position":"right","display":"hide","padding":18,"offset":12},"copycode":{"enable":true,"style":"flat"},"bookmark":{"enable":false,"color":"#222","save":"auto"},"mediumzoom":false,"lazyload":true,"pangu":false,"comments":{"style":"tabs","active":"valine","storage":true,"lazyload":false,"nav":null,"activeClass":"valine"},"stickytabs":false,"motion":{"enable":true,"async":true,"transition":{"menu_item":"fadeIn","post_block":"fadeIn","post_header":"fadeInDown","post_body":"fadeIn","coll_header":"fadeInLeft","sidebar":"fadeInUp"}},"prism":false,"i18n":{"placeholder":"搜索...","empty":"没有找到任何搜索结果：${query}","hits_time":"找到 ${hits} 个搜索结果（用时 ${time} 毫秒）","hits":"找到 ${hits} 个搜索结果"},"path":"/search.xml","localsearch":{"enable":true,"trigger":"auto","top_n_per_article":1,"unescape":false,"preload":true}}</script><script src="/js/config.js"></script>
 
-    <meta name="description" content="本文耗时三天，历经几十次实验，终于摸索出 Kindle 中字体、封面的有关规律，适用于以下情况：Kindle 部分书籍无法修改字体Kindle 部分书籍无法显示封面Calibre 无法批量保存中文书名Kindle 锁屏不显示书籍封面Kindle 部分书籍无法生字注音按本教程操作后，所有书籍都可支持切换字体、加粗、生字注音并正常显示封面">
+    <meta name="description" content="本文耗时三天，历经几十次实验，终于摸索出 Kindle 中字体、封面的有关规律，适用于以下情况： Kindle 部分书籍无法修改字体 Kindle 部分书籍无法显示封面 Calibre 无法批量保存中文书名 Kindle 锁屏不显示书籍封面 Kindle 部分书籍无法生字注音 按本教程操作后，所有书籍都可支持切换字体、加粗、生字注音并正常显示封面">
 <meta property="og:type" content="article">
 <meta property="og:title" content="解决 Kindle 无法修改字体、显示封面的问题">
 <meta property="og:url" content="https://qianling.pw/calibre/index.html">
 <meta property="og:site_name" content="千灵">
-<meta property="og:description" content="本文耗时三天，历经几十次实验，终于摸索出 Kindle 中字体、封面的有关规律，适用于以下情况：Kindle 部分书籍无法修改字体Kindle 部分书籍无法显示封面Calibre 无法批量保存中文书名Kindle 锁屏不显示书籍封面Kindle 部分书籍无法生字注音按本教程操作后，所有书籍都可支持切换字体、加粗、生字注音并正常显示封面">
+<meta property="og:description" content="本文耗时三天，历经几十次实验，终于摸索出 Kindle 中字体、封面的有关规律，适用于以下情况： Kindle 部分书籍无法修改字体 Kindle 部分书籍无法显示封面 Calibre 无法批量保存中文书名 Kindle 锁屏不显示书籍封面 Kindle 部分书籍无法生字注音 按本教程操作后，所有书籍都可支持切换字体、加粗、生字注音并正常显示封面">
 <meta property="og:locale" content="zh_CN">
 <meta property="og:image" content="https://qianling.pw/images/covers/14.webp">
 <meta property="article:published_time" content="2021-12-03T13:53:51.000Z">
@@ -205,7 +205,7 @@ if( !/Android|webOS|iPhone|iPod|iPad|BlackBerry/i.test(navigator.userAgent)){
       <div class="sidebar-panel-container">
         <!--noindex-->
         <div class="post-toc-wrap sidebar-panel">
-            <div class="post-toc animated"><ol class="nav"><li class="nav-item nav-level-1"><a class="nav-link" href="#%E4%B8%80%E3%80%81%E4%B8%8B%E8%BD%BD-Calibre"><span class="nav-text">一、下载 Calibre</span></a></li><li class="nav-item nav-level-1"><a class="nav-link" href="#%E4%BA%8C%E3%80%81%E8%AE%BE%E7%BD%AE-Calibre"><span class="nav-text">二、设置 Calibre</span></a></li><li class="nav-item nav-level-1"><a class="nav-link" href="#%E4%B8%89%E3%80%81-%E5%8F%AF%E9%80%89-%E8%A1%A5%E5%85%85%E4%B9%A6%E7%B1%8D%E5%85%83%E6%95%B0%E6%8D%AE"><span class="nav-text">三、[可选]补充书籍元数据</span></a></li><li class="nav-item nav-level-1"><a class="nav-link" href="#%E5%9B%9B%E3%80%81%E6%B8%85%E9%99%A4%E4%B9%A6%E7%B1%8D%E5%8E%9F%E5%AD%97%E4%BD%93%E6%A0%B7%E5%BC%8F"><span class="nav-text">四、清除书籍原字体样式</span></a></li><li class="nav-item nav-level-1"><a class="nav-link" href="#%E4%BA%94%E3%80%81%E5%AF%BC%E5%87%BA%E4%B9%A6%E7%B1%8D%E8%87%B3-Kindle"><span class="nav-text">五、导出书籍至 Kindle</span></a></li><li class="nav-item nav-level-1"><a class="nav-link" href="#%E5%85%AD%E3%80%81%E6%9B%B4%E6%96%B0%E4%B9%A6%E7%B1%8D%E5%85%83%E6%95%B0%E6%8D%AE"><span class="nav-text">六、更新书籍元数据</span></a></li><li class="nav-item nav-level-1"><a class="nav-link" href="#%E4%B8%83%E3%80%81%E4%BF%AE%E5%A4%8D%E4%B9%A6%E7%B1%8D%E5%B0%81%E9%9D%A2"><span class="nav-text">七、修复书籍封面</span></a></li><li class="nav-item nav-level-1"><a class="nav-link" href="#%E5%85%AB%E3%80%81-%E5%8F%AF%E9%80%89-%E4%B9%A6%E7%B1%8D%E6%96%87%E4%BB%B6%E5%90%8D%E6%B8%85%E6%B4%97"><span class="nav-text">八、[可选]书籍文件名清洗</span></a></li><li class="nav-item nav-level-1"><a class="nav-link" href="#%E4%B9%9D%E3%80%81-%E5%8F%AF%E9%80%89-%E4%BF%AE%E6%94%B9-Calibre-%E6%BA%90%E7%A0%81%E4%BB%A5%E4%BD%BF%E3%80%8C%E5%8F%91%E9%80%81%E5%88%B0%E8%AE%BE%E5%A4%87%E3%80%8D%E8%BE%93%E5%87%BA%E4%B8%AD%E6%96%87%E6%96%87%E4%BB%B6%E5%90%8D"><span class="nav-text">九、[可选]修改 Calibre 源码以使「发送到设备」输出中文文件名</span></a></li><li class="nav-item nav-level-1"><a class="nav-link" href="#%E5%8D%81%E3%80%81-%E5%8F%AF%E9%80%89-Kindle-%E9%94%81%E5%B1%8F%E6%98%BE%E7%A4%BA%E4%B9%A6%E7%B1%8D%E5%B0%81%E9%9D%A2"><span class="nav-text">十、[可选]Kindle 锁屏显示书籍封面</span></a></li><li class="nav-item nav-level-1"><a class="nav-link" href="#%E5%8D%81%E4%B8%80%E3%80%81%E5%8F%82%E8%80%83%E8%B5%84%E6%96%99"><span class="nav-text">十一、参考资料</span></a></li></ol></div>
+            <div class="post-toc animated"><ol class="nav"><li class="nav-item nav-level-1"><a class="nav-link" href="#%E4%B8%80%E3%80%81%E4%B8%8B%E8%BD%BD-calibre"><span class="nav-text">一、下载 Calibre</span></a></li><li class="nav-item nav-level-1"><a class="nav-link" href="#%E4%BA%8C%E3%80%81%E8%AE%BE%E7%BD%AE-calibre"><span class="nav-text">二、设置 Calibre</span></a></li><li class="nav-item nav-level-1"><a class="nav-link" href="#%E4%B8%89%E3%80%81%5B%E5%8F%AF%E9%80%89%5D%E8%A1%A5%E5%85%85%E4%B9%A6%E7%B1%8D%E5%85%83%E6%95%B0%E6%8D%AE"><span class="nav-text">三、[可选]补充书籍元数据</span></a></li><li class="nav-item nav-level-1"><a class="nav-link" href="#%E5%9B%9B%E3%80%81%E6%B8%85%E9%99%A4%E4%B9%A6%E7%B1%8D%E5%8E%9F%E5%AD%97%E4%BD%93%E6%A0%B7%E5%BC%8F"><span class="nav-text">四、清除书籍原字体样式</span></a></li><li class="nav-item nav-level-1"><a class="nav-link" href="#%E4%BA%94%E3%80%81%E5%AF%BC%E5%87%BA%E4%B9%A6%E7%B1%8D%E8%87%B3-kindle"><span class="nav-text">五、导出书籍至 Kindle</span></a></li><li class="nav-item nav-level-1"><a class="nav-link" href="#%E5%85%AD%E3%80%81%E6%9B%B4%E6%96%B0%E4%B9%A6%E7%B1%8D%E5%85%83%E6%95%B0%E6%8D%AE"><span class="nav-text">六、更新书籍元数据</span></a></li><li class="nav-item nav-level-1"><a class="nav-link" href="#%E4%B8%83%E3%80%81%E4%BF%AE%E5%A4%8D%E4%B9%A6%E7%B1%8D%E5%B0%81%E9%9D%A2"><span class="nav-text">七、修复书籍封面</span></a></li><li class="nav-item nav-level-1"><a class="nav-link" href="#%E5%85%AB%E3%80%81%5B%E5%8F%AF%E9%80%89%5D%E4%B9%A6%E7%B1%8D%E6%96%87%E4%BB%B6%E5%90%8D%E6%B8%85%E6%B4%97"><span class="nav-text">八、[可选]书籍文件名清洗</span></a></li><li class="nav-item nav-level-1"><a class="nav-link" href="#%E4%B9%9D%E3%80%81%5B%E5%8F%AF%E9%80%89%5D%E4%BF%AE%E6%94%B9-calibre-%E6%BA%90%E7%A0%81%E4%BB%A5%E4%BD%BF%E3%80%8C%E5%8F%91%E9%80%81%E5%88%B0%E8%AE%BE%E5%A4%87%E3%80%8D%E8%BE%93%E5%87%BA%E4%B8%AD%E6%96%87%E6%96%87%E4%BB%B6%E5%90%8D"><span class="nav-text">九、[可选]修改 Calibre 源码以使「发送到设备」输出中文文件名</span></a></li><li class="nav-item nav-level-1"><a class="nav-link" href="#%E5%8D%81%E3%80%81%5B%E5%8F%AF%E9%80%89%5Dkindle-%E9%94%81%E5%B1%8F%E6%98%BE%E7%A4%BA%E4%B9%A6%E7%B1%8D%E5%B0%81%E9%9D%A2"><span class="nav-text">十、[可选]Kindle 锁屏显示书籍封面</span></a></li><li class="nav-item nav-level-1"><a class="nav-link" href="#%E5%8D%81%E4%B8%80%E3%80%81%E5%8F%82%E8%80%83%E8%B5%84%E6%96%99"><span class="nav-text">十一、参考资料</span></a></li></ol></div>
         </div>
         <!--/noindex-->
 
@@ -404,53 +404,64 @@ var ap = new APlayer({
     
     
     <div class="post-body" itemprop="articleBody">
-        <p><img data-src="/images/covers/14.webp"></p>
+        <p><img data-src="/images/covers/14.webp" alt=""></p>
 <center>
-
-<p><strong>本文耗时三天，历经几十次实验，终于摸索出 Kindle 中字体、封面的有关规律，适用于以下情况：<br>Kindle 部分书籍无法修改字体<br>Kindle 部分书籍无法显示封面<br>Calibre 无法批量保存中文书名<br>Kindle 锁屏不显示书籍封面<br>Kindle 部分书籍无法生字注音<br>按本教程操作后，所有书籍都可支持切换字体、加粗、生字注音并正常显示封面</strong></p>
+<p><strong>本文耗时三天，历经几十次实验，终于摸索出 Kindle 中字体、封面的有关规律，适用于以下情况：<br>
+Kindle 部分书籍无法修改字体<br>
+Kindle 部分书籍无法显示封面<br>
+Calibre 无法批量保存中文书名<br>
+Kindle 锁屏不显示书籍封面<br>
+Kindle 部分书籍无法生字注音<br>
+按本教程操作后，所有书籍都可支持切换字体、加粗、生字注音并正常显示封面</strong></p>
 </center>
-
 <span id="more"></span>
-
 <hr>
-<h1 id="一、下载-Calibre"><a href="#一、下载-Calibre" class="headerlink" title="一、下载 Calibre"></a>一、下载 Calibre</h1><p>Windows 平台下载地址：<a href="https://calibre-ebook.com/dist/win32">calibre - Download for Windows</a><br>其他平台下载地址：<a href="https://calibre-ebook.com/download">calibre - Download calibre</a></p>
-<h1 id="二、设置-Calibre"><a href="#二、设置-Calibre" class="headerlink" title="二、设置 Calibre"></a>二、设置 Calibre</h1><ol>
-<li><p>打开「首选项-保存书籍至磁盘」；<br>① 取消勾选：<code>分别保存封面(M)</code>、<code>在独立的 OPF 文件中保存元数据</code>；<br>② [可选]保存模板（文件名默认格式为「爱的艺术 - 〔美〕弗洛姆」）可根据需要自行修改，如：</p>
+<h1 id="%E4%B8%80%E3%80%81%E4%B8%8B%E8%BD%BD-calibre" tabindex="-1">一、下载 Calibre</h1>
+<p>Windows 平台下载地址：<a href="https://calibre-ebook.com/dist/win32">calibre - Download for Windows</a><br>
+其他平台下载地址：<a href="https://calibre-ebook.com/download">calibre - Download calibre</a></p>
+<h1 id="%E4%BA%8C%E3%80%81%E8%AE%BE%E7%BD%AE-calibre" tabindex="-1">二、设置 Calibre</h1>
+<ol>
+<li>打开「首选项-保存书籍至磁盘」；<br>
+① 取消勾选：<code>分别保存封面(M)</code>、<code>在独立的 OPF 文件中保存元数据</code>；<br>
+② [可选]保存模板（文件名默认格式为「爱的艺术 - 〔美〕弗洛姆」）可根据需要自行修改，如：</li>
+</ol>
 <blockquote>
-<p>日期格式：<code>%Y</code>，保存模板：<code>&#123;title&#125;.&#123;authors&#125;.&#123;publisher&#125;.&#123;pubdate&#125;</code><br>文件名将显示为：爱的艺术.〔美〕弗洛姆.上海译文出版社.2011<br>注意事项：须确保变量所对应书籍元数据完整；文件名夹杂中文时，若超过 83 个字符，将导致 Kindle 无法读取书籍；解决方法参见「七、[可选]书籍文件名清洗」</p>
+<p>日期格式：<code>%Y</code>，保存模板：<code>&#123;title&#125;.&#123;authors&#125;.&#123;publisher&#125;.&#123;pubdate&#125;</code><br>
+文件名将显示为：爱的艺术.〔美〕弗洛姆.上海译文出版社.2011<br>
+注意事项：须确保变量所对应书籍元数据完整；文件名夹杂中文时，若超过 83 个字符，将导致 Kindle 无法读取书籍；解决方法参见「七、[可选]书籍文件名清洗」</p>
 </blockquote>
-</li>
-<li><p>打开「首选项-输出格式选项-MOBI 输出」，将「MOBI文件类型(T)」改为 <code>both</code>；</p>
-</li>
-<li><p>打开「首选项-通用选项-界面外观-字体(F)」，勾选：<code>关闭字号缩放(D)</code>；</p>
-</li>
-<li><p>打开「首选项-通用选项-结构检测」，取消勾选：<code>移除无效的页边距(F)</code>。</p>
-</li>
+<ol start="2">
+<li>打开「首选项-输出格式选项-MOBI 输出」，将「MOBI文件类型(T)」改为 <code>both</code>；</li>
+<li>打开「首选项-通用选项-界面外观-字体(F)」，勾选：<code>关闭字号缩放(D)</code>；</li>
+<li>打开「首选项-通用选项-结构检测」，取消勾选：<code>移除无效的页边距(F)</code>。</li>
 </ol>
 <!--3. 打开「首选项-通用选项-界面外观-样式(S)」，勾选：`字体(F)`；-->
-
-<h1 id="三、-可选-补充书籍元数据"><a href="#三、-可选-补充书籍元数据" class="headerlink" title="三、[可选]补充书籍元数据"></a>三、[可选]补充书籍元数据</h1><p><a href="https://rlyehzoo.xyz/posts/jike_calibre/">Calibre中文书元数据下载插件</a>／<a href="https://fugary.com/?p=238">群晖NAS使用最新calibre-web并配置豆瓣元数据</a></p>
-<h1 id="四、清除书籍原字体样式"><a href="#四、清除书籍原字体样式" class="headerlink" title="四、清除书籍原字体样式"></a>四、清除书籍原字体样式</h1><p><code>AZW3</code> 格式为 KF8 标准，一定支持自定义字体，因此只需要转换 <code>AZW</code>、<code>MOBI</code> 两种格式的书籍即可。</p>
+<h1 id="%E4%B8%89%E3%80%81%5B%E5%8F%AF%E9%80%89%5D%E8%A1%A5%E5%85%85%E4%B9%A6%E7%B1%8D%E5%85%83%E6%95%B0%E6%8D%AE" tabindex="-1">三、[可选]补充书籍元数据</h1>
+<p><a href="https://rlyehzoo.xyz/posts/jike_calibre/">Calibre中文书元数据下载插件</a>／<a href="https://fugary.com/?p=238">群晖NAS使用最新calibre-web并配置豆瓣元数据</a></p>
+<h1 id="%E5%9B%9B%E3%80%81%E6%B8%85%E9%99%A4%E4%B9%A6%E7%B1%8D%E5%8E%9F%E5%AD%97%E4%BD%93%E6%A0%B7%E5%BC%8F" tabindex="-1">四、清除书籍原字体样式</h1>
+<p><code>AZW3</code> 格式为 KF8 标准，一定支持自定义字体，因此只需要转换 <code>AZW</code>、<code>MOBI</code> 两种格式的书籍即可。</p>
 <ol>
 <li>点击「添加书籍」，将全部图书添加进「Calibre 书库」中（Ctrl+A 可全选文件）；</li>
 <li>点击左侧分类栏中的「格式」，按下「Ctrl」同时选择 <code>AZW</code>、<code>MOBI</code>，全选列表中所有书籍，点击「转换书籍」，点击「√确定」；</li>
 <li>任务完成后，书籍原字体格式就被清除了。</li>
 </ol>
 <!--3. 点击左侧分类栏中的「格式」，选择 `AZW3`，点击「转换书籍」，将输出格式设为 `AZW3`，点击「√确定」；-->
-
-<h1 id="五、导出书籍至-Kindle"><a href="#五、导出书籍至-Kindle" class="headerlink" title="五、导出书籍至 Kindle"></a>五、导出书籍至 Kindle</h1><ol>
+<h1 id="%E4%BA%94%E3%80%81%E5%AF%BC%E5%87%BA%E4%B9%A6%E7%B1%8D%E8%87%B3-kindle" tabindex="-1">五、导出书籍至 Kindle</h1>
+<ol>
 <li>将 Kindle 连接至电脑；</li>
 <li>点击左侧分类栏中的「格式」，按下「Ctrl」同时选择 <code>AZW</code>、<code>MOBI</code>，「Ctrl+A」全选列表中所有书籍，点击「保存到磁盘」旁下三角「▼」，选择「仅保存 MOBI 格式文件到磁盘」，点击「√确定」，选择 <code>Kindle:\documents</code>；</li>
 <li>点击左侧分类栏中的「格式」，选择 <code>AZW3</code>，全选列表中所有书籍，点击「保存到磁盘」旁下三角「▼」，选择「以单一格式保存到磁盘…」，选择 <code>AZW3</code>，点击「√确定」，选择 <code>Kindle:\documents</code>；</li>
 <li>任务完成后，书籍就以中文名导出到 Kindle 了。</li>
 </ol>
-<h1 id="六、更新书籍元数据"><a href="#六、更新书籍元数据" class="headerlink" title="六、更新书籍元数据"></a>六、更新书籍元数据</h1><p>　　经转换后的书籍将重新生成 <code>mobi-asin</code>，与原始文件不同，导致原封面无法匹配转换后书籍，因此需要更新书库列表中书籍的元数据。</p>
+<h1 id="%E5%85%AD%E3%80%81%E6%9B%B4%E6%96%B0%E4%B9%A6%E7%B1%8D%E5%85%83%E6%95%B0%E6%8D%AE" tabindex="-1">六、更新书籍元数据</h1>
+<p>经转换后的书籍将重新生成 <code>mobi-asin</code>，与原始文件不同，导致原封面无法匹配转换后书籍，因此需要更新书库列表中书籍的元数据。</p>
 <ol>
 <li>点击左侧分类栏中的「格式」，按下「Ctrl」同时选择 <code>AZW</code>、<code>MOBI</code>，「Ctrl+A」全选书库列表所有书籍，点击「编辑元数据-批量修改元数据」；</li>
 <li>勾选 <code>从电子书文件中设置元数据(除了封面)(M)</code>；</li>
 <li>点击「√确定」，即可更新 <code>mobi-asin</code>。</li>
 </ol>
-<h1 id="七、修复书籍封面"><a href="#七、修复书籍封面" class="headerlink" title="七、修复书籍封面"></a>七、修复书籍封面</h1><p>　　Kindle 按 <code>mobi-asin</code> 下载封面，存放在 <code>Kindle:\thumbnails</code>，转换后书籍的 <code>mobi-asin</code> 已变更，无法自动下载，只能使用 Calibre 手动添加封面，但 Calibre 没有单独发送封面功能，必须同时发送「拼音命名的书籍文件」和「封面文件」，因此可以待发送后删除「拼音命名的书籍文件」以曲线救国，方法如下：</p>
+<h1 id="%E4%B8%83%E3%80%81%E4%BF%AE%E5%A4%8D%E4%B9%A6%E7%B1%8D%E5%B0%81%E9%9D%A2" tabindex="-1">七、修复书籍封面</h1>
+<p>Kindle 按 <code>mobi-asin</code> 下载封面，存放在 <code>Kindle:\thumbnails</code>，转换后书籍的 <code>mobi-asin</code> 已变更，无法自动下载，只能使用 Calibre 手动添加封面，但 Calibre 没有单独发送封面功能，必须同时发送「拼音命名的书籍文件」和「封面文件」，因此可以待发送后删除「拼音命名的书籍文件」以曲线救国，方法如下：</p>
 <ol>
 <li>点击左侧分类栏中的「格式」，按下「Ctrl」同时选择 <code>AZW</code>、<code>MOBI</code>，「Ctrl+A」全选列表中所有书籍，点击「发送到设备」；</li>
 <li>待全部发送完毕后，打开 <code>Kindle:\documents</code> 文件夹，右键空白区域，选择 <code>排序方式(O)-修改日期</code>；</li>
@@ -459,18 +470,30 @@ var ap = new APlayer({
 <blockquote>
 <p>注意事项：若将 <code>.mobi</code> 文件以邮箱推送到设备上，也可尝试此补充封面方法，有效与否自测；部分 <code>.azw3</code> 文件因自带封面太小而无法识别，需要下载 325*500 分辨率封面按格式重命名存放在 <code>Kindle:\thumbnails</code> 内。</p>
 </blockquote>
-<h1 id="八、-可选-书籍文件名清洗"><a href="#八、-可选-书籍文件名清洗" class="headerlink" title="八、[可选]书籍文件名清洗"></a>八、[可选]书籍文件名清洗</h1><p>　　若按 2.2 将保存模板设置为：<code>&#123;title&#125;.&#123;authors&#125;.&#123;publisher&#125;.&#123;pubdate&#125;</code></p>
+<h1 id="%E5%85%AB%E3%80%81%5B%E5%8F%AF%E9%80%89%5D%E4%B9%A6%E7%B1%8D%E6%96%87%E4%BB%B6%E5%90%8D%E6%B8%85%E6%B4%97" tabindex="-1">八、[可选]书籍文件名清洗</h1>
+<p>若按 2.2 将保存模板设置为：<code>&#123;title&#125;.&#123;authors&#125;.&#123;publisher&#125;.&#123;pubdate&#125;</code></p>
 <ol>
 <li>可能因元数据缺失使分隔符冗余；</li>
-<li>可能因文件名超过 83 个字符导致 Kindle 无法读取书籍，可在 <code>Kindle:\documents</code> 文件夹下新建文本文件，将以下代码粘贴至文件并保存，将文件扩展名改为 <code>.bat</code>，双击运行即可解决。<figure class="highlight shell"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br><span class="line">7</span><br></pre></td><td class="code"><pre><span class="line">@echo off &amp; setlocal enabledelayedexpansion</span><br><span class="line">set &quot;dots=..&quot;</span><br><span class="line">set &quot;dot=.&quot;</span><br><span class="line">for /f &quot;delims=&quot; %%i in (&#x27;dir /b /a-d *.*&#x27;) do (</span><br><span class="line">    set &quot;var=%%i&quot; &amp; ren &quot;%%i&quot; &quot;!var:%dots%=%dot%!&quot;</span><br><span class="line">    set &quot;str=%%~ni&quot; &amp; ren &quot;%%i&quot; &quot;!str:~0,83!%%~xi</span><br><span class="line">)</span><br></pre></td></tr></table></figure></li>
+<li>可能因文件名超过 83 个字符导致 Kindle 无法读取书籍，可在 <code>Kindle:\documents</code> 文件夹下新建文本文件，将以下代码粘贴至文件并保存，将文件扩展名改为 <code>.bat</code>，双击运行即可解决。</li>
 </ol>
-<h1 id="九、-可选-修改-Calibre-源码以使「发送到设备」输出中文文件名"><a href="#九、-可选-修改-Calibre-源码以使「发送到设备」输出中文文件名" class="headerlink" title="九、[可选]修改 Calibre 源码以使「发送到设备」输出中文文件名"></a>九、[可选]修改 Calibre 源码以使「发送到设备」输出中文文件名</h1><p>　　如果按以下方式修改 Calibre 源码，可省略第五步「导出书籍至 Kindle」，直接将书籍以中文名发送至 Kindle。</p>
+<figure class="highlight shell"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br><span class="line">7</span><br></pre></td><td class="code"><pre><span class="line">@echo off &amp; setlocal enabledelayedexpansion</span><br><span class="line">set &quot;dots=..&quot;</span><br><span class="line">set &quot;dot=.&quot;</span><br><span class="line">for /f &quot;delims=&quot; %%i in (&#x27;dir /b /a-d *.*&#x27;) do (</span><br><span class="line">    set &quot;var=%%i&quot; &amp; ren &quot;%%i&quot; &quot;!var:%dots%=%dot%!&quot;</span><br><span class="line">    set &quot;str=%%~ni&quot; &amp; ren &quot;%%i&quot; &quot;!str:~0,83!%%~xi</span><br><span class="line">)</span><br></pre></td></tr></table></figure>
+<h1 id="%E4%B9%9D%E3%80%81%5B%E5%8F%AF%E9%80%89%5D%E4%BF%AE%E6%94%B9-calibre-%E6%BA%90%E7%A0%81%E4%BB%A5%E4%BD%BF%E3%80%8C%E5%8F%91%E9%80%81%E5%88%B0%E8%AE%BE%E5%A4%87%E3%80%8D%E8%BE%93%E5%87%BA%E4%B8%AD%E6%96%87%E6%96%87%E4%BB%B6%E5%90%8D" tabindex="-1">九、[可选]修改 Calibre 源码以使「发送到设备」输出中文文件名</h1>
+<p>如果按以下方式修改 Calibre 源码，可省略第五步「导出书籍至 Kindle」，直接将书籍以中文名发送至 Kindle。</p>
 <ul>
 <li><a href="https://github.com/snomiao/calibre-utf8-path">2020-09-24-Calibre-5.1.0-utf8-魔改中文路径教程与懒人包</a></li>
 <li><a href="https://zhuanlan.zhihu.com/p/384473486">自己折腾calibre中文目录问题</a></li>
 </ul>
-<h1 id="十、-可选-Kindle-锁屏显示书籍封面"><a href="#十、-可选-Kindle-锁屏显示书籍封面" class="headerlink" title="十、[可选]Kindle 锁屏显示书籍封面"></a>十、[可选]Kindle 锁屏显示书籍封面</h1><p><a href="https://mp.weixin.qq.com/s/BOI7zNu1wvmIrtiG1-6puQ">关于启用 kindle「显示封面」功能的补充</a></p>
-<h1 id="十一、参考资料"><a href="#十一、参考资料" class="headerlink" title="十一、参考资料"></a>十一、参考资料</h1><p><a href="https://www.zhihu.com/question/20952357/answer/17340333">为什么 Kindle 里有些书换不了字体？ - 彭祎的回答 - 知乎</a><br><a href="https://www.zhihu.com/question/19835536/answer/19186266">Calibre管理电子书怎样和原来的命名规则相结合？ - Bowman Church的回答 - 知乎</a><br><a href="https://www.zhihu.com/question/22308130/answer/79612953">用 calibre 将书籍发送到kindlepaperwhite后如何显示中文书名？ - wh ddouble的回答 - 知乎</a><br><a href="https://www.zhihu.com/question/53714153/answer/136241652">为什么我使用Calibre为azw3排版后不显示封面了？ - wh ddouble的回答 - 知乎</a><br><a href="https://blog.csdn.net/DreamChaser520/article/details/102642554">文件名和文件夹的bat批量重命名替换关键字和删除关键字</a><br><a href="http://www.bathome.net/viewthread.php?tid=60901&pid=2491211">怎样用批处理将文件名长度超过166个字节后的部分删掉？</a></p>
+<h1 id="%E5%8D%81%E3%80%81%5B%E5%8F%AF%E9%80%89%5Dkindle-%E9%94%81%E5%B1%8F%E6%98%BE%E7%A4%BA%E4%B9%A6%E7%B1%8D%E5%B0%81%E9%9D%A2" tabindex="-1">十、[可选]Kindle 锁屏显示书籍封面</h1>
+<p><a href="https://mp.weixin.qq.com/s/BOI7zNu1wvmIrtiG1-6puQ">关于启用 kindle「显示封面」功能的补充</a></p>
+<h1 id="%E5%8D%81%E4%B8%80%E3%80%81%E5%8F%82%E8%80%83%E8%B5%84%E6%96%99" tabindex="-1">十一、参考资料</h1>
+<p><a href="https://www.zhihu.com/question/20952357/answer/17340333">为什么 Kindle 里有些书换不了字体？ - 彭祎的回答 - 知乎</a><br>
+<a href="https://www.zhihu.com/question/19835536/answer/19186266">Calibre管理电子书怎样和原来的命名规则相结合？ - Bowman Church的回答 - 知乎</a><br>
+<a href="https://www.zhihu.com/question/22308130/answer/79612953">用 calibre 将书籍发送到kindlepaperwhite后如何显示中文书名？ - wh ddouble的回答 - 知乎</a><br>
+<a href="https://www.zhihu.com/question/53714153/answer/136241652">为什么我使用Calibre为azw3排版后不显示封面了？ - wh ddouble的回答 - 知乎</a><br>
+<a href="https://blog.csdn.net/DreamChaser520/article/details/102642554">文件名和文件夹的bat批量重命名替换关键字和删除关键字</a><br>
+<a href="http://www.bathome.net/viewthread.php?tid=60901&amp;pid=2491211">怎样用批处理将文件名长度超过166个字节后的部分删掉？</a></p>
+<link rel="stylesheet" href="//cdn.jsdelivr.net/npm/katex/dist/katex.min.css">
+<link rel="stylesheet" href="//cdn.jsdelivr.net/npm/markdown-it-texmath/css/texmath.min.css">
 
     </div>
 
@@ -478,21 +501,6 @@ var ap = new APlayer({
     
     
         <div class="pjax">
-        <div class="sidebar-inner sidebar-post-related">
-          <div class="animated">
-              <div class="links-of-blogroll-title"><i class="fa fa-signs-post fa-fw"></i>
-    相关推荐
-  </div>
-  <ul class="popular-posts">
-    <li class="popular-posts-item">
-      <a class="popular-posts-link" href="/installed-necessary/" rel="bookmark">
-      自用 Windows 软件推荐
-      </a>
-    </li>
-  </ul>
-
-          </div>
-        </div>
         </div>
     <footer class="post-footer">
           
@@ -638,7 +646,7 @@ var ap = new APlayer({
 
   
 
-  <script class="next-config" data-name="enableMath" type="application/json">false</script><script class="next-config" data-name="mathjax" type="application/json">{"enable":true,"tags":"none","js":{"url":"https://unpkg.com/mathjax@3.2.2/es5/tex-mml-chtml.js","integrity":"sha256-MASABpB4tYktI2Oitl4t+78w/lyA+D7b/s9GEP0JOGI="}}</script>
+  <script class="next-config" data-name="enableMath" type="application/json">false</script><script class="next-config" data-name="mathjax" type="application/json">{"enable":true,"tags":"none","js":{"url":"//cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.5/MathJax.js?config=TeX-MML-AM_CHTML"}}</script>
 <script src="/js/third-party/math/mathjax.js"></script>
 
 

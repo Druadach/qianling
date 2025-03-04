@@ -28,8 +28,8 @@
 <meta property="og:site_name" content="千灵">
 <meta property="og:locale" content="zh_CN">
 <meta property="og:image" content="https://qianling.pw/images/covers/80.webp">
-<meta property="og:image" content="https://qianling.pw/custom-web-page/custom-web-page1.webp">
-<meta property="og:image" content="https://qianling.pw/custom-web-page/custom-web-page2.webp">
+<meta property="og:image" content="https://qianling.pw/custom-web-page/custom-web-page/custom-web-page1.webp">
+<meta property="og:image" content="https://qianling.pw/custom-web-page/custom-web-page/custom-web-page2.webp">
 <meta property="article:published_time" content="2017-07-28T05:32:37.000Z">
 <meta property="article:modified_time" content="2017-07-28T05:32:37.000Z">
 <meta property="article:author" content="千灵夙赋">
@@ -205,7 +205,7 @@ if( !/Android|webOS|iPhone|iPod|iPad|BlackBerry/i.test(navigator.userAgent)){
       <div class="sidebar-panel-container">
         <!--noindex-->
         <div class="post-toc-wrap sidebar-panel">
-            <div class="post-toc animated"><ol class="nav"><li class="nav-item nav-level-3"><a class="nav-link" href="#1-%E5%88%9B%E5%BB%BA%E8%87%AA%E5%AE%9A%E4%B9%89%E7%BD%91%E9%A1%B5"><span class="nav-text">1. 创建自定义网页</span></a></li><li class="nav-item nav-level-3"><a class="nav-link" href="#2-%E8%B7%B3%E8%BF%87%E6%B8%B2%E6%9F%93"><span class="nav-text">2. 跳过渲染</span></a><ol class="nav-child"><li class="nav-item nav-level-4"><a class="nav-link" href="#2-1-%E5%9C%A8html%E6%96%87%E4%BB%B6%E4%B8%AD%E6%B7%BB%E5%8A%A0%E8%B7%B3%E8%BF%87%E6%B8%B2%E6%9F%93%E6%8C%87%E4%BB%A4"><span class="nav-text">2.1. 在html文件中添加跳过渲染指令</span></a></li><li class="nav-item nav-level-4"><a class="nav-link" href="#2-2-%E5%9C%A8-config-yml%E6%96%87%E4%BB%B6%E4%B8%AD%E8%AE%BE%E7%BD%AEskip-render"><span class="nav-text">2.2. 在_config.yml文件中设置skip_render</span></a></li></ol></li><li class="nav-item nav-level-3"><a class="nav-link" href="#3-%E5%AE%8C%E6%88%90"><span class="nav-text">3. 完成</span></a></li></ol></div>
+            <div class="post-toc animated"><ol class="nav"><li class="nav-item nav-level-3"><a class="nav-link" href="#1.-%E5%88%9B%E5%BB%BA%E8%87%AA%E5%AE%9A%E4%B9%89%E7%BD%91%E9%A1%B5"><span class="nav-text">1. 创建自定义网页</span></a></li><li class="nav-item nav-level-3"><a class="nav-link" href="#2.-%E8%B7%B3%E8%BF%87%E6%B8%B2%E6%9F%93"><span class="nav-text">2. 跳过渲染</span></a><ol class="nav-child"><li class="nav-item nav-level-4"><a class="nav-link" href="#2.1.-%E5%9C%A8html%E6%96%87%E4%BB%B6%E4%B8%AD%E6%B7%BB%E5%8A%A0%E8%B7%B3%E8%BF%87%E6%B8%B2%E6%9F%93%E6%8C%87%E4%BB%A4"><span class="nav-text">2.1. 在html文件中添加跳过渲染指令</span></a></li><li class="nav-item nav-level-4"><a class="nav-link" href="#2.2.-%E5%9C%A8_config.yml%E6%96%87%E4%BB%B6%E4%B8%AD%E8%AE%BE%E7%BD%AEskip_render"><span class="nav-text">2.2. 在_config.yml文件中设置skip_render</span></a></li></ol></li><li class="nav-item nav-level-3"><a class="nav-link" href="#3.-%E5%AE%8C%E6%88%90"><span class="nav-text">3. 完成</span></a></li></ol></div>
         </div>
         <!--/noindex-->
 
@@ -397,35 +397,44 @@ var ap = new APlayer({
     
     
     <div class="post-body" itemprop="articleBody">
-        <p><img data-src="/images/covers/80.webp"></p>
+        <p><img data-src="/images/covers/80.webp" alt=""></p>
 <span id="more"></span>
-
 <hr>
 <p>Hexo 博客中所见文章都是经由渲染的静态网页，而静态网页的样式都直接由 Hexo 的主题控制，所以 Hexo 博客大部分都呈现出一种高度的统一化与规范化。不过 Hexo 提供了跳过渲染功能，使得我们可以直接在博客中放入自定义网页。</p>
 <p>比如在博客中放入蹭饭图、自定义 404.html 、自定义 About 页面等。</p>
-<h3 id="1-创建自定义网页"><a href="#1-创建自定义网页" class="headerlink" title="1. 创建自定义网页"></a>1. 创建自定义网页</h3><p>网页可以是自己编写的，也可以是别人现成的源码。</p>
-<p>网页编写完成后，在Hexo\source目录下创建一个文件夹（文件夹名称任意，比如我创建的是cengfantu这个文件夹，部署完成后，访问<a href="http://login926.github.io/cengfantu/%E5%8D%B3%E5%8F%AF%E7%9C%8B%E5%88%B0%E6%95%88%E6%9E%9C%EF%BC%8C%E4%BE%9D%E6%AD%A4%E7%B1%BB%E6%8E%A8%EF%BC%89">http://login926.github.io/cengfantu/即可看到效果，依此类推）</a></p>
+<h3 id="1.-%E5%88%9B%E5%BB%BA%E8%87%AA%E5%AE%9A%E4%B9%89%E7%BD%91%E9%A1%B5" tabindex="-1">1. 创建自定义网页</h3>
+<p>网页可以是自己编写的，也可以是别人现成的源码。</p>
+<p>网页编写完成后，在Hexo\source目录下创建一个文件夹（文件夹名称任意，比如我创建的是cengfantu这个文件夹，部署完成后，访问http://login926.github.io/cengfantu/即可看到效果，依此类推）</p>
 <p>将 html 文件放置于此文件夹，并重命名为 index.html 。</p>
-<h3 id="2-跳过渲染"><a href="#2-跳过渲染" class="headerlink" title="2. 跳过渲染"></a>2. 跳过渲染</h3><p>跳过渲染有下述两种方法，我更倾向于第一种方法。</p>
-<h4 id="2-1-在html文件中添加跳过渲染指令"><a href="#2-1-在html文件中添加跳过渲染指令" class="headerlink" title="2.1. 在html文件中添加跳过渲染指令"></a>2.1. 在html文件中添加跳过渲染指令</h4><p>用编辑器打开\Hexo\source\创建的文件夹中的 index.html 文件，在开头添加如下代码即可</p>
+<h3 id="2.-%E8%B7%B3%E8%BF%87%E6%B8%B2%E6%9F%93" tabindex="-1">2. 跳过渲染</h3>
+<p>跳过渲染有下述两种方法，我更倾向于第一种方法。</p>
+<h4 id="2.1.-%E5%9C%A8html%E6%96%87%E4%BB%B6%E4%B8%AD%E6%B7%BB%E5%8A%A0%E8%B7%B3%E8%BF%87%E6%B8%B2%E6%9F%93%E6%8C%87%E4%BB%A4" tabindex="-1">2.1. 在html文件中添加跳过渲染指令</h4>
+<p>用编辑器打开\Hexo\source\创建的文件夹中的 index.html 文件，在开头添加如下代码即可</p>
 <figure class="highlight plaintext"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br></pre></td><td class="code"><pre><span class="line">---</span><br><span class="line">layout: false</span><br><span class="line">---</span><br></pre></td></tr></table></figure>
 <p>添加该指令后，执行 hexo g命令时便会跳过该 index.html文件，使得index.html不受当前 hexo 主题影响，完全是一个独立的网页，如果网页引用了 css 或 js ，这些 css 和 js 必须使用外链，如下图所示。</p>
-<p><img data-src="/custom-web-page/custom-web-page1.webp"></p>
-<h4 id="2-2-在-config-yml文件中设置skip-render"><a href="#2-2-在-config-yml文件中设置skip-render" class="headerlink" title="2.2. 在_config.yml文件中设置skip_render"></a>2.2. 在_config.yml文件中设置skip_render</h4><p>使用编辑器打开 Hexo 目录下的_config.yml文件，找到skip_render</p>
+<p><img data-src="custom-web-page/custom-web-page1.webp" alt=""></p>
+<h4 id="2.2.-%E5%9C%A8_config.yml%E6%96%87%E4%BB%B6%E4%B8%AD%E8%AE%BE%E7%BD%AEskip_render" tabindex="-1">2.2. 在_config.yml文件中设置skip_render</h4>
+<p>使用编辑器打开 Hexo 目录下的_config.yml文件，找到skip_render</p>
 <p>skip_render一般有以下四种常用参数：</p>
 <ol>
 <li>跳过source目录下的 <code>test.html: skip_render: test.html</code></li>
 <li>跳过source目录下 test 文件夹内所有文件：<code>skip_render: test/*</code></li>
 <li>跳过source目录下 <code>test</code> 文件夹内所有文件包括子文件夹以及子文件夹内的文件：<code>skip_render: test/**</code></li>
-<li>跳过多个路径：<figure class="highlight plaintext"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br></pre></td><td class="code"><pre><span class="line">skip_render:</span><br><span class="line">    - test.html</span><br><span class="line">    - test/*</span><br></pre></td></tr></table></figure>
-_config.yml对格式要求严格，注意填写参数时的格式，添加完成后便不会渲染指定文件/文件夹。<br>如果网页引用了 css 或 js ，并将整个网页目录设置为跳过渲染，则不必再为 css 和 js 创建外链，可以直接引用</li>
+<li>跳过多个路径：</li>
 </ol>
-<h3 id="3-完成"><a href="#3-完成" class="headerlink" title="3. 完成"></a>3. 完成</h3><p>执行hexo g和hexo deploy命令后便可以在博客上看到自己创建的网页。<br>也可以在博客首页为这些页面增加一个入口。</p>
-<p><img data-src="/custom-web-page/custom-web-page2.webp"></p>
+<figure class="highlight plaintext"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br></pre></td><td class="code"><pre><span class="line">skip_render:</span><br><span class="line">    - test.html</span><br><span class="line">    - test/*</span><br></pre></td></tr></table></figure>
+<p>_config.yml对格式要求严格，注意填写参数时的格式，添加完成后便不会渲染指定文件/文件夹。<br>
+如果网页引用了 css 或 js ，并将整个网页目录设置为跳过渲染，则不必再为 css 和 js 创建外链，可以直接引用</p>
+<h3 id="3.-%E5%AE%8C%E6%88%90" tabindex="-1">3. 完成</h3>
+<p>执行hexo g和hexo deploy命令后便可以在博客上看到自己创建的网页。<br>
+也可以在博客首页为这些页面增加一个入口。</p>
+<p><img data-src="custom-web-page/custom-web-page2.webp" alt=""></p>
 <span style="color:#1A95A5;font-weight:900">
 转载自 [<span style="color:#00b8e6">Raintone</span>](https://login926.top/%E5%9C%A8-hexo-%E5%8D%9A%E5%AE%A2%E4%B8%AD%E8%B7%B3%E8%BF%87%E6%B8%B2%E6%9F%93%EF%BC%8C%E5%88%9B%E5%BB%BA%E8%87%AA%E5%AE%9A%E4%B9%89%E7%BD%91%E9%A1%B5.html)
 </span>
 </span>
+<link rel="stylesheet" href="//cdn.jsdelivr.net/npm/katex/dist/katex.min.css">
+<link rel="stylesheet" href="//cdn.jsdelivr.net/npm/markdown-it-texmath/css/texmath.min.css">
 
     </div>
 
@@ -433,41 +442,6 @@ _config.yml对格式要求严格，注意填写参数时的格式，添加完成
     
     
         <div class="pjax">
-        <div class="sidebar-inner sidebar-post-related">
-          <div class="animated">
-              <div class="links-of-blogroll-title"><i class="fa fa-signs-post fa-fw"></i>
-    相关推荐
-  </div>
-  <ul class="popular-posts">
-    <li class="popular-posts-item">
-      <a class="popular-posts-link" href="/theme-colors/" rel="bookmark">
-      修改主题颜色
-      </a>
-    </li>
-    <li class="popular-posts-item">
-      <a class="popular-posts-link" href="/solve-moment.js-error/" rel="bookmark">
-      解决 Moment.js 报错
-      </a>
-    </li>
-    <li class="popular-posts-item">
-      <a class="popular-posts-link" href="/service-worker/" rel="bookmark">
-      Hexo 部署 Service Worker
-      </a>
-    </li>
-    <li class="popular-posts-item">
-      <a class="popular-posts-link" href="/school-development/" rel="bookmark">
-      河南工业大学前后端开发记录
-      </a>
-    </li>
-    <li class="popular-posts-item">
-      <a class="popular-posts-link" href="/hexo-optimization/" rel="bookmark">
-      Hexo 优化汇总
-      </a>
-    </li>
-  </ul>
-
-          </div>
-        </div>
         </div>
     <footer class="post-footer">
           
@@ -613,7 +587,7 @@ _config.yml对格式要求严格，注意填写参数时的格式，添加完成
 
   
 
-  <script class="next-config" data-name="enableMath" type="application/json">false</script><script class="next-config" data-name="mathjax" type="application/json">{"enable":true,"tags":"none","js":{"url":"https://unpkg.com/mathjax@3.2.2/es5/tex-mml-chtml.js","integrity":"sha256-MASABpB4tYktI2Oitl4t+78w/lyA+D7b/s9GEP0JOGI="}}</script>
+  <script class="next-config" data-name="enableMath" type="application/json">false</script><script class="next-config" data-name="mathjax" type="application/json">{"enable":true,"tags":"none","js":{"url":"//cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.5/MathJax.js?config=TeX-MML-AM_CHTML"}}</script>
 <script src="/js/third-party/math/mathjax.js"></script>
 
 

@@ -395,19 +395,21 @@ var ap = new APlayer({
     
     
     <div class="post-body" itemprop="articleBody">
-        <p><img data-src="/images/covers/186.webp"></p>
+        <p><img data-src="/images/covers/186.webp" alt=""></p>
 <span id="more"></span>
-
 <hr>
 <p>C 盘的 Users 文件夹会占用大量空间，移动方法如下：</p>
 <p>进入 WinPE，打开命令提示符输入如下指令：</p>
 <figure class="highlight dos"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br></pre></td><td class="code"><pre><span class="line"><span class="built_in">path</span> &quot;C:\Windows\System32&quot;</span><br><span class="line">robocopy &quot;C:\Users&quot; &quot;D:\Users&quot; /E /COPYALL /XJ /XD WindowsApps</span><br><span class="line"><span class="built_in">rmdir</span> &quot;C:\Users&quot; /S /Q</span><br><span class="line">mklink /J &quot;C:\Users&quot; &quot;D:\Users&quot;</span><br></pre></td></tr></table></figure>
-
 <p>建议新装系统时移动，经测试新系统不会出问题。</p>
 <p>无 WinPE 方案：<a href="https://tieba.baidu.com/p/5789656736">Win10如何整体移动用户文件夹</a></p>
 <br />
-
-<p><strong>参考资料</strong><br><a href="https://blog.csdn.net/10km/article/details/90738267">Win7/Win10移动用户文件夹(C:\Users)移到非系统盘(如D:)</a><br><a href="https://blog.csdn.net/sean908/article/details/104475960">记一次 Win 10 下的用户文件夹迁移</a><br><a href="https://blog.csdn.net/CrowNAir/article/details/78533051">教程：Win10移动User文件夹到其他位置（多图）</a></p>
+<p><strong>参考资料</strong><br>
+<a href="https://blog.csdn.net/10km/article/details/90738267">Win7/Win10移动用户文件夹(C:\Users)移到非系统盘(如D:)</a><br>
+<a href="https://blog.csdn.net/sean908/article/details/104475960">记一次 Win 10 下的用户文件夹迁移</a><br>
+<a href="https://blog.csdn.net/CrowNAir/article/details/78533051">教程：Win10移动User文件夹到其他位置（多图）</a></p>
+<link rel="stylesheet" href="//cdn.jsdelivr.net/npm/katex/dist/katex.min.css">
+<link rel="stylesheet" href="//cdn.jsdelivr.net/npm/markdown-it-texmath/css/texmath.min.css">
 
     </div>
 
@@ -415,41 +417,6 @@ var ap = new APlayer({
     
     
         <div class="pjax">
-        <div class="sidebar-inner sidebar-post-related">
-          <div class="animated">
-              <div class="links-of-blogroll-title"><i class="fa fa-signs-post fa-fw"></i>
-    相关推荐
-  </div>
-  <ul class="popular-posts">
-    <li class="popular-posts-item">
-      <a class="popular-posts-link" href="/galleries/" rel="bookmark">
-      图床小站收录
-      </a>
-    </li>
-    <li class="popular-posts-item">
-      <a class="popular-posts-link" href="/edge-custom-search-engines-sync/" rel="bookmark">
-      同步 Edge 浏览器“自定义搜索引擎”的方法
-      </a>
-    </li>
-    <li class="popular-posts-item">
-      <a class="popular-posts-link" href="/mklink/" rel="bookmark">
-      使用 mklink 指令释放 C 盘空间
-      </a>
-    </li>
-    <li class="popular-posts-item">
-      <a class="popular-posts-link" href="/chrome-https/" rel="bookmark">
-      Chrome 强制使用 HTTPS
-      </a>
-    </li>
-    <li class="popular-posts-item">
-      <a class="popular-posts-link" href="/mircrosoft-store/" rel="bookmark">
-      Microsoft Store 网络问题解决
-      </a>
-    </li>
-  </ul>
-
-          </div>
-        </div>
         </div>
     <footer class="post-footer">
           
@@ -595,7 +562,7 @@ var ap = new APlayer({
 
   
 
-  <script class="next-config" data-name="enableMath" type="application/json">false</script><script class="next-config" data-name="mathjax" type="application/json">{"enable":true,"tags":"none","js":{"url":"https://unpkg.com/mathjax@3.2.2/es5/tex-mml-chtml.js","integrity":"sha256-MASABpB4tYktI2Oitl4t+78w/lyA+D7b/s9GEP0JOGI="}}</script>
+  <script class="next-config" data-name="enableMath" type="application/json">false</script><script class="next-config" data-name="mathjax" type="application/json">{"enable":true,"tags":"none","js":{"url":"//cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.5/MathJax.js?config=TeX-MML-AM_CHTML"}}</script>
 <script src="/js/third-party/math/mathjax.js"></script>
 
 

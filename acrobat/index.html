@@ -394,16 +394,16 @@ var ap = new APlayer({
     
     
     <div class="post-body" itemprop="articleBody">
-        <p><img data-src="/images/covers/240.webp"></p>
+        <p><img data-src="/images/covers/240.webp" alt=""></p>
 <span id="more"></span>
-
 <hr>
 <p>编辑 XML 文件“Adob​​e/Acrobat Reader DC/Reader/AcroApp/CHS/Viewer.aapp”</p>
 <p>删除已有代码并粘贴以下内容：</p>
 <figure class="highlight xml"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br></pre></td><td class="code"><pre><span class="line"><span class="tag">&lt;<span class="name">Application</span> <span class="attr">xmlns</span>=<span class="string">&quot;http://ns.adobe.com/acrobat/app/2014&quot;</span> <span class="attr">title</span>=<span class="string">&quot;Viewer&quot;</span> <span class="attr">id</span>=<span class="string">&quot;Viewer&quot;</span> <span class="attr">majorVersion</span>=<span class="string">&quot;1&quot;</span> <span class="attr">requiresDoc</span>=<span class="string">&quot;true&quot;</span> <span class="attr">minorVersion</span>=<span class="string">&quot;0&quot;</span>&gt;</span></span><br><span class="line"><span class="tag">&lt;/<span class="name">Application</span>&gt;</span></span><br></pre></td></tr></table></figure>
-
 <p>该方法无功能缺失，无潜在崩溃因素。</p>
 <p>15.008.20082 以后版本（2015年7月14日）可在［编辑-首选项-文档］中关闭工具栏。</p>
+<link rel="stylesheet" href="//cdn.jsdelivr.net/npm/katex/dist/katex.min.css">
+<link rel="stylesheet" href="//cdn.jsdelivr.net/npm/markdown-it-texmath/css/texmath.min.css">
 
     </div>
 
@@ -411,21 +411,6 @@ var ap = new APlayer({
     
     
         <div class="pjax">
-        <div class="sidebar-inner sidebar-post-related">
-          <div class="animated">
-              <div class="links-of-blogroll-title"><i class="fa fa-signs-post fa-fw"></i>
-    相关推荐
-  </div>
-  <ul class="popular-posts">
-    <li class="popular-posts-item">
-      <a class="popular-posts-link" href="/installed-necessary/" rel="bookmark">
-      自用 Windows 软件推荐
-      </a>
-    </li>
-  </ul>
-
-          </div>
-        </div>
         </div>
     <footer class="post-footer">
           
@@ -571,7 +556,7 @@ var ap = new APlayer({
 
   
 
-  <script class="next-config" data-name="enableMath" type="application/json">false</script><script class="next-config" data-name="mathjax" type="application/json">{"enable":true,"tags":"none","js":{"url":"https://unpkg.com/mathjax@3.2.2/es5/tex-mml-chtml.js","integrity":"sha256-MASABpB4tYktI2Oitl4t+78w/lyA+D7b/s9GEP0JOGI="}}</script>
+  <script class="next-config" data-name="enableMath" type="application/json">false</script><script class="next-config" data-name="mathjax" type="application/json">{"enable":true,"tags":"none","js":{"url":"//cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.5/MathJax.js?config=TeX-MML-AM_CHTML"}}</script>
 <script src="/js/third-party/math/mathjax.js"></script>
 
 
