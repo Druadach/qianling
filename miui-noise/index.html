@@ -28,7 +28,7 @@
 <meta property="og:site_name" content="千灵">
 <meta property="og:locale" content="zh_CN">
 <meta property="og:image" content="https://qianling.pw/images/covers/124.webp">
-<meta property="og:image" content="https://qianling.pw/miui-noise/miui-noise.webp">
+<meta property="og:image" content="https://qianling.pw/images/posts/miui-noise/miui-noise.webp">
 <meta property="article:published_time" content="2018-03-30T05:47:07.000Z">
 <meta property="article:modified_time" content="2018-08-11T16:00:00.000Z">
 <meta property="article:author" content="千灵夙赋">
@@ -204,7 +204,7 @@ if( !/Android|webOS|iPhone|iPod|iPad|BlackBerry/i.test(navigator.userAgent)){
       <div class="sidebar-panel-container">
         <!--noindex-->
         <div class="post-toc-wrap sidebar-panel">
-            <div class="post-toc animated"><ol class="nav"><li class="nav-item nav-level-1"><a class="nav-link" href="#%E9%9C%80%E6%B1%82%E6%8F%8F%E8%BF%B0"><span class="nav-text">需求描述</span></a></li><li class="nav-item nav-level-1"><a class="nav-link" href="#%E5%8F%82%E6%95%B0"><span class="nav-text">参数</span></a></li><li class="nav-item nav-level-1"><a class="nav-link" href="#%E5%AE%9E%E7%8E%B0%E6%80%9D%E8%B7%AF"><span class="nav-text">实现思路</span></a></li><li class="nav-item nav-level-1"><a class="nav-link" href="#%E5%AE%9E%E7%8E%B0%E8%BF%87%E7%A8%8B"><span class="nav-text">实现过程</span></a></li><li class="nav-item nav-level-1"><a class="nav-link" href="#%E5%8F%82%E8%80%83"><span class="nav-text">参考</span></a></li></ol></div>
+            <div class="post-toc animated"><ol class="nav"><li class="nav-item nav-level-1"><a class="nav-link" href="#%E9%9C%80%E6%B1%82%E6%8F%8F%E8%BF%B0"><span class="nav-text"> 需求描述</span></a></li><li class="nav-item nav-level-1"><a class="nav-link" href="#%E5%8F%82%E6%95%B0"><span class="nav-text"> 参数</span></a></li><li class="nav-item nav-level-1"><a class="nav-link" href="#%E5%AE%9E%E7%8E%B0%E6%80%9D%E8%B7%AF"><span class="nav-text"> 实现思路</span></a></li><li class="nav-item nav-level-1"><a class="nav-link" href="#%E5%AE%9E%E7%8E%B0%E8%BF%87%E7%A8%8B"><span class="nav-text"> 实现过程</span></a></li><li class="nav-item nav-level-1"><a class="nav-link" href="#%E5%8F%82%E8%80%83"><span class="nav-text"> 参考</span></a></li></ol></div>
         </div>
         <!--/noindex-->
 
@@ -403,35 +403,42 @@ var ap = new APlayer({
     
     
     <div class="post-body" itemprop="articleBody">
-        <p><img data-src="/images/covers/124.webp"></p>
+        <p><img data-src="/images/covers/124.webp" alt="" /></p>
 <span id="more"></span>
-
-<hr>
-<h1 id="需求描述"><a href="#需求描述" class="headerlink" title="需求描述"></a>需求描述</h1><p>似乎小米手机普遍存在底噪问题</p>
-<p>本以为是<code>VSD 2S</code>的灵敏度有点儿高，谁知<code>AH-MM400</code>人声也有底噪，录音的时候受不了了…<br><br /></p>
-<h1 id="参数"><a href="#参数" class="headerlink" title="参数"></a>参数</h1><p>　<br>手机型号 MI 5<br>MIUI 版本 9.8.3.27<br>Android 版本 8.0.0<br><br /></p>
-<h1 id="实现思路"><a href="#实现思路" class="headerlink" title="实现思路"></a>实现思路</h1><p>参考 MIUI 国际版 mixer_paths_tasha.xml 文件中控制耳机口的代码，添加至当前版本文件中</p>
+<hr />
+<h1 id="需求描述"><a class="markdownIt-Anchor" href="#需求描述"></a> 需求描述</h1>
+<p>似乎小米手机普遍存在底噪问题</p>
+<p>本以为是<code>VSD 2S</code>的灵敏度有点儿高，谁知<code>AH-MM400</code>人声也有底噪，录音的时候受不了了…<br />
+<br /></p>
+<h1 id="参数"><a class="markdownIt-Anchor" href="#参数"></a> 参数</h1>
+<p>手机型号 MI 5<br />
+MIUI 版本 9.8.3.27<br />
+Android 版本 8.0.0<br />
+<br /></p>
+<h1 id="实现思路"><a class="markdownIt-Anchor" href="#实现思路"></a> 实现思路</h1>
+<p>参考 MIUI 国际版 mixer_paths_tasha.xml 文件中控制耳机口的代码，添加至当前版本文件中</p>
 <p>Google 启动了 Treble 计划，对 system 分区和 vendor 分区进行严格的分离，相关文件移动至了 vendor 分区</p>
-<p>Android O 路径变为：<code>/system/vendor/etc</code><br><br /></p>
-<h1 id="实现过程"><a href="#实现过程" class="headerlink" title="实现过程"></a>实现过程</h1><p><strong>请使用支持搜索的文本编辑器</strong></p>
+<p>Android O 路径变为：<code>/system/vendor/etc</code><br />
+<br /></p>
+<h1 id="实现过程"><a class="markdownIt-Anchor" href="#实现过程"></a> 实现过程</h1>
+<p><strong>请使用支持搜索的文本编辑器</strong></p>
 <p>取得完整 <strong>root</strong> 权限后</p>
 <p><span style="color:#3a87ad;font-weight:600">打开　</span><code>/system/vendor/etc/mixer_paths_tasha.xml</code></p>
 <p><span style="color:#3a87ad;font-weight:600">查找</span>　<code>&lt;path name=&quot;headphones&quot;&gt;</code></p>
 <p><span style="color:#3a87ad;font-weight:600">在<code>&lt;/path&gt;</code>前添加</span></p>
 <figure class="highlight xml"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br></pre></td><td class="code"><pre><span class="line"><span class="tag">&lt;<span class="name">ctl</span> <span class="attr">name</span>=<span class="string">&quot;COMP1 Switch&quot;</span> <span class="attr">value</span>=<span class="string">&quot;0&quot;</span> /&gt;</span> </span><br><span class="line"><span class="tag">&lt;<span class="name">ctl</span> <span class="attr">name</span>=<span class="string">&quot;COMP2 Switch&quot;</span> <span class="attr">value</span>=<span class="string">&quot;0&quot;</span> /&gt;</span> </span><br><span class="line"><span class="tag">&lt;<span class="name">ctl</span> <span class="attr">name</span>=<span class="string">&quot;HPHL Volume&quot;</span> <span class="attr">value</span>=<span class="string">&quot;11&quot;</span> /&gt;</span> </span><br><span class="line"><span class="tag">&lt;<span class="name">ctl</span> <span class="attr">name</span>=<span class="string">&quot;HPHR Volume&quot;</span> <span class="attr">value</span>=<span class="string">&quot;11&quot;</span> /&gt;</span></span><br></pre></td></tr></table></figure>
-
 <p><span style="color:#3a87ad;font-weight:600">查找</span>　<code>&lt;path name=&quot;headphones-44.1&quot;&gt;</code></p>
 <p><span style="color:#3a87ad;font-weight:600">在<code>&lt;/path&gt;</code>前添加</span></p>
 <figure class="highlight xml"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br></pre></td><td class="code"><pre><span class="line"><span class="tag">&lt;<span class="name">ctl</span> <span class="attr">name</span>=<span class="string">&quot;COMP1 Switch&quot;</span> <span class="attr">value</span>=<span class="string">&quot;0&quot;</span> /&gt;</span> </span><br><span class="line"><span class="tag">&lt;<span class="name">ctl</span> <span class="attr">name</span>=<span class="string">&quot;COMP2 Switch&quot;</span> <span class="attr">value</span>=<span class="string">&quot;0&quot;</span> /&gt;</span> </span><br><span class="line"><span class="tag">&lt;<span class="name">ctl</span> <span class="attr">name</span>=<span class="string">&quot;HPHL Volume&quot;</span> <span class="attr">value</span>=<span class="string">&quot;11&quot;</span> /&gt;</span> </span><br><span class="line"><span class="tag">&lt;<span class="name">ctl</span> <span class="attr">name</span>=<span class="string">&quot;HPHR Volume&quot;</span> <span class="attr">value</span>=<span class="string">&quot;11&quot;</span> /&gt;</span></span><br></pre></td></tr></table></figure>
-
 <p><span style="color:#3a87ad;font-weight:600">保存并修改权限 rw-r–r–</span></p>
-<p><img data-src="/miui-noise/miui-noise.webp"></p>
+<p><img data-src="/images/posts/miui-noise/miui-noise.webp" alt="" /></p>
 <p>你也可以直接下载现成的文件，但可能会因不兼容而声音变小　<a href="https://pan.baidu.com/s/1oWivs7UXSDUW0XGzjNxIRw/">mixer_paths_tasha.xml</a></p>
 <p><span style="color:#3a87ad;font-weight:600">替换至　</span><code>/system/vendor/etc/mixer_paths_tasha.xml</code>（Android O+）</p>
-<p><span style="color:#3a87ad;font-weight:600">或　</span><code>/system/etc/mixer_paths_tasha.xml</code>（Android N-）<br><br /></p>
-<h1 id="参考"><a href="#参考" class="headerlink" title="参考"></a>参考</h1><p><a href="https://www.coolapk.com/feed/4455814/">酷安原文：</a></p>
+<p><span style="color:#3a87ad;font-weight:600">或　</span><code>/system/etc/mixer_paths_tasha.xml</code>（Android N-）<br />
+<br /></p>
+<h1 id="参考"><a class="markdownIt-Anchor" href="#参考"></a> 参考</h1>
+<p><a href="https://www.coolapk.com/feed/4455814/">酷安原文：</a></p>
 <figure class="highlight plaintext"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br><span class="line">7</span><br><span class="line">8</span><br><span class="line">9</span><br><span class="line">10</span><br><span class="line">11</span><br><span class="line">12</span><br><span class="line">13</span><br><span class="line">14</span><br><span class="line">15</span><br><span class="line">16</span><br><span class="line">17</span><br><span class="line">18</span><br><span class="line">19</span><br><span class="line">20</span><br><span class="line">21</span><br><span class="line">22</span><br><span class="line">23</span><br><span class="line">24</span><br><span class="line">25</span><br><span class="line">26</span><br><span class="line">27</span><br><span class="line">28</span><br><span class="line">29</span><br><span class="line">30</span><br><span class="line">31</span><br><span class="line">32</span><br><span class="line">33</span><br></pre></td><td class="code"><pre><span class="line">Fan1ess</span><br><span class="line">2017-10-21</span><br><span class="line">【小米5刷类原生后底噪大解决方法2.0】</span><br><span class="line">已测试，游戏、通话声音正常</span><br><span class="line">只想看解决方法的可直接拉到底↓↓↓</span><br><span class="line"></span><br><span class="line">大约一周前我分享了小米5底噪大的解决方法(可看我之前的动态)，但这个解决办法并不完美，只解决了听歌时的底噪问题，同时简单粗暴的文件替换还导致了游戏和通话时耳机没有声音，严重影响了日常使用。</span><br><span class="line">之后我在贴吧原帖中看到了有不替换文件、只添加相关代码的方案，不过当时不到周末没有时间，一直没有进行尝试。</span><br><span class="line">终于到了周末，今天下午按照原帖中的方法提取了官方MIUI和Mokee的mixer_paths_tasha.xml文件进行对比。按照原帖中楼主所说，应该是只有8行代码不同，但我对比的结果却是十几处一百多行的不同。#(阴险)</span><br><span class="line">图一是原帖中楼主发出的对比图(注意图中被选中的代码)，图二是我提取的文件对应处的情况，可以看到我提取的两个mixer_paths_tasha.xml文件在此处并没有不同，而是都没有图一中4行代码。</span><br><span class="line">再看原帖，发现楼主用的是老版本的MIUI，对比的是稍早的国际版，而我是最新的(20171019)国际版与类原生相比，所以差异较大。</span><br><span class="line">此时问题的解决陷入了僵局[w思考]，不过经过我的一番分析，认为还是不能替换文件，只能在原文件的基础上修改，以减小影响。至于怎么修改，我参考原帖楼主指出的控制耳机孔声音的8行代码，直接将它们复制到类原生中提取的mixer_paths_tasha.xml文件的对应位置，然后保存替换重启，最终成功解决。</span><br><span class="line"></span><br><span class="line">【解决方法】</span><br><span class="line">*****************************************</span><br><span class="line">贴吧原帖：http://tieba.baidu.com/p/5302897446?pn=0&amp;&amp;red_tag=b3310793627</span><br><span class="line"></span><br><span class="line">找到/system/etc/mixer_paths_tasha.xml这个文件（图三）复制出来</span><br><span class="line">找到合适的XML编辑器打开，在两个对应位置各加上4行代码(图四图五)</span><br><span class="line">代码如下：</span><br><span class="line"></span><br><span class="line">&lt;ctl name=&quot;COMP1 Switch&quot; value=&quot;0&quot; /&gt; </span><br><span class="line">&lt;ctl name=&quot;COMP2 Switch&quot; value=&quot;0&quot; /&gt; </span><br><span class="line">&lt;ctl name=&quot;HPHL Volume&quot; value=&quot;11&quot; /&gt; </span><br><span class="line">&lt;ctl name=&quot;HPHR Volume&quot; value=&quot;11&quot; /&gt;</span><br><span class="line"></span><br><span class="line">修改完后保存，再替换原来的文件，重启即可摆脱底噪。</span><br><span class="line">经测试，网易云/bilibili均正常，耳机通话正常，游戏只测试了碧蓝航线，正常。</span><br><span class="line">!!!!!! WARNING!!!!!!</span><br><span class="line"></span><br><span class="line">此方法我只在刷了魔趣的小米5测试过，刷了其他类原生(7.1.2)的小米5应该通用，其他小米机型可自行摸索尝试(后果自负)，非小米机型最好不要作死。</span><br><span class="line"></span><br><span class="line">最后，@茶杯 @梨子 @八百标兵 @酷安小编 @侧脸君 ，求PY#(滑稽)</span><br></pre></td></tr></table></figure>
-
 
     </div>
 

@@ -22,28 +22,28 @@
 
 <script class="next-config" data-name="main" type="application/json">{"hostname":"qianling.pw","root":"/","images":"/images","scheme":"Muse","darkmode":false,"version":"8.14.0","exturl":false,"sidebar":{"position":"right","display":"hide","padding":18,"offset":12},"copycode":{"enable":true,"style":"flat"},"bookmark":{"enable":false,"color":"#222","save":"auto"},"mediumzoom":false,"lazyload":true,"pangu":false,"comments":{"style":"tabs","active":"valine","storage":true,"lazyload":false,"nav":null,"activeClass":"valine"},"stickytabs":false,"motion":{"enable":true,"async":true,"transition":{"menu_item":"fadeIn","post_block":"fadeIn","post_header":"fadeInDown","post_body":"fadeIn","coll_header":"fadeInLeft","sidebar":"fadeInUp"}},"prism":false,"i18n":{"placeholder":"搜索...","empty":"没有找到任何搜索结果：${query}","hits_time":"找到 ${hits} 个搜索结果（用时 ${time} 毫秒）","hits":"找到 ${hits} 个搜索结果"},"path":"/search.xml","localsearch":{"enable":true,"trigger":"auto","top_n_per_article":1,"unescape":false,"preload":true}}</script><script src="/js/config.js"></script>
 
-    <meta name="description" content="本文参考自：睡眠后风扇还在转，鼠标一动就亮屏？电脑只能s0睡眠，不能s3睡眠怎么办？固件bios不支持s3睡眠?RedmiG 高级BIOS（看这篇文章就够了）作者 @蛋壳 所用型号为 Redmi G 2021 锐龙版。本文机型虽不同，但使用作者提供的高级 BIOS 引导包同样操作成功，推测 RedmiBook 锐龙版均可通用，在此重述步骤并补充部分注意事项。">
+    <meta name="description" content="本文参考自：睡眠后风扇还在转，鼠标一动就亮屏？电脑只能s0睡眠，不能s3睡眠怎么办？固件bios不支持s3睡眠?RedmiG 高级BIOS（看这篇文章就够了） 作者 @蛋壳 所用型号为 Redmi G 2021 锐龙版。 本文机型虽不同，但使用作者提供的高级 BIOS 引导包同样操作成功，推测 RedmiBook 锐龙版均可通用，在此重述步骤并补充部分注意事项。">
 <meta property="og:type" content="article">
 <meta property="og:title" content="RedmiBook（AMD）解锁高级 BIOS 启用 S3 睡眠方法">
 <meta property="og:url" content="https://qianling.pw/redmibook-s3-enable/index.html">
 <meta property="og:site_name" content="千灵">
-<meta property="og:description" content="本文参考自：睡眠后风扇还在转，鼠标一动就亮屏？电脑只能s0睡眠，不能s3睡眠怎么办？固件bios不支持s3睡眠?RedmiG 高级BIOS（看这篇文章就够了）作者 @蛋壳 所用型号为 Redmi G 2021 锐龙版。本文机型虽不同，但使用作者提供的高级 BIOS 引导包同样操作成功，推测 RedmiBook 锐龙版均可通用，在此重述步骤并补充部分注意事项。">
+<meta property="og:description" content="本文参考自：睡眠后风扇还在转，鼠标一动就亮屏？电脑只能s0睡眠，不能s3睡眠怎么办？固件bios不支持s3睡眠?RedmiG 高级BIOS（看这篇文章就够了） 作者 @蛋壳 所用型号为 Redmi G 2021 锐龙版。 本文机型虽不同，但使用作者提供的高级 BIOS 引导包同样操作成功，推测 RedmiBook 锐龙版均可通用，在此重述步骤并补充部分注意事项。">
 <meta property="og:locale" content="zh_CN">
 <meta property="og:image" content="https://qianling.pw/images/covers/267.webp">
-<meta property="og:image" content="https://qianling.pw/redmibook-s3-enable/redmibook-s3-enable-8.webp">
-<meta property="og:image" content="https://qianling.pw/redmibook-s3-enable/redmibook-s3-enable-1.webp">
-<meta property="og:image" content="https://qianling.pw/redmibook-s3-enable/redmibook-s3-enable-2.webp">
-<meta property="og:image" content="https://qianling.pw/redmibook-s3-enable/redmibook-s3-enable-3.webp">
-<meta property="og:image" content="https://qianling.pw/redmibook-s3-enable/redmibook-s3-enable-4.webp">
-<meta property="og:image" content="https://qianling.pw/redmibook-s3-enable/redmibook-s3-enable-5.webp">
-<meta property="og:image" content="https://qianling.pw/redmibook-s3-enable/redmibook-s3-enable-6.webp">
-<meta property="og:image" content="https://qianling.pw/redmibook-s3-enable/redmibook-s3-enable-9.webp">
-<meta property="og:image" content="https://qianling.pw/redmibook-s3-enable/redmibook-s3-enable-7.webp">
-<meta property="og:image" content="https://qianling.pw/redmibook-s3-enable/redmibook-s3-enable-10.webp">
-<meta property="og:image" content="https://qianling.pw/redmibook-s3-enable/redmibook-s3-enable-14.webp">
-<meta property="og:image" content="https://qianling.pw/redmibook-s3-enable/redmibook-s3-enable-13.webp">
-<meta property="og:image" content="https://qianling.pw/redmibook-s3-enable/redmibook-s3-enable-12.webp">
-<meta property="og:image" content="https://qianling.pw/redmibook-s3-enable/redmibook-s3-enable-11.webp">
+<meta property="og:image" content="https://qianling.pw/images/posts/redmibook-s3-enable/redmibook-s3-enable-8.webp">
+<meta property="og:image" content="https://qianling.pw/images/posts/redmibook-s3-enable/redmibook-s3-enable-1.webp">
+<meta property="og:image" content="https://qianling.pw/images/posts/redmibook-s3-enable/redmibook-s3-enable-2.webp">
+<meta property="og:image" content="https://qianling.pw/images/posts/redmibook-s3-enable/redmibook-s3-enable-3.webp">
+<meta property="og:image" content="https://qianling.pw/images/posts/redmibook-s3-enable/redmibook-s3-enable-4.webp">
+<meta property="og:image" content="https://qianling.pw/images/posts/redmibook-s3-enable/redmibook-s3-enable-5.webp">
+<meta property="og:image" content="https://qianling.pw/images/posts/redmibook-s3-enable/redmibook-s3-enable-6.webp">
+<meta property="og:image" content="https://qianling.pw/images/posts/redmibook-s3-enable/redmibook-s3-enable-9.webp">
+<meta property="og:image" content="https://qianling.pw/images/posts/redmibook-s3-enable/redmibook-s3-enable-7.webp">
+<meta property="og:image" content="https://qianling.pw/images/posts/redmibook-s3-enable/redmibook-s3-enable-10.webp">
+<meta property="og:image" content="https://qianling.pw/images/posts/redmibook-s3-enable/redmibook-s3-enable-14.webp">
+<meta property="og:image" content="https://qianling.pw/images/posts/redmibook-s3-enable/redmibook-s3-enable-13.webp">
+<meta property="og:image" content="https://qianling.pw/images/posts/redmibook-s3-enable/redmibook-s3-enable-12.webp">
+<meta property="og:image" content="https://qianling.pw/images/posts/redmibook-s3-enable/redmibook-s3-enable-11.webp">
 <meta property="article:published_time" content="2022-12-24T11:11:46.000Z">
 <meta property="article:modified_time" content="2022-12-24T15:25:48.000Z">
 <meta property="article:author" content="千灵夙赋">
@@ -220,7 +220,7 @@ if( !/Android|webOS|iPhone|iPod|iPad|BlackBerry/i.test(navigator.userAgent)){
       <div class="sidebar-panel-container">
         <!--noindex-->
         <div class="post-toc-wrap sidebar-panel">
-            <div class="post-toc animated"><ol class="nav"><li class="nav-item nav-level-1"><a class="nav-link" href="#%E7%9D%A1%E7%9C%A0%E7%B1%BB%E5%9E%8B%E7%A7%91%E6%99%AE"><span class="nav-text">睡眠类型科普</span></a></li><li class="nav-item nav-level-1"><a class="nav-link" href="#%E6%93%8D%E4%BD%9C%E7%8E%AF%E5%A2%83"><span class="nav-text">操作环境</span></a></li><li class="nav-item nav-level-1"><a class="nav-link" href="#%E5%89%8D%E6%9C%9F%E5%87%86%E5%A4%87"><span class="nav-text">前期准备</span></a></li><li class="nav-item nav-level-1"><a class="nav-link" href="#%E6%93%8D%E4%BD%9C%E6%AD%A5%E9%AA%A4"><span class="nav-text">操作步骤</span></a></li><li class="nav-item nav-level-1"><a class="nav-link" href="#%E5%BD%A9%E8%9B%8B"><span class="nav-text">彩蛋</span></a></li></ol></div>
+            <div class="post-toc animated"><ol class="nav"><li class="nav-item nav-level-1"><a class="nav-link" href="#%E7%9D%A1%E7%9C%A0%E7%B1%BB%E5%9E%8B%E7%A7%91%E6%99%AE"><span class="nav-text"> 睡眠类型科普</span></a></li><li class="nav-item nav-level-1"><a class="nav-link" href="#%E6%93%8D%E4%BD%9C%E7%8E%AF%E5%A2%83"><span class="nav-text"> 操作环境</span></a></li><li class="nav-item nav-level-1"><a class="nav-link" href="#%E5%89%8D%E6%9C%9F%E5%87%86%E5%A4%87"><span class="nav-text"> 前期准备</span></a></li><li class="nav-item nav-level-1"><a class="nav-link" href="#%E6%93%8D%E4%BD%9C%E6%AD%A5%E9%AA%A4"><span class="nav-text"> 操作步骤</span></a></li><li class="nav-item nav-level-1"><a class="nav-link" href="#%E5%BD%A9%E8%9B%8B"><span class="nav-text"> 彩蛋</span></a></li></ol></div>
         </div>
         <!--/noindex-->
 
@@ -413,13 +413,15 @@ var ap = new APlayer({
     
     
     <div class="post-body" itemprop="articleBody">
-        <p><img data-src="/images/covers/267.webp"></p>
-<hr>
-<p><strong><center>本文参考自：<a href="https://zhuanlan.zhihu.com/p/587609347">睡眠后风扇还在转，鼠标一动就亮屏？电脑只能s0睡眠，不能s3睡眠怎么办？固件bios不支持s3睡眠?RedmiG 高级BIOS（看这篇文章就够了）</a><br>作者 @蛋壳 所用型号为 Redmi G 2021 锐龙版。<br>本文机型虽不同，但使用作者提供的高级 BIOS 引导包同样操作成功，推测 RedmiBook 锐龙版均可通用，在此重述步骤并补充部分注意事项。</center></strong></p>
+        <p><img data-src="/images/covers/267.webp" alt="" /></p>
+<hr />
+<p><strong><center>本文参考自：<a href="https://zhuanlan.zhihu.com/p/587609347">睡眠后风扇还在转，鼠标一动就亮屏？电脑只能s0睡眠，不能s3睡眠怎么办？固件bios不支持s3睡眠?RedmiG 高级BIOS（看这篇文章就够了）</a><br />
+作者 @蛋壳 所用型号为 Redmi G 2021 锐龙版。<br />
+本文机型虽不同，但使用作者提供的高级 BIOS 引导包同样操作成功，推测 RedmiBook 锐龙版均可通用，在此重述步骤并补充部分注意事项。</center></strong></p>
 <span id="more"></span>
-
-<hr>
-<h1 id="睡眠类型科普"><a href="#睡眠类型科普" class="headerlink" title="睡眠类型科普"></a>睡眠类型科普</h1><p>电脑的睡眠方式分为：</p>
+<hr />
+<h1 id="睡眠类型科普"><a class="markdownIt-Anchor" href="#睡眠类型科普"></a> 睡眠类型科普</h1>
+<p>电脑的睡眠方式分为：</p>
 <ul>
 <li>S0 低电量待机；</li>
 <li>S1 CPU 停止工作。唤醒时间：0 秒；</li>
@@ -432,42 +434,63 @@ var ap = new APlayer({
 <p>2019 年后生产的电脑，均已采用 S0 睡眠模式，且不支持注册表、组策略方式变更，只能在高级 BIOS 内变更，但大多数厂商均不提供高级 BIOS 解锁。</p>
 <p>S0 睡眠极度耗电且发热严重，相当于关闭屏幕待机，其他部件依然处于工作状态，如果您发现笔记本合盖后风扇依然转动、发热严重、耗电严重，那一定处于 S0 待机模式。</p>
 <p>本文提供了 RedmiBook 锐龙版的高级 BIOS 引导包，如果您使用的是其他厂商的电脑，且厂商未提供高级 BIOS 解锁方式，则无法更改设备睡眠模式，建议使用休眠替代（S4 睡眠）。</p>
-<h1 id="操作环境"><a href="#操作环境" class="headerlink" title="操作环境"></a>操作环境</h1><ul>
+<h1 id="操作环境"><a class="markdownIt-Anchor" href="#操作环境"></a> 操作环境</h1>
+<ul>
 <li>笔记本型号：RedmiBook Pro 15 2021 锐龙版</li>
 <li>处理器型号：AMD Ryzen 5 5600H</li>
 <li>系统版本：Windows 10 企业版 LTSC 21H2（19044.1381）</li>
 </ul>
-<h1 id="前期准备"><a href="#前期准备" class="headerlink" title="前期准备"></a>前期准备</h1><ul>
+<h1 id="前期准备"><a class="markdownIt-Anchor" href="#前期准备"></a> 前期准备</h1>
+<ul>
 <li>U 盘</li>
 <li><a href="http://o.qianling.pw/f/25078497-754561795-5f04ed?p=320860">RedmiBook（AMD）高级 BIOS.zip</a>（访问密码: 320860）</li>
 </ul>
-<h1 id="操作步骤"><a href="#操作步骤" class="headerlink" title="操作步骤"></a>操作步骤</h1><ol>
-<li>格式化 U 盘为 <code>FAT32</code> 文件系统；<br><img data-src="/redmibook-s3-enable/redmibook-s3-enable-8.webp">  </li>
+<h1 id="操作步骤"><a class="markdownIt-Anchor" href="#操作步骤"></a> 操作步骤</h1>
+<ol>
+<li>格式化 U 盘为 <code>FAT32</code> 文件系统；<br />
+<img data-src="/images/posts/redmibook-s3-enable/redmibook-s3-enable-8.webp" alt="" /></li>
 <li>解压 <code>RedmiBook（AMD）高级 BIOS.zip</code>；</li>
-<li>将解压获得的 4 个项目移动至 U 盘，如图所示；<br><img data-src="/redmibook-s3-enable/redmibook-s3-enable-1.webp">  </li>
+<li>将解压获得的 4 个项目移动至 U 盘，如图所示；<br />
+<img data-src="/images/posts/redmibook-s3-enable/redmibook-s3-enable-1.webp" alt="" /></li>
 <li>重启电脑，启动时按 F2 进入 BIOS；</li>
 <li>进入「安全菜单」，选择「设定管理员密码」，建议设为 <code>1</code>，方便后续输入；</li>
-<li>设置完密码后，将「安全启动模式」设为「关闭」；<br><img data-src="/redmibook-s3-enable/redmibook-s3-enable-2.webp"> </li>
-<li>进入「启动菜单」，按下 F5 调换启动设备顺序；<br><img data-src="/redmibook-s3-enable/redmibook-s3-enable-3.webp">  </li>
+<li>设置完密码后，将「安全启动模式」设为「关闭」；<br />
+<img data-src="/images/posts/redmibook-s3-enable/redmibook-s3-enable-2.webp" alt="" /></li>
+<li>进入「启动菜单」，按下 F5 调换启动设备顺序；<br />
+<img data-src="/images/posts/redmibook-s3-enable/redmibook-s3-enable-3.webp" alt="" /></li>
 <li>按下 F10 保存并退出 BIOS；</li>
 <li>等待自动重启，此时将自动进入高级 BIOS；</li>
-<li>将 <code>Select Language</code> 对应语言切换为 <code>English</code>，否则无法显示修改项；<br><img data-src="/redmibook-s3-enable/redmibook-s3-enable-4.webp">  </li>
+<li>将 <code>Select Language</code> 对应语言切换为 <code>English</code>，否则无法显示修改项；<br />
+<img data-src="/images/posts/redmibook-s3-enable/redmibook-s3-enable-4.webp" alt="" /></li>
 <li>进入 <code>Device Manager</code>；</li>
-<li>进入 <code>AMD PBS</code>；<br><img data-src="/redmibook-s3-enable/redmibook-s3-enable-5.webp">  </li>
-<li>将 <code>S3/Modern Standby Support</code> 设置为 <code>S3 Enable</code>；<br><img data-src="/redmibook-s3-enable/redmibook-s3-enable-6.webp">  </li>
+<li>进入 <code>AMD PBS</code>；<br />
+<img data-src="/images/posts/redmibook-s3-enable/redmibook-s3-enable-5.webp" alt="" /></li>
+<li>将 <code>S3/Modern Standby Support</code> 设置为 <code>S3 Enable</code>；<br />
+<img data-src="/images/posts/redmibook-s3-enable/redmibook-s3-enable-6.webp" alt="" /></li>
 <li>按下 Esc 并按下 Y 保存设置；</li>
 <li>再次按下 Esc 返回首页，将语言切换回中文；</li>
 <li>按下 Ctrl+Alt+Delete 重启；</li>
 <li>启动时按下 F2 再次进入 BIOS；</li>
 <li>进入「安全菜单」，将「安全启动模式」设为「关闭」；</li>
-<li>选择「设定管理员密码」，输入旧密码后，新密码及确认密码处留空回车即可删除管理员密码；<br><img data-src="/redmibook-s3-enable/redmibook-s3-enable-9.webp">  </li>
+<li>选择「设定管理员密码」，输入旧密码后，新密码及确认密码处留空回车即可删除管理员密码；<br />
+<img data-src="/images/posts/redmibook-s3-enable/redmibook-s3-enable-9.webp" alt="" /></li>
 <li>进入「启动菜单」，按下 F5 恢复启动设备顺序；</li>
 <li>按下 F10 保存并退出 BIOS；</li>
 <li>等待自动重启，开机后按下 Win+R，输入 cmd 打开命令提示符；</li>
-<li>输入 <code>powercfg -a</code> 查看已启用睡眠状态；<br><img data-src="/redmibook-s3-enable/redmibook-s3-enable-7.webp">  </li>
+<li>输入 <code>powercfg -a</code> 查看已启用睡眠状态；<br />
+<img data-src="/images/posts/redmibook-s3-enable/redmibook-s3-enable-7.webp" alt="" /></li>
 <li><code>待机（S3）</code>启用则代表修改成功。</li>
 </ol>
-<h1 id="彩蛋"><a href="#彩蛋" class="headerlink" title="彩蛋"></a>彩蛋</h1><p>出于未知原因，在高级 BIOS 内修改完毕后，启动菜单里出现了 5 个新启动项。<br><img data-src="/redmibook-s3-enable/redmibook-s3-enable-10.webp"><br>当选择 <code>UEFI Misc Device 3</code> 后，即使不插入 U 盘，也能进入 高级 BIOS，且 UI 变为 MIUI，支持鼠标操控。<br><img data-src="/redmibook-s3-enable/redmibook-s3-enable-14.webp"><br><img data-src="/redmibook-s3-enable/redmibook-s3-enable-13.webp"><br>选择 <code>UEFI Misc Device 5</code> 甚至能够进入 Redmi G BIOS 界面。<br><img data-src="/redmibook-s3-enable/redmibook-s3-enable-12.webp"><br>推测与高级 BIOS 内此项 <code>Reset</code> 有关，如想开启高级 BIOS 入口，可尝试 <code>Reset</code> 重置 BIOS。<br><img data-src="/redmibook-s3-enable/redmibook-s3-enable-11.webp">  </p>
+<h1 id="彩蛋"><a class="markdownIt-Anchor" href="#彩蛋"></a> 彩蛋</h1>
+<p>出于未知原因，在高级 BIOS 内修改完毕后，启动菜单里出现了 5 个新启动项。<br />
+<img data-src="/images/posts/redmibook-s3-enable/redmibook-s3-enable-10.webp" alt="" /><br />
+当选择 <code>UEFI Misc Device 3</code> 后，即使不插入 U 盘，也能进入 高级 BIOS，且 UI 变为 MIUI，支持鼠标操控。<br />
+<img data-src="/images/posts/redmibook-s3-enable/redmibook-s3-enable-14.webp" alt="" /><br />
+<img data-src="/images/posts/redmibook-s3-enable/redmibook-s3-enable-13.webp" alt="" /><br />
+选择 <code>UEFI Misc Device 5</code> 甚至能够进入 Redmi G BIOS 界面。<br />
+<img data-src="/images/posts/redmibook-s3-enable/redmibook-s3-enable-12.webp" alt="" /><br />
+推测与高级 BIOS 内此项 <code>Reset</code> 有关，如想开启高级 BIOS 入口，可尝试 <code>Reset</code> 重置 BIOS。<br />
+<img data-src="/images/posts/redmibook-s3-enable/redmibook-s3-enable-11.webp" alt="" /></p>
 
     </div>
 

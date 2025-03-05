@@ -28,7 +28,7 @@
 <meta property="og:site_name" content="千灵">
 <meta property="og:locale" content="zh_CN">
 <meta property="og:image" content="https://qianling.pw/images/covers/64.webp">
-<meta property="og:image" content="https://qianling.pw/chrome-https/chrome-https.webp">
+<meta property="og:image" content="https://qianling.pw/images/posts/chrome-https/chrome-https.webp">
 <meta property="article:published_time" content="2017-07-30T10:52:58.000Z">
 <meta property="article:modified_time" content="2017-07-30T10:52:58.000Z">
 <meta property="article:author" content="千灵夙赋">
@@ -395,16 +395,15 @@ var ap = new APlayer({
     
     
     <div class="post-body" itemprop="articleBody">
-        <p><img data-src="/images/covers/64.webp"></p>
+        <p><img data-src="/images/covers/64.webp" alt="" /></p>
 <span id="more"></span>
-
-<hr>
+<hr />
 <p>在使用 Hosts 访问某些网站的时候，通常必须使用 <code>HTTPS</code> 的方式才能正常打开，但某些时候这些网站内部还有 HTTP 的链接，需要手动修改，颇为麻烦，本文介绍一种在 Chrome 下自动转化 HTTP 为 HTTPS 的方法。</p>
 <p>在 Chrome 浏览器地址栏中输入 <code>chrome://net-internals/</code>，打开 HSTS 标签，在 <code>Add domain</code> 里的 <code>Domain</code> 输入要添加的域名地址（不带http的地址），点 Add 即可。</p>
 <p>其中 <code>Include subdomains</code> 选项还可以添加子域名，保证所有子域名都使用 HTTPS 访问。</p>
 <p>使用举例：</p>
 <p>使用 Google 的 https 搜索的时候，我们会发现搜索结果虽然可以显示，但是有时候结果网页快照却无法打开。这里的原因是网页快照结果链接往往使用的是 http 的方式打开，打开 Chrome，在地址栏输入 <code>chrome://net-internals/</code> 之后，在 HSTS 选项卡下的 <code>Domain</code> 中输入 <code>webcache.googleusercontent.com</code>，然后点击 Add 按钮，即可强制快照以 HTTPS 方式打开。</p>
-<p><img data-src="/chrome-https/chrome-https.webp"></p>
+<p><img data-src="/images/posts/chrome-https/chrome-https.webp" alt="" /></p>
 
     </div>
 

@@ -395,19 +395,19 @@ var ap = new APlayer({
     
     
     <div class="post-body" itemprop="articleBody">
-        <p><img data-src="/images/covers/186.webp"></p>
+        <p><img data-src="/images/covers/186.webp" alt="" /></p>
 <span id="more"></span>
-
-<hr>
+<hr />
 <p>C 盘的 Users 文件夹会占用大量空间，移动方法如下：</p>
 <p>进入 WinPE，打开命令提示符输入如下指令：</p>
 <figure class="highlight dos"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br></pre></td><td class="code"><pre><span class="line"><span class="built_in">path</span> &quot;C:\Windows\System32&quot;</span><br><span class="line">robocopy &quot;C:\Users&quot; &quot;D:\Users&quot; /E /COPYALL /XJ /XD WindowsApps</span><br><span class="line"><span class="built_in">rmdir</span> &quot;C:\Users&quot; /S /Q</span><br><span class="line">mklink /J &quot;C:\Users&quot; &quot;D:\Users&quot;</span><br></pre></td></tr></table></figure>
-
 <p>建议新装系统时移动，经测试新系统不会出问题。</p>
 <p>无 WinPE 方案：<a href="https://tieba.baidu.com/p/5789656736">Win10如何整体移动用户文件夹</a></p>
 <br />
-
-<p><strong>参考资料</strong><br><a href="https://blog.csdn.net/10km/article/details/90738267">Win7&#x2F;Win10移动用户文件夹(C:\Users)移到非系统盘(如D:)</a><br><a href="https://blog.csdn.net/sean908/article/details/104475960">记一次 Win 10 下的用户文件夹迁移</a><br><a href="https://blog.csdn.net/CrowNAir/article/details/78533051">教程：Win10移动User文件夹到其他位置（多图）</a></p>
+<p><strong>参考资料</strong><br />
+<a href="https://blog.csdn.net/10km/article/details/90738267">Win7/Win10移动用户文件夹(C:\Users)移到非系统盘(如D:)</a><br />
+<a href="https://blog.csdn.net/sean908/article/details/104475960">记一次 Win 10 下的用户文件夹迁移</a><br />
+<a href="https://blog.csdn.net/CrowNAir/article/details/78533051">教程：Win10移动User文件夹到其他位置（多图）</a></p>
 
     </div>
 

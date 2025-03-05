@@ -396,11 +396,11 @@ var ap = new APlayer({
     
     
     <div class="post-body" itemprop="articleBody">
-        <p><img data-src="/images/covers/174.webp"></p>
+        <p><img data-src="/images/covers/174.webp" alt="" /></p>
 <span id="more"></span>
-
-<hr>
-<p>使用场景：<br>很多软件无法更改安装目录、缓存目录，一股脑地堆到 C 盘，占着茅坑不拉屎，就可以使用这个命令转移软件目录。</p>
+<hr />
+<p>使用场景：<br />
+很多软件无法更改安装目录、缓存目录，一股脑地堆到 C 盘，占着茅坑不拉屎，就可以使用这个命令转移软件目录。</p>
 <p>命令参数：　<code>mklink 〔[/d] | [/h] | [/j]〕 &lt;Link&gt; &lt;Target&gt;</code></p>
 <table>
 <thead>
@@ -409,16 +409,17 @@ var ap = new APlayer({
 <th>描述</th>
 </tr>
 </thead>
-<tbody><tr>
-<td>&#x2F;d</td>
+<tbody>
+<tr>
+<td>/d</td>
 <td>创建目录符号链接。默认情况下，mklink会创建文件符号链接。</td>
 </tr>
 <tr>
-<td>&#x2F;h</td>
+<td>/h</td>
 <td>创建硬链接而不是符号链接。</td>
 </tr>
 <tr>
-<td>&#x2F;j</td>
+<td>/j</td>
 <td>创建目录连接。</td>
 </tr>
 <tr>
@@ -430,15 +431,20 @@ var ap = new APlayer({
 <td>指定新符号链接引用的路径（相对或绝对）。</td>
 </tr>
 <tr>
-<td>&#x2F;?</td>
+<td>/?</td>
 <td>在命令提示符下显示帮助。</td>
 </tr>
-</tbody></table>
-<p>使用方法：<br>①将欲转移的文件夹剪切到想存放的位置<br>②以管理员模式运行 cmd<br>③执行 <code>mklink /j &quot;原位置&quot; &quot;新位置&quot;</code></p>
-<p>例子：<br>iTunes 在寸土寸金的 SSD 里占用大量空间寸放固件，它的缓存目录在 <code>C:\Users\千灵\AppData\Roaming\AppleComputer</code>，想把这个文件夹转移到 D 盘，但直接剪切过去肯定行不通，应用程序会报错，所以得先把文件夹 <code>AppleComputer</code> 整个剪切到 D 盘，再执行命令：<br><code>mklink /j &quot;C:\Users\千灵\AppData\Roaming\AppleComputer&quot; &quot;D:\AppData\Roaming\AppleComputer&quot;</code></p>
+</tbody>
+</table>
+<p>使用方法：<br />
+①将欲转移的文件夹剪切到想存放的位置<br />
+②以管理员模式运行 cmd<br />
+③执行 <code>mklink /j &quot;原位置&quot; &quot;新位置&quot;</code></p>
+<p>例子：<br />
+iTunes 在寸土寸金的 SSD 里占用大量空间寸放固件，它的缓存目录在 <code>C:\Users\千灵\AppData\Roaming\AppleComputer</code>，想把这个文件夹转移到 D 盘，但直接剪切过去肯定行不通，应用程序会报错，所以得先把文件夹 <code>AppleComputer</code> 整个剪切到 D 盘，再执行命令：<br />
+<code>mklink /j &quot;C:\Users\千灵\AppData\Roaming\AppleComputer&quot; &quot;D:\AppData\Roaming\AppleComputer&quot;</code></p>
 <p>这样 C 盘下面就会多出一个带快捷方式图标的文件夹，表明它是链接目录，以上操作相当于把 C 盘的文件夹挪到了 D 盘，而 C 盘的目录只是一个链接目录，它就像一个实实在在有这个目录一样，程序不会发现链接目录与普通目录有什么不同，链接目录与原始目录的文件夹内容是一样的，如果你对任意一个文件夹的内容作出修改，那另一个也会相应改变，但磁盘空间使用量并没有改变，因为只是实现链接罢了，并不是将原文件复制以及同步，这是与一般的文件夹快捷方式最大的区别。</p>
 <br />
-
 <p>参考自：<a href="https://blog.csdn.net/stonelsl/article/details/86679916">mklink 文件夹链接 windows系统</a></p>
 
     </div>
