@@ -140,3 +140,22 @@ loadRandModel();
     return '这是你自 ' + access + ' 以来第 ' + i + ' 次在本站打开控制台';
   };
 })();
+
+$(document).on('click', '.waifu-close', function() {
+  window.clearInterval(window.hitokotoTimer);
+  var canvas = document.getElementById('live2d');
+  if (canvas) {
+    var gl = canvas.getContext('webgl') || canvas.getContext('webgl2');
+    if (gl) {
+      gl.getExtension('WEBGL_lose_context').loseContext();
+    }
+  }
+  $('#waifu').remove();
+  sessionStorage.setItem('waifu-hidden', 'true');
+});
+
+$(document).ready(function() {
+  if (sessionStorage.getItem('waifu-hidden') === 'true') {
+    $('#waifu').remove();
+  }
+});

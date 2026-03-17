@@ -2613,7 +2613,7 @@ mjx-container[display='true'] + br {
   vertical-align: middle;
 }
 .links-of-author a::before {
-  background: #e81b0a;
+  background: #1b676e;
   display: inline-block;
   margin-right: 3px;
   transform: translateY(-2px);
@@ -2658,6 +2658,61 @@ mjx-container[display='true'] + br {
     display: none;
   }
 }
+.bg-slider {
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  z-index: -1;
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+}
+.bg-slider-item {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+  opacity: 0;
+  animation: bgFade 480s infinite;
+}
+.bg-slider-item:nth-child(1) {
+  background-image: url("/images/background/background (1).webp");
+  animation-delay: 0s;
+}
+.bg-slider-item:nth-child(2) {
+  background-image: url("/images/background/background (2).webp");
+  animation-delay: 60s;
+}
+.bg-slider-item:nth-child(3) {
+  background-image: url("/images/background/background (3).webp");
+  animation-delay: 120s;
+}
+.bg-slider-item:nth-child(4) {
+  background-image: url("/images/background/background (4).webp");
+  animation-delay: 180s;
+}
+.bg-slider-item:nth-child(5) {
+  background-image: url("/images/background/background (5).webp");
+  animation-delay: 240s;
+}
+.bg-slider-item:nth-child(6) {
+  background-image: url("/images/background/background (6).webp");
+  animation-delay: 300s;
+}
+.bg-slider-item:nth-child(7) {
+  background-image: url("/images/background/background (7).webp");
+  animation-delay: 360s;
+}
+.bg-slider-item:nth-child(8) {
+  background-image: url("/images/background/background (8).webp");
+  animation-delay: 420s;
+}
 .post-meta,
 .post-sticky-flag,
 .menu,
@@ -2673,6 +2728,9 @@ ul {
   margin-left: -20px;
 }
 @media (max-width: 900px) {
+  .bg-slider {
+    display: none;
+  }
   #waifu {
     display: none;
   }
@@ -3347,7 +3405,7 @@ span.wp-star {
   .links-of-blogroll-title {
     color: #ccc;
   }
-  .backstretch {
+  .bg-slider {
     display: none;
   }
   .menu .menu-item a:hover,
@@ -3527,6 +3585,29 @@ span.wp-star {
   font-size: 0;
   transition: all 0.3s ease-in-out;
 }
+.waifu-close {
+  position: absolute;
+  right: 0;
+  top: 0;
+  width: 22px;
+  height: 22px;
+  line-height: 20px;
+  text-align: center;
+  font-size: 16px;
+  color: #fff;
+  background: rgba(0,0,0,0.3);
+  border-radius: 50%;
+  cursor: pointer;
+  z-index: 11;
+  transition: all 0.3s ease;
+  opacity: 0;
+}
+.waifu-close:hover {
+  background: rgba(255,0,0,0.6);
+}
+#waifu:hover .waifu-close {
+  opacity: 1;
+}
 .waifu-tips {
   opacity: 0;
   width: 200px;
@@ -3547,6 +3628,23 @@ span.wp-star {
   animation-iteration-count: infinite;
   animation-name: shake;
   animation-timing-function: ease-in-out;
+}
+@keyframes bgFade {
+  0% {
+    opacity: 0;
+  }
+  0.21% {
+    opacity: 1;
+  }
+  12.5% {
+    opacity: 1;
+  }
+  12.71% {
+    opacity: 0;
+  }
+  100% {
+    opacity: 0;
+  }
 }
 @keyframes shake {
   2% {
