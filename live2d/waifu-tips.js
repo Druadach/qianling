@@ -153,9 +153,3 @@ $(document).on('click', '.waifu-close', function() {
   $('#waifu').remove();
   sessionStorage.setItem('waifu-hidden', 'true');
 });
-
-$(document).ready(function() {
-  if (sessionStorage.getItem('waifu-hidden') === 'true') {
-    $('#waifu').remove();
-  }
-});
