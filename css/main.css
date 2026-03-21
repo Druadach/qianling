@@ -1282,7 +1282,7 @@ pre code {
   vertical-align: middle;
 }
 .links-of-author a::before {
-  background: #dda87d;
+  background: #3e114e;
   display: inline-block;
   margin-right: 3px;
   transform: translateY(-2px);
@@ -3979,17 +3979,17 @@ details > summary {
   0.01% {
     visibility: visible;
   }
-  0.20833333333333334% {
+  0.4166666666666667% {
     opacity: 1;
   }
   12.5% {
     opacity: 1;
   }
-  12.708333333333334% {
+  12.916666666666666% {
     opacity: 0;
     visibility: visible;
   }
-  12.718333333333334%, 100% {
+  12.926666666666666%, 100% {
     opacity: 0;
     visibility: hidden;
   }
