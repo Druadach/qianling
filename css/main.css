@@ -1282,7 +1282,7 @@ pre code {
   vertical-align: middle;
 }
 .links-of-author a::before {
-  background: #3e114e;
+  background: #0ad7ff;
   display: inline-block;
   margin-right: 3px;
   transform: translateY(-2px);
@@ -2882,7 +2882,7 @@ a {
   will-change: opacity, transform;
   opacity: 0;
   visibility: hidden;
-  animation: bgFade 480s infinite;
+  animation: bgFade 420s infinite;
   animation-play-state: paused;
 }
 .is-loaded .bg-slider-item {
@@ -2915,10 +2915,6 @@ a {
 .is-loaded .bg-slider-item:nth-child(7) {
   background-image: url("/images/background/background (7).webp");
   animation-delay: 360s;
-}
-.is-loaded .bg-slider-item:nth-child(8) {
-  background-image: url("/images/background/background (8).webp");
-  animation-delay: 420s;
 }
 .brand {
   background: transparent;
@@ -2970,9 +2966,10 @@ a {
   padding-top: 20px;
 }
 .post-block {
-  box-shadow: 0 0 4px rgba(0,0,0,0.2);
   background: rgba(255,255,255,0.46);
   border-radius: 5px;
+  border: 1px solid rgba(255,255,255,0.3);
+  box-shadow: 0 8px 32px 0 rgba(0,0,0,0.1);
   padding: 30px 30px 20px;
   margin-top: 50px !important;
 }
@@ -3315,9 +3312,10 @@ span#busuanzi_value_site_pv {
 .tag-cloud-tags > a {
   color: #222 !important;
   padding: 20px;
-  box-shadow: 0 0 4px rgba(0,0,0,0.2);
   background: rgba(255,255,255,0.46);
   border-radius: 5px;
+  border: 1px solid rgba(255,255,255,0.3);
+  box-shadow: 0 8px 32px 0 rgba(0,0,0,0.1);
   border: none;
   border-bottom: none;
 }
@@ -3979,17 +3977,17 @@ details > summary {
   0.01% {
     visibility: visible;
   }
-  0.4166666666666667% {
+  0.47619047619047616% {
     opacity: 1;
   }
-  12.5% {
+  14.285714285714286% {
     opacity: 1;
   }
-  12.916666666666666% {
+  14.761904761904763% {
     opacity: 0;
     visibility: visible;
   }
-  12.926666666666666%, 100% {
+  14.771904761904763%, 100% {
     opacity: 0;
     visibility: hidden;
   }
