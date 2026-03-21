@@ -1282,7 +1282,7 @@ pre code {
   vertical-align: middle;
 }
 .links-of-author a::before {
-  background: #52c2c6;
+  background: #dda87d;
   display: inline-block;
   margin-right: 3px;
   transform: translateY(-2px);
@@ -3370,14 +3370,48 @@ span#busuanzi_value_site_pv {
   border-radius: 5px;
   box-shadow: 0 0 4px rgba(0,0,0,0.2);
 }
-#waline .wl-tab-wrapper {
-  background: rgba(255,255,255,0.7);
-  backdrop-filter: blur(10px);
-  -webkit-backdrop-filter: blur(10px);
-  padding: 12px;
-  border-radius: 12px;
-  border: 1px solid rgba(255,255,255,0.3);
-  box-shadow: 0 8px 32px rgba(0,0,0,0.1);
+#waline .wl-emoji-popup {
+  background: rgba(255,255,255,0.72);
+  backdrop-filter: blur(12px) saturate(180%);
+  -webkit-backdrop-filter: blur(12px) saturate(180%);
+  border-radius: 16px;
+  border: 1px solid rgba(255,255,255,0.4);
+  box-shadow: 0 12px 40px rgba(0,0,0,0.08), 0 2px 4px rgba(0,0,0,0.02);
+  padding: 8px;
+  overflow: hidden;
+  transition: all 0.3s ease;
+}
+#waline .wl-emoji-popup .wl-tabs {
+  padding: 12px 8px;
+  scrollbar-color: rgba(0,0,0,0.1) transparent;
+}
+#waline .wl-emoji-popup .wl-tabs::-webkit-scrollbar {
+  width: 5px;
+}
+#waline .wl-emoji-popup .wl-tabs::-webkit-scrollbar-thumb {
+  background: rgba(0,0,0,0.1);
+  border-radius: 10px;
+}
+#waline .wl-emoji-popup .wl-tabs::-webkit-scrollbar-track {
+  background: transparent;
+}
+#waline .wl-emoji-popup button.wl-emoji {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  width: 38px;
+  height: 38px;
+  padding: 4px;
+  border-radius: 8px;
+  transition: all 0.2s cubic-bezier(0.4, 0, 0.2, 1);
+}
+#waline .wl-emoji-popup button.wl-emoji:hover {
+  background: rgba(255,255,255,0.8);
+  transform: scale(1.15);
+  box-shadow: 0 4px 10px rgba(0,0,0,0.05);
+}
+#waline .wl-emoji-popup button.wl-emoji:active {
+  transform: scale(0.95);
 }
 #waline .wl-login-info .wl-login-nick {
   text-decoration: none;
