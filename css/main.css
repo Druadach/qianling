@@ -1282,7 +1282,7 @@ pre code {
   vertical-align: middle;
 }
 .links-of-author a::before {
-  background: #38bd8b;
+  background: #ff4494;
   display: inline-block;
   margin-right: 3px;
   transform: translateY(-2px);
@@ -2942,16 +2942,6 @@ a {
   color: rgba(33,150,243,0.3);
   transition: all 1s ease;
 }
-.top-scroll-bar {
-  position: fixed;
-  height: 3px;
-  top: 0;
-  left: 0;
-  transition: width 0.7s, background 0.7s;
-  z-index: 99;
-  display: none;
-  background: #37c6c0;
-}
 .content {
   padding-top: 20px;
 }
@@ -3787,6 +3777,9 @@ details > summary {
   .btn:hover {
     background: #1a1919;
   }
+  i.fa.fa-arrow-up {
+    color: #303335;
+  }
   .post-nav,
   .post-widgets {
     border-top: 1px solid #454b4e;
@@ -3811,6 +3804,9 @@ details > summary {
   i.fa.fa-chevron-up {
     color: #303335;
     box-shadow: none;
+  }
+  .sidebar-toggle:hover .toggle-line {
+    background: #3a3e41;
   }
   .links-of-blogroll-item {
     filter: brightness(70%);
@@ -3997,12 +3993,8 @@ details > summary {
     box-shadow: 0 4px 20px rgba(33,150,243,0.5) !important;
     filter: brightness(1.1);
   }
-  #waline .wl-content {
-    color: rgba(255,255,255,0.7) !important;
-    line-height: 1.8;
-  }
-  #waline .wl-text-number {
-    color: rgba(255,255,255,0.2);
+  #waline .wl-content p {
+    color: rgba(255,255,255,0.7);
   }
 }
 @keyframes bgFade {
