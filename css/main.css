@@ -1237,7 +1237,7 @@ pre code {
   vertical-align: middle;
 }
 .links-of-author a::before {
-  background: #ffff4e;
+  background: #ff0905;
   display: inline-block;
   margin-right: 3px;
   transform: translateY(-2px);
@@ -3501,7 +3501,8 @@ span#busuanzi_value_site_pv {
 #waline a,
 #waline .wl-user img,
 #waline .wl-sort li,
-#waline .wl-action label {
+#waline .wl-action label,
+#waline .wl-emoji-popup {
   cursor: url("https://qianling-1254036047.cos.ap-chengdu.myqcloud.com/img/cursor_link.cur"), pointer;
 }
 @media (max-width: 767px) {
