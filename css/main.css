@@ -1237,7 +1237,7 @@ pre code {
   vertical-align: middle;
 }
 .links-of-author a::before {
-  background: #ff0905;
+  background: #e29fc4;
   display: inline-block;
   margin-right: 3px;
   transform: translateY(-2px);
@@ -3490,6 +3490,9 @@ span#busuanzi_value_site_pv {
 #waline .wl-emoji:hover {
   transform: scale(1.5);
 }
+#waline .wl-emoji-popup button {
+  transform: scale(0.9);
+}
 #waline .wl-power {
   display: none;
 }
@@ -3502,7 +3505,7 @@ span#busuanzi_value_site_pv {
 #waline .wl-user img,
 #waline .wl-sort li,
 #waline .wl-action label,
-#waline .wl-emoji-popup {
+#waline .wl-emoji-popup button {
   cursor: url("https://qianling-1254036047.cos.ap-chengdu.myqcloud.com/img/cursor_link.cur"), pointer;
 }
 @media (max-width: 767px) {
