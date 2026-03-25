@@ -1237,7 +1237,7 @@ pre code {
   vertical-align: middle;
 }
 .links-of-author a::before {
-  background: #544f39;
+  background: #630132;
   display: inline-block;
   margin-right: 3px;
   transform: translateY(-2px);
@@ -2780,7 +2780,7 @@ a,
 .sidebar-toggle,
 details > summary,
 span.wp-star,
-.book-mark-link .book-mark-link-fixed {
+.book-mark-link {
   cursor: url("https://qianling-1254036047.cos.ap-chengdu.myqcloud.com/img/cursor_link.cur"), pointer;
 }
 .post-meta,
@@ -3632,7 +3632,6 @@ details > summary {
   clip-path: polygon(0% 0%, 100% 0%, 100% 100%, 50% 88%, 0% 100%);
   transition: all 0.3s ease;
   z-index: 1100;
-  cursor: pointer;
 }
 .book-mark-link::before,
 .book-mark-link::after {
