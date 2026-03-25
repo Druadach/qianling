@@ -8,38 +8,51 @@ const UPDATE_JSON_URL = 'swpp/update.json';
 const UPDATE_CD = 600000;
 const isFetchSuccessful = (response) => [200, 301, 302, 307, 308].includes(response.status);
 const matchCacheRule = (url) => {
-        const host = url.host;
-        const pathname = url.pathname;
-        const href = url.href;
+  const { host, pathname, href } = url;
 
-        // 新增：遇到不蒜子域名直接放行，返回 false 阻止缓存
-        if (host.includes('busuanzi')) {
-          return false;
-        }
+  // 1. 绝对不要缓存的黑名单：各种第三方统计、评论系统API、动态接口
+  const isBlackList =
+  host.includes('busuanzi') ||
+  host.includes('baidu.com') ||
+  host.includes('google-analytics') ||
+  href.includes('/comment/') ||
+  href.includes('/message/') ||
+  href.includes('/api/');
 
-        if (href.includes('/comment/') || href.includes('/message/')) {
-          return false;
-        }
-        if (pathname.endsWith('/')) {
-          return 60 * 60 * 1000;
-        }
-        if (/\.(css|js|woff2?|ttf|eot|svg)(\?|$)/i.test(pathname)) {
-          return 30 * 24 * 60 * 60 * 1000;
-        }
-        if (/\.(png|jpe?g|gif|webp|ico|bmp)(\?|$)/i.test(pathname)) {
-          return 180 * 24 * 60 * 60 * 1000;
-        }
-        if (/\.(mp3|mp4|webm|ogg)(\?|$)/i.test(pathname)) {
-          return 7 * 24 * 60 * 60 * 1000;
-        }
-        if (host.includes('cdn.bootcdn.net') ||
-        host.includes('cdn.jsdelivr.net') ||
-        host.includes('unpkg.com') ||
-        host.includes('fonts.loli.net')) {
-          return 30 * 24 * 60 * 60 * 1000;
-        }
-        return false;
-      };
+  if (isBlackList) {
+    return false;
+  }
+
+  // 2. 页面 HTML 缓存 (本站)
+  if (pathname.endsWith('/')) {
+    return 60 * 60 * 1000; // 1小时
+  }
+
+  // 3. 定义我们允许缓存的“安全域名” (本站域名 + 且支持跨域的优质 CDN)
+  const isSafeHost =
+  host === 'qianling.pw' ||
+  host === 'localhost:4000' ||
+  host.includes('cdn.bootcdn.net') ||
+  host.includes('cdn.jsdelivr.net') ||
+  host.includes('unpkg.com') ||
+  host.includes('fonts.loli.net');
+
+  // 4. 只有在安全域名下，才对图片、JS、CSS 开启缓存
+  if (isSafeHost) {
+    if (/\.(css|js|woff2?|ttf|eot|svg)(\?|$)/i.test(pathname)) {
+      return 30 * 24 * 60 * 60 * 1000;
+    }
+    if (/\.(png|jpe?g|gif|webp|ico|bmp)(\?|$)/i.test(pathname)) {
+      return 180 * 24 * 60 * 60 * 1000;
+    }
+    if (/\.(mp3|mp4|webm|ogg)(\?|$)/i.test(pathname)) {
+      return 7 * 24 * 60 * 60 * 1000;
+    }
+  }
+
+  // 其他不属于上述规则的请求（如未知的第三方域名资源）一律不缓存，交给浏览器原本的流程
+  return false;
+};
 const normalizeUrl = (url) => {
                 if (url.endsWith('/index.html'))
                     return url.substring(0, url.length - 10);
