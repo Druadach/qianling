@@ -10,25 +10,26 @@ const isFetchSuccessful = (response) => [200, 301, 302, 307, 308].includes(respo
 const matchCacheRule = (url) => {
   const { host, pathname, href } = url;
 
-  // 1. 绝对不要缓存的黑名单：各种第三方统计、评论系统API、动态接口
+  // 1. 绝对不要缓存的黑名单：第三方统计、API接口、Waline 数据请求
   const isBlackList =
   host.includes('busuanzi') ||
   host.includes('baidu.com') ||
   host.includes('google-analytics') ||
-  href.includes('/comment/') ||
-  href.includes('/message/') ||
-  href.includes('/api/');
+  href.includes('/api/') ||
+  host === 'comment.qianling.pw'; // <-- 新增：专门不缓存 Waline 的动态数据请求
 
   if (isBlackList) {
     return false;
   }
 
   // 2. 页面 HTML 缓存 (本站)
+  // 移除黑名单后，/comment/ 这样的页面将命中这里的规则，被缓存 1 小时
   if (pathname.endsWith('/')) {
-    return 60 * 60 * 1000; // 1小时
+    return 60 * 60 * 1000;
   }
 
   // 3. 定义我们允许缓存的“安全域名” (本站域名 + 且支持跨域的优质 CDN)
+  // Waline 框架的 js 和 css 等静态资源（通常通过 cdn 加载）会命中这里，极大加快渲染速度
   const isSafeHost =
   host === 'qianling.pw' ||
   host === 'localhost:4000' ||
