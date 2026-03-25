@@ -1237,7 +1237,7 @@ pre code {
   vertical-align: middle;
 }
 .links-of-author a::before {
-  background: #96d461;
+  background: #ffe387;
   display: inline-block;
   margin-right: 3px;
   transform: translateY(-2px);
@@ -2779,7 +2779,8 @@ a,
 .sidebar-nav > li,
 .sidebar-toggle,
 details > summary,
-span.wp-star {
+span.wp-star,
+.book-mark-link {
   cursor: url("https://qianling-1254036047.cos.ap-chengdu.myqcloud.com/img/cursor_link.cur"), pointer;
 }
 .post-meta,
