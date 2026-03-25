@@ -1237,7 +1237,7 @@ pre code {
   vertical-align: middle;
 }
 .links-of-author a::before {
-  background: #1212ff;
+  background: #544f39;
   display: inline-block;
   margin-right: 3px;
   transform: translateY(-2px);
@@ -3653,7 +3653,7 @@ details > summary {
 }
 @media (prefers-color-scheme: dark) {
   body {
-    background: $dark-bg;
+    background: #121212;
   }
   img {
     filter: brightness(60%);
@@ -3663,6 +3663,18 @@ details > summary {
   }
   .post-block {
     background: #000;
+  }
+  .category-all-page .category-all-title {
+    color: #ccc;
+  }
+  .category-all-page .category-list-item {
+    color: #ccc;
+  }
+  .category-all-page .category-list-link {
+    border-bottom-color: #3a3e41;
+  }
+  .category-all-page .category-list-link:hover {
+    border-bottom-color: #575e62;
   }
   body,
   input,
