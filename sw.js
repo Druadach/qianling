@@ -1,13 +1,45 @@
-(() => {const CACHE_NAME = 'kmarBlogCache';
+(() => {const CACHE_NAME = 'qianlingCache';
 const BASE_URL = 'https://qianling.pw/';
 const VERSION_PATH = 'https://id.v3/';
-const ESCAPE = 0;
+const ESCAPE = 15;
 const INVALID_KEY = 'X-Swpp-Invalid';
 const STORAGE_TIMESTAMP = 'X-Swpp-Time';
 const UPDATE_JSON_URL = 'swpp/update.json';
 const UPDATE_CD = 600000;
 const isFetchSuccessful = (response) => [200, 301, 302, 307, 308].includes(response.status);
-const matchCacheRule = (_url) => false;
+const matchCacheRule = (url) => {
+        const host = url.host;
+        const pathname = url.pathname;
+        const href = url.href;
+
+        // 新增：遇到不蒜子域名直接放行，返回 false 阻止缓存
+        if (host.includes('busuanzi')) {
+          return false;
+        }
+
+        if (href.includes('/comment/') || href.includes('/message/')) {
+          return false;
+        }
+        if (pathname.endsWith('/')) {
+          return 60 * 60 * 1000;
+        }
+        if (/\.(css|js|woff2?|ttf|eot|svg)(\?|$)/i.test(pathname)) {
+          return 30 * 24 * 60 * 60 * 1000;
+        }
+        if (/\.(png|jpe?g|gif|webp|ico|bmp)(\?|$)/i.test(pathname)) {
+          return 180 * 24 * 60 * 60 * 1000;
+        }
+        if (/\.(mp3|mp4|webm|ogg)(\?|$)/i.test(pathname)) {
+          return 7 * 24 * 60 * 60 * 1000;
+        }
+        if (host.includes('cdn.bootcdn.net') ||
+        host.includes('cdn.jsdelivr.net') ||
+        host.includes('unpkg.com') ||
+        host.includes('fonts.loli.net')) {
+          return 30 * 24 * 60 * 60 * 1000;
+        }
+        return false;
+      };
 const normalizeUrl = (url) => {
                 if (url.endsWith('/index.html'))
                     return url.substring(0, url.length - 10);
