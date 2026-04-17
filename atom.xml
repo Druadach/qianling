@@ -6,7 +6,7 @@
   <link href="https://qianling.pw/atom.xml" rel="self"/>
   
   <link href="https://qianling.pw/"/>
-  <updated>2026-04-02T03:23:07.000Z</updated>
+  <updated>2026-04-17T08:25:06.000Z</updated>
   <id>https://qianling.pw/</id>
   
   <author>
@@ -15,6 +15,27 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>VPN 节点收集记录</title>
+    <link href="https://qianling.pw/vpn/"/>
+    <id>https://qianling.pw/vpn/</id>
+    <published>2026-04-17T08:25:06.000Z</published>
+    <updated>2026-04-17T08:25:06.000Z</updated>
+    
+    <content type="html"><![CDATA[<p><img data-src="/images/covers/310.webp" alt="" /></p><span id="more"></span><hr /><h1 id="免费节点"><a class="markdownIt-Anchor" href="#免费节点"></a> 免费节点</h1><p><span class="exturl" data-url="aHR0cHM6Ly92MnJheXNlLmNvbS9mcmVlLW5vZGU=">https://v2rayse.com/free-node<i class="fa fa-external-link-alt"></i></span></p><h1 id="付费节点"><a class="markdownIt-Anchor" href="#付费节点"></a> 付费节点</h1><h2 id="一元机场"><a class="markdownIt-Anchor" href="#一元机场"></a> 一元机场</h2><p>订阅制，性价比最高，笔者自 2022 年起一直在用，未跑路；缺点：维护不及时、网速慢。<br /><span class="exturl" data-url="aHR0cHM6Ly94bi0tNGdxNjJmNTJnZHNzLmFzaWEvIy9yZWdpc3Rlcj9jb2RlPUFZQVZaQkNx">https://一元机场.asia/#/register?code=AYAVZBCq<i class="fa fa-external-link-alt"></i></span></p><table><thead><tr><th style="text-align:left">费用</th><th style="text-align:left">流量</th><th style="text-align:left">订阅类型</th></tr></thead><tbody><tr><td style="text-align:left">¥7.00</td><td style="text-align:left">4000G / 月</td><td style="text-align:left">月付</td></tr><tr><td style="text-align:left">¥15.00</td><td style="text-align:left">2000G / 月</td><td style="text-align:left">季付</td></tr><tr><td style="text-align:left">¥12.00</td><td style="text-align:left">500G / 月</td><td style="text-align:left">年付</td></tr></tbody></table><h2 id="ikuuu-vpn"><a class="markdownIt-Anchor" href="#ikuuu-vpn"></a> IKUUU VPN</h2><p>订阅制，提供每月 50 G 免费流量，但免费节点上午不维护，常处于不可用状态。<br /><span class="exturl" data-url="aHR0cHM6Ly9pa3V1dS53aW4vYXV0aC9yZWdpc3Rlcj9jb2RlPWNKalI=">https://ikuuu.win/auth/register?code=cJjR<i class="fa fa-external-link-alt"></i></span></p><table><thead><tr><th style="text-align:left">费用</th><th style="text-align:left">流量</th><th style="text-align:left">订阅类型</th></tr></thead><tbody><tr><td style="text-align:left">免费</td><td style="text-align:left">50G / 月</td><td style="text-align:left">体验</td></tr><tr><td style="text-align:left">¥1.00</td><td style="text-align:left">30G / 天</td><td style="text-align:left">日付</td></tr><tr><td style="text-align:left">¥12.00</td><td style="text-align:left">300G / 月</td><td style="text-align:left">月付</td></tr><tr><td style="text-align:left">¥30.00</td><td style="text-align:left">300G / 月</td><td style="text-align:left">季付</td></tr><tr><td style="text-align:left">¥60.00</td><td style="text-align:left">300G / 月</td><td style="text-align:left">半年付</td></tr><tr><td style="text-align:left">¥108.00</td><td style="text-align:left">300G / 月</td><td style="text-align:left">年付</td></tr></tbody></table><h2 id="xfltd"><a class="markdownIt-Anchor" href="#xfltd"></a> XFLTD</h2><p>订阅制&amp;按量计费<br /><span class="exturl" data-url="aHR0cHM6Ly9teS54Zmx0ZC5vcmcvIy9yZWdpc3Rlcj9jb2RlPXJrNkpvU2dy">https://my.xfltd.org/#/register?code=rk6JoSgr<i class="fa fa-external-link-alt"></i></span></p><table><thead><tr><th style="text-align:left">费用</th><th style="text-align:left">流量</th><th style="text-align:left">订阅类型</th></tr></thead><tbody><tr><td style="text-align:left">¥3.00</td><td style="text-align:left">17G / 月</td><td style="text-align:left">季付</td></tr><tr><td style="text-align:left">¥7.00</td><td style="text-align:left">150G / 月</td><td style="text-align:left">包月</td></tr><tr><td style="text-align:left">¥12.00</td><td style="text-align:left">300G / 月</td><td style="text-align:left">包月</td></tr><tr><td style="text-align:left">¥20.00</td><td style="text-align:left">500G / 月</td><td style="text-align:left">包月</td></tr><tr><td style="text-align:left">¥30.00</td><td style="text-align:left">750G / 月</td><td style="text-align:left">包月</td></tr><tr><td style="text-align:left">¥77.00</td><td style="text-align:left">1024G / 两年</td><td style="text-align:left">两年</td></tr><tr><td style="text-align:left">¥10.00</td><td style="text-align:left">120G</td><td style="text-align:left">不限时</td></tr><tr><td style="text-align:left">¥20.00</td><td style="text-align:left">250G</td><td style="text-align:left">不限时</td></tr><tr><td style="text-align:left">¥30.00</td><td style="text-align:left">390G</td><td style="text-align:left">不限时</td></tr></tbody></table><h2 id="雷霆"><a class="markdownIt-Anchor" href="#雷霆"></a> 雷霆</h2><p>按量计费，注册赠送 2 GB 不限时流量。<br /><span class="exturl" data-url="aHR0cHM6Ly9oaS5sZWl0aW5nLnVrL2ludml0ZS9tUEYyR1Y3NQ==">https://hi.leiting.uk/invite/mPF2GV75<i class="fa fa-external-link-alt"></i></span></p><table><thead><tr><th style="text-align:left">费用</th><th style="text-align:left">流量</th><th style="text-align:left">订阅类型</th></tr></thead><tbody><tr><td style="text-align:left">¥38.00</td><td style="text-align:left">135 GB</td><td style="text-align:left">不限时</td></tr><tr><td style="text-align:left">¥88.00</td><td style="text-align:left">366 GB</td><td style="text-align:left">不限时</td></tr><tr><td style="text-align:left">¥268.00</td><td style="text-align:left">1218 GB</td><td style="text-align:left">不限时</td></tr><tr><td style="text-align:left">¥488.00</td><td style="text-align:left">2711 GB</td><td style="text-align:left">不限时</td></tr></tbody></table><h2 id="魔戒"><a class="markdownIt-Anchor" href="#魔戒"></a> 魔戒</h2><p>按量计费<br /><span class="exturl" data-url="aHR0cHM6Ly9tb2ppZS5raW0vcmVnaXN0ZXI/YWZmPVpwQnJ5d1lC">https://mojie.kim/register?aff=ZpBrywYB<i class="fa fa-external-link-alt"></i></span></p><table><thead><tr><th style="text-align:left">费用</th><th style="text-align:left">流量</th><th style="text-align:left">订阅类型</th></tr></thead><tbody><tr><td style="text-align:left">¥1.00</td><td style="text-align:left">1 GB</td><td style="text-align:left">体验，不限时</td></tr><tr><td style="text-align:left">¥19.90</td><td style="text-align:left">130 GB</td><td style="text-align:left">不限时</td></tr><tr><td style="text-align:left">¥52.00</td><td style="text-align:left">420 GB</td><td style="text-align:left">不限时</td></tr><tr><td style="text-align:left">¥85.00</td><td style="text-align:left">750 GB</td><td style="text-align:left">不限时</td></tr><tr><td style="text-align:left">¥179.00</td><td style="text-align:left">1660 GB</td><td style="text-align:left">不限时</td></tr><tr><td style="text-align:left">¥330.00</td><td style="text-align:left">3600 GB</td><td style="text-align:left">不限时</td></tr><tr><td style="text-align:left">¥888.00</td><td style="text-align:left">10 TB</td><td style="text-align:left">不限时</td></tr></tbody></table><h2 id="sakuracat"><a class="markdownIt-Anchor" href="#sakuracat"></a> SakuraCat</h2><p>订阅制&amp;按量计费<br /><span class="exturl" data-url="aHR0cHM6Ly8xLXNha3VyYWNhdC5jb20vcmVnaXN0ZXI/Y29kZT0xMDlEZmQybA==">https://1-sakuracat.com/register?code=109Dfd2l<i class="fa fa-external-link-alt"></i></span></p><table><thead><tr><th style="text-align:left">费用</th><th style="text-align:left">流量</th><th style="text-align:left">订阅类型</th></tr></thead><tbody><tr><td style="text-align:left">¥3.80</td><td style="text-align:left">10 GB / 月</td><td style="text-align:left">包月</td></tr><tr><td style="text-align:left">¥5.80</td><td style="text-align:left">45 GB / 月</td><td style="text-align:left">包月</td></tr><tr><td style="text-align:left">¥8.80</td><td style="text-align:left">95 GB / 月</td><td style="text-align:left">包月</td></tr><tr><td style="text-align:left">¥10.80</td><td style="text-align:left">150 GB / 月</td><td style="text-align:left">包月</td></tr><tr><td style="text-align:left">¥13.80</td><td style="text-align:left">210 GB / 月</td><td style="text-align:left">包月</td></tr><tr><td style="text-align:left">¥28.80</td><td style="text-align:left">480 GB / 月</td><td style="text-align:left">包月</td></tr><tr><td style="text-align:left">¥9.80</td><td style="text-align:left">20 GB</td><td style="text-align:left">不限时</td></tr><tr><td style="text-align:left">¥19.80</td><td style="text-align:left">100 GB</td><td style="text-align:left">不限时</td></tr><tr><td style="text-align:left">¥38.80</td><td style="text-align:left">260 GB</td><td style="text-align:left">不限时</td></tr></tbody></table>]]></content>
+    
+    
+    <summary type="html">&lt;p&gt;&lt;img data-src=&quot;/images/covers/310.webp&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;</summary>
+    
+    
+    
+    <category term="软件技巧" scheme="https://qianling.pw/categories/%E8%BD%AF%E4%BB%B6%E6%8A%80%E5%B7%A7/"/>
+    
+    
+    <category term="软件技巧" scheme="https://qianling.pw/tags/%E8%BD%AF%E4%BB%B6%E6%8A%80%E5%B7%A7/"/>
+    
+  </entry>
   
   <entry>
     <title>Excel 个人宏文件 PERSONAL.XLSB 损坏后的宏提取方法</title>
@@ -163,9 +184,9 @@
     <category term="心理学" scheme="https://qianling.pw/categories/%E5%BF%83%E7%90%86%E5%AD%A6/"/>
     
     
-    <category term="书摘" scheme="https://qianling.pw/tags/%E4%B9%A6%E6%91%98/"/>
-    
     <category term="心理学" scheme="https://qianling.pw/tags/%E5%BF%83%E7%90%86%E5%AD%A6/"/>
+    
+    <category term="书摘" scheme="https://qianling.pw/tags/%E4%B9%A6%E6%91%98/"/>
     
   </entry>
   
@@ -232,9 +253,9 @@
     <category term="心理学" scheme="https://qianling.pw/categories/%E5%BF%83%E7%90%86%E5%AD%A6/"/>
     
     
-    <category term="书摘" scheme="https://qianling.pw/tags/%E4%B9%A6%E6%91%98/"/>
-    
     <category term="心理学" scheme="https://qianling.pw/tags/%E5%BF%83%E7%90%86%E5%AD%A6/"/>
+    
+    <category term="书摘" scheme="https://qianling.pw/tags/%E4%B9%A6%E6%91%98/"/>
     
   </entry>
   
@@ -370,9 +391,9 @@
     <category term="心理学" scheme="https://qianling.pw/categories/%E5%BF%83%E7%90%86%E5%AD%A6/"/>
     
     
-    <category term="书摘" scheme="https://qianling.pw/tags/%E4%B9%A6%E6%91%98/"/>
-    
     <category term="心理学" scheme="https://qianling.pw/tags/%E5%BF%83%E7%90%86%E5%AD%A6/"/>
+    
+    <category term="书摘" scheme="https://qianling.pw/tags/%E4%B9%A6%E6%91%98/"/>
     
   </entry>
   
@@ -414,9 +435,9 @@
     <category term="心理学" scheme="https://qianling.pw/categories/%E5%BF%83%E7%90%86%E5%AD%A6/"/>
     
     
-    <category term="书摘" scheme="https://qianling.pw/tags/%E4%B9%A6%E6%91%98/"/>
-    
     <category term="心理学" scheme="https://qianling.pw/tags/%E5%BF%83%E7%90%86%E5%AD%A6/"/>
+    
+    <category term="书摘" scheme="https://qianling.pw/tags/%E4%B9%A6%E6%91%98/"/>
     
   </entry>
   
@@ -431,29 +452,6 @@
     
     
     <summary type="html">&lt;p&gt;&lt;img data-src=&quot;/images/covers/235.webp&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;</summary>
-    
-    
-    
-    <category term="数据分析" scheme="https://qianling.pw/categories/%E6%95%B0%E6%8D%AE%E5%88%86%E6%9E%90/"/>
-    
-    
-    <category term="电商运营" scheme="https://qianling.pw/tags/%E7%94%B5%E5%95%86%E8%BF%90%E8%90%A5/"/>
-    
-    <category term="数据分析" scheme="https://qianling.pw/tags/%E6%95%B0%E6%8D%AE%E5%88%86%E6%9E%90/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>解决Excel保存CSV时长数字丢失精度的问题</title>
-    <link href="https://qianling.pw/solve-excel-save-csv-long-number-loss-precision-issue/"/>
-    <id>https://qianling.pw/solve-excel-save-csv-long-number-loss-precision-issue/</id>
-    <published>2024-08-01T09:12:02.000Z</published>
-    <updated>2024-08-02T03:12:05.000Z</updated>
-    
-    <content type="html"><![CDATA[<p><img data-src="/images/covers/291.webp" alt="" /></p><span id="more"></span><hr /><h1 id="1-问题"><a class="markdownIt-Anchor" href="#1-问题"></a> 1. 问题</h1><p>使用 Excel 保存 CSV 文件时，长度大于 11 位的数字会被强制以科学计数法形式储存，导致数据丢失精度，例如 Unix 时间戳<code>1532793600000</code>变为<code>1.53279E+12</code>，导致时间由<code>2018-07-29 00:00:00</code>变为<code>2018-07-28 23:00:00</code>。<br /><img data-src="/images/posts/solve-excel-save-csv-long-number-loss-precision-issue/solve-excel-save-csv-long-number-loss-precision-issue-1.webp" alt="" /></p><h1 id="2-解决方法"><a class="markdownIt-Anchor" href="#2-解决方法"></a> 2. 解决方法</h1><p>此问题为 Excel 软件设计缺陷，将单元格格式改为文本亦无法解决，只能将数据内容本身改为文本格式来避免转换，如在前缀或后缀处增加占位符，下面是笔者编写的通过添加制表符尾缀实现此功能的程序。</p><h1 id="3-长数字转文本宏"><a class="markdownIt-Anchor" href="#3-长数字转文本宏"></a> 3. 长数字转文本宏</h1><h2 id="31-使用"><a class="markdownIt-Anchor" href="#31-使用"></a> 3.1 使用</h2><p>在 Excel 待处理 csv 文件内按下 Alt+F11 打开「Microsoft Visual Basic for Applications」，在左侧工程窗口空白处按下鼠标右键，选择「插入(N)」-「模块(M)」，随后在编辑区域内粘贴代码，按下 F5 运行即可给所有长度大于 11 位的列的数字末尾添加制表符。</p><p>使用数据时如何移除制表符：</p><ol><li>如果应用于数据库，在导入时勾选类似「去除字符串两端的空白字符（如空格、制表符、换行符等）」的选项，如 SQLite 勾选 「Trim fields」，即可去除本程序增加的制表符还原为数字；</li><li>若应用于其他场景或数据库不支持自动去除制表符，可使用文本编辑器查找制表符替换为空白。</li></ol><h2 id="32-代码"><a class="markdownIt-Anchor" href="#32-代码"></a> 3.2 代码</h2><figure class="highlight vb"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br><span class="line">7</span><br><span class="line">8</span><br><span class="line">9</span><br><span class="line">10</span><br><span class="line">11</span><br><span class="line">12</span><br><span class="line">13</span><br><span class="line">14</span><br><span class="line">15</span><br><span class="line">16</span><br><span class="line">17</span><br><span class="line">18</span><br><span class="line">19</span><br><span class="line">20</span><br><span class="line">21</span><br><span class="line">22</span><br><span class="line">23</span><br><span class="line">24</span><br><span class="line">25</span><br><span class="line">26</span><br><span class="line">27</span><br><span class="line">28</span><br><span class="line">29</span><br></pre></td><td class="code"><pre><span class="line"><span class="keyword">Sub</span> 长数字末尾加制表符转文本()</span><br><span class="line">    <span class="keyword">Dim</span> ws <span class="keyword">As</span> Worksheet</span><br><span class="line">    <span class="keyword">Dim</span> lastRow <span class="keyword">As</span> <span class="type">Long</span></span><br><span class="line">    <span class="keyword">Dim</span> lastColumn <span class="keyword">As</span> <span class="type">Long</span></span><br><span class="line">    <span class="keyword">Dim</span> cell <span class="keyword">As</span> Range</span><br><span class="line">    <span class="keyword">Dim</span> data <span class="keyword">As</span> Variant</span><br><span class="line">    <span class="keyword">Dim</span> newData <span class="keyword">As</span> Variant</span><br><span class="line">    <span class="keyword">Dim</span> i <span class="keyword">As</span> <span class="type">Long</span></span><br><span class="line">    <span class="keyword">Dim</span> j <span class="keyword">As</span> <span class="type">Long</span></span><br><span class="line"></span><br><span class="line">    <span class="keyword">Set</span> ws = ActiveSheet</span><br><span class="line">    lastRow = ws.Cells(ws.Rows.Count, <span class="number">1</span>).<span class="keyword">End</span>(xlUp).Row</span><br><span class="line">    lastColumn = ws.Cells(<span class="number">1</span>, ws.Columns.Count).<span class="keyword">End</span>(xlToLeft).Column</span><br><span class="line"></span><br><span class="line">    data = ws.Range(ws.Cells(<span class="number">1</span>, <span class="number">1</span>), ws.Cells(lastRow, lastColumn)).Value</span><br><span class="line">    <span class="keyword">ReDim</span> newData(<span class="number">1</span> <span class="keyword">To</span> UBound(data, <span class="number">1</span>), <span class="number">1</span> <span class="keyword">To</span> UBound(data, <span class="number">2</span>))</span><br><span class="line"></span><br><span class="line">    <span class="keyword">For</span> <span class="keyword">Each</span> cell <span class="keyword">In</span> ws.Range(ws.Cells(<span class="number">1</span>, <span class="number">1</span>), ws.Cells(lastRow, lastColumn))</span><br><span class="line">        i = cell.Row</span><br><span class="line">        j = cell.Column</span><br><span class="line">        <span class="keyword">If</span> IsNumeric(data(i, j)) <span class="built_in">And</span> Len(<span class="built_in">CStr</span>(data(i, j))) &gt; <span class="number">11</span> <span class="keyword">Then</span></span><br><span class="line">            newData(i, j) = data(i, j) &amp; vbTab</span><br><span class="line">        <span class="keyword">Else</span></span><br><span class="line">            newData(i, j) = data(i, j)</span><br><span class="line">        <span class="keyword">End</span> <span class="keyword">If</span></span><br><span class="line">    <span class="keyword">Next</span> cell</span><br><span class="line"></span><br><span class="line">    ws.Range(ws.Cells(<span class="number">1</span>, <span class="number">1</span>), ws.Cells(lastRow, lastColumn)).Value = newData</span><br><span class="line"><span class="keyword">End</span> <span class="keyword">Sub</span></span><br></pre></td></tr></table></figure><h2 id="33-逻辑"><a class="markdownIt-Anchor" href="#33-逻辑"></a> 3.3 逻辑</h2><ol><li><strong>初始化变量</strong>：创建变量以存储工作表、最后一行和最后一列的位置、单元格值和数据数组；</li><li><strong>获取活动工作表</strong>：设置操作对象 <code>ws</code> 为当前活动工作表；</li><li><strong>确定数据范围</strong>：计算最后一行和最后一列的位置，以确保只处理包含数据的部分；</li><li><strong>读取数据</strong>：将工作表中指定范围的数据读取到二维数组 <code>data</code> 中，以提高处理速度；</li><li><strong>创建新数据数组</strong>：定义 <code>newData</code> 数组以存放处理后的数据，维度与 <code>data</code> 相同；</li><li><strong>遍历单元格</strong>：使用两个嵌套循环遍历每个单元格，外层循环遍历行，内层循环遍历列；</li><li><strong>检查数字长度</strong>：判断每个单元格的值是否为数字且长度是否大于 11；</li><li><strong>添加制表符</strong>：如果条件满足，将该单元格的值末尾添加制表符 <code>vbTab</code>，否则保留原始值；</li><li><strong>写回数据</strong>：将修改后的 <code>newData</code> 数组写回到工作表，更新所有单元格的值。</li></ol><h2 id="34-性能问题"><a class="markdownIt-Anchor" href="#34-性能问题"></a> 3.4 性能问题</h2><p>单元格数量：243789<br />处理时长：2.19s</p><p>为避免遗漏，本程序采取逐个单元格遍历判断长度决定是否修改的方法，性能不佳。以下是改为通过读取每列最后一行的值来判断列数据长度的程序，处理时长缩短至 1.14s，性能提升近一倍，仅适用于列数据长度统一的情况。</p><figure class="highlight vb"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br><span class="line">7</span><br><span class="line">8</span><br><span class="line">9</span><br><span class="line">10</span><br><span class="line">11</span><br><span class="line">12</span><br><span class="line">13</span><br><span class="line">14</span><br><span class="line">15</span><br><span class="line">16</span><br><span class="line">17</span><br><span class="line">18</span><br><span class="line">19</span><br><span class="line">20</span><br><span class="line">21</span><br><span class="line">22</span><br><span class="line">23</span><br><span class="line">24</span><br><span class="line">25</span><br><span class="line">26</span><br></pre></td><td class="code"><pre><span class="line"><span class="keyword">Sub</span> 长数字末尾加制表符转文本()</span><br><span class="line">    <span class="keyword">Dim</span> ws <span class="keyword">As</span> Worksheet</span><br><span class="line">    <span class="keyword">Dim</span> lastRow <span class="keyword">As</span> <span class="type">Long</span></span><br><span class="line">    <span class="keyword">Dim</span> lastColumn <span class="keyword">As</span> <span class="type">Long</span></span><br><span class="line">    <span class="keyword">Dim</span> j <span class="keyword">As</span> <span class="type">Long</span></span><br><span class="line">    <span class="keyword">Dim</span> i <span class="keyword">As</span> <span class="type">Long</span></span><br><span class="line">    <span class="keyword">Dim</span> cellValue <span class="keyword">As</span> Variant</span><br><span class="line">    <span class="keyword">Dim</span> data <span class="keyword">As</span> Variant</span><br><span class="line"></span><br><span class="line">    <span class="keyword">Set</span> ws = ActiveSheet</span><br><span class="line">    lastRow = ws.Cells(ws.Rows.Count, <span class="number">1</span>).<span class="keyword">End</span>(xlUp).Row</span><br><span class="line">    lastColumn = ws.Cells(<span class="number">1</span>, ws.Columns.Count).<span class="keyword">End</span>(xlToLeft).Column</span><br><span class="line"></span><br><span class="line">    data = ws.Range(ws.Cells(<span class="number">1</span>, <span class="number">1</span>), ws.Cells(lastRow, lastColumn)).Value</span><br><span class="line"></span><br><span class="line">    <span class="keyword">For</span> j = <span class="number">1</span> <span class="keyword">To</span> lastColumn</span><br><span class="line">        cellValue = data(lastRow, j)</span><br><span class="line">        <span class="keyword">If</span> IsNumeric(cellValue) <span class="built_in">And</span> Len(<span class="built_in">CStr</span>(cellValue)) &gt; <span class="number">11</span> <span class="keyword">Then</span></span><br><span class="line">            <span class="keyword">For</span> i = <span class="number">1</span> <span class="keyword">To</span> lastRow</span><br><span class="line">                data(i, j) = data(i, j) &amp; vbTab</span><br><span class="line">            <span class="keyword">Next</span> i</span><br><span class="line">        <span class="keyword">End</span> <span class="keyword">If</span></span><br><span class="line">    <span class="keyword">Next</span> j</span><br><span class="line"></span><br><span class="line">    ws.Range(ws.Cells(<span class="number">1</span>, <span class="number">1</span>), ws.Cells(lastRow, lastColumn)).Value = data</span><br><span class="line"><span class="keyword">End</span> <span class="keyword">Sub</span></span><br></pre></td></tr></table></figure><p>参考资料：</p><ol><li><span class="exturl" data-url="aHR0cHM6Ly9zZWdtZW50ZmF1bHQuY29tL2EvMTE5MDAwMDAxMjcxMTExNA==">导出csv文件数字变科学计数法的解决方法<i class="fa fa-external-link-alt"></i></span></li></ol>]]></content>
-    
-    
-    <summary type="html">&lt;p&gt;&lt;img data-src=&quot;/images/covers/291.webp&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;</summary>
     
     
     
