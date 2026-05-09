@@ -1,0 +1,1 @@
+Function.prototype.bind=Function.prototype.bind||function(t){var o=this;return function(n){n instanceof Array||(n=[n]),o.apply(t,n)}};
