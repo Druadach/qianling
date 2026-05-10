@@ -6,7 +6,7 @@
   <link href="https://qianling.pw/atom.xml" rel="self"/>
   
   <link href="https://qianling.pw/"/>
-  <updated>2026-05-10T14:31:59.958Z</updated>
+  <updated>2026-05-10T14:32:57.982Z</updated>
   <id>https://qianling.pw/</id>
   
   <author>
@@ -21,7 +21,7 @@
     <link href="https://qianling.pw/ai/"/>
     <id>https://qianling.pw/ai/</id>
     <published>2026-05-10T14:03:05.000Z</published>
-    <updated>2026-05-10T14:31:59.958Z</updated>
+    <updated>2026-05-10T14:32:57.982Z</updated>
     
     <content type="html"><![CDATA[<p><img data-src="/images/covers/312.webp" alt="" /></p><span id="more"></span><hr /><h1 id="api"><a class="markdownIt-Anchor" href="#api"></a> API</h1><h2 id="肖恩ai"><a class="markdownIt-Anchor" href="#肖恩ai"></a> <span class="exturl" data-url="aHR0cHM6Ly9mcmVlLnN1cHhoLnhpbi9yZWdpc3Rlcj9jb2RlPUc2NzNMUw==">肖恩AI<i class="fa fa-external-link-alt"></i></span></h2><p>每日签到发放 1000-3000 额度。</p><table><thead><tr><th>模型</th><th>额度</th></tr></thead><tbody><tr><td>gemini-3-flash</td><td>200</td></tr><tr><td>gemini-2.5-pro</td><td>200</td></tr><tr><td>gemini-3.1-pro</td><td>180</td></tr><tr><td>claude-sonnet-4-5</td><td>200</td></tr><tr><td>claude-opus-4-5</td><td>200</td></tr><tr><td>deepseek-v4</td><td>80</td></tr></tbody></table><h2 id="gpt-api-free"><a class="markdownIt-Anchor" href="#gpt-api-free"></a> <span class="exturl" data-url="aHR0cHM6Ly9naXRodWIuY29tL2NoYXRhbnl3aGVyZS9HUFRfQVBJX2ZyZWU=">GPT-API-free<i class="fa fa-external-link-alt"></i></span></h2><p>最大 Token 数限制 4096，只适合短文本对话。</p><table><thead><tr><th>模型</th><th>每日可使用额度</th></tr></thead><tbody><tr><td>GPT-5</td><td>5 次</td></tr><tr><td>GPT-4o</td><td>5 次</td></tr><tr><td>GPT-4.1</td><td>5 次</td></tr><tr><td>DeepSeek-R1</td><td>30 次</td></tr><tr><td>DeepSeek-V3</td><td>30 次</td></tr><tr><td>DeepSeek-V3-2-EXP</td><td>30 次</td></tr><tr><td>GPT-4o-mini</td><td>200 次</td></tr><tr><td>GPT-3.5-turbo</td><td>200 次</td></tr><tr><td>GPT-4.1-mini</td><td>200 次</td></tr><tr><td>GPT-4.1-nano</td><td>200 次</td></tr><tr><td>GPT-5-mini</td><td>200 次</td></tr><tr><td>GPT-5-nano</td><td>200 次</td></tr></tbody></table><h1 id="在线对话网站"><a class="markdownIt-Anchor" href="#在线对话网站"></a> 在线对话网站</h1><h2 id="知豆ai"><a class="markdownIt-Anchor" href="#知豆ai"></a> <span class="exturl" data-url="aHR0cHM6Ly9wcm8uemhpZG91YWkuY29tLz9zaGFyZV9pZD04MzI=">知豆AI<i class="fa fa-external-link-alt"></i></span></h2><p>免费模型不限次数，支持：<br />claude-haiku-4-5-20251001<br />grok-4-1-fast-reasoning<br />kimi-k2.5-instruct<br />minimax-m2<br />QwQ<br />gpt-5-mini<br />gpt-4o-mini<br />gpt-oss-120b<br />llama-3.1-405b<br />glm-4-flash</p><p>每日签到获得 50 算力，可用于白嫖一次高级模型，如<code>claude-opus-4-6-latest</code>。</p><h2 id="sesame"><a class="markdownIt-Anchor" href="#sesame"></a> <span class="exturl" data-url="aHR0cHM6Ly93d3cuc2VzYW1lLmNvbQ==">Sesame<i class="fa fa-external-link-alt"></i></span>（实时语音模型）</h2><p>需 VPN 访问，英语模型，中文支持不佳，我用于练习英语口语。</p><h1 id="模型排行榜"><a class="markdownIt-Anchor" href="#模型排行榜"></a> 模型排行榜</h1><p><span class="exturl" data-url="aHR0cHM6Ly9sbWFyZW5hLmFpLw==">Arena<i class="fa fa-external-link-alt"></i></span><br /><span class="exturl" data-url="aHR0cHM6Ly9saXZlYmVuY2guYWkv">LiveBench<i class="fa fa-external-link-alt"></i></span><br /><span class="exturl" data-url="aHR0cHM6Ly9hcnRpZmljaWFsYW5hbHlzaXMuYWkv">Artificial Analysis<i class="fa fa-external-link-alt"></i></span><br /><span class="exturl" data-url="aHR0cHM6Ly93d3cuc3VwZXJjbHVlYWkuY29tLw==">SuperCLUE智能指数<i class="fa fa-external-link-alt"></i></span></p>]]></content>
     
