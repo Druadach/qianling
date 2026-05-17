@@ -6,7 +6,7 @@
   <link href="https://qianling.pw/atom.xml" rel="self"/>
   
   <link href="https://qianling.pw/"/>
-  <updated>2026-05-12T08:36:57.495Z</updated>
+  <updated>2026-05-16T03:55:04.679Z</updated>
   <id>https://qianling.pw/</id>
   
   <author>
@@ -21,9 +21,9 @@
     <link href="https://qianling.pw/ai/"/>
     <id>https://qianling.pw/ai/</id>
     <published>2026-05-10T14:03:05.000Z</published>
-    <updated>2026-05-12T08:36:57.495Z</updated>
+    <updated>2026-05-16T03:55:04.679Z</updated>
     
-    <content type="html"><![CDATA[<p><img data-src="/images/covers/312.webp" alt="" /></p><span id="more"></span><hr /><h1 id="api"><a class="markdownIt-Anchor" href="#api"></a> API</h1><h2 id="gpt-api-free"><a class="markdownIt-Anchor" href="#gpt-api-free"></a> <span class="exturl" data-url="aHR0cHM6Ly9naXRodWIuY29tL2NoYXRhbnl3aGVyZS9HUFRfQVBJX2ZyZWU=">GPT-API-free<i class="fa fa-external-link-alt"></i></span></h2><p>最大 Token 数限制 4096，只适合短文本对话，我用于翻译。</p><table><thead><tr><th>模型</th><th>每日可使用额度</th></tr></thead><tbody><tr><td>gpt-5</td><td>5 次</td></tr><tr><td>gpt-4o</td><td>5 次</td></tr><tr><td>gpt-4.1</td><td>5 次</td></tr><tr><td>deepseek-r1</td><td>30 次</td></tr><tr><td>deepseek-v3</td><td>30 次</td></tr><tr><td>deepseek-v3.2</td><td>30 次</td></tr><tr><td>gpt-4o-mini</td><td>200 次</td></tr><tr><td>gpt-3.5-turbo</td><td>200 次</td></tr><tr><td>gpt-4.1-mini</td><td>200 次</td></tr><tr><td>gpt-4.1-nano</td><td>200 次</td></tr><tr><td>gpt-5-mini</td><td>200 次</td></tr><tr><td>gpt-5-nano</td><td>200 次</td></tr></tbody></table><h2 id="modelscope-魔搭社区"><a class="markdownIt-Anchor" href="#modelscope-魔搭社区"></a> <span class="exturl" data-url="aHR0cHM6Ly9tb2RlbHNjb3BlLmNuL3JlZ2lzdGVyP2ludml0ZUNvZGU9TW9jaGlpaSZpbnZpdG9yTmFtZT1Nb2NoaWlp">ModelScope 魔搭社区<i class="fa fa-external-link-alt"></i></span></h2><p>两层限额：</p><ul><li>账户总限额 2000 次/日；</li><li>模型有独立限额，可在此查询 <span class="exturl" data-url="aHR0cHM6Ly9jaGVja2FwaS5xY2l5LnNpdGUv">ModelScope API 余量查询<i class="fa fa-external-link-alt"></i></span>。</li></ul><p>注意：<br /><code>deepseek-ai/DeepSeek-V4-Pro</code> 等高级模型在实际调用时根本达不到声明额度，经常提示 <code>insufficient_quota</code>。<br />我常常只能退而使用 <code>deepseek-ai/DeepSeek-V3.2</code> 和 <code>stepfun-ai/Step-3.5-Flash</code>。</p><table><thead><tr><th>博主常用模型</th><th>每日可使用额度</th></tr></thead><tbody><tr><td>deepseek-ai/DeepSeek-V4-Pro</td><td>500 次</td></tr><tr><td>deepseek-ai/DeepSeek-V4-Flash</td><td>500 次</td></tr><tr><td>deepseek-ai/DeepSeek-V3.2</td><td>20 次</td></tr><tr><td>ZhipuAI/GLM-5.1</td><td>500 次</td></tr><tr><td>stepfun-ai/Step-3.5-Flash</td><td>500 次</td></tr></tbody></table><h2 id="肖恩ai"><a class="markdownIt-Anchor" href="#肖恩ai"></a> <span class="exturl" data-url="aHR0cHM6Ly9mcmVlLnN1cHhoLnhpbi9yZWdpc3Rlcj9jb2RlPUc2NzNMUw==">肖恩AI<i class="fa fa-external-link-alt"></i></span></h2><p>每日签到发放 1000-3000 额度，我只用 gemini-3.1-pro、claude-opus-4-5。</p><table><thead><tr><th>模型</th><th>额度</th></tr></thead><tbody><tr><td>gemini-3-flash</td><td>200</td></tr><tr><td>gemini-2.5-pro</td><td>200</td></tr><tr><td>gemini-3.1-pro</td><td>180</td></tr><tr><td>claude-sonnet-4-5</td><td>200</td></tr><tr><td>claude-opus-4-5</td><td>200</td></tr><tr><td>deepseek-v4</td><td>80</td></tr></tbody></table><h1 id="在线对话网站"><a class="markdownIt-Anchor" href="#在线对话网站"></a> 在线对话网站</h1><h2 id="知豆ai"><a class="markdownIt-Anchor" href="#知豆ai"></a> <span class="exturl" data-url="aHR0cHM6Ly9wcm8uemhpZG91YWkuY29tLz9zaGFyZV9pZD04MzI=">知豆AI<i class="fa fa-external-link-alt"></i></span></h2><p>免费模型不限次数，支持：<br />claude-haiku-4-5-20251001<br />grok-4-1-fast-reasoning<br />kimi-k2.5-instruct<br />minimax-m2<br />QwQ<br />gpt-5-mini<br />gpt-4o-mini<br />gpt-oss-120b<br />llama-3.1-405b<br />glm-4-flash</p><p>每日签到获得 50 算力，可用于白嫖一次高级模型，如<code>claude-opus-4-6-latest</code>。</p><h2 id="sesame"><a class="markdownIt-Anchor" href="#sesame"></a> <span class="exturl" data-url="aHR0cHM6Ly93d3cuc2VzYW1lLmNvbQ==">Sesame<i class="fa fa-external-link-alt"></i></span>（实时语音模型）</h2><p>需 VPN 访问，英语模型，中文支持不佳，我用于练习英语口语。</p><h1 id="模型排行榜"><a class="markdownIt-Anchor" href="#模型排行榜"></a> 模型排行榜</h1><p>模型能力可在以下网站查询：<br /><span class="exturl" data-url="aHR0cHM6Ly9sbWFyZW5hLmFpLw==">Arena<i class="fa fa-external-link-alt"></i></span><br /><span class="exturl" data-url="aHR0cHM6Ly9saXZlYmVuY2guYWkv">LiveBench<i class="fa fa-external-link-alt"></i></span><br /><span class="exturl" data-url="aHR0cHM6Ly9hcnRpZmljaWFsYW5hbHlzaXMuYWkv">Artificial Analysis<i class="fa fa-external-link-alt"></i></span><br /><span class="exturl" data-url="aHR0cHM6Ly93d3cuc3VwZXJjbHVlYWkuY29tLw==">SuperCLUE智能指数<i class="fa fa-external-link-alt"></i></span></p>]]></content>
+    <content type="html"><![CDATA[<p><img data-src="/images/covers/312.webp" alt="" /></p><span id="more"></span><hr /><h1 id="api"><a class="markdownIt-Anchor" href="#api"></a> API</h1><h2 id="gpt-api-free"><a class="markdownIt-Anchor" href="#gpt-api-free"></a> <span class="exturl" data-url="aHR0cHM6Ly9naXRodWIuY29tL2NoYXRhbnl3aGVyZS9HUFRfQVBJX2ZyZWU=">GPT-API-free<i class="fa fa-external-link-alt"></i></span></h2><p>最大 Token 数限制 4096，只适合短文本对话，我用于翻译。</p><table><thead><tr><th>模型</th><th>每日可使用额度</th></tr></thead><tbody><tr><td>gpt-5</td><td>5 次</td></tr><tr><td>gpt-4o</td><td>5 次</td></tr><tr><td>gpt-4.1</td><td>5 次</td></tr><tr><td>deepseek-r1</td><td>30 次</td></tr><tr><td>deepseek-v3</td><td>30 次</td></tr><tr><td>deepseek-v3.2</td><td>30 次</td></tr><tr><td>gpt-4o-mini</td><td>200 次</td></tr><tr><td>gpt-3.5-turbo</td><td>200 次</td></tr><tr><td>gpt-4.1-mini</td><td>200 次</td></tr><tr><td>gpt-4.1-nano</td><td>200 次</td></tr><tr><td>gpt-5-mini</td><td>200 次</td></tr><tr><td>gpt-5-nano</td><td>200 次</td></tr></tbody></table><h2 id="modelscope-魔搭社区"><a class="markdownIt-Anchor" href="#modelscope-魔搭社区"></a> <span class="exturl" data-url="aHR0cHM6Ly9tb2RlbHNjb3BlLmNuL3JlZ2lzdGVyP2ludml0ZUNvZGU9TW9jaGlpaSZpbnZpdG9yTmFtZT1Nb2NoaWlp">ModelScope 魔搭社区<i class="fa fa-external-link-alt"></i></span></h2><p>两层限额：</p><ul><li>账户总限额 2000 次/日；</li><li>模型有独立限额，可在此查询 <span class="exturl" data-url="aHR0cHM6Ly9jaGVja2FwaS5xY2l5LnNpdGUv">ModelScope API 余量查询<i class="fa fa-external-link-alt"></i></span>。</li></ul><p>注意：<br /><code>deepseek-ai/DeepSeek-V4-Pro</code> 等高级模型在实际调用时根本达不到声明额度，经常提示 <code>insufficient_quota</code>。<br />我常常只能退而使用 <code>deepseek-ai/DeepSeek-V3.2</code> 和 <code>stepfun-ai/Step-3.5-Flash</code>。</p><table><thead><tr><th>博主常用模型</th><th>每日可使用额度</th></tr></thead><tbody><tr><td>deepseek-ai/DeepSeek-V4-Pro</td><td>500 次</td></tr><tr><td>deepseek-ai/DeepSeek-V4-Flash</td><td>500 次</td></tr><tr><td>deepseek-ai/DeepSeek-V3.2</td><td>20 次</td></tr><tr><td>ZhipuAI/GLM-5.1</td><td>500 次</td></tr><tr><td>stepfun-ai/Step-3.5-Flash</td><td>500 次</td></tr></tbody></table><h2 id="肖恩ai"><a class="markdownIt-Anchor" href="#肖恩ai"></a> <span class="exturl" data-url="aHR0cHM6Ly9mcmVlLnN1cHhoLnhpbi9yZWdpc3Rlcj9jb2RlPUc2NzNMUw==">肖恩AI<i class="fa fa-external-link-alt"></i></span></h2><p>每日签到发放 1000-3000 额度，我只用 gemini-3.1-pro、claude-opus-4-5。</p><table><thead><tr><th>模型</th><th>额度</th></tr></thead><tbody><tr><td>gemini-3-flash</td><td>200</td></tr><tr><td>gemini-2.5-pro</td><td>200</td></tr><tr><td>gemini-3.1-pro</td><td>180</td></tr><tr><td>claude-sonnet-4-5</td><td>200</td></tr><tr><td>claude-opus-4-5</td><td>200</td></tr><tr><td>deepseek-v4</td><td>80</td></tr></tbody></table><h2 id="nvidia-英伟达"><a class="markdownIt-Anchor" href="#nvidia-英伟达"></a> <span class="exturl" data-url="aHR0cHM6Ly9idWlsZC5udmlkaWEuY29tLw==">NVIDIA 英伟达<i class="fa fa-external-link-alt"></i></span></h2><p>响应极慢。</p><table><thead><tr><th>博主常用模型</th></tr></thead><tbody><tr><td>deepseek-ai/deepseek-v4-pro</td></tr><tr><td>deepseek-ai/deepseek-v4-flash</td></tr><tr><td>z-ai/glm-5.1</td></tr></tbody></table><h1 id="在线对话网站"><a class="markdownIt-Anchor" href="#在线对话网站"></a> 在线对话网站</h1><h2 id="知豆ai"><a class="markdownIt-Anchor" href="#知豆ai"></a> <span class="exturl" data-url="aHR0cHM6Ly9wcm8uemhpZG91YWkuY29tLz9zaGFyZV9pZD04MzI=">知豆AI<i class="fa fa-external-link-alt"></i></span></h2><p>免费模型不限次数，支持：<br />claude-haiku-4-5-20251001<br />grok-4-1-fast-reasoning<br />kimi-k2.5-instruct<br />minimax-m2<br />QwQ<br />gpt-5-mini<br />gpt-4o-mini<br />gpt-oss-120b<br />llama-3.1-405b<br />glm-4-flash</p><p>每日签到获得 50 算力，可用于白嫖一次高级模型，如<code>claude-opus-4-6-latest</code>。</p><h2 id="sesame"><a class="markdownIt-Anchor" href="#sesame"></a> <span class="exturl" data-url="aHR0cHM6Ly93d3cuc2VzYW1lLmNvbQ==">Sesame<i class="fa fa-external-link-alt"></i></span>（实时语音模型）</h2><p>需 VPN 访问，英语模型，中文支持不佳，我用于练习英语口语。</p><h1 id="模型排行榜"><a class="markdownIt-Anchor" href="#模型排行榜"></a> 模型排行榜</h1><p>模型能力可在以下网站查询：<br /><span class="exturl" data-url="aHR0cHM6Ly9sbWFyZW5hLmFpLw==">Arena<i class="fa fa-external-link-alt"></i></span><br /><span class="exturl" data-url="aHR0cHM6Ly9saXZlYmVuY2guYWkv">LiveBench<i class="fa fa-external-link-alt"></i></span><br /><span class="exturl" data-url="aHR0cHM6Ly9hcnRpZmljaWFsYW5hbHlzaXMuYWkv">Artificial Analysis<i class="fa fa-external-link-alt"></i></span><br /><span class="exturl" data-url="aHR0cHM6Ly93d3cuc3VwZXJjbHVlYWkuY29tLw==">SuperCLUE智能指数<i class="fa fa-external-link-alt"></i></span></p>]]></content>
     
     
     <summary type="html">&lt;p&gt;&lt;img data-src=&quot;/images/covers/312.webp&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;</summary>
@@ -226,9 +226,9 @@
     <category term="心理学" scheme="https://qianling.pw/categories/%E5%BF%83%E7%90%86%E5%AD%A6/"/>
     
     
-    <category term="书摘" scheme="https://qianling.pw/tags/%E4%B9%A6%E6%91%98/"/>
-    
     <category term="心理学" scheme="https://qianling.pw/tags/%E5%BF%83%E7%90%86%E5%AD%A6/"/>
+    
+    <category term="书摘" scheme="https://qianling.pw/tags/%E4%B9%A6%E6%91%98/"/>
     
   </entry>
   
@@ -295,9 +295,9 @@
     <category term="心理学" scheme="https://qianling.pw/categories/%E5%BF%83%E7%90%86%E5%AD%A6/"/>
     
     
-    <category term="书摘" scheme="https://qianling.pw/tags/%E4%B9%A6%E6%91%98/"/>
-    
     <category term="心理学" scheme="https://qianling.pw/tags/%E5%BF%83%E7%90%86%E5%AD%A6/"/>
+    
+    <category term="书摘" scheme="https://qianling.pw/tags/%E4%B9%A6%E6%91%98/"/>
     
   </entry>
   
@@ -433,9 +433,9 @@
     <category term="心理学" scheme="https://qianling.pw/categories/%E5%BF%83%E7%90%86%E5%AD%A6/"/>
     
     
-    <category term="书摘" scheme="https://qianling.pw/tags/%E4%B9%A6%E6%91%98/"/>
-    
     <category term="心理学" scheme="https://qianling.pw/tags/%E5%BF%83%E7%90%86%E5%AD%A6/"/>
+    
+    <category term="书摘" scheme="https://qianling.pw/tags/%E4%B9%A6%E6%91%98/"/>
     
   </entry>
   
